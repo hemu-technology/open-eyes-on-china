@@ -8,9 +8,6 @@ copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all r
 theme = "hugo-clarity"
 disqusShortname = "open-eyes-on-china"
 
-[services]
-  [services.disqus]
-    shortname = 'open-eyes-on-china'
 
 DefaultContentLanguage = "en"
 # [languages]
