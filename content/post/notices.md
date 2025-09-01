@@ -62,6 +62,7 @@ If you're using VS Code for your editing, copy the `.vscode\clarity.code-snippet
 `note` then `<tab>` then choose with up/down arrows which flavor notice you want, then `<tab>` again to provide a title, then `<tab>` to add your content!
 
 ![](../images/Note-Snippet.gif)
+![One Piece](../images/2025/v1-indonesia.jpg)
 
 To use the snippet, you need to first **enable quickSuggestions for Markdown** (one time only):
 
