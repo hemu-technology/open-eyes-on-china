@@ -623,15 +623,15 @@ By proportion, Suharto’s atrocities in East Timor may have been even worse tha
 
 Prabowo, Suharto’s second son-in-law and current Indonesian president, also planned and participated in killings of East Timorese civilians and ethnic Chinese in Indonesia during Suharto’s regime.
 
-![Pol Pot pic](../images/2025/v23-indonesia.jpg (Pol Pot pic))
+![Pol Pot pic](images/2025/v23-indonesia.jpg (Pol Pot pic))
 
 Suharto and his cronies were never fully held accountable after stepping down.
 Over 20 years later, his former son-in-law, Prabowo, was elected Indonesian president in 2024.
 
-![Suharto’s son-in-law, Prabowo, the current Indonesian president](../images/2025/v24-indonesia.jpg (Suharto’s son-in-law, Prabowo, the current Indonesian president))
+![Suharto’s son-in-law, Prabowo, the current Indonesian president](images/2025/v24-indonesia.jpg (Suharto’s son-in-law, Prabowo, the current Indonesian president))
 
 
-![Prabowo and his ex-wife Titiek Suharto were married from 1983 to 1998.](../images/2025/v25-indonesia.jpg (Prabowo and his ex-wife Titiek Suharto were married from 1983 to 1998))
+![Prabowo and his ex-wife Titiek Suharto were married from 1983 to 1998.](images/2025/v25-indonesia.jpg (Prabowo and his ex-wife Titiek Suharto were married from 1983 to 1998))
 
 Siti Hediati Hariyadi (born April 14, 1959), commonly known as Titiek Suharto, is an Indonesian entrepreneur and politician. She is the second daughter (fourth child) of Indonesia’s second president, Suharto. Currently, she serves as a member of the Indonesian House of Representatives.
 
