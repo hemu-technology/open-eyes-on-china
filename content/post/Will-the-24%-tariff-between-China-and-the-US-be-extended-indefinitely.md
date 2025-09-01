@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "hemu"
 title = "Will the 24% tariff between China and the US be extended indefinitely?"
 date = "2025-09-01"
 summary = "here’s one advantage China has that the US simply can’t match: China can control what it buys, while the US cannot. China doesn’t even need tariffs to stop buying American products—but the US doesn’t have the same leverage. Take soybeans as an example. China can simply decide not to buy them, and lowering tariffs won’t make a difference."
@@ -16,7 +16,7 @@ categories = [
 ]
 series = ["Trade War", "Tariff"]
 aliases = ["will-the-24-tariff-between-china-and-the-us-be-extended-indefinitely"]
-thumbnail = "images/tariffs.jpeg"
+thumbnail = "images/2025/tariffs-with-us.jpeg"
 +++
 
 🧑‍💼 *萤火的诗:*  
