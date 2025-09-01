@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Clarity</title>
+    <title>Posts on Open Eyes on China</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Clarity</description>
+    <description>Recent content in Posts on Open Eyes on China</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will the 24% tariff between China and the US be extended indefinitely?</title>
+      <link>http://localhost:1313/post/will-the-24-tariff-between-china-and-the-us-be-extended-indefinitely/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/will-the-24-tariff-between-china-and-the-us-be-extended-indefinitely/</guid>
+      <description>
+        
+          
+            here’s one advantage China has that the US simply can’t match: China can control what it buys, while the US cannot. China doesn’t even need tariffs to stop buying American products—but the US doesn’t have the same leverage. Take soybeans as an example. China can simply decide not to buy them, and lowering tariffs won’t make a difference.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Using Hugo page bundles</title>
       <link>http://localhost:1313/post/bundle/</link>

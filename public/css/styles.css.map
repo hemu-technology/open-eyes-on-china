@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/weihuang/vscode/open-eyes-on-china-2025-08-24",
+	"sourceRoot": "/Users/weihuang/vscode/open-eyes-on-china",
 	"sources": [
 		"themes/hugo-clarity/assets/sass/main.sass",
 		"themes/hugo-clarity/assets/sass/_variables.sass",
