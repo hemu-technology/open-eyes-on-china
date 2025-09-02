@@ -33,16 +33,21 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/#"
+  url = "https://github.com/hemu-technology"
 [[social]]
   name = "twitter"
   type = "social"
   weight = 2
-  url = "https://x.com/#"
-[[social]]
-  name = "linkedin"
-  weight = 3
-  url = "https://www.linkedin.com/#"
+  url = "https://x.com/hemuttwins"
+  [[social]]
+  name = "facebook"
+  type = "social"
+  weight = 4
+  url = "https://facebook.com"
+# [[social]]
+#   name = "linkedin"
+#   weight = 3
+#   url = "https://www.linkedin.com/#"
 [[social]]
   name = "rss"
   weight = 4

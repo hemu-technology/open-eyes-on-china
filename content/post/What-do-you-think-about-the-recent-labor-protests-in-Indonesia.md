@@ -5,10 +5,10 @@ date = "2025-09-01"
 summary = "Minimum wage increase of 10.5%, abolition of the controversial Job Creation Law, cancellation of the outsourcing model, higher tax-free thresholds, removal of taxes on severance pay and year-end bonuses, establishment of a special task force to prevent mass layoffs… The above are some of the demands from the recent labor protests in Indonesia. Do you think they are reasonable? Would they also be applicable to us? I’d like to know what everyone thinks."
 featured = true
 tags = [
-    "US",
+    "labor",
     "Indonesia",
     "protest",
-    "China"
+    "law"
 ]
 categories = [
     "Indonesia",
@@ -19,7 +19,7 @@ aliases = ["What-do-you-think-about-the-recent-labor-protests-in-Indonesia"]
 thumbnail = "images/2025/indonesia-protests.png"
 +++
 
-最低工资上调 10.5%、废掉争议劳工法《创造就业法》、取消外包模式、提高免税额度、取消遣散费与年终奖税收、设专门小组阻止裁员潮…… 以上是摘抄的最近印尼劳工抗议的部分条款，觉得很合理吗，对我们也适用。想知道大家的看法
+<small>最低工资上调 10.5%、废掉争议劳工法《创造就业法》、取消外包模式、提高免税额度、取消遣散费与年终奖税收、设专门小组阻止裁员潮…… 以上是摘抄的最近印尼劳工抗议的部分条款，觉得很合理吗，对我们也适用。想知道大家的看法</small>
 <div style="color: #0077b8;">
 Minimum wage increase of 10.5%, abolition of the controversial Job Creation Law, cancellation of the outsourcing model, higher tax-free thresholds, removal of taxes on severance pay and year-end bonuses, establishment of a special task force to prevent mass layoffs…
 
