@@ -127,10 +127,8 @@ blogDir = "post"
 
 
 # Maximum number of recent posts. (default: 8)
-# numberOfRecentPosts = 8
 
 # Maximum number of featured posts. (default: 8)
-# numberOfFeaturedPosts = 8
 
 # Pin featured posts in list.
 # pinFeatured = true
@@ -152,8 +150,8 @@ blogDir = "post"
 # showRelatedInSidebar = false
 
 # website author
-[author]
-name = "hemu"
+# [author]
+# name = "hemu"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
