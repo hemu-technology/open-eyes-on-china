@@ -1,25 +1,45 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "🌏 About Us "
+description = "Stay curious, stay open-minded, and let’s explore together"
+date = "2025-09-01"
+aliases = ["about-us", "China", "Open"]
+author = "hemu"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+**Welcome to "Open Eyes on China" 👀🇨🇳**  
 
-Hugo makes use of a variety of open source projects including:
+Our mission is simple yet meaningful:  
+1. **Breaking Stereotypes 💡** – We translate popular news and trending online discussions from China into English, offering the world a window into the real voices and opinions of Chinese people.  
+2. **Cultural Exchange 🌉** – By sharing both Chinese and global perspectives, we aim to promote understanding, connection, and inclusiveness across cultures.  
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+---
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Why We Exist ❓  
+Too often, people outside China only see the country through filtered headlines or political narratives. But behind the news, there are millions of everyday voices—sometimes humorous 😂, sometimes critical 🤔, sometimes emotional ❤️—that rarely reach a global audience. We believe these voices deserve to be heard, because they reveal a more authentic, diverse, and human side of China.  
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+---
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## What We Do 🛠️  
+- Translate **real comments 💬, discussions 🗣️, and opinions 💭** from Chinese netizens into English.  
+- Provide **context 📚 and explanations 🧭** when cultural references may be difficult to understand.  
+- Share **stories 📖 and perspectives 🌍** that highlight common values, differences, and connections between China and the world.  
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+---
+
+## Our Vision 🔭  
+We hope to build a bridge 🌉 where curiosity meets understanding. By reading unfiltered voices, international audiences can see that people—no matter where they are from—share similar hopes ✨, frustrations 😅, humor 😆, and dreams 🌙.  
+
+---
+
+## Our Values 💎  
+- **Authenticity ✅** – We stay true to the original voices and context of Chinese netizens.  
+- **Respect 🙏** – Every culture has its uniqueness; we approach differences with an open and respectful mindset.  
+- **Clarity 🔍** – We make complex or culturally-specific ideas easier to understand for a global audience.  
+- **Connection 🤝** – We believe stories and conversations can bring people closer together, across borders.  
+- **Openness 🌈** – Our platform is built on curiosity, inclusiveness, and the belief that dialogue fosters growth.  
+
+---
+
+✨ Stay curious 🌟, stay open-minded 💭, and let’s explore together 🚀.  
+
+
