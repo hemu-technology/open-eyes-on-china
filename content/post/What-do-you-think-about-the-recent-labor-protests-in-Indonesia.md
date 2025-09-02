@@ -397,7 +397,7 @@ Apparently, the navy’s pay is 10 times higher than outsourced pirates, and the
 
 Meanwhile, German media caught some Devil Fruit users in the protest crowd. The fruit in the photo is a Blur-Blur Fruit, so no matter how they shot it, the picture comes out blurry. =￣ω￣=
 
-![](images/2025/v3-indonesia.jpg (One Piece))
+![](images/2025/v3-indonesia.jpg)
 
 This one’s a Flag-Flag Fruit user — as long as they raise the flag, not even the navy dares to step forward, no matter how many there are. =￣ω￣=
 
@@ -405,7 +405,7 @@ This one’s a Flag-Flag Fruit user — as long as they raise the flag, not even
 
 Then the navy tried to cut off the network, but they ran into a Buddha-Jumps-Over-the-Wall Fruit user. 😏
 
-![](images/2025/v5-indonesia.jpg (One Piece))
+![](images/2025/v5-indonesia.jpg)
 </div>
 
 
