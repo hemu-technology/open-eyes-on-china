@@ -1,2 +1,16 @@
-# Ignore Hugo output directory
+# Hugo output and cache
 public/
+resources/
+hugo_stats.json
+.hugo_build.lock
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+
+# Node/npm (if used)
+node_modules/
+package-lock.json
+
+# VS Code settings (optional)
+.vscode/
