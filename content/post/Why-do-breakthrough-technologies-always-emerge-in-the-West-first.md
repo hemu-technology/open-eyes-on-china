@@ -2,21 +2,22 @@
 author = "hemu"
 title = "Why do breakthrough technologies always emerge in the West first?"
 date = "2025-09-02"
-summary = "here’s one advantage China has that the US simply can’t match: China can control what it buys, while the US cannot. China doesn’t even need tariffs to stop buying American products—but the US doesn’t have the same leverage. Take soybeans as an example. China can simply decide not to buy them, and lowering tariffs won’t make a difference."
+summary = "Recent examples include ChatGPT, and further back, the iPhone and mobile internet technology. Even Huawei’s breakthrough in 5G did not originate in mainland China. Why do such revolutionary technologies always seem to emerge in the West first?"
 featured = true
 tags = [
-    "US",
-    "America",
-    "Tariff",
-    "China"
+    "chatgpt",
+    "technology",
+    "Newton",
+    "5G"
 ]
 categories = [
-    "America",
-    "Economics",
+    "western",
+    "Introspection",
+    "Criticize"
 ]
-series = ["Trade War", "Tariff"]
-aliases = ["Why-do-breakthrough-technologies-alwaysemerge-in-the-West-first"]
-thumbnail = "images/2025/tariffs-with-us.jpeg"
+series = ["Introspection", "Criticize"]
+aliases = ["Why-do-breakthrough-technologies-always-emerge-in-the-West-first"]
+thumbnail = "images/2025/industry-revolution.jpeg"
 +++
 
 <small>近的如 chatgpt，远的如 iPhone 、移动互联网技术，就连华为的5G技术突破也并非发生在中国大陆本土。这些革命性技术为什么总是最先发生在美西方呢？</small>
