@@ -20,5 +20,10 @@
     console.log('✅ The page has been unlocked. Text can now be freely selected and copied.');
 })();
 ```
+## analytics
+https://analytics.google.com/
+https://www.bing.com/webmasters
 
 
+## domain(DNS)
+https://dcc.godaddy.com/
