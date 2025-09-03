@@ -1,11 +1,9 @@
 {{ if or .Params.math .Site.Params.math }}
 {{ partial "math.html" . }}
 {{ end }}
-<!-- SEO Meta Tags -->
+
+<!-- SEO Meta Tags: description and keywords only (Open Graph and Twitter tags handled by opengraph.html) -->
 <meta name="description" content="{{ .Site.Params.description }}">
 <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
-<meta property="og:title" content="{{ .Title | default .Site.Title }}">
-<meta property="og:description" content="{{ .Site.Params.description }}">
-<meta property="og:image" content="{{ .Site.Params.fallBackOgImage | absURL }}">
 
 <script type="text/javascript" data-cmp-ab="1" src="https://cdn.consentmanager.net/delivery/autoblocking/b67838e792fd4.js" data-cmp-host="b.delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="16"></script>
