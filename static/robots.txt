@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://openeyesonchina.com/sitemap.xml
