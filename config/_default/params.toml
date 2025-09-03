@@ -12,10 +12,10 @@ keywords = ["Open", "thought", "America", "insight", "China", "share", "diversit
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
 # Google analytics Id
-ga_analytics = ""
+ga_analytics = "G-RVHJX4LC3Q"
 
 # Google tag manager
-google_tag_manager_id = "G-RVHJX4LC3Q"
+google_tag_manager_id = ""
 
 # Baidu analytics Id
 # baidu_analytics = "XXXXXXXX"
@@ -49,7 +49,7 @@ fontsDir = "fonts/" # without a leading forward slash
 
 # Social media sharing image: Will be used on Twitter, Facebook, LinkedIn, etc.
 # when a given page has no other image present.
-fallBackOgImage = "images/thumbnail.png"
+fallBackOgImage = "logos/logo.png"
 
 # Logo image
 logo = "logos/logo.png"
