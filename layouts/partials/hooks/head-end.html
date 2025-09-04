@@ -2,6 +2,8 @@
 {{ partial "math.html" . }}
 {{ end }}
 
+{{ partial "adsense-head.html" . }}
+
 <!-- SEO Meta Tags: description and keywords only (Open Graph and Twitter tags handled by opengraph.html) -->
 <meta name="description" content="{{ .Site.Params.description }}">
 <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
