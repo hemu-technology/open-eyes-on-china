@@ -19,7 +19,7 @@ categories = [
 ]
 series = ["Comment"]
 aliases = ["Is the United States a just nation?"]
-thumbnail = "images/2025/industry-revolution.jpeg"
+thumbnail = "images/2025/us-a-just-nation/america_statue.jpg"
 +++
 
 ## ⬇️ Here are the comments
