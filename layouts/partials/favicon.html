@@ -1,0 +1,8 @@
+{{- $iconsDir := default "icons/" .Site.Params.iconsDir }}
+{{- $version := now.Unix }}
+{{- $appleTouch := printf "%s?v=%d" (absURL (printf "%s%s" $iconsDir "apple-touch-icon.png")) $version }}
+{{- $favicon := printf "%s?v=%d" (absURL (printf "%s%s" $iconsDir "favicon-32x32.png")) $version }}
+{{- $manifest := printf "%s?v=%d" (absURL (printf "%s%s" $iconsDir "site.webmanifest")) $version }}
+<link rel="apple-touch-icon" sizes="180x180" href="{{ $appleTouch }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ $favicon }}">
+<link rel="manifest" href="{{ $manifest }}">
