@@ -3,17 +3,12 @@
 baseurl = "https://openeyesonchina.com/" # Include trailing slash
 title = "Open Eyes on China"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
 copyright = "Copyright © 2021–2025, Open Eyes on China. All Rights Reserved."
-# canonifyURLs = true
-# relativeURLs = false
-canonifyurls = true
+canonifyURLs = true
+relativeURLs = false
+# canonifyurls = true
 
 theme = "hugo-clarity"
-# disqusShortname = "open-eyes-on-china"
-
-# Enable Disqus comments (required for theme integration)
-[services]
-	[services.disqus]
-		shortname = "open-eyes-on-china"
+disqusShortname = "open-eyes-on-china"
 
 
 DefaultContentLanguage = "en"
