@@ -19,7 +19,7 @@ categories = [
     "Russia"
 ]
 series = ["Comment"]
-aliases = ["What would the global order look like if Ukraine were to fail?"]
+# aliases = ["What would the global order look like if Ukraine were to fail?"]
 thumbnail = "images/2025/Ukraine.jpg"
 +++
 
