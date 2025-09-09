@@ -17,11 +17,12 @@ categories = [
     "Japan"
 ]
 series = ["Comment"]
-aliases = ["The U.S. Commerce Secretary says they have ways to stop relying on China"]
+# aliases = ["The U.S. Commerce Secretary says they have ways to stop relying on China"]
 thumbnail = "images/2025/The-U.S-Commerce-Secretary.jpeg"
 +++
 
 {{< youtube Vk8xZ7Px2sQ >}}
+The U.S. Commerce Secretary says they have ways to stop relying on China. But in reality, Japan handed over 55 billion to the U.S., and while we build factories at home, Japan is basically footing the bill. Getting both the supply chain and the funding—couldn’t be more satisfying.
 
 ## ⬇️ Here are the comments
 

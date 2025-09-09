@@ -15,7 +15,7 @@ categories = [
     "Economics",
 ]
 series = ["Trade War", "Tariff"]
-aliases = ["will-the-24-tariff-between-china-and-the-us-be-extended-indefinitely"]
+# aliases = ["will-the-24-tariff-between-china-and-the-us-be-extended-indefinitely"]
 thumbnail = "images/2025/tariffs-with-us.jpeg"
 +++
 
