@@ -14,7 +14,7 @@ tags = [
 categories = [
     "China",
     "Israel",
-    "Ukrainian"
+    "United Nations"
 ]
 series = ["Comment"]
 thumbnail = "images/2025/refugees.jpg"
