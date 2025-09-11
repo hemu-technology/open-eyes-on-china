@@ -1,8 +1,8 @@
 {{- $s := T "share_on" }}
 <div class="post_share">
   {{ $s }}:
-  <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}&tw_p=tweetbutton" class="twitter" title="{{ $s }} Twitter" target="_blank" rel="nofollow">
-    {{ partial "sprite" (dict "icon" "twitter") }}
+  <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}&tw_p=tweetbutton" class="x" title="{{ $s }} X" target="_blank" rel="nofollow" style="width:33.59px; height:26.4px; display:inline-flex; align-items:center; justify-content:center;">
+    {{ partial "x-icon" . }}
   </a>
   <a href="https://www.facebook.com/sharer.php?u={{ .Permalink }}&t={{ .Title }}" class="facebook" title="{{ $s }} Facebook" target="_blank" rel="nofollow">
     {{ partial "sprite" (dict "icon" "facebook") }}
@@ -10,7 +10,10 @@
   <a href="https://www.reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}" class="reddit" title="{{ $s }} Reddit" target="_blank" rel="nofollow">
     {{ partial "reddit-icon" }}
   </a>
-  <a href="{{ .Permalink }}" title="Copy Link" class="link link_yank">
-    {{ partial "sprite" (dict "icon" "copy") }}
+  <a href="https://wa.me/?text={{ .Title | urlquery }}%20{{ .Permalink | urlquery }}" class="whatsapp" title="{{ $s }} WhatsApp" target="_blank" rel="nofollow" style="width:33.59px; height:26.4px; display:inline-flex; align-items:center; justify-content:center;">
+    {{ partial "whatsapp-icon.html" . }}
+  </a>
+  <a href="https://t.me/share/url?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}" class="telegram" title="{{ $s }} Telegram" target="_blank" rel="nofollow" style="width:33.59px; height:26.4px; display:inline-flex; align-items:center; justify-content:center;">
+    {{ partial "telegram-icon.html" . }}
   </a>
 </div>
