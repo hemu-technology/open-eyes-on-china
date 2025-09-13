@@ -14,7 +14,7 @@ tags = [
 categories = [
     "Indian",
     "food",
-    "news"
+    "street"
 ]
 series = ["comments"]
 thumbnail = "images/2025/india-food.jpg"
