@@ -16,7 +16,7 @@ categories = [
     "Israel",
     "United Nations"
 ]
-series = ["Comment"]
+series = ["news"]
 thumbnail = "images/2025/refugees.jpg"
 +++
 

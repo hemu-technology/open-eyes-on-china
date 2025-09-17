@@ -16,7 +16,7 @@ categories = [
     "food",
     "street"
 ]
-series = ["comments"]
+series = ["news"]
 thumbnail = "images/2025/india-food.jpg"
 +++
 

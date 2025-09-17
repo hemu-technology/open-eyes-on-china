@@ -17,7 +17,7 @@ categories = [
     "Europe",
     "Russia"
 ]
-series = ["Comment"]
+series = ["comments"]
 # aliases = ["Why do Europeans, deep down, generally look down on Americans and Russians?"]
 thumbnail = "images/2025/europe.jpeg"
 +++
