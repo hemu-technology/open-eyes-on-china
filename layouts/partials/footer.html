@@ -6,6 +6,13 @@
 {{- $iconsDir := default "icons/" .Site.Params.iconsDir }}
 {{- $defaultFooterLogo := printf "%s%s" $iconsDir "apple-touch-icon.png"}}
 <footer class="footer">
+  <p style="margin-top:1em;">
+    <a href="/privacy-policy/" style="color:#0077b8; font-weight:600; letter-spacing:0.5px;">Privacy Policy</a>
+    &nbsp;|&nbsp;
+    <a href="/about/" style="color:#0077b8; font-weight:600; letter-spacing:0.5px;">About Us</a>
+    &nbsp;|&nbsp;
+    <a href="/contact/" style="color:#0077b8; font-weight:600; letter-spacing:0.5px;">Contact</a>
+  </p>
   <div class="footer_inner wrap pale">
     <img src='{{ absURL (default $defaultFooterLogo $s.footerLogo) }}' class="icon icon_2 transparent" alt="{{ $c }}">
   <p>{{ $c }}</p>
