@@ -27,3 +27,7 @@ https://www.bing.com/webmasters
 
 ## domain(DNS)
 https://dcc.godaddy.com/
+
+## advertise
+> Interesting discussion! I’ve seen many Chinese netizens sharing their views on this TikTok issue as well. If you’re curious about what people in China are saying, I collected some of their comments here: 
+👉 https://openeyesonchina.com/post/u.s.-has-framework-for-deal-with-china-over-tiktok/
