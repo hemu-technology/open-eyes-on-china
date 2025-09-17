@@ -15,7 +15,7 @@ categories = [
     "Introspection",
     "Criticize"
 ]
-series = ["Introspection", "Criticize"]
+series = ["comments"]
 # aliases = ["Why-do-breakthrough-technologies-always-emerge-in-the-West-first"]
 thumbnail = "images/2025/industry-revolution.jpeg"
 +++

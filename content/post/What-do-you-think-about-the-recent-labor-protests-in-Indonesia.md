@@ -14,7 +14,7 @@ categories = [
     "Indonesia",
     "Economics",
 ]
-series = ["protests", "labor"]
+series = ["news"]
 # aliases = ["What-do-you-think-about-the-recent-labor-protests-in-Indonesia"]
 thumbnail = "images/2025/indonesia-protests.png"
 +++

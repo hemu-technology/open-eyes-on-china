@@ -1080,6 +1080,9 @@ Click to expand Chinese comment</span>
 看下委内瑞拉再说这话吧。
 </small>
 </details>
+<div style="color: #0077b8;">
+Let's take a look at Venezuela before saying this.
+</div>
 </div>
 
 

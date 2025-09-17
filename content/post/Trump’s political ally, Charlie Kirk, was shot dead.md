@@ -5,7 +5,7 @@ date = "2025-09-11"
 summary = """
 Accepting refugees should not be promoted as the main solution. The focus should be on addressing the root causes that create refugees. Many Ukrainian refugees exist because of war; ceasefires and negotiations are the real solution. The continuous flow of Gaza refugees is due to Israel’s massacres. The international community should unite and hold Israel accountable. Do you agree?
 """
-featured = true
+featured = false
 tags = [
     "politics",
     "Trump",
