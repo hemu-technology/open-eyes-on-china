@@ -4,5 +4,6 @@ Disallow: /categories/america/index.xml
 Disallow: /categories/introspection/index.xml
 Disallow: /tags/barbarians/index.xml
 Disallow: /post/placeholder-text/
+Disallow: /tags/text/
 Disallow: /categories/themes/
 Sitemap: https://openeyesonchina.com/sitemap.xml
