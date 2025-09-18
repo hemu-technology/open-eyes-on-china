@@ -1,6 +1,6 @@
 +++
 author = "hemu"
-title = "France Through Chinese Eyes"
+title = "France Through Chinese Eyes – Part 1"
 date = "2025-09-18"
 summary = """
 France’s economy isn’t on Germany’s level, its global influence feels weaker than the UK’s (just my take), and compared to the US it’s not even close. People like to poke fun at France a lot, but it still acts with this “big power” mindset, even daring to push back against the US. To me, it feels like its ambition is bigger than its actual strength.
@@ -20,20 +20,21 @@ categories = [
     "US"
 ]
 series = ["comments"]
-aliases = ["How Do Chinese People See France?", "Chinese Perspectives on France", "What Do Chinese People Think of France?", "How China Views France"]
+aliases = ["France Through Chinese Eyes", 
+"How Do Chinese People See France? - Part 1", 
+"Chinese Perspectives on France - Part 1", 
+"What Do Chinese People Think of France? - Part 1", 
+"How China Views France - Part 1"
+]
 thumbnail = "images/2025/eiffel-tower.jpg"
 +++
 
 <div class="comment-block quizzer">
-  <strong style="color: #0077b8;">quizzer:</strong><br>
-  France’s economy isn’t on Germany’s level, its global influence feels weaker than the UK’s (just my take), and compared to the US it’s not even close. People like to poke fun at France a lot, but it still acts with this “big power” mindset, even daring to push back against the US. To me, it feels like its ambition is bigger than its actual strength.
+  <strong style="color: #0077b8;">Overview:</strong><br>
+  Let’s take a look at how Chinese netizens view France. The majority of Chinese people hold a positive attitude toward France, and many have a strong sense of goodwill toward the country.
+  Below are comments I’ve translated from the Chinese equivalent of Quora. None of the comments have been selectively removed based on personal preference, and I’ve tried to keep the translations as fair and unbiased as possible.
+  You’re also welcome to share your own thoughts on China in the comments. If you do, I can translate them into Chinese and post them on Chinese forums so that more people there can see how you view China.
 </div>
-
-
-> Let’s take a look at how Chinese netizens view France. The majority of Chinese people hold a positive attitude toward France, and many have a strong sense of goodwill toward the country.
-Below are comments I’ve translated from the Chinese equivalent of Quora. None of the comments have been selectively removed based on personal preference, and I’ve tried to keep the translations as fair and unbiased as possible.
-You’re also welcome to share your own thoughts on China in the comments. If you do, I can translate them into Chinese and post them on Chinese forums so that more people there can see how you view China.
-
 
 <div class="comment-block">
 🧑‍💼 *尼莫:*
