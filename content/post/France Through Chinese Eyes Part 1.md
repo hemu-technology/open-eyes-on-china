@@ -29,11 +29,21 @@ aliases = ["France Through Chinese Eyes",
 thumbnail = "images/2025/eiffel-tower.jpg"
 +++
 
+<div class="series-links">
+  <strong class="series-title">Series:</strong>
+  <ul class="series-list">
+    <li><a href="/post/france-through-chinese-eyes-part-1/" target="_blank" rel="noopener noreferrer">France Through Chinese Eyes Part 1</a></li>
+    <li><a href="/post/france-through-chinese-eyes-part-2/" target="_blank" rel="noopener noreferrer">France Through Chinese Eyes Part 2</a></li>
+  </ul>
+</div>
+
 <div class="comment-block quizzer">
   <strong style="color: #0077b8;">Overview:</strong><br>
-  Let’s take a look at how Chinese netizens view France. The majority of Chinese people hold a positive attitude toward France, and many have a strong sense of goodwill toward the country.
-  Below are comments I’ve translated from the Chinese equivalent of Quora. None of the comments have been selectively removed based on personal preference, and I’ve tried to keep the translations as fair and unbiased as possible.
-  You’re also welcome to share your own thoughts on China in the comments. If you do, I can translate them into Chinese and post them on Chinese forums so that more people there can see how you view China.
+Let’s take a look at how Chinese netizens view France. Overall, many Chinese people hold a positive attitude toward France, and quite a few express genuine goodwill toward the country.
+
+Since the volume of comments is quite large, I’ve decided to publish them in several parts. Below are translations of posts taken from the Chinese equivalent of Quora. I haven’t filtered them based on personal preference, and I’ve tried to keep the translations as fair and unbiased as possible.
+
+You’re also welcome to share your own thoughts on China in the comments. If you do, I can translate them into Chinese and post them on Chinese forums so that more people there can see how you view China.
 </div>
 
 <div class="comment-block">
