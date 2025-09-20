@@ -43,7 +43,7 @@ Overall, the article provides insight into a particular set of online perception
 
 In short, from my perspective, the piece is as much a reflection of the commenters’ worldview as it is a discussion of actual events.
 
-➡️ **Foreign friends are also welcome to leave your own opinions, so that more Chinese readers can see different perspectives, alternative viewpoints, and diverse political stances.**
+➡️ **Welcome to leave your own opinions, so that more Chinese readers can see different perspectives, alternative viewpoints, and diverse political stances.**
 </div>
 
 <div class="comment-block">
