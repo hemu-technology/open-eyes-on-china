@@ -1,7 +1,7 @@
 +++
 author = "hemu"
 title = "Russia Through Chinese Eyes – Part 1"
-date = "2025-09-20"
+date = "2025-09-21"
 summary = """
 This post shares translated comments from Chinese netizens about Russia, revealing a generally critical perspective. Many view Russia as stuck in autocratic traditions and reliant on military force, seeing it as a barrier to global progress and democracy. Vladimir Putin is both criticized and oddly admired, with his leadership seen as contributing to Russia’s stagnation. Some compare Russia unfavorably to the US, noting its confrontational approach. Despite the skepticism, there’s recognition of Russia’s historical significance and some empathy for its people. The post encourages cross-cultural dialogue and highlights the complexity of Chinese attitudes toward Russia.
 """
