@@ -36,7 +36,12 @@
       {{- $showRelatedInArticle = false }}
     {{- end }}
     {{- if (and ($showRelatedInArticle) (isset $p "series")) }}
-      {{- partial "related" . }}
+      {{- partial "series-posts" . }}
+    {{- end }}
+
+    {{/* Generic related posts (tags/categories) - skip if explicitly disabled or if no candidates. */}}
+    {{- if and (not .Params.disableRelated) (in .Site.Params.mainSections .Section) }}
+      {{ partial "related-posts" . }}
     {{- end }}
 
     {{- $showComments := true }}

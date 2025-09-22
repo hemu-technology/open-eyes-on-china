@@ -28,3 +28,20 @@ home = ["HTML", "RSS", "JSON"]
 
 [pagination]
 pagerSize = 10
+
+[related]
+threshold = 0
+includeNewer = true
+toLower = true
+[[related.indices]]
+name = "tags"
+weight = 80
+[[related.indices]]
+name = "categories"
+weight = 40
+[[related.indices]]
+name = "title"
+weight = 20
+[[related.indices]]
+name = "date"
+weight = 10
