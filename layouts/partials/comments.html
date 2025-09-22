@@ -1,0 +1,13 @@
+<div class="post_comments" style="margin-top: 2rem;">
+  {{/* Site-level override of theme comments partial. Safe to customize here. */}}
+  {{ if .Site.Config.Services.Disqus.Shortname }}
+    {{ template "_internal/disqus.html" . }}
+  {{ end }}
+  {{ if .Site.Params.utterances }}
+    {{ partial "utterances.html" . }}
+  {{ end }}
+  {{ if .Site.Params.giscus }}
+    {{ partial "giscus.html" . }}
+  {{ end }}
+  {{/* Custom comment system placeholder. Add HTML/JS embed below if needed. */}}
+</div>
