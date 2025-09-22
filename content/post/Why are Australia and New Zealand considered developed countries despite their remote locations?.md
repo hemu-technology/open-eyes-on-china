@@ -17,7 +17,7 @@ tags = [
 categories = [
     "Culture & Society"
 ]
-series = ["comments"]
+# series = ["comments"]
 thumbnail = "images/2025/Australia.jpg"
 +++
 

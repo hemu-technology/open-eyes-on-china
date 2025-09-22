@@ -17,7 +17,7 @@ categories = [
     "Geopolitics",
     "International Relations"
 ]
-series = ["comments"]
+# series = ["comments"]
 # aliases = ["Is the United States a just nation?"]
 thumbnail = "images/2025/us-a-just-nation/america_statue.jpg"
 +++

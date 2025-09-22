@@ -13,7 +13,7 @@ tags = [
 categories = [
     "Culture & Society"
 ]
-series = ["news"]
+# series = ["news"]
 # aliases = ["What-do-you-think-about-the-recent-labor-protests-in-Indonesia"]
 thumbnail = "images/2025/indonesia-protests.png"
 +++

@@ -16,7 +16,7 @@ categories = [
     "Geopolitics",
     "History"
 ]
-series = ["comments"]
+series = ["Russia Through Chinese Eyes"]
 aliases = ["Russia Through Chinese Eyes", 
 "How Do Chinese People See Russia? - Part 1", 
 "Chinese Perspectives on Russia - Part 1", 
@@ -25,13 +25,6 @@ aliases = ["Russia Through Chinese Eyes",
 ]
 thumbnail = "images/2025/russia-part-1.avif"
 +++
-
-<div class="series-links">
-  <strong class="series-title">Series:</strong>
-  <ul class="series-list">
-    <li><a href="/post/russia-through-chinese-eyes-part-1/" target="_blank" rel="noopener noreferrer">Russia Through Chinese Eyes Part 1</a></li>
-  </ul>
-</div>
 
 <div class="comment-block quizzer">
   <strong style="color: #0077b8;">Overview:</strong><br>

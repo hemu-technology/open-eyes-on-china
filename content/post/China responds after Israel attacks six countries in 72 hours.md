@@ -18,7 +18,7 @@ categories = [
     "Geopolitics",
     "International Relations"
 ]
-series = ["news"]
+# series = ["news"]
 thumbnail = "images/2025/Israel-attacks-6-countries.jpg"
 +++
 

@@ -16,7 +16,7 @@ categories = [
     "Geopolitics",
     "International Relations"
 ]
-series = ["comments"]
+# series = ["comments"]
 # aliases = ["Why do Europeans, deep down, generally look down on Americans and Russians?"]
 thumbnail = "images/2025/europe.jpeg"
 +++

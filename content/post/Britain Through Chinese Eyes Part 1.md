@@ -16,7 +16,7 @@ categories = [
   "Geopolitics",
   "History"
 ]
-series = ["comments"]
+series = ["Britain Through Chinese Eyes"]
 aliases = ["Britain Through Chinese Eyes", 
 "How Do Chinese People See Britain? - Part 1", 
 "Chinese Perspectives on Britain - Part 1", 
@@ -25,13 +25,6 @@ aliases = ["Britain Through Chinese Eyes",
 ]
 thumbnail = "images/2025/Britain-part-1.jpg"
 +++
-
-<div class="series-links">
-  <strong class="series-title">Series:</strong>
-  <ul class="series-list">
-    <li><a href="/post/britain-through-chinese-eyes-part-1/" target="_blank" rel="noopener noreferrer">Britain Through Chinese Eyes Part 1</a></li>
-  </ul>
-</div>
 
 This post analyzes Britain’s historical reputation from a Chinese perspective, questioning whether Britain truly dominated the world or simply benefited from timing and geography. It compares Britain’s achievements in military, culture, and population to other European powers like France, Spain, and the Holy Roman Empire, suggesting Britain’s global status is often overstated. The author argues that countries such as Germany, Turkey, and Iran are underrated, and Britain’s outsized reputation may be a side effect of America’s rise to global hegemony.
 

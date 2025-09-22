@@ -17,7 +17,7 @@ categories = [
     "Geopolitics",
     "International Relations"
 ]
-series = ["comments"]
+# series = ["comments"]
 # aliases = ["What would the global order look like if Ukraine were to fail?"]
 thumbnail = "images/2025/Ukraine.jpg"
 +++

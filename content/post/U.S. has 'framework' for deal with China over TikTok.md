@@ -16,7 +16,7 @@ categories = [
     "Geopolitics",
     "International Relations"
 ]
-series = ["news"]
+# series = ["news"]
 thumbnail = "images/2025/tiktok.avif"
 +++
 

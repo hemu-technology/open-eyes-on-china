@@ -15,7 +15,7 @@ categories = [
     "Geopolitics",
     "International Relations"
 ]
-series = ["comments"]
+# series = ["comments"]
 # aliases = ["The U.S. Commerce Secretary says they have ways to stop relying on China"]
 thumbnail = "images/2025/The-U.S-Commerce-Secretary.jpeg"
 +++

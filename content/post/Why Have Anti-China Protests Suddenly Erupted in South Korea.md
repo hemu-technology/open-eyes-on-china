@@ -16,7 +16,7 @@ categories = [
     "Geopolitics",
     "International Relations"
 ]
-series = ["comments"]
+# series = ["comments"]
 aliases = ["What’s Behind the Sudden Anti-China Protests in South Korea?", 
 "Why Are South Koreans Suddenly Holding Anti-China Demonstrations?", 
 "The Surge of Anti-China Protests in South Korea: What’s Happening?", 

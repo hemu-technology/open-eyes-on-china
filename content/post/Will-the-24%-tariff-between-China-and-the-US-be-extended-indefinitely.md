@@ -14,7 +14,7 @@ categories = [
     "Geopolitics",
     "International Relations"
 ]
-series = ["comments"]
+# series = ["comments"]
 # aliases = ["will-the-24-tariff-between-china-and-the-us-be-extended-indefinitely"]
 thumbnail = "images/2025/tariffs-with-us.jpeg"
 +++

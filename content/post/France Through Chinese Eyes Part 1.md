@@ -13,7 +13,7 @@ tags = [
     "modernization"
 ]
 categories = ["Geopolitics", "History"]
-series = ["France-Through-Chinese-Eyes"]
+series = ["France Through Chinese Eyes"]
 aliases = ["France Through Chinese Eyes", 
 "How Do Chinese People See France? - Part 1", 
 "Chinese Perspectives on France - Part 1", 
@@ -22,14 +22,6 @@ aliases = ["France Through Chinese Eyes",
 ]
 thumbnail = "images/2025/eiffel-tower.jpg"
 +++
-
-<div class="series-links">
-  <strong class="series-title">Series:</strong>
-  <ul class="series-list">
-    <li><a href="/post/france-through-chinese-eyes-part-1/" target="_blank" rel="noopener noreferrer">France Through Chinese Eyes Part 1</a></li>
-    <li><a href="/post/france-through-chinese-eyes-part-2/" target="_blank" rel="noopener noreferrer">France Through Chinese Eyes Part 2</a></li>
-  </ul>
-</div>
 
 <div class="comment-block quizzer">
   <strong style="color: #0077b8;">Overview:</strong><br>

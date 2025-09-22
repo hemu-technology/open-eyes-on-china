@@ -14,7 +14,7 @@ tags = [
 categories = [
     "Culture & Society"
 ]
-series = ["news"]
+# series = ["news"]
 thumbnail = "images/2025/india-food.jpg"
 +++
 
