@@ -5,7 +5,7 @@ date = "2025-09-20"
 summary = """
 This post examines the sudden anti-China protests in South Korea, highlighting Chinese netizens’ views. They interpret the protests as a sign of South Korea’s anxiety and acceptance of China’s rising power, linking the unrest to psychological stages of crisis. Commenters suggest that such demonstrations reflect underlying pro-China sentiment and predict that, after this “anger” phase, South Korea will make pragmatic concessions to China. The discussion emphasizes the complex emotions and strategic calculations driving the protests.
 """
-featured = true
+featured = false
 tags = [
     "South Korea",
     "protests",
@@ -13,10 +13,8 @@ tags = [
     "radical feminism"
 ]
 categories = [
-    "South Korea",
-    "CjK",
-    "China",
-    "Germany"
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["comments"]
 aliases = ["What’s Behind the Sudden Anti-China Protests in South Korea?", 

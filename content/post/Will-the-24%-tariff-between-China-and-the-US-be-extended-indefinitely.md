@@ -11,8 +11,8 @@ tags = [
     "China"
 ]
 categories = [
-    "America",
-    "Economics",
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["comments"]
 # aliases = ["will-the-24-tariff-between-china-and-the-us-be-extended-indefinitely"]

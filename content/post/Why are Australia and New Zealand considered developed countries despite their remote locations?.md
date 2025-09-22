@@ -7,7 +7,7 @@ Anyone who has applied for a U.S. visa knows that the Five Eyes alliance is a ge
 The visa systems of the U.S., U.K., Canada, Australia, and New Zealand are interconnected. If one country denies a visa, the others can see the time, location, and reason for the rejection.
 One might say that the U.S. benefits at the expense of the other countries because they are more lenient. However, the fact that the U.S. shares this information with them shows that they truly regard each other as “insiders.”
 """
-featured = true
+featured = false
 tags = [
     "five eyes",
     "visa",
@@ -15,9 +15,7 @@ tags = [
     "welfare"
 ]
 categories = [
-    "Australia",
-    "New Zealand",
-    "Korea"
+    "Culture & Society"
 ]
 series = ["comments"]
 thumbnail = "images/2025/Australia.jpg"

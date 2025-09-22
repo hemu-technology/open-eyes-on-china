@@ -7,8 +7,8 @@ This post explores how Chinese netizens perceive France, highlighting both admir
 """
 featured = true
 tags = ["Chinese", "France", "modernization"]
-categories = ["France", "Europe", "Germany", "UK", "US"]
-series = ["comments"]
+categories = ["Geopolitics", "History"]
+series = ["France-Through-Chinese-Eyes"]
 aliases = ["How Do Chinese People See France? - Part 2", "Chinese Perspectives on France - Part 2", "What Do Chinese People Think of France? - Part 2", "How China Views France - Part 2"]
 thumbnail = "images/2025/France_and_its_region.png"
 +++

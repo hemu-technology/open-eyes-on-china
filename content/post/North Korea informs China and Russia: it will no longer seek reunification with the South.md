@@ -5,7 +5,7 @@ date = "2025-09-17"
 summary = """
 On September 14, South Korean and Japanese media reported that North Korea has stepped up its diplomatic messaging, declaring to neighboring countries and the international community that it no longer views South Korea as a partner for reunification, but as a hostile state still in a state of war. Pyongyang has effectively abandoned its long-standing policy of peaceful reunification and is seeking international recognition and support for this new stance.
 """
-featured = true
+featured = false
 tags = [
     "North Korea",
     "South Korea",
@@ -13,10 +13,8 @@ tags = [
     "international relations"
 ]
 categories = [
-    "China",
-    "Russia",
-    "North Korea",
-    "South Korea"
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["news"]
 thumbnail = "images/2025/North-South-Korea.webp"

@@ -3,7 +3,7 @@ author = "hemu"
 title = "Why do breakthrough technologies always emerge in the West first?"
 date = "2025-09-02"
 summary = "Recent examples include ChatGPT, and further back, the iPhone and mobile internet technology. Even Huawei’s breakthrough in 5G did not originate in mainland China. Why do such revolutionary technologies always seem to emerge in the West first?"
-featured = true
+featured = false
 tags = [
     "chatgpt",
     "technology",
@@ -11,9 +11,8 @@ tags = [
     "5G"
 ]
 categories = [
-    "western",
-    "Introspection",
-    "Criticize"
+    "Geopolitics",
+    "Culture & Society"
 ]
 series = ["comments"]
 # aliases = ["Why-do-breakthrough-technologies-always-emerge-in-the-West-first"]

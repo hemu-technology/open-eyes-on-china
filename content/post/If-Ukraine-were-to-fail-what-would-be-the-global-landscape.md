@@ -14,9 +14,8 @@ tags = [
     "Ukraine"
 ]
 categories = [
-    "Ukraine",
-    "Europe",
-    "Russia"
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["comments"]
 # aliases = ["What would the global order look like if Ukraine were to fail?"]

@@ -5,7 +5,7 @@ date = "2025-09-11"
 summary = """
 Protesters clashed with police early on Wednesday in Paris, where garbage bins were set on fire and teargas apparently used by police. The French government deployed an exceptional 80,000 police in response to a day of nationwide action under the slogan “Block Everything.” The demonstrators, angry at French President Emmanuel Macron over his leadership and austerity policies, are planning to disrupt activity across the country.
 """
-featured = true
+featured = false
 tags = [
     "paris",
     "france",
@@ -13,9 +13,7 @@ tags = [
     "protest"
 ]
 categories = [
-    "France",
-    "politics",
-    "protest"
+    "Culture & Society"
 ]
 series = ["news"]
 thumbnail = "images/2025/francefire.jpg"

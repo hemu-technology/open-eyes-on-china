@@ -5,16 +5,15 @@ date = "2025-09-09"
 summary = """
 Tensions flare at a dinner as Treasury Secretary Scott Bessent nearly confronts FHFA Director Bill Pulte over rumors of criticism, threatening violence and demanding his removal. A dramatic reminder of the high-stakes battles over Fannie Mae and Freddie Mac privatization.
 """
-featured = true
+featured = false
 tags = [
     "politics",
     "governmentconflict",
     "powerstruggles"
 ]
 categories = [
-    "US",
-    "politics",
-    "criticism"
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["comments"]
 # aliases = ["The U.S. Commerce Secretary says they have ways to stop relying on China"]

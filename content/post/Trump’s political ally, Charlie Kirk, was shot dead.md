@@ -12,9 +12,8 @@ tags = [
     "ally"
 ]
 categories = [
-    "US",
-    "politics",
-    "news"
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["news"]
 thumbnail = "images/2025/Trump’s political ally.jpg"

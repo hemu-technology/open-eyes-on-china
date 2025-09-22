@@ -13,11 +13,8 @@ tags = [
     "history"
 ]
 categories = [
-    "China",
-    "Europe",
-    "Britain",
-    "US",
-    "Germany"
+  "Geopolitics",
+  "History"
 ]
 series = ["comments"]
 aliases = ["Britain Through Chinese Eyes", 

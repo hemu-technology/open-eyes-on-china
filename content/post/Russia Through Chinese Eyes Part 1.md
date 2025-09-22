@@ -13,10 +13,8 @@ tags = [
     "democracy"
 ]
 categories = [
-    "China",
-    "Europe",
-    "Russia",
-    "US"
+    "Geopolitics",
+    "History"
 ]
 series = ["comments"]
 aliases = ["Russia Through Chinese Eyes", 

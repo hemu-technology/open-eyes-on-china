@@ -3,7 +3,7 @@ author = "hemu"
 title = "What do you think about the recent labor protests in Indonesia?"
 date = "2025-09-01"
 summary = "Minimum wage increase of 10.5%, abolition of the controversial Job Creation Law, cancellation of the outsourcing model, higher tax-free thresholds, removal of taxes on severance pay and year-end bonuses, establishment of a special task force to prevent mass layoffs… The above are some of the demands from the recent labor protests in Indonesia. Do you think they are reasonable? Would they also be applicable to us? I’d like to know what everyone thinks."
-featured = true
+featured = false
 tags = [
     "labor",
     "Indonesia",
@@ -11,8 +11,7 @@ tags = [
     "law"
 ]
 categories = [
-    "Indonesia",
-    "Economics",
+    "Culture & Society"
 ]
 series = ["news"]
 # aliases = ["What-do-you-think-about-the-recent-labor-protests-in-Indonesia"]

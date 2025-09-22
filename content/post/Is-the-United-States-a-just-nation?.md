@@ -7,15 +7,15 @@ The United States is a very interesting country.
 Everyone can buy guns, yet no one thinks about starting a revolution. The media is always filled with bad news, yet few think about emigrating. People criticize the government openly anytime and anywhere, yet they are warm and friendly toward fellow citizens and strangers.
 ...
 """
-featured = true
+featured = false
 tags = [
     "US",
     "Justice",
     "Super Power"
 ]
 categories = [
-    "America",
-    "United States"
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["comments"]
 # aliases = ["Is the United States a just nation?"]

@@ -7,7 +7,7 @@ China voiced deep concern over the escalating conflict in the Middle East, oppos
 
 "Violence cannot bring security, nor can force deliver peace," Foreign Ministry spokesperson Lin Jian said. "We urge all parties, especially Israel, to work toward de-escalation, resume dialogue, and restore peace, rather than the opposite."
 """
-featured = true
+featured = false
 tags = [
     "China",
     "US",
@@ -15,10 +15,8 @@ tags = [
     "conflict"
 ]
 categories = [
-    "Israel",
-    "China",
-    "US",
-    "Europe"
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["news"]
 thumbnail = "images/2025/Israel-attacks-6-countries.jpg"

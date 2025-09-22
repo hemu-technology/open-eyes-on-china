@@ -6,16 +6,15 @@ summary = """
 A country is an extremely complex entity. However you slice it—horizontally or vertically—you’ll find countless groups and classes with completely different agendas. Even a tiny country like Luxembourg has a complex economic structure. Are Luxembourg’s steelworkers and its eco-minded leftists on the same side? Of course not.
 ...
 """
-featured = true
+featured = false
 tags = [
     "discriminate",
     "Slavs",
     "barbarians"
 ]
 categories = [
-    "America",
-    "Europe",
-    "Russia"
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["comments"]
 # aliases = ["Why do Europeans, deep down, generally look down on Americans and Russians?"]

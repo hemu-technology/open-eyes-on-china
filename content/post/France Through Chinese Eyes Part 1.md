@@ -12,14 +12,8 @@ tags = [
     "viewpoint",
     "modernization"
 ]
-categories = [
-    "France",
-    "Europe",
-    "Germany",
-    "UK",
-    "US"
-]
-series = ["comments"]
+categories = ["Geopolitics", "History"]
+series = ["France-Through-Chinese-Eyes"]
 aliases = ["France Through Chinese Eyes", 
 "How Do Chinese People See France? - Part 1", 
 "Chinese Perspectives on France - Part 1", 

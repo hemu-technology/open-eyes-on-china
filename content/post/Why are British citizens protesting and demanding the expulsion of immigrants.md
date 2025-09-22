@@ -7,7 +7,7 @@ Honestly, I feel like the UK’s cost of living crisis is the real issue. But pe
 I remember Brexit was sold as “taking back control” and cutting immigration. Now I see numbers rising — I get why so many feel frustrated.
 Every time I see the small boat stories on the news, I understand why the protests grow. It looks like the government has no control.
 """
-featured = true
+featured = false
 tags = [
     "immigration",
     "UK",
@@ -15,10 +15,7 @@ tags = [
     "multiculturalism"
 ]
 categories = [
-    "British",
-    "US",
-    "Germany",
-    "Africa"
+    "Culture & Society"
 ]
 series = ["comments"]
 thumbnail = "images/2025/British citizens protesting.jpeg"

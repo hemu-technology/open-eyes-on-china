@@ -5,16 +5,14 @@ date = "2025-09-13"
 summary = """
 Despite its sometimes off-putting appearance, Indian street food surprises with its bold flavors and unique culinary experiences. This post explores the reactions of Chinese viewers to Indian street food, highlighting both the initial shock and the eventual appreciation for its taste. Through shared comments and a featured video, the post captures the humor, curiosity, and cultural exchange that come with trying unfamiliar foods.
 """
-featured = true
+featured = false
 tags = [
     "FoodChallenge",
     "TravelFood",
     "IndianStreetFood"
 ]
 categories = [
-    "Indian",
-    "food",
-    "street"
+    "Culture & Society"
 ]
 series = ["news"]
 thumbnail = "images/2025/india-food.jpg"

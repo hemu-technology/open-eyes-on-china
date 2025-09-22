@@ -5,16 +5,14 @@ date = "2025-09-09"
 summary = """
 The US Treasury Department has announced sanctions on scam operations others involved in forced labor compounds in Burma and Cambodia. It comes after US citizens lost a combined US$10 billion to Southeast Asia-based scams last year.
 """
-featured = true
+featured = false
 tags = [
     "politics",
     "scam",
     "citizens"
 ]
 categories = [
-    "US",
-    "Burma",
-    "Cambodia"
+    "International Relations"
 ]
 series = ["comments"]
 # aliases = ["The U.S. Commerce Secretary says they have ways to stop relying on China"]

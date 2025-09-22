@@ -5,7 +5,7 @@ date = "2025-09-16"
 summary = """
 On the 15th, China’s International Trade Negotiator and Vice Minister of Commerce, Li Chenggang, stated that during this round of talks, both sides held candid and in-depth exchanges regarding TikTok and China’s related concerns. They reached a basic framework consensus on properly addressing issues related to TikTok through cooperation, reducing investment barriers, and promoting relevant economic and trade cooperation.
 """
-featured = true
+featured = false
 tags = [
     "TikTok",
     "US-China relations",
@@ -13,9 +13,8 @@ tags = [
     "technology"
 ]
 categories = [
-    "US",
-    "China",
-    "youtube"
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["news"]
 thumbnail = "images/2025/tiktok.avif"

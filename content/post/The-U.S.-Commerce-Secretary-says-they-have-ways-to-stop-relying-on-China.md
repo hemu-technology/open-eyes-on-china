@@ -5,16 +5,15 @@ date = "2025-09-08"
 summary = """
 The U.S. Commerce Secretary says they have ways to stop relying on China. But in reality, Japan handed over 55 billion to the U.S., and while we build factories at home, Japan is basically footing the bill. Getting both the supply chain and the funding—couldn’t be more satisfying.
 """
-featured = true
+featured = false
 tags = [
     "tariff",
     "bill",
     "supply chain"
 ]
 categories = [
-    "US",
-    "China",
-    "Japan"
+    "Geopolitics",
+    "International Relations"
 ]
 series = ["comments"]
 # aliases = ["The U.S. Commerce Secretary says they have ways to stop relying on China"]

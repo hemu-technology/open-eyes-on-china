@@ -5,16 +5,14 @@ date = "2025-09-14"
 summary = """
 Regardless of where they come from or what their heritage is, China has always upheld the principle of equality among countries, big or small, and is committed to building a new type of international relations featuring mutual respect, fairness and justice, and win-win cooperation.
 """
-featured = true
+featured = false
 tags = [
     "Singapore",
     "national identity",
     "China"
 ]
 categories = [
-    "Singapore",
-    "China",
-    "youtube"
+    "Culture & Society"
 ]
 series = ["news"]
 thumbnail = "images/2025/Lee Hsien Loong.jpg"
