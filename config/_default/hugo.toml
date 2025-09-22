@@ -21,7 +21,7 @@ DefaultContentLanguage = "en"
 [taxonomies]
 category = "categories"
 tag = "tags"
-# series = "series"
+series = "series"  # disabled per request
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
