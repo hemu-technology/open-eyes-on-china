@@ -1,0 +1,75 @@
+{{/* Compact top-of-article series navigation banner. */}}
+{{ with .Params.series }}
+  {{ $name := index . 0 }}
+  {{ $raw := where $.Site.RegularPages "Params.series" "intersect" (slice $name) }}
+  {{ $items := sort $raw "Date" }}
+  {{ $count := len $items }}
+  {{ if gt $count 1 }}
+    {{ $currentIndex := 0 }}
+    {{ range $i, $p := $items }}
+      {{ if eq $p.Permalink $.Permalink }}{{ $currentIndex = add $i 1 }}{{ end }}
+    {{ end }}
+    {{/* Determine if banner should default open (not first part) */}}
+    {{ $openAttr := "" }}
+    {{ if gt $currentIndex 1 }}{{ $openAttr = "open" }}{{ end }}
+  <details class="series-banner" data-series="{{ $name | urlize }}" {{ $openAttr }} style="font-size:.82rem; margin:1rem 0 1.25rem; background:#f5f7fa; padding:.55rem .75rem .6rem; border-radius:6px; position:relative;">
+      <summary style="cursor:pointer; list-style:none; display:flex; flex-wrap:wrap; gap:.65rem .9rem; align-items:center;">
+        <span style="font-weight:600;">Series:</span>
+        <span style="font-weight:500;">{{ $name }}</span>
+        <span style="opacity:.65;">Part {{ $currentIndex }} of {{ $count }}</span>
+        <span style="margin-left:auto; font-size:.75rem; background:#e1e6eb; padding:2px 6px; border-radius:4px;">Show all parts ▸</span>
+      </summary>
+      {{/* Progress bar */}}
+      {{ $pct := mul (div (float $currentIndex) (float $count)) 100.0 }}
+      {{ $pctStr := printf "%.2f" $pct }}
+      <div aria-hidden="true" class="series-progress" style="height:4px; background:#dbe1e6; border-radius:2px; margin:.55rem 0 .4rem; position:relative; overflow:hidden;">
+        <div data-progress="{{ $pctStr }}" style="height:100%; background:#3b82f6; transition:width .35s; width:0;"></div>
+      </div>
+      <div style="margin-top:.6rem; display:flex; flex-wrap:wrap; gap:.5rem .6rem; align-items:center;">
+        <div style="flex:1 0 100%;">
+          {{ range $i, $p := $items }}
+            {{ $n := add $i 1 }}
+            {{ if eq $p.Permalink $.Permalink }}
+              <span style="display:inline-block; min-width:1.8rem; text-align:center; font-weight:600; background:#222; color:#fff; border-radius:4px; padding:2px 6px;">{{ $n }}</span>
+            {{ else }}
+              <a href="{{ $p.RelPermalink }}" style="display:inline-block; min-width:1.8rem; text-align:center; text-decoration:none; background:#e4e9ef; color:#333; border-radius:4px; padding:2px 6px;">{{ $n }}</a>
+            {{ end }}
+          {{ end }}
+        </div>
+        <div style="margin-left:auto; white-space:nowrap;">
+          {{ if gt $currentIndex 1 }}
+            {{ $prev := index $items (sub $currentIndex 2) }}
+            <a href="{{ $prev.RelPermalink }}" style="margin-right:.65rem;">← Prev</a>
+          {{ end }}
+          {{ if lt $currentIndex $count }}
+            {{ $next := index $items $currentIndex }}
+            <a href="{{ $next.RelPermalink }}">Next →</a>
+          {{ end }}
+        </div>
+      </div>
+    </details>
+    <script>
+      (function(){
+        var d=document,current=location.pathname;
+        var wrapper=d.querySelector('.series-banner');
+        if(!wrapper) return;
+        var summary=wrapper.querySelector('summary');
+        var label=summary && summary.querySelector('span:last-child');
+        var seriesId=wrapper.getAttribute('data-series')||'generic';
+        var storageKey='seriesBannerState:'+seriesId;
+        function setLabel(open){ if(label) label.textContent=open?'Hide parts ▾':'Show all parts ▸'; }
+        var saved=localStorage.getItem(storageKey);
+        if(saved==='open') { wrapper.setAttribute('open','open'); }
+        else if(saved==='closed'){ wrapper.removeAttribute('open'); }
+        setLabel(wrapper.open);
+        wrapper.addEventListener('toggle',function(){
+          setLabel(wrapper.open);
+          try{ localStorage.setItem(storageKey, wrapper.open?'open':'closed'); }catch(e){}
+        });
+        // Apply progress width
+        var prog=wrapper.querySelector('[data-progress]');
+        if(prog){ var val=prog.getAttribute('data-progress'); if(val){ prog.style.width=val+'%'; }}
+      })();
+    </script>
+  {{ end }}
+{{ end }}
