@@ -151,6 +151,10 @@ numberOfRecentPosts = 0
 showRelatedInArticle = true
 showRelatedInSidebar = false
 
+# Adjust reading time (multiplies raw word count before dividing by WPM).
+# 0.55 assumes bilingual (Chinese+English) content where effective reading effort per word is lower.
+readingTimeMultiplier = 0.55
+
 # website author
 # [author]
 # name = "hemu"
