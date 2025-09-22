@@ -1,6 +1,10 @@
 {{- define "main" }}
 {{- $s := .Site.Params }}
 {{- $p := .Params }}
+{{- /* Full-width reading progress (top mode) */ -}}
+{{- if and $s.enableReadingProgress (eq (default "sidebar" $s.readingProgressMode) "top") -}}
+  {{- partial "reading-progress" . -}}
+{{- end -}}
 {{- $scratch := newScratch }}
 {{- if isset $p "image" }}
   {{- $scratch.Set "image" $p.image }}

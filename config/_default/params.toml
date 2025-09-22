@@ -155,6 +155,14 @@ showRelatedInSidebar = false
 # 0.55 assumes bilingual (Chinese+English) content where effective reading effort per word is lower.
 readingTimeMultiplier = 0.55
 
+# Reading progress bar (top-only implementation)
+# Set to false to disable entirely.
+enableReadingProgress = true
+# Vertical offset (pixels) from the top of the viewport. Increase if your fixed nav overlaps the bar (e.g. 64).
+readingProgressOffset = 0
+# Mode retained for backward compatibility; only "top" is active now. Leave as "top".
+readingProgressMode = "top"
+
 # website author
 # [author]
 # name = "hemu"
