@@ -492,3 +492,59 @@ ul li a.nav-link:focus-visible
     color: lighten(#0077b8, 25%)
     &:hover
       color: #fff
+
+// Disqus readability overrides
+// These styles target the embed container once the iframe loads. Some internal iframe
+// content cannot be styled directly, but outer wrappers and Disqus-provided classes can.
+.disqus-thread, #disqus_thread
+  margin-top: 2.5rem
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif
+  line-height: 1.55
+  color: #222
+  a
+    color: #0b62a0
+    text-decoration: none
+    &:hover
+      text-decoration: underline
+  h1, h2, h3, h4, h5, h6
+    color: #111
+    line-height: 1.25
+  p
+    margin: 0 0 1rem
+
+// Light mode specific tweaks (scoped by absence of data-mode="dim")
+html:not([data-mode="dim"]) #disqus_thread
+  background: #fafbfc
+  padding: 1.5rem 1.75rem 2rem
+  border: 1px solid #e2e8f0
+  border-radius: 10px
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04)
+
+html:not([data-mode="dim"]) #disqus_thread .post-message, \
+html:not([data-mode="dim"]) #disqus_thread .comment__body
+  font-size: .95rem
+
+html:not([data-mode="dim"]) #disqus_thread a
+  color: #0067b8
+
+html:not([data-mode="dim"]) #disqus_thread a:hover
+  color: #004f8a
+
+// Subtle separators between top-level posts (cannot reach into iframe deeply, but if Disqus wrapper exposes li items)
+html:not([data-mode="dim"]) #disqus_thread li
+  border-color: #edf1f5 !important
+
+// Dark mode minimal adjustments to keep contrast stable
+[data-mode="dim"] #disqus_thread
+  background: #062d41
+  border: 1px solid #0b4b66
+  border-radius: 10px
+  padding: 1.25rem 1.5rem 1.75rem
+  box-shadow: 0 2px 10px rgba(0,0,0,0.55)
+  color: rgba(255,255,255,0.88)
+  a
+    color: lighten(#0077b8, 25%)
+    &:hover
+      color: #fff
+  h1, h2, h3, h4, h5, h6
+    color: #fff
