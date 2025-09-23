@@ -1,17 +1,11 @@
 <div class="post_comments" style="margin-top: 2rem;">
   {{ if .Site.Config.Services.Disqus.Shortname }}
-    <div class="comments-frame" data-comment-provider="disqus">
-      {{ template "_internal/disqus.html" . }}
-    </div>
+    {{ template "_internal/disqus.html" . }}
   {{ end }}
   {{ if .Site.Params.utterances }}
-    <div class="comments-frame" data-comment-provider="utterances">
-      {{ partial "utterances.html" . }}
-    </div>
+    {{ partial "utterances.html" . }}
   {{ end }}
   {{ if .Site.Params.giscus }}
-    <div class="comments-frame" data-comment-provider="giscus">
-      {{ partial "giscus.html" . }}
-    </div>
+    {{ partial "giscus.html" . }}
   {{ end }}
 </div>
