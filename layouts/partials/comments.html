@@ -1,29 +1,4 @@
-<div class="post_comments" style="margin-top: 2rem; position: relative;">
-  <h2 class="comments-heading" style="margin:0 0 1rem;font-size:1.15rem;line-height:1.3;color:#1b2733;">Discussion</h2>
-  {{/* Force light theme for Disqus when site not in dark mode before loading embed */}}
-  <script>
-    (function() {
-      try {
-        var rootIsDark = document.documentElement.getAttribute('data-mode') === 'dim';
-        if (!rootIsDark) {
-          // Monkey-patch matchMedia so Disqus (on initial load) thinks user prefers light.
-          var originalMatchMedia = window.matchMedia;
-          window.matchMedia = function(q) {
-            if (/(prefers-color-scheme:\s*dark)/i.test(q)) {
-              return { matches: false, media: q, addListener: function(){}, removeListener: function(){}, addEventListener: function(){}, removeEventListener: function(){}, onchange: null };
-            }
-            if (/(prefers-color-scheme:\s*light)/i.test(q)) {
-              return { matches: true, media: q, addListener: function(){}, removeListener: function(){}, addEventListener: function(){}, removeEventListener: function(){}, onchange: null };
-            }
-            return originalMatchMedia(q);
-          };
-          // Restore after a delay to avoid side-effects on other scripts.
-          setTimeout(function(){ window.matchMedia = originalMatchMedia; }, 4000);
-        }
-      } catch(e) { /* fail silently */ }
-    })();
-  </script>
-  {{/* Site-level override of theme comments partial. Safe to customize here. */}}
+<div class="post_comments" style="margin-top: 2rem;">
   {{ if .Site.Config.Services.Disqus.Shortname }}
     {{ template "_internal/disqus.html" . }}
   {{ end }}
@@ -33,5 +8,4 @@
   {{ if .Site.Params.giscus }}
     {{ partial "giscus.html" . }}
   {{ end }}
-  {{/* Custom comment system placeholder. Add HTML/JS embed below if needed. */}}
 </div>
