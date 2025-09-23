@@ -101,7 +101,12 @@
   margin: 0
 
 .related-card-body, .series-card-body
-  padding: .75rem .85rem 1rem .85rem
+  // Remove top padding so text sits directly under image
+  padding: 1rem .85rem .9rem .85rem
+
+// Ensure list item itself has no unintended top padding
+.related-posts-list > li.related-card, .series-posts-list > li.series-card
+  padding-top: 0 !important
 
 .related-card-title, .series-card-title
   font-weight: 600
