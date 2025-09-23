@@ -512,7 +512,7 @@ ul li a.nav-link:focus-visible
   p
     margin: 0 0 1rem
 
-// Light mode specific tweaks (scoped by absence of data-mode="dim")
+// Light mode specific tweaks only (user request: do NOT alter dark mode)
 html:not([data-mode="dim"]) #disqus_thread
   background: #fafbfc
   padding: 1.5rem 1.75rem 2rem
@@ -534,17 +534,4 @@ html:not([data-mode="dim"]) #disqus_thread a:hover
 html:not([data-mode="dim"]) #disqus_thread li
   border-color: #edf1f5 !important
 
-// Dark mode minimal adjustments to keep contrast stable
-[data-mode="dim"] #disqus_thread
-  background: #062d41
-  border: 1px solid #0b4b66
-  border-radius: 10px
-  padding: 1.25rem 1.5rem 1.75rem
-  box-shadow: 0 2px 10px rgba(0,0,0,0.55)
-  color: rgba(255,255,255,0.88)
-  a
-    color: lighten(#0077b8, 25%)
-    &:hover
-      color: #fff
-  h1, h2, h3, h4, h5, h6
-    color: #fff
+// (Dark mode intentionally left untouched per user request.)
