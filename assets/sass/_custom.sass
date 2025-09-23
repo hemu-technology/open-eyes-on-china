@@ -493,5 +493,145 @@ ul li a.nav-link:focus-visible
     &:hover
       color: #fff
 
-// Removed custom Disqus overrides (previously targeted #disqus_thread) to allow native Disqus light/dark theme.
-// If future minimal tweaks are needed, add them in a new scoped block.
+// ===========================
+// Dark Mode Enhancements (A + D)
+// NOTE: Light mode intentionally untouched.
+// ===========================
+[data-mode="dim"] body
+  --dm-text: rgba(255,255,255,0.90)
+  --dm-text-soft: rgba(255,255,255,0.72)
+  --dm-border: rgba(255,255,255,0.12)
+  --dm-border-strong: rgba(255,255,255,0.22)
+  --dm-bg-alt: #073247
+  --dm-bg-alt-soft: #0c4059
+  --dm-accent: #33a4e2
+  color: var(--dm-text)
+
+// Base paragraphs & lists: slightly raise contrast
+[data-mode="dim"] .post_content p,
+[data-mode="dim"] .post_content li
+  color: var(--dm-text)
+
+// Muted meta / timestamp text
+[data-mode="dim"] .post_meta,
+[data-mode="dim"] .post_meta span,
+[data-mode="dim"] .post_meta a
+  color: var(--dm-text-soft)
+
+// Improve inline code readability
+[data-mode="dim"] .post_content code
+  background: #0d4058
+  color: #ffe9b6
+  padding: 2px 5px
+  border-radius: 4px
+  font-size: .85em
+  border: 1px solid rgba(255,255,255,0.08)
+
+// Code blocks (if theme doesn't already style)
+[data-mode="dim"] .post_content pre code,
+[data-mode="dim"] pre code
+  background: transparent
+  color: #d8ecf7
+  text-shadow: 0 0 1px rgba(255,255,255,0.04)
+
+[data-mode="dim"] pre
+  background: #0c4059
+  border: 1px solid var(--dm-border)
+  border-radius: 8px
+  padding: 1rem 1.1rem
+  line-height: 1.5
+  overflow-x: auto
+
+// Headings: tighten hierarchy & contrast
+[data-mode="dim"] .post_content h1,
+[data-mode="dim"] .post_content h2,
+[data-mode="dim"] .post_content h3
+  color: #fff
+  text-shadow: 0 1px 2px rgba(0,0,0,0.5)
+
+[data-mode="dim"] .post_content h4,
+[data-mode="dim"] .post_content h5,
+[data-mode="dim"] .post_content h6
+  color: rgba(255,255,255,0.88)
+
+// Links: brighten + clearer hover
+[data-mode="dim"] .post_content a
+  color: lighten(#33a4e2, 10%)
+  text-decoration: none
+  border-bottom: 1px solid rgba(51,164,226,0.35)
+  transition: color .18s var(--ease), border-color .18s var(--ease)
+[data-mode="dim"] .post_content a:hover,
+[data-mode="dim"] .post_content a:focus
+  color: #6dd2ff
+  border-bottom-color: #6dd2ff
+
+// Blockquotes refinement
+[data-mode="dim"] blockquote
+  background: #0b3a51
+  border-left: 4px solid var(--dm-accent)
+  padding: .9rem 1.1rem .95rem
+  color: rgba(255,255,255,0.85)
+  border-radius: 6px
+  box-shadow: 0 2px 10px -2px rgba(0,0,0,0.55)
+  p:last-child
+    margin-bottom: 0
+
+// Tables
+[data-mode="dim"] .post_content table
+  background: #073247
+  border: 1px solid var(--dm-border)
+  border-collapse: separate
+  border-spacing: 0
+  width: 100%
+  font-size: .92rem
+  overflow: hidden
+  border-radius: 6px
+[data-mode="dim"] .post_content table th,
+[data-mode="dim"] .post_content table td
+  border-bottom: 1px solid var(--dm-border)
+  padding: .55rem .75rem
+  text-align: left
+[data-mode="dim"] .post_content table th
+  background: #0c4059
+  color: #fff
+  font-weight: 600
+[data-mode="dim"] .post_content table tr:last-child td
+  border-bottom: none
+[data-mode="dim"] .post_content table tbody tr:nth-child(odd)
+  background: rgba(255,255,255,0.02)
+[data-mode="dim"] .post_content table tbody tr:hover
+  background: rgba(255,255,255,0.07)
+
+// Horizontal rule blending
+[data-mode="dim"] .post_content hr
+  border: none
+  height: 1px
+  background: linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,0.25), rgba(255,255,255,0))
+  margin: 2.25rem 0 2rem
+
+// Series banner fine-tuning (building on existing styles)
+[data-mode="dim"] .series-banner__label
+  color: #fff
+[data-mode="dim"] .series-banner__name
+  color: #cfefff
+[data-mode="dim"] .series-banner__part-link.is-current
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.55) inset, 0 0 0 1px rgba(255,255,255,0.05)
+
+// Card hover / focus improvements in dark mode
+[data-mode="dim"] .related-card:hover, [data-mode="dim"] .series-card:hover
+  box-shadow: 0 6px 24px -6px rgba(0,0,0,0.65)
+  transform: translateY(-3px)
+
+// Accessible focus rings (unify)
+[data-mode="dim"] a:focus-visible,
+[data-mode="dim"] button:focus-visible,
+[data-mode="dim"] .series-banner__part-link:focus-visible,
+[data-mode="dim"] .related-card-link:focus-visible,
+[data-mode="dim"] .series-card-link:focus-visible
+  outline: 2px solid #6dd2ff
+  outline-offset: 3px
+  border-radius: 4px
+
+// Smooth transition for theme toggle (if used)
+[data-mode="dim"] body, [data-mode="dim"] .post_content, [data-mode="dim"] pre, [data-mode="dim"] blockquote
+  transition: background-color .35s var(--ease), color .35s var(--ease), border-color .35s var(--ease)
