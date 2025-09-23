@@ -35,7 +35,7 @@ Click to expand Chinese comment</span>
 电诈为什么在柬埔寨会生根发芽，最主要的原因就是电诈总头目是洪森
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The main reason why telecom fraud has taken root and flourished in Cambodia is that the ringleader of these scams is Hun Sen.
 </div>
 
@@ -51,7 +51,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t get it wrong—Hun Sen strongly supports project cooperation with China!
 </div>
 
@@ -67,7 +67,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Cooperating with China doesn’t contradict running scams—after all, 90% of the Southeast Asian telecom fraudsters are ethnically Chinese!
 </div>
 
@@ -83,7 +83,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I may not have a favorable view of the U.S., but I support this action.
 </div>
 
@@ -99,7 +99,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When the U.S. upholds justice, there’s no question about it.🐶
 </div>
 
@@ -116,7 +116,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. has also tried to crack down on sweatshops, but it didn’t really succeed.
 </div>
 
@@ -132,7 +132,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 We oppose it! Whatever the U.S. opposes, we support!
 </div>
 
@@ -148,7 +148,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I want to be honest with you: the U.S. has never harmed you in the past and won’t in the future. The people the U.S. goes after are bad actors—like Tojo, Mussolini, Hitler, Milosevic, Saddam, Gaddafi, Assad, Bin Laden. If you think the U.S. is going after someone, that person is exactly that kind of individual.
 </div>
 
@@ -164,7 +164,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Isn’t it said that scammers don’t dare to target Americans?
 </div>
 
@@ -180,7 +180,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If everyone knew Americans were being scammed, how could Trump keep winning all the time?
 </div>
 
@@ -196,7 +196,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If the U.S. really had the capability, it would have already said it would go to any lengths to eliminate those who threaten America! Why wait for billions—what were they doing all this time?
 </div>
 
@@ -212,7 +212,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There’s a 13-year-old kid from the village who might be in Myanmar, and his mother has fainted from crying.
 </div>
 
@@ -228,7 +228,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Has the United States ever harmed you? If you think it has, please give an example.
 </div>
 
@@ -244,7 +244,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Isn't it said that the scams targeting Europe and the U.S. are all based in India? Their English is really fluent.
 </div>
 
@@ -260,7 +260,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Southeast Asia, including India.
 </div>
 
@@ -276,7 +276,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The United States has extended a hand of justice, and hopefully the next step will be to designate all Southeast Asian scam syndicates as terrorist organizations and take action to eliminate them for the benefit of people worldwide.
 </div>
 
@@ -292,7 +292,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Those who provide electricity, water, and network resources to the telecom fraud gangs are accomplices to these scams! They are part of an evil organization and must be targeted together!
 </div>
 
@@ -308,7 +308,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Cut off their internet, electricity, and water—let them see how they can scam without these! Anyone providing them with network, power, or water is an accomplice and should be targeted together. Absolutely justified.
 </div>
 
@@ -324,7 +324,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 👍👍👍Exactly! Banks are accomplices too—they help launder the money. All of them should be held accountable.
 </div>
 
@@ -340,7 +340,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I thought they only targeted Chinese people, but turns out there are plenty of fools in the U.S. too.
 </div>
 
@@ -356,7 +356,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Maybe they’re scamming Chinese Americans.
 </div>
 
@@ -372,7 +372,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve seen earlier videos—those being scammed were all Chinese Americans, threatened with having their passports revoked and being deported.
 </div>
 
@@ -388,7 +388,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There were also some white Americans who got scammed—simple-minded but physically capable.
 </div>
 
@@ -404,7 +404,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 After all these years of anti-fraud campaigns, Chinese people still fall for it. Does that mean they’re also “simple-minded but physically capable”? Plainly speaking, there’s no free lunch.
 </div>
 
@@ -420,7 +420,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You’re talking about the same “simple-minded, physically capable” white people who built the phones, electric lights, and power grids you use.
 </div>
 
@@ -436,7 +436,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A lot of white people have been scammed as well, including some unlucky white guys who even had their kidneys taken.
 </div>
 
@@ -452,7 +452,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Whoever crushes the scam syndicates is a true force of justice!
 </div>
 
@@ -468,7 +468,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Sure enough, they really are the world’s police.🎉  
 </div>
 
@@ -484,7 +484,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Next, the U.S. will probably send troops directly to wipe out the Southeast Asian scam groups.
 </div>
 
@@ -500,7 +500,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Hun Sen family and Min Aung Laing must be trembling—Trump could topple your rule at any moment!
 </div>
 
@@ -516,7 +516,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Salute to America’s righteous actions! China must also crack down on Southeast Asian telecom fraud and sanction the countries that harbor these fraudsters!
 </div>
 
@@ -532,7 +532,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Scammers still dare to swindle Americans—didn’t they see the U.S. passport?
 </div>
 
@@ -548,7 +548,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Which place has the most scam victims?
 </div>
 
@@ -564,7 +564,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 First are Chinese people, followed by Americans — and there are quite a lot of low-IQ groups in the U.S. as well.
 </div>
 
@@ -580,7 +580,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 America has powerful technology — let them dig deep to find out who the real mastermind is and who the accomplices are behind the scenes.
 </div>
 
@@ -596,7 +596,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Salute to the United States for cracking down on telecom fraud.
 </div>
 
@@ -612,7 +612,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Those who provide electricity, water, and internet resources to telecom fraud groups are accomplices of fraud—evil organizations that must be struck down together!
 </div>
 
@@ -628,7 +628,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This makes me feel better! I thought telecom fraud only targeted Chinese people. 🥲🥲🥲
 </div>
 
@@ -644,7 +644,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 For others, it’s just property. For China, it’s life and property.
 </div>
 
@@ -660,7 +660,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Then you’re really clever—so drugs are only harmful when Chinese people use them, but when Americans use them, it’s just a waste of money?
 </div>
 
@@ -676,7 +676,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A lot of people in Japan and South Korea have been scammed too.
 </div>
 
@@ -692,7 +692,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 My sister’s mother-in-law, a Chinese American, got scammed out of \$50,000. My sister’s close friend lost \$1.5 million. Both cases involved online romance scams—on the other side, the scammers pretended to be wealthy men who were supposedly interested in the women. They hadn’t even met in person, yet they sent the money. This was in Seattle, where apparently two out of every five women have been scammed.
 </div>
 
@@ -708,7 +708,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Being able to pinpoint nine separate scam centers really proves that the U.S. cyber warfare capabilities are in a league of their own globally! You can’t argue with that.
 </div>
 
@@ -724,7 +724,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The world must take action! Scam groups and individual fraudsters must be completely eradicated—one strike, one kill! We must be ruthless and eliminate future threats once and for all!
 </div>
 
@@ -740,7 +740,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 After the EU’s Eight-Hour Directive, domestic violations gradually improved. Hopefully, once the U.S. cracks down on scams, there will be fewer victims at home!
 </div>
 
@@ -756,7 +756,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. does a lot of shady things, but on this matter, I fully support them!
 </div>
 
@@ -773,7 +773,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. directly cracks down on terrorist-linked scam groups. 😂😂😂
 </div>
 
@@ -790,7 +790,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly. Only sanctions—especially U.S. sanctions—are truly effective, since so many transactions flow through the dollar; once sanctioned, a lot of operations get restricted.
 </div>
 
@@ -806,7 +806,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The world needs a strong and capable police force to crack down on criminals and criminal organizations that harm people everywhere.
 </div>
 
@@ -822,7 +822,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Salute to America’s righteous actions! China must also crack down hard on Southeast Asian telecom fraud and sanction any countries that harbor these fraudsters!
 </div>
 
@@ -839,7 +839,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The so-called “public intellectuals” always say that if Americans get bullied, the U.S. will send in the military. So why are they only imposing sanctions? Where’s the army? Where are the aircraft carriers?
 </div>
 
@@ -855,7 +855,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A righteous act—fully supported! Evil organizations must be confronted, and a clear stance must be taken!
 </div>
 
@@ -871,7 +871,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. strikes decisively against those who threaten its own interests. But when it comes to those who harm others, not only does it refrain from action, it even actively supports them. This aligns with an old Chinese saying: “In front, a person; behind, a ghost.”
 </div>
 
@@ -887,7 +887,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The world’s police have finally taken action. Once they step in, there’s no problem they can’t solve.
 </div>
 

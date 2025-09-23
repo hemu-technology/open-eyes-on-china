@@ -35,7 +35,7 @@ Click to expand Chinese comment</span>
 这种以简单方式直接定义一个群体的行为最终会变成“刻板印象”，这种问题是没什么意义的。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 A country is an extremely complex entity. However you slice it—horizontally or vertically—you’ll find countless groups and classes with completely different agendas. Even a tiny country like Luxembourg has a complex economic structure. Are Luxembourg’s steelworkers and its eco-minded leftists on the same side? Of course not.
 
 So why would you think there exists this thing called “Europe,” where all “Europeans” supposedly, deep down, look down on Americans and Russians?
@@ -60,7 +60,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Europeans often hold the view that Slavs are “barbarians,” and since Russia was once conquered and ruled by the Mongol Empire, Russians are sometimes dismissed as “Mongol half-breeds.”
 
 As for Americans, Europeans see them as descendants of people who couldn’t survive in Europe and emigrated to the New World—“inferior stock,” in their eyes. They also believe that only declining or bankrupt European noble families would marry into American nouveau riche families, trading pedigree for financial aid. The American nouveaux riches, in turn, gained a bit of borrowed prestige, while the declining nobles were marginalized in European aristocratic circles.
@@ -80,7 +80,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Aren’t Slavs considered Europeans?
 </div>
 
@@ -97,7 +97,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The ancestors of the British, French, Germans, the Nordics, and Spaniards were a mix of Germanic peoples and local natives.
 
 Italy, although originally home to the Latin people of the Roman Empire, saw Germanic settlers move in after the fall of Rome, so Italians are also considered of mixed Germanic heritage.
@@ -115,7 +115,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Who were the indigenous peoples of “Old Europe”?
 </div>
 
@@ -131,7 +131,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Other Slavs count as Europeans, but not Russia—Russia is considered Asia.
 </div>
 
@@ -148,7 +148,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Then what about Greece and Portugal?
 </div>
 
@@ -164,7 +164,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Let’s just forget about the small number of Germanic people in Spain.
 </div>
 
@@ -180,7 +180,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Do Ukraine and Belarus count or not?
 </div>
 
@@ -196,7 +196,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ukraine and Belarus have no territory in Asia; all their land is in Europe.
 </div>
 
@@ -213,7 +213,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’m talking about ancestry. From my observation, Ukrainians and Belarusians are basically the same as Poles and Lithuanians—most of them look like European white people. In contrast, in Russia, you often see features leaning more toward Turkic, Tatar, or Central Asian types.
 </div>
 
@@ -229,7 +229,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So Ukraine and Belarus still count as European. In the Russian drama Catherine, when the heroine marries into Russia, she says she’s “going to Asia.”
 </div>
 
@@ -254,7 +254,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This question has to be considered from two angles. First: from a European perspective, do the majority of people today (over 51%) look down on Americans and Russians? Second: do they really look down on them deep down?
 
 Let’s start with the U.S. I don’t think Europeans harbor deep-seated contempt for Americans. They may disagree with certain U.S. policies and ideals, but that doesn’t translate into genuine disdain for American people. Europe spent four centuries spreading democracy, republicanism, human rights, and freedom to the general population, a process that cost the lives of many European emperors (who, of course, weren’t voluntarily sacrificed) and revolutionary elites. So while Europe retains monarchies (like in the UK or the Netherlands) and some revolutions weren’t complete, that’s about it.
@@ -293,7 +293,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The people they look down on deep down are the Chinese. As for the U.S., they treat it like their own child; as for Russia, they see it as a close-but-unruly white neighbor. With both countries, there is a certain level of empathy, some shared language, and historical memory.
 
 China, however, is completely different. They reject us at the core, look down on us at the core, and harbor a kind of ruthless hostility that wants to crush us completely.
@@ -319,7 +319,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Come on, the white people who truly hate with all their heart is Russia. If they really had the power, Russia would be flattened in no time.
 
 China? Where is China? Some godforsaken place—what does it have to do with me?
@@ -339,7 +339,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What is Europeans’ attitude toward Japan?
 </div>
 
@@ -359,7 +359,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How to put it… it’s a racial form of looking down. Europeans still have some deep-seated wariness toward Chinese people. Even though the media portrays China negatively, that doesn’t really happen with Japan. But in their hearts, white people have never truly respected the Japanese.
 
 Their attitude toward Japan is consistent: a mix of disregard and subtle admiration. Japan poses no real threat to white people, so it doesn’t trigger any deep-seated caution, while its culture and customs are interesting and enjoyable for them.
@@ -379,7 +379,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Is it because Japan has already been defeated by the U.S. and Russia?
 </div>
 
@@ -396,7 +396,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Japan is small, fascist, “de-Asianized” and “Europe-leaning,” a U.S. colony, and goes along with the West.
 
 It’s nothing like China, which promotes a “community with a shared future for mankind” and the Belt and Road Initiative—both of which run counter to Western interests.
@@ -415,7 +415,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 White people look down on China, but at the same time, they are wary of it. Do you understand the complexity here? They may look down on many ordinary, mediocre Chinese people, but when it comes to China as a whole, they know there are inevitably some outstanding heroes. This makes them deeply cautious, and they try desperately to ignore, ridicule, or deny it.
 </div>
 
@@ -444,7 +444,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Although this may sound somewhat stereotypical, in reality, this phenomenon cannot be said to be entirely nonexistent. Fundamentally, it’s similar to how the Han Chinese in central China—especially before the Qing dynasty—generally looked down on neighboring countries and ethnic minorities.
 
 It’s a kind of confidence and arrogance derived from long-term economic, military, and cultural advantages.
@@ -473,7 +473,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Some Europeans don’t even respect themselves. Northern Europe is isolated and dull, Southern Europe lacks ambition, Eastern Europe is poor and apathetic, and Central Europe is all “hallelujah.”
 
 As for Russia—which, geographically, is not really “Eastern Europe,” and in Asia and the Americas—well, they look down on it even more. It’s just full of the nasty flaws of capitalism.
@@ -502,7 +502,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Due to certain stereotypes, most of the earliest white immigrants to North America were bankrupt farmers, starving lower-class people, famine refugees, or newly rich Jewish families—essentially marginalized groups from non-mainstream European society. Up until World War II, European nobility and intellectual elites rarely emigrated to the U.S. But the devastation of Europe during WWII changed that.
 
 The earliest white immigrants to Australia were almost all convicts sent there as punishment.
@@ -529,7 +529,7 @@ A族群给B族群贴上“劣等”、“低贱”的标签打进自己的思想
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When Group A labels Group B as “inferior” or “lowly” and ingrains this into their minds, it becomes a key tool for controlling or opposing Group B. Such mental conditioning allows members of Group A to plunder or kill Group B without shame—and sometimes even feel proud of it. A historical example would be how white people treated people of color.
 
 If Group A does not yet hold an overwhelming advantage over Group B, this mental conditioning helps maintain the group’s exclusivity and aggressiveness, laying the groundwork for eventual dominance and territorial expansion—like the rivalries among European countries.
@@ -554,7 +554,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From a religious perspective, Europe prides itself on being the bastion of orthodox Christianity, so it naturally looks down on the Puritan-dominated U.S. and the Orthodox-dominated Russia. Moreover, the historical animosities among these three denominations run deep.
 </div>
 
@@ -581,7 +581,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Back then, those who went to the Americas were mostly people who couldn’t make it in Europe—either facing religious persecution or having lost their land. There’s an old saying that a group of Europe’s lowest strata went on to build the world’s strongest empire. England sent its criminals to Australia, while those dispossessed or persecuted for religion mostly went to the harsh lands of North America. Some were indentured laborers, essentially selling themselves to work there, so people with cultural refinement were rare. When Britain imposed taxes on its North American colonies, London’s attitude was: “You are my colony, so you should pay taxes.” The colonists replied: “You forced us here; now that we have wealth, you want to fleece us?” Even Benjamin Franklin went to London asking them to be lenient, but British officials publicly humiliated him—revealing their deep-seated disdain for the “backwater” North Americans.
 
 Early Americans themselves also lacked cultural confidence. It wasn’t until works like Walden and the transcendentalist writings, along with Whitman’s Leaves of Grass, that Americans gradually developed cultural self-confidence, seeing themselves as an independent, newly-formed American nation rather than merely a European transplant. Yet in much of American literature—from Irving to Hemingway—when the perspective remains focused on the Old World, the psychological tie to Europe remains hard to sever.
@@ -612,7 +612,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Italian descendants have already gained a considerable amount of social resources. That said, there aren’t many Zhihu users in Europe (excluding the Commonwealth), and those in the U.S. or Australia often have a hard time understanding Europe’s laid-back, “go-with-the-flow” attitude. Moreover, each European country is an independent entity with significant differences.
 
 Regarding China, Europeans outside the official system are generally curious about Eastern cultures. Only a very small minority harbor hostility toward China. The European governments’ stance on China is relatively positive—they have even quietly passed some blows to the U.S. in China’s favor. The U.S.-China tensions allowed Italians to breathe a small sigh of relief (after all, incidents involving U.S. troops and the economic strain caused by the American printing press have long burdened Europe). Europeans generally wish to do business with China, but they don’t pay much close attention to Chinese domestic affairs.
@@ -633,7 +633,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the eyes of Europeans, Russians are seen as barbarians, Americans as nouveau riche, while Europe itself represents the old aristocracy—cultured, with an appreciation for art, and a true sense of beauty. In the era of Western centrality, the U.S. was considered nothing at all.
 </div>
 
@@ -672,7 +672,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In Europeans’ stereotypes, Russians are like a mix of the worst biases some Chinese people hold toward Vietnam, South Korea, and Japan.
 
 Race:
@@ -725,7 +725,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In Europeans’ stereotypes, Russians are like a mix of the worst biases some Chinese people hold toward Vietnam, South Korea, and Japan.
 
 Race:
@@ -770,7 +770,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Because they see themselves as the true heirs of Roman orthodoxy, culturally, even though Western Europe practices a separation of church and state, in doctrine they don’t. Internally, Western Europe promotes universal values, but externally, it applies a racial hierarchy: anyone not of “our kind” is considered less than human.
 
 So Western “universal values” were never applied in the colonies. On the contrary, strict hierarchical systems were enforced there. Double standards have been a consistent part of their cultural DNA.
@@ -796,7 +796,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Germans look down on Spaniards and Italians. Italians look down on Slovenians and Czechs. Czechs look down on Greeks. Greeks look down on Romanians. Romanians look down on Bulgarians. And Bulgarians look down on Ukrainians…
 </div>
 
@@ -815,7 +815,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From my observation, Europeans have a dominant advantage when it comes to driving skills. Americans often can’t even drive a manual, while Europeans can do launch control starts in stick-shift cars almost effortlessly.
 </div>
 
@@ -835,7 +835,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Europeans look down on all countries outside Europe. As for the U.S., they feel a mix of envy, jealousy, and resentment. The reason? Just take a look at where the highest per capita living standards and the most prosperous, secure nations are…
 </div>
 
@@ -856,7 +856,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Serious Europeans generally don’t look down on Russians, since Russians have long been “old friends” of Europe. In the three centuries of Euro-Russian interactions after 1700, the emotions Europeans developed toward Russia were more about fear and hostility than disdain.
 
 Looking down on Americans, however, is more plausible. Western Europeans tend to judge Americans based on U.S. culture and society, while East Asians in the eastern part of the Eurasian continent often judge Americans based on historical experiences. That said, looking down on Americans doesn’t necessarily mean looking down on the U.S. itself, which is an important distinction to keep in mind.
@@ -882,7 +882,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Europeans” is a very broad term. For example, the French can be a bit condescending toward English speakers.
 
 For the French, a Black French-speaking person is considered “one of us,” whereas a Chinese person who speaks English and a completely unrelated Japanese tourist are lumped into “you,” and English-speaking Americans are automatically “them.”
@@ -907,7 +907,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Europeans think Americans are crude and uncultured. They see Slavic peoples as Mongols in white skin at heart. Economically, Europe is living off old advantages. In terms of future industries like the internet and AI, only China and the US are truly competing. The automotive sector is being challenged by China. In recent years, Europe has taken in large numbers of refugees, and “Black-Green” ideologies have spread to rural areas in some countries. The riots in the UK are just a prelude. Europeans should enjoy the next 15 years of relative stability while they can.
 </div>
 
@@ -934,7 +934,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s mainly about culture.
 
 Building a hard-power nation can take just one generation.

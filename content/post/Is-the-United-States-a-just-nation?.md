@@ -35,7 +35,7 @@ Click to expand Chinese comment</span>
 人人都可以买枪，却没人想着闹革命；媒体总是充斥坏消息，却没人想着移民；随时随地骂政府，对同胞对路人却热情友善；到处都有人聚众集会，却没人鸣冤叫屈向官员下拜；有最先进的军队和武器，却只是留着对外人用。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The United States is a very interesting country.
 
 Everyone can buy guns, yet no one thinks about starting a revolution. The media is always filled with bad news, yet few think about emigrating. People criticize the government openly anytime and anywhere, yet they are warm and friendly toward fellow citizens and strangers. Crowds gather in demonstrations everywhere, yet no one kneels before officials to plead grievances. They have the most advanced military and weapons, yet they are reserved only for use against outsiders.
@@ -55,7 +55,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When people have the ballot, they use it for revolution, and they keep guns to protect themselves. Those without the ballot can only resort to guns for revolution.
 </div>
 
@@ -71,7 +71,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That year, Trump suddenly overtook overnight in the vote count—turns out the American people just enjoy a bit of contrast and surprise. \[laughing with tears]
 </div>
 
@@ -87,7 +87,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When the rednecks stormed the Capitol and so many people died, was that a ballot revolution or a gun revolution? 😂
 </div>
 
@@ -103,7 +103,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s the thing—the key advantage of democracy is how easy it is to shift the blame: after all, it was the people who voted them in. No matter how big the mess, it’s everyone’s fault—which means it’s really no one’s fault.
 </div>
 
@@ -119,7 +119,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What about problems at home? Do you dare hold anyone accountable? Do you dare report on them? Haven’t enough issues already been blamed on capital and companies like Meituan? Back when Biden was in office, U.S. media outlets ran plenty of reports about his alleged misconduct and his son’s crimes. Even if they don’t shift the blame, do you have the power to hold them to account? And in all those audit reports over the years from the National Audit Office, has the embezzled public money ever really been recovered?
 </div>
 ---
@@ -134,7 +134,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There’s no denying it—their guns are indeed advanced. As for ballots, we have our own thresholds. At mid-year and year-end, phone calls always come urging us to return home to vote. I usually make the trip back to see my hometown and donate 2,000 yuan to the village. 🙏 Just remember, never more than that—but every year, without fail. 🙏🙏
 </div>
 
@@ -150,7 +150,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Did you know that someone actually bet on the election back then—and made hundreds of millions? Even the betting companies contacted him to stop him from placing more bets! When he hired a polling company, they asked respondents, “Who do you think your neighbors will vote for?” instead of “Who will you vote for?” By asking what others might do, respondents could speak freely without pressure. You people are really something! Always afraid that the people might get the rights that already belong to them!
 </div>
 
@@ -166,7 +166,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Although there are ballots, there’s no real choice;
 Although there are guns, they can only be used against the people themselves;
 Although people are brainwashed by the media, they still live with a sense of democratic superiority…
@@ -189,7 +189,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If it weren’t for the U.S. stirring up chaos in the Middle East, allowing them to export their beliefs in peace, we wouldn’t even be able to eat a simple pork trotter meal here in a few years.
 </div>
 
@@ -207,7 +207,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To be fair, we do have to thank one country—India. If it weren’t for them holding the line, Yunnan and Guangxi wouldn’t have managed to hold out.
 </div>
 
@@ -223,7 +223,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Even after tens of thousands have died, it’s still a mess. Without the U.S. and Russia vying for influence, the Middle East would be like a wealthy Malaysia. Malaysia is even closer, but has it ever stopped you from eating a pork trotter meal?
 </div>
 
@@ -240,7 +240,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Has Malaysia been occupied by MSL
 </div>
 
@@ -256,7 +256,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If Malaysia faced the constant threat of invasion or periodic bombings, the rise of extreme green movements wouldn’t be unlikely. When the U.S. was defeated in Vietnam, the Red Viet Cong could focus on economic development. Similarly, North Korea, being threatened twice a year by military exercises for the past 50 years, can only concentrate on developing nuclear weapons. History cannot be hypothesized; causes and effects are intertwined.
 </div>
 
@@ -276,7 +276,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Malaysia’s pork consumption isn’t affected, but the government restricts the admission rates of local Chinese and Indian students in public universities and civil service exams. A Malaysian Chinese friend explained it like this: if a public university admits 10 students, 8 spots go to Malays, leaving only 2 for Chinese and Indians. Chinese students have to work ten times harder than Malays just to have a chance at getting into a public university.
 
 The Chinese and Indian populations are not insignificant. The Chinese once made up 44% of the population; now they account for about 22.6% of Malaysia’s total population. Despite facing structural inequalities in education and politics, they dominate the business sector—especially the private economy—where their share could reach 60%-70%. In government-controlled industries like finance and energy, Malay entrepreneurs are more prevalent.
@@ -296,7 +296,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Earth is round, and no ecosystem is perfect. The longer peace lasts, the more likely civilizations are to flourish. If a country wants an excuse to bomb someone, it can always find one.
 </div>
 
@@ -312,7 +312,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To be fair, we do have to thank one country—India. If it weren’t for them holding the line, Yunnan and Guangxi wouldn’t have managed to hold out.
 </div>
 
@@ -331,7 +331,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I haven’t been to the U.S., so I won’t make any rash judgments about whether it’s “good” or not. But looking at historical reports, in countries that follow the Americans’ lead, ordinary people tend to live comfortably. In countries that confront the U.S. head-on, the rulers aside, ordinary citizens often have barely enough to eat, with even basic rations controlled—let alone other consumer comforts. In that sense, the U.S. government does seem to be a relatively capable one.
 </div>
 
@@ -349,7 +349,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It doesn’t really matter whether ordinary people live well—the key is that they feel a sense of dignity. 🫡
 </div>
 
@@ -365,7 +365,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Globally, how many countries follow the U.S., and how many confront it head-on?
 </div>
 
@@ -386,7 +386,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Some people in the comments… I can only say that some simply cannot imagine people they’ve never met, nor understand groups with different ways of thinking. There’s no way they can grasp what ordinary Americans really think. 😅
 </div>
 
@@ -406,7 +406,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I don’t know what they’re really thinking, but one thing’s clear—they dare not go against the Jews, and instead, a super “thought-crime” law got passed. In the 21st century, a quarter of the way through it, in the world’s strongest country, the idea that simply “thinking” could be a crime—who would have believed it before?
 
 So you see, white people have always been all show and no substance. Back in the Middle Ages, when lower-class whites lived worse than dogs, their rebellions were few and weak. They were just sycophants to those above and bullies to those below.
@@ -441,7 +441,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Here’s a translation of your points, rendered in natural English while keeping your meaning intact:
 
 1. They have guns in their hands, yet often use them against innocent school students (school shootings).
@@ -480,7 +480,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Here’s a natural English translation of your points while keeping the meaning and critical tone intact:
 
 1. Although guns are restricted, other weapons still cause severe harm (e.g., the Zhuhai vehicle attack killing 35, the indiscriminate knife attack in Jiangsu, and the Hubei shooting incident).
@@ -517,7 +517,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Let me respond to the points you raised and see if this makes sense:
 
 Other forms of harm are unavoidable—no place can claim to have zero extremists. Take, for example, the 2025 New Orleans car-ramming incident in the U.S. You can’t ban cars, right?
@@ -545,7 +545,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China can’t match what the U.S. does in a single day, not even in a whole year. 😂
 </div>
 
@@ -561,7 +561,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. emphasizes a free market, yet it subsidizes the military-industrial complex. This shows that “free market” in practice often has exceptions—especially when national security or strategic interests are involved. It’s a blend of market principles and state intervention.
 </div>
 
@@ -577,7 +577,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You’re right—saying they “only” target innocent students is too absolute. Gun violence in the U.S. isn’t limited to schools; there are cases in workplaces, public spaces, homes, and streets as well. It’s more accurate to say that school shootings are a highly visible and tragic subset of a broader gun violence problem.
 </div>
 
@@ -593,7 +593,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Regarding subsidies, China has them too—for example, in recent years for electric vehicles and photovoltaics. These arise because some industries are difficult to get off the ground and need partial government support. Once the enterprises mature, the government usually withdraws the subsidies. Of course, the biggest criticism today is often about the scale of these subsidies, and that’s something the market itself needs to provide feedback on.
 </div>
 
@@ -609,7 +609,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’m not saying that all the Americans who are shot are completely “innocent,” nor am I suggesting that victims here—like pedestrians hit by cars or students stabbed with knives—deserve it. Every life lost to violence is tragic. The point is more about visibility, context, and the structural differences in how such incidents are framed and discussed.
 </div>
 
@@ -625,7 +625,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Haha, that’s really twisting things unfairly. Gun violence *can* be addressed by regulating guns—but car accidents? Are we supposed to ban cars? In 2024 alone, the U.S. had a total of 503 mass shootings.
 </div>
 
@@ -646,7 +646,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Point 3:
 The U.S. really does emphasize equality. What you mentioned about policies differing by state is because the country has a federal system. Every state is equal under the law—within the framework of the U.S. Constitution, any state can freely enact its own laws as long as the proper processes are followed.
 
@@ -666,7 +666,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Only targets innocent students in schools”
 
 “Fair competition against Huawei”
@@ -694,7 +694,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly—then why can’t each Chinese province set its own policies within the framework of the Constitution, just like U.S. states do?
 
 As for your point about the EU sanctioning China—does that really prove China is supporting Russia? China is allowed to conduct normal trade with Russia. The EU is essentially demanding that China not even engage in normal trade with Russia. In reality, China is neutral. Why should the EU dictate which side China must take? Doesn’t China need to consider its own national interests?
@@ -713,7 +713,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They instigated the wars in Iraq, Libya, Syria, and so on. Back when the votes were taken, China actually voted in favor.
 </div>
 
@@ -730,7 +730,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 1. That “unreliable shot” can’t possibly have been staged, right? Were Lincoln, Garfield, McKinley, and Kennedy also students?
 
 2. Doesn’t Huawei know what it did? They broke the rules first! As for TikTok, it’s still operating normally, maintaining huge influence—it hasn’t suddenly been stripped of actual control like some other companies.
@@ -750,7 +750,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I just don’t understand—such a “great” country, yet it’s constantly killing or funding killings abroad. Why are people in the U.S. afraid to go out at night? Why are there so many shootings among its own citizens? What does China’s development have to do with the U.S., and why should it sanction or suppress China? The U.S. claims to have freedom of speech, yet YouTube removes Chinese voices as if it’s a matter of life and death.
 </div>
 
@@ -769,7 +769,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You might not know, but Huawei sold U.S.-prohibited goods to Iran. You can look up Meng Wanzhou’s statement of admission to see why the U.S. targeted Huawei. 😎
 </div>
 
@@ -789,7 +789,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly. Here’s a list of the world’s so-called “just” countries—the further down the list, the stronger the “justice” seems to be.
 ![](images/2025/us-a-just-nation/1.jpeg ())
 
@@ -829,7 +829,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I suggest putting the Convention on the Rights of the Child at the top, since with so many images, a lot of people probably won’t scroll down far enough to see it.
 </div>
 
@@ -845,7 +845,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Refusing to sign the Convention on the Rights of the Child — that’s simply outrageous and beyond reason.
 </div>
 
@@ -861,7 +861,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Which two countries are those in the top left corner? How come they always stand on the opposite side of world civilization? How can such backward countries still survive? [angry][helpless]
 </div>
 
@@ -877,7 +877,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. and its “parent,” Israel.
 </div>
 
@@ -893,7 +893,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s ridiculous—Christian countries accuse China of violating Muslim rights, yet Muslim countries themselves say nothing.
 </div>
 
@@ -909,7 +909,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I want to see the most recent UN vote demanding Russia withdraw its troops— which countries supported, opposed, or abstained? 🤔
 </div>
 
@@ -925,7 +925,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You can check Israel too—after all, they’re cut from the same cloth.
 </div>
 
@@ -941,7 +941,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Interesting—these votes are pretty close to each other, too.
 </div>
 
@@ -957,7 +957,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So… can we actually see the most recent results or not? 🤭
 </div>
 
@@ -973,7 +973,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I want to see the most recent UN vote demanding Israel withdraw its troops— which countries supported, opposed, or abstained? 🤔
 </div>
 
@@ -991,7 +991,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Enough already 😂 You probably don’t even know the background of the treaties.
 The “Resolution Against Glorifying Nazism” was proposed by Russia. When they invaded Ukraine in 2022, they shouted about “denazification” to label Ukraine as full of neo-Nazis.
 As for the others, I don’t even want to explain—most of them are taken out of context. Anyone who actually asked ChatGPT wouldn’t have said stuff like this 😂
@@ -1009,7 +1009,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 As for the one opposing the lifting of sanctions on Cuba, which other country is it? Forgive me, I’m blind—I only see the U.S.
 </div>
 
@@ -1032,7 +1032,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Whether it’s “just” or not is hard to say, but the U.S. is definitely not a bad country.
 
 Otherwise, why would so many wealthy, talented, and smart people immigrate there? And even more of our own people risk their lives, trying to cross illegally…
@@ -1053,7 +1053,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If they were really confident, why would people within the system be forced to surrender their passports?
 </div>
 
@@ -1069,7 +1069,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If they were really confident, why is the U.S. targeting TikTok? 🤭
 </div>
 
@@ -1085,7 +1085,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Facebook and other U.S. social media platforms can’t operate in China, and U.S. telecom operators can’t operate here either. The U.S. targeting TikTok—Huawei responding in kind—is just the principle of reciprocity. Nothing hard to understand.
 </div>
 
@@ -1101,7 +1101,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But the U.S. probably wouldn’t dare to demand that people within the system surrender their passports.
 </div>
 
@@ -1117,7 +1117,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Can’t you tell whether it’s the principle of reciprocity or just a lack of confidence? 😳
 </div>
 
@@ -1133,7 +1133,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Then why not just open up the internet “wall”? 😲 The U.S. didn’t build a wall like that! 😲
 </div>
 
@@ -1149,7 +1149,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If they were really confident, why doesn’t the U.S. open its borders?
 </div>
 
@@ -1165,7 +1165,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If they opened the borders, what if you slipped in and diluted their confidence?
 </div>
 
@@ -1181,7 +1181,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t trust their words—watch their feet. 😂😂
 </div>
 
@@ -1198,7 +1198,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I find it really strange. On one hand, you say China isn’t a fair society, that there’s a privileged class of officials and rich people enjoying perks—that’s your argument. On the other hand, you say the U.S. is free, democratic, and fair, with no privileges and everyone equal—also your argument. And you claim that the rich and officials who move to the U.S. must have sharp judgment and intelligence—again, your argument.
 
 So why would these wealthy officials give up their privileges to go somewhere that doesn’t allow perks, where they can’t stand above others and must be equal with ordinary people? This really makes me question their intelligence and judgment 😂
@@ -1216,7 +1216,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You’re right, but a toilet isn’t a bad place either—otherwise, why would everyone have to go there? 😲
 </div>
 
@@ -1232,7 +1232,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To be blunt, those people just want to take the money they exploit from you and enjoy in America a lifestyle you’ll never experience in eight lifetimes. Harsh, isn’t it? But that’s the reality.
 </div>
 

@@ -39,7 +39,7 @@ Click to expand Chinese comment</span>
 每天吃饭时看这个，绝对能减肥
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Watching this every mealtime? Guaranteed to make you lose weight. 😂
 </div>
 
@@ -55,7 +55,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 My friend just bought some Indian food… and accidentally spilled it. 😅
 
 ![](images/2025/like-india-food.jpg ())
@@ -73,7 +73,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 OMG! I just put down my bowl and you show me this — do you have it out for me or something?! 😂
 </div>
 
@@ -89,7 +89,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Next time you sit down to eat, watch this video first — guaranteed to help with weight loss! 😅
 </div>
 
@@ -105,7 +105,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve been in India for five years and haven’t eaten a single bite of this. 😅
 </div>
 
@@ -122,7 +122,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Where did all those people go — the ones claiming “no tech, no harsh chemicals, no additives, totally non-carcinogenic”? 😅
 </div>
 
@@ -138,7 +138,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Probably over at the hospital’s proctology department. 😅
 </div>
 
@@ -154,7 +154,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Looks exactly like what comes out when you have indigestion. 😅
 </div>
 
@@ -170,7 +170,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No additives, totally non-carcinogenic. 😏
 </div>
 
@@ -186,7 +186,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Might as well eat the stuff with additives instead. 😅
 </div>
 
@@ -202,7 +202,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Stubborn fool — make him eat this for a month straight and see his mouth rot. 😅
 </div>
 
@@ -218,7 +218,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Packed with tech and “hard work.” Go ahead, eat it — totally non-carcinogenic… but you’ll diarrhea your way straight to the afterlife! 😅
 </div>
 
@@ -234,7 +234,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Our Northeast soybean paste is pretty much the same. 😅
 </div>
 
@@ -250,7 +250,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Northeast soybean paste looks pretty similar in color, but… it’s industrially made and definitely nowhere near as badass as this. 😅
 </div>
 
@@ -266,7 +266,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I don’t even dare scroll on my phone while eating anymore — afraid I’ll run into this video. 😅
 </div>
 
@@ -282,7 +282,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Lowering the flag for someone who didn’t even hold an official position? The U.S. flag seems hardly valued at all.
 </div>
 
@@ -298,7 +298,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You don’t have to eat it, but you must make your boss try it. 😅
 </div>
 
@@ -314,7 +314,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Whenever I’m in a bad mood, I have to check out Indian food. It brings me back to basics, lifts my spirits, and hits me with the most… authentic poop vibes. 😅
 </div>
 
@@ -330,7 +330,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve been helping my mom with chores since I was a kid, and honestly, Indian street food looks pretty much like the pig feed I used to make — and you eat it almost the same way too. 😅
 </div>
 
@@ -346,7 +346,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Every time I get hungry, I watch Indian street food videos — and suddenly, I’m not hungry anymore. 😅
 </div>
 
@@ -362,7 +362,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve got a bit of constipation — I’m guessing eating this would definitely clear things out in a way that could darken the sky! 😅
 </div>
 
@@ -378,7 +378,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve always wanted to ask: Do Indians get diarrhea from their own food? Do they even realize it looks exactly like… diarrhea? 😅
 </div>
 
@@ -394,7 +394,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Indian food has gotta be the best in the whole world. 😅
 </div>
 
@@ -410,7 +410,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 India’s amazing — they’ve taken food to the extreme. Looks gross, tastes amazing… kinda reminds me of stinky tofu. 😅
 </div>
 
@@ -426,7 +426,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Let’s take a look at some “clean and hygienic” Indian food. 😅
 </div>
 
@@ -442,7 +442,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Putting everything else aside, why do Indians have to fill it up so much when they stir this stuff? 😅
 </div>
 
@@ -458,7 +458,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I invited my friends from Africa to try it. 😅
 </div>
 
@@ -474,7 +474,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Watch Indian food when you’re hungry — suddenly, you’re not hungry anymore. 😅
 </div>
 
@@ -490,7 +490,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If I get the chance, I definitely have to make my boss try it. 😅
 </div>
 
@@ -506,7 +506,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Might as well be Pakistan! 😅
 </div>
 
@@ -522,7 +522,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Oh wow, saw this right before lunch… I don’t think I can eat anymore. 😅
 </div>
 
@@ -538,7 +538,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Shoutout to Indian “nutritious” food — love from China! 😅
 </div>
 
@@ -554,7 +554,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just one look and my constipation’s cured. 😅
 </div>
 
@@ -570,7 +570,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How do they manage to make everything look like poop, get it everywhere, and have to touch it with their hands too?! 😅
 </div>
 
@@ -586,7 +586,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I lost all my friends just so one of them would eat it. 😅
 </div>
 
@@ -602,7 +602,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No wonder I invited my friend to eat this — now we never talk again! 😅
 </div>
 
@@ -618,7 +618,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Guaranteed to make your guests eat with peace of mind… and leave with peace of mind too. 😅
 </div>
 
@@ -634,7 +634,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Why does India love making food that looks like mushy poop so much? Totally baffling. 😅
 </div>
 
@@ -650,7 +650,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I always feel like what Indians eat and what comes out… looks almost exactly the same. 😅
 </div>
 
@@ -666,7 +666,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Looks a lot like the natto Japanese people eat all the time. 😅
 </div>
 
@@ -682,7 +682,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If you’re constipated, gather a group and head to India — if you don’t get diarrhea, you must have serious dampness. 😅
 </div>
 
@@ -698,7 +698,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I almost threw up — no exaggeration. 😅
 </div>
 
@@ -714,7 +714,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Seeing Indian food just made me realize all that “tech and hard work” stuff doesn’t matter — I really can’t bring myself to eat this. 😅
 </div>
 
@@ -731,7 +731,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What did my friend do? Even a death row inmate wouldn’t have to eat this… at least they get a chicken leg on their last meal! 😅
 </div>
 
@@ -747,7 +747,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The biggest thing about Indian food? The color and fully handmade prep — guaranteed to shock both your eyes and your digestive system. 😅
 </div>
 
@@ -763,7 +763,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I can’t even look — just two glances and I almost threw up during dinner tonight. 😅
 </div>
 
@@ -779,7 +779,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How do they all get so fat? I don’t get it — no meat, all vegetarian, and yet so chubby?! 😅
 </div>
 
@@ -795,7 +795,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is Free America! What a pity—only 31 years old! The shooter’s skills were top-notch.
 </div>
 
@@ -811,7 +811,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If Biden “Mr. Full Pipe” tried this once, all his blood vessels would be cleared, and he’d be flying up the plane in three steps. 😅
 </div>
 
@@ -827,7 +827,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 印度50多度温度，这个味道绝对已经发酸了
 </div>
 
@@ -843,7 +843,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Forget whether it tastes good — I just wanna know who’s brave enough to eat it. 😅
 </div>
 
@@ -859,7 +859,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Planning to invite “Brother Three” to open a restaurant in China. A lot of people say his food is rich and flavorful, no tech or hard work needed, and the business would definitely crush it. 😅
 </div>
 
@@ -875,7 +875,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No wonder some people describe it as… digested stuff. 😅
 </div>
 
@@ -891,7 +891,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I realized that watching Indian food cured my years of constipation. 😅
 </div>
 
@@ -907,7 +907,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The world is huge and full of surprises. India’s an ancient civilization, but how does its food end up looking like… that? 😅
 </div>
 
@@ -923,7 +923,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Gotta say, Indians must have some serious guts to be able to eat stuff like this. 😅
 </div>
 
@@ -939,7 +939,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Why does India make it like this? Eating this can’t not give you diarrhea, right? 😅
 </div>
 
@@ -955,7 +955,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If I ever go to India, I’d probably starve to death. 😅
 </div>
 
@@ -971,7 +971,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 自从看了印度人吃饭，我家再都没吃过咖喱饭，
 </div>
 
@@ -987,7 +987,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How do they manage to turn every single food into its final… form? 😅
 </div>
 
@@ -1003,7 +1003,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, Indian food tastes pretty good… it’s just that it’ll probably give you diarrhea. 😅
 </div>
 

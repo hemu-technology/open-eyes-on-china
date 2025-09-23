@@ -34,7 +34,7 @@ Click to expand Chinese comment</span>
 他回答的两点，非常好，一，同不同意移民，是中国人自己的问题，他没法代表中国人回答，也就意思是，别的国家更不能强加给中国。二，别的国家不要把价值观强加给别人。他很有立场。一点没被带偏
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 His response highlighted two very good points:
 
 1. Whether to accept immigrants is a matter for the Chinese people themselves. He cannot speak for all Chinese, which also implies that no other country has the right to impose this on China.
@@ -55,7 +55,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This person should be considered one of China’s top speakers—fluent in English, logically clear, and able to navigate effortlessly between Chinese and Western cultures.
 </div>
 
@@ -71,7 +71,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He’s not really one of China’s top speakers—just a speaker whose way of talking and thinking leans more Western. His gestures while speaking even feel very Western.
 </div>
 
@@ -87,7 +87,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Is there a problem with communicating in a way that Westerners can understand?
 </div>
 
@@ -103,7 +103,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He is a patriotic Hong Kong billionaire.
 </div>
 
@@ -120,7 +120,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Dialectics refers to a way of looking at problems, with its essence emphasizing that everything has two sides. Logic refers to the method of expressing ideas through language, focusing on reasoning that is well-founded and organized. So, dear readers, there’s no need to attack each other anymore.😊😊😊
 </div>
 
@@ -136,7 +136,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To put it bluntly: in the late Tang Dynasty, the influx of people from various countries and ethnicities weakened internal cohesion, almost leading to the extinction of the Han Chinese during the Five Dynasties and Ten Kingdoms period. Later, in the Song Dynasty, some Jews allegedly betrayed the dynasty, facilitating the Yuan invasion.
 </div>
 
@@ -152,7 +152,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This person has strong thinking and speaking skills, is calm, mature, and insightful—a valuable talent for diplomacy.
 </div>
 
@@ -168,7 +168,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It should be said like this: 500 years ago, China accepted Jewish refugees. Later, when Zhu Yuanzhang founded the Ming Dynasty, he had them all executed. Do you know why? Because they betrayed the country that had originally accepted them.
 </div>
 
@@ -184,7 +184,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, refugees will never truly have a sense of national identity; they only have a sense of identity with their own ethnic group or community.
 </div>
 
@@ -200,7 +200,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s just like how some Indian-Canadian protesters in Canada Goose parades now shout at white people to “go back to Europe.”
 </div>
 
@@ -216,7 +216,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What is the name of this gentleman? Faced with two female journalists with ulterior motives, his responses were well-reasoned yet calm, graceful in demeanor, and weighty in meaning without raising his voice. Clearly, both the journalists and the audience were convinced by him! He is an outstanding diplomat—knowledgeable, principled, courageous, and approachable—truly deserving of recognition and greater responsibility.
 </div>
 
@@ -232,7 +232,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He is not a diplomat; he is a businessman from Hong Kong.
 </div>
 
@@ -248,7 +248,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 1. Whoever creates the refugees should take responsibility for them.
 2. We have always advocated systematically resettling refugees in their own regions through a series of policy initiatives, so they do not have to leave their homes.
 </div>
@@ -265,7 +265,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is the mark of a truly wise scholar: instead of directly answering the question, they prompt you to explain your own query, because the answer already lies within you. In contrast, some of our so-called experts and scholars immediately impose their own viewpoints; it may seem like a response, but it often only suppresses the other person’s emotions, leaving them frustrated and prone to argue even more forcefully.
 </div>
 
@@ -281,7 +281,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Whoever starts the war, whoever creates the chaos, should be the one to take in the refugees.
 </div>
 
@@ -297,7 +297,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The West creates refugees and then wants China to bear the consequences.
 </div>
 
@@ -313,7 +313,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A direct counter-question: Why do the US and Europe start wars? Without wars, where would the refugees come from?
 </div>
 
@@ -329,7 +329,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The “beautiful country” has a land area much larger than China but a population less than a third of China’s. It could easily host all the refugees in the world. Yet, if you look closely, most of the world’s refugees are connected to this “beautiful country”! The root causes of most refugees can be traced back to it. （“Beautiful Country” is a sarcastic nickname Chinese netizens use to refer to the United States.）
 </div>
 
@@ -345,7 +345,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Western media with the shameless and ignorant look of a thug.
 </div>
 
@@ -361,7 +361,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So the Chinese people really ought to be grateful that China still has a party—the Communist Party of China—that is committed to the people and the rejuvenation of the nation. No matter what setbacks it faces, it has always acted in the interest of the country and its people.
 </div>
 
@@ -377,7 +377,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From a historical perspective, both the “Wu Hu Uprising” and the “An Shi Rebellion” were caused by blindly accepting foreign refugees, bringing tremendous disasters to society.
 </div>
 
@@ -393,7 +393,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The response was full of wisdom and philosophical insight, while the questioning reporters were clearly on a completely different level. Kudos to China’s diplomacy and its insightful voices— the world needs more voices like this.
 </div>
 
@@ -409,7 +409,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s clear that the man is toying with these two women.😅
 </div>
 
@@ -425,7 +425,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Those who are not familiar with Chinese history cannot fully grasp this gentleman’s answers, which is why the two hosts themselves didn’t completely understand the Chinese guest’s point.
 </div>
 
@@ -441,7 +441,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It must also be said: who is responsible for today’s refugees? The West has created this refugee crisis and wants China to bear the consequences—but Chinese people will never accept that! In fact, even if China were willing to accept refugees, not a single one would voluntarily choose to go there. They all want to go to wealthy Europe. This was not instigated by China. So the West must face the consequences of the mess it has created!
 </div>
 
@@ -457,7 +457,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Whoever starts a war should be the one to take in the refugees.
 </div>
 
@@ -473,7 +473,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The United Nations should legislate that whoever causes the creation of refugees is responsible for their resettlement. Over the past century, countless wars have created massive numbers of refugees, and these wars have all been instigated by Western imperialism.
 </div>
 
@@ -489,7 +489,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This conversation is absolutely brilliant! This Chinese scholar is very adept at using verbal language and body language that Westerners can understand, and he gets straight to the heart of the matter. Especially noteworthy is his sharp sarcasm at the end, targeting Germany—a country so zealously aligned with the post-WWII Western world—always going on about “shared values.” It’s a masterstroke.
 </div>
 
@@ -505,7 +505,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. and the Western powers create wars but refuse to end them, yet they expect an unrelated third party—China—to bear the responsibility for the resulting refugees, under the pretext of “great power responsibility.” So, not answering directly is the right approach: those who cause the mess must deal with it themselves. That is the correct principle.
 </div>
 
@@ -521,7 +521,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In Europe, after the era of strong female leaders like Thatcher and Merkel, the political scene has been flooded with a bunch of self-important, low-IQ women.😮‍💨
 </div>
 
@@ -537,7 +537,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Because of the guilt they carry from World War II, Germans have long felt a sense of inferiority. As a result, whenever an opportunity arises, they try to seize the moral high ground. They strive to act as global moral arbiters. After the Second Gulf War, Germany managed to claim the moral high ground over the Americans, which alarmed the U.S. In response, the Americans tightened their control, infiltrating German politics, conducting surveillance, cultivating political agents, and consolidating influence over European media. These actions have contributed to the bizarre phenomena and low-IQ political performances we now see across European politics.
 </div>
 
@@ -553,7 +553,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 We should state it clearly and directly: whoever starts the war is responsible for the refugee issue. China did not start any wars and therefore has no obligation to take in refugees.
 </div>
 
@@ -569,7 +569,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 For this kind of question, respond with the same approach. Rwanda’s Kagame did something similar, and the other side was left speechless. That video is really impressive.
 </div>
 
@@ -585,7 +585,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. is even larger than China in land area, yet its population is only one-fifth of China’s, leaving four-fifths of capacity to catch up. To make progress, it’s better for the U.S. to accept immigrants. As a self-proclaimed superpower, the U.S. should certainly be able to handle it.
 </div>
 
@@ -601,7 +601,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The best response should be: “Are you willing to stop the wars? If you stop the wars, we will assist them in rebuilding their homes, so they can live with dignity as citizens of their own countries, rather than as refugees.”
 </div>
 
@@ -617,7 +617,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. and Western countries have long portrayed China as backward and low-quality, and these refugees often share similar stereotypes. As a result, enthusiasm for immigrating to China has always been low. Moreover, China’s green card has consistently been one of the hardest in the world to obtain, making it very difficult for those who left to return.
 </div>
 
@@ -633,7 +633,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Whoever causes a refugee crisis should be the one to resolve it. Why should the burden be pushed onto unrelated countries? China is a large country with over 1.4 billion people, unlike countries with only a few million or tens of millions. If a massive influx of refugees were to flood into China, it would seriously impact national stability, security, and the normal daily life of its people. Resolving such consequences and returning the country to normalcy would not be achievable in a short period.
 </div>
 
@@ -649,7 +649,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ask her: How are refugees created? These people and their ancestors have lived in their own countries, peacefully, for many years without any refugee issues. So why are there refugees now?
 </div>
 
@@ -665,7 +665,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 First, China did not create the refugees. Second, although China is large, its arable land per capita is very limited, so there isn’t extra land to support refugees.
 </div>
 
@@ -681,7 +681,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The most important point is: whoever starts the war, creates chaos, and produces refugees should be the one to take responsibility—in short, you reap what you sow. Secondly, China is a populous developing country with its own internal challenges; it’s better to take care of our own people first rather than create problems for the world.
 </div>
 
@@ -697,7 +697,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The so-called “shared values” promoted by the West is essentially ideological colonialism! They dress it up as something noble and lofty. Our Chinese guest directly exposed this, putting them in an awkward position on the spot. Historically, China has accepted refugees—have you Western countries ever done that? You’ve never done it, so why are you morally coercing us to take responsibility? Why don’t you, the West, take them yourselves?
 </div>
 
@@ -713,7 +713,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve noticed that Western countries can be quite impolite, often interrupting others while they speak. What I observed was that they got flustered.
 </div>
 
@@ -730,7 +730,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China takes a cautious approach to the refugee issue; it is not that the country completely refuses refugees, but rather that it considers multiple factors. Historically, China has suffered serious consequences from accepting refugees, such as during the “Wu Hu disturbances” and the case of Jewish refugees in Northeast China during World War II. Additionally, with a large population and limited per capita resources, employment, healthcare, and education systems are already under pressure, making it difficult to bear the social strain of receiving large numbers of refugees. At the same time, a surge of refugees could potentially become a channel for extremists to infiltrate, posing a threat to national security and stability.
 </div>
 
@@ -746,7 +746,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China has a large population but limited land. For countries genuinely in need of assistance, China provides unconditional aid and is often the first to deliver supplies. Moreover, in peacekeeping missions, the Chinese People’s Liberation Army contributes the largest number of personnel.
 </div>
 

@@ -20,7 +20,7 @@ thumbnail = "images/2025/industry-revolution.jpeg"
 +++
 
 <small>近的如 chatgpt，远的如 iPhone 、移动互联网技术，就连华为的5G技术突破也并非发生在中国大陆本土。这些革命性技术为什么总是最先发生在美西方呢？</small>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Recent examples include ChatGPT, and further back, the iPhone and mobile internet technology. Even Huawei’s breakthrough in 5G did not originate in mainland China. Why do such revolutionary technologies always seem to emerge in the West first?
 </div>
 
@@ -40,7 +40,7 @@ Recent examples include ChatGPT, and further back, the iPhone and mobile interne
 “一切，等上岸之后再说吧。”
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Take a look at what top-tier 985 university juniors are doing: rushing to finish all their courses, frantically working on projects, all just to prepare for graduate school recommendations and summer camps. Everything revolves around further education, all for that moment on September 30th when their efforts will finally “blossom.”
 
 In this context, having an offer = having a future = securing a place = blossoming. If you don’t secure your path by the summer of senior year, everything afterwards will look bleak; but for those who already have a way forward, that summer becomes the most beautiful and carefree one.
@@ -62,7 +62,7 @@ And so, people get used to saying:
 容错率低的社会没法有创新的土壤的
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A low-tolerance society, where failures are unforgivable, cannot provide fertile ground for innovation.
 </div>
 
@@ -73,7 +73,7 @@ A low-tolerance society, where failures are unforgivable, cannot provide fertile
 现在社会的容错率确实低，随便一个选择出错都需要后来巨大的努力来偿还。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Modern society has an undeniably low margin for error, where even a seemingly minor mistake can lead to a heavy price and require immense effort to repay later.
 </div>
 
@@ -84,7 +84,7 @@ Modern society has an undeniably low margin for error, where even a seemingly mi
 真的，以前看到别人说这话的时候，还会愤愤不平，觉得他们就是1450，美吹，认了美爹。直到我走近这个社会，才发现他们说的是真的。所有的年轻人被生活绑架着往前走。人生就像是走在钢丝绳一样，只有一条直路，走错一步，就会踏入万丈深渊。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To be honest, I used to get upset when people said things like this, thinking they were just pro-West or blindly admiring America. But after experiencing society firsthand, I’ve come to see that what they said is real. Young people are pushed forward by the pressures of life, with no room to pause or turn back. Life feels like walking a tightrope — one wrong step, and you plunge into the abyss.
 </div>
 
@@ -95,7 +95,7 @@ To be honest, I used to get upset when people said things like this, thinking th
 所以中国目前仅有政府可以作为真正的创新主体，而光靠政府，一个国家的创新土壤能形成吗？[酷]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Right now, it feels like the government is the only real driver of innovation in China. But can a country really build an innovative ecosystem if it relies only on the government? 😎
 </div>
 
@@ -106,7 +106,7 @@ Right now, it feels like the government is the only real driver of innovation in
 容错率低可以换一种说法，叫做生态系统选择压极大，导致生物多样性极低，在地球上，这种地方一般出现在沙漠或者极地[惊喜]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Low tolerance for mistakes can also be described as an ecosystem with extremely high selective pressure, which leads to very low biodiversity. On Earth, such environments are usually found in deserts or polar regions. 😲
 </div>
 
@@ -119,7 +119,7 @@ Low tolerance for mistakes can also be described as an ecosystem with extremely 
 如果能表达出来的话，大部分基础科学发论文为啥都要发到英文期刊，为啥不用汉字发基础科学的研究内容，哪怕汉字现在没有优势，也可以把基础科学的研究内容翻译过来吧，要是能翻译得了，搞基础科研的人也不至于主要参考英文资料。容错率再高，你对新事物的创新也要能表达出来，哪怕你想用英文搞科研，跟人家本身使用英文的欧美人，也没啥优势。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To understand new things, we inevitably need to express them in words. Chinese characters are difficult to innovate: the meanings of existing characters are relatively fixed, and their heritage is extremely strong. But a writing system with strong continuity usually implies low innovativeness.
 
 Innovation—especially in the development of new concepts—mostly occurs in the abstract domain of basic science. So, how can one use Chinese characters, which are highly traditional, to express the abstract content of basic scientific innovation?
@@ -136,7 +136,7 @@ No matter how tolerant the society is, to innovate on new things, you must be ab
 还不是那句话，你不干有的是人干。整个中国就是个焦虑型社会，除了极少数掌握分配权的群体，大家都无比缺乏安全感[捂脸]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s still the same point: if you don’t do it, someone else will. China as a whole is an anxiety-driven society. Except for a very small group that controls distribution, everyone else is profoundly insecure. 😓
 </div>
 
@@ -147,7 +147,7 @@ It’s still the same point: if you don’t do it, someone else will. China as a
 现在升职称拿人才帽子靠文章和国自然项目；所以你必须选择短平快并且容易发高分文章的研究方向，注定不能犯错，否则会耽误进程。我就是典型走错了弯路，被导师忽悠开启新方向，搞实验室建设，耽误了不少文章发表，已经错过黄金期。小5岁的学妹，什么好做的，什么好发文章就做什么，现在都优青了。不要听导师画大饼，少给他打杂。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Nowadays, getting promoted or earning a “talent title” depends on publishing papers and securing National Natural Science Foundation projects. So you have to choose research directions that are quick, straightforward, and likely to yield high-impact papers. There’s no room for mistakes, or your progress will be delayed.
 
 I’m a typical example of taking the wrong path: I was misled by my advisor into starting a new direction and building up the lab, which delayed a lot of my publications. I’ve already missed my golden period. My junior, five years younger than me, just picks whatever is easy to work on and easy to publish, and now she has already secured a prestigious youth talent grant.
@@ -163,7 +163,7 @@ Don’t fall for your advisor’s big promises, and don’t do too much grunt wo
 老子孔子那个时代对普通人容错率也很低，怎么也有诸子百家百花齐放的思想？
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So, during Newton and Galileo’s time, dominated by the Church, was the tolerance for ordinary people really high?
 
 Back in the era of Laozi and Confucius, the tolerance for ordinary people was also very low. Yet, how did the “Hundred Schools of Thought” flourish despite that?
@@ -176,7 +176,7 @@ Back in the era of Laozi and Confucius, the tolerance for ordinary people was al
 创新本来就是不一定有保证的事啊，首先创新你弄得不弄出来成果就是未知数了[捂脸]其次你弄出来的东西有没有用又是另一回事
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Innovation is never guaranteed. First, there’s no telling whether your efforts will even produce results. 😓 Second, even if you do create something, whether it’s actually useful is a whole other question.
 </div>
 
@@ -191,7 +191,7 @@ Innovation is never guaranteed. First, there’s no telling whether your efforts
 赚钱可以靠运气和原始积累，科学没有对天才的包容可不行。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From what I’ve observed, most geniuses are rebellious—definitely free spirits. In China, it’s hard for them to survive. Speak a little too freely, and you get suppressed or labeled. Many never get the chance to make a mark before they’re crushed.
 
 You can make money through luck or initial capital, but science requires tolerance for genius—there’s no substitute for that.
@@ -206,7 +206,7 @@ You can make money through luck or initial capital, but science requires toleran
 批判性思维是创新力的基础之一。而这里不可以批判
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Critical thinking is one of the foundations of innovation. But here, criticism is not allowed.
 </div>
 
@@ -217,7 +217,7 @@ Critical thinking is one of the foundations of innovation. But here, criticism i
 对的 我相信中国是有天才的 不过这些天才在中国被称为“逆子”“精神病”“社会败类”“自私鬼” 所以中国是没有天才的
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly. I believe China does have geniuses. But these geniuses are labeled as “rebels,” “mentally ill,” “social degenerates,” or “selfish people.” So, in effect, China has no geniuses.
 </div>
 
@@ -229,7 +229,7 @@ Exactly. I believe China does have geniuses. But these geniuses are labeled as �
 本来就是，天才本来思维就是打破传统逻辑，以前我们在物理课上，有同学问，为什么我们发射的火箭，在外太空要扔掉，这么浪费，被物理老师嘲笑了，物理老师说不可能回收，回来经受不住大气压，即使经受住大气压也落地爆炸。但是马斯克证明，你没做过你怎么就这么自信觉得一定不能回收？
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly. Geniuses naturally think outside traditional logic. Back in our physics class, a classmate asked why rockets are discarded in outer space—it seems so wasteful. The physics teacher laughed and said it’s impossible to recover them: even if they survived re-entry, they’d explode on landing.
 
 But Elon Musk proved them wrong. Just because you haven’t done it, how can you be so confident it’s impossible to recover?
@@ -242,7 +242,7 @@ But Elon Musk proved them wrong. Just because you haven’t done it, how can you
 我就不相信14亿人没有爱因斯坦牛顿那样的天才，他们出不来，只能说明被泯灭了
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I simply can’t believe that out of 1.4 billion people, there isn’t a single genius like Einstein or Newton. If they don’t emerge, it only means they have been suppressed or extinguished.
 </div>
 
@@ -253,7 +253,7 @@ I simply can’t believe that out of 1.4 billion people, there isn’t a single 
 天才不是叛逆，是不能理解蠢人为什么可以那么蠢[捂脸]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A genius isn’t necessarily rebellious—they just can’t understand how some people can be so unbelievably stupid. 😓
 </div>
 
@@ -265,7 +265,7 @@ A genius isn’t necessarily rebellious—they just can’t understand how some 
 这个角度也不无道理。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I once read an answer that went something like this: Greek culture has always had a “patricide” theme—what is new must replace the old. In contrast, the East Asian cultural sphere has always emphasized filial piety and respect for elders; what the ancestors say is considered right.
 
 From this perspective, it’s not entirely unreasonable.
@@ -278,7 +278,7 @@ From this perspective, it’s not entirely unreasonable.
 说的好，所以无组织无纪律的天才们只能做一点小研究，做不了大工程
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Well said. That’s why unorganized and undisciplined geniuses can only do small-scale research—they can’t handle large-scale projects.
 </div>
 
@@ -293,7 +293,7 @@ Well said. That’s why unorganized and undisciplined geniuses can only do small
 在中国，这就叫端起碗来吃肉，放下筷子骂娘。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The phone you’re using now, the Internet, all the appliances you see around you, the car, bike, subway, or bus you use to go to work—all of these are inventions of Western civilization. Even the concept of a two-day weekend was imposed on China under Western pressure.
 
 Yet you enjoy all of Western civilization while looking down on it.
@@ -328,7 +328,7 @@ In China, this is called “picking up the bowl to eat the meat, then putting do
 我不觉得他真的有积极性去搞科研。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 At a large state-owned enterprise, there’s a tech department.
 
 Employees need to publish research papers to get promotions and raises. After the papers are written, the company’s supervising leader is listed first, the department head second, their immediate manager third—and the actual author is fourth.
@@ -345,7 +345,7 @@ I don’t think this person really has any motivation to do research.
 我经历过，写一篇论文，我是最后一个署名的[思考]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve experienced it myself—after writing a research paper, I ended up being the last author. 🤔
 </div>
 
@@ -356,7 +356,7 @@ I’ve experienced it myself—after writing a research paper, I ended up being 
 还愿意让你署名就偷着乐吧[大笑]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If they even let you put your name on it, you’d better secretly enjoy it. 😂
 </div>
 
@@ -368,7 +368,7 @@ If they even let you put your name on it, you’d better secretly enjoy it. 😂
 还不感恩？[doge]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Without the leaders’ support, could you even sit here writing papers? You’d be down in the workshop tightening screws. And you’re still not grateful? 🐶
 </div>
 
@@ -379,7 +379,7 @@ Without the leaders’ support, could you even sit here writing papers? You’d 
 我工作的第一家单位，某个非科研部门的部长是院长带的非全硕，又读了院长的博。都读博了，中文三流期刊小论文写不出来，我给写的。没有做任何实验，数据全靠编，两天给他写完的。他问我要不要写我名字，我说你写你和你导就完了，千万别写我[惊喜]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 At my first workplace, a certain non-research department head—who did a part-time master’s under the dean and later a PhD under the same dean—couldn’t even write a small paper for a mediocre Chinese journal. I wrote it for him. He did no experiments at all; all the data was made up. I finished it for him in two days.
 
 He asked if I wanted my name on it. I said, “You and your advisor take the credit, just don’t put my name on it.” 😲
@@ -396,7 +396,7 @@ He asked if I wanted my name on it. I said, “You and your advisor take the cre
 我排第八名。结果申报职称，人家不认[感谢][感谢]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I padded two patents at the company just to apply for a professional title. The list went: general manager, engineer, assistant engineer, department head… and so on. I was ranked eighth.
 
 When it came time to apply for the title, they didn’t even acknowledge me. 🙏🙏
@@ -409,7 +409,7 @@ When it came time to apply for the title, they didn’t even acknowledge me. �
 正常啊，论资排辈，学术环境就这样了，不服只能去其他地方了[捂脸]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s normal—seniority rules, and that’s how the academic environment works. If you don’t accept it, your only option is to go somewhere else. 😓
 </div>
 
@@ -420,7 +420,7 @@ It’s normal—seniority rules, and that’s how the academic environment works
 有名字就知足吧，我干的项目每次到庆功会时，除了git就没有一个人知道我这个人的存在
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Be glad you even got your name on it. For the projects I worked on, every celebration, no one knew I even existed—except for Git.
 </div>
 
@@ -438,7 +438,7 @@ Be glad you even got your name on it. For the projects I worked on, every celebr
 所以这种人还能称之为人才吗？太肤浅了，人才是不足以涵盖这些人的综合能力的，所以我愿称之为人精。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Let me say something people might not want to hear: I don’t think the so-called “talents” in China deserve to be called talents. Anyone who can show up in public, I’d rather call them “clever opportunists.”
 
 I can’t speak for other countries, but in our peculiar place, just having technical skills or business abilities is far from enough. You also need political savvy, the ability to pick sides, kiss up, socialize, write useless reports, attend endless meetings, drink toasts, and so on.
@@ -455,7 +455,7 @@ Can such people really be called talents? It’s too superficial. The term “ta
 在中国只有狡猾的人才才能被捧上去
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In China, only the cunning can be elevated and praised as “talents.”
 </div>
 
@@ -466,7 +466,7 @@ In China, only the cunning can be elevated and praised as “talents.”
 有时候民众也不允许人才出现，一是接受不了真相，二是接受不了特立独行。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 有时候民众也不允许人才出现，一是接受不了真相，二是接受不了特立独行。
 </div>
 
@@ -477,7 +477,7 @@ In China, only the cunning can be elevated and praised as “talents.”
 百姓就是羊群，全靠官方引导，官方定的基调就是稳定大于一切，奇思异想特立独行是需要额外管理成本的，所以民众也就跟着这样，最起码50-70年代的人是这样的，穷则思变，改开以来好了很多，部分8090后慢慢接受，0010后已经切身实践了，这是历史发展的大趋势，想要不落后于世界，就得多关注个人体的发展，这样整体才能进步，我们还需要几代人的时间来适应。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The common people are like a flock of sheep, guided entirely by the authorities. The official line is always “stability above all,” and unconventional ideas or independent thinkers create extra management costs. So the public follows that logic. At least, that was the case for people born in the 1950s–70s.
 
 Poverty drives change, and things have improved a lot since the Reform and Opening. Some of the 1980s–90s generation are gradually more accepting, and the 2000s–2010s generation are already experiencing it firsthand.
@@ -492,7 +492,7 @@ This is the broader trend of historical development. To avoid falling behind the
 看看那些自杀的研究生就知道了
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just look at the graduate students who have taken their own lives, and you’ll understand.
 </div>
 
@@ -504,7 +504,7 @@ Just look at the graduate students who have taken their own lives, and you’ll 
 历史上很多事都这鸟样
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Are you sure those “clever opportunists” actually have technical or business skills? They just pick the fruits, relying on inherited tricks. History is full of examples like this.
 </div>
 
@@ -515,7 +515,7 @@ Are you sure those “clever opportunists” actually have technical or business
 能往上爬的人，能完成领导交给的工作是基础，领导之上还有领导，他们也有压力的。他们可能做不了满分，但肯定有60分的及格分的
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Those who can climb the ladder must at least complete the tasks assigned by their superiors—that’s the baseline. There are always higher-ups above them, and they’re under pressure too. They might not get a perfect score, but they can definitely achieve a passing score of around 60.
 </div>
 
@@ -526,7 +526,7 @@ Those who can climb the ladder must at least complete the tasks assigned by thei
 但是这60分的及格分，也不是尔等老百姓来评的，而是上头为此人的服务能力打的分而已。 知道这些人应该对谁负责了吧！ 也应该体谅下人家为什么不会站在尔等的角度考虑了，毕竟尔等又没有给我打分的资格，我只会为了及格，来讨好或服务给我及格分的人。 [飙泪笑]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But that passing score of 60 isn’t evaluated by the common people—it’s given by the higher-ups based on this person’s ability to serve them. Now you know who they’re really accountable to!
 
 You should also understand why they won’t consider things from your perspective. After all, you don’t have the right to grade me. I’ll only try to please or serve the people who can give me a passing score. 😭😂
@@ -539,7 +539,7 @@ You should also understand why they won’t consider things from your perspectiv
 人终究是生命，对生命最重要的就是生存所需的资源。人均生存资源充沛，个体博弈烈度低（非洲）；资源适中，需要一定科技，更讲究资源分配（政治权术）个体博弈烈度中等（亚洲）；资源稀缺，个体博弈烈度高，再高的资源分配手段（政治权术）也满足不了文明的需求，只能再攀科技（欧洲）。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Humans are ultimately living beings, and the most important thing for life is access to the resources needed for survival.
 
 When per capita resources are abundant, individual competition is low (Africa).
@@ -569,7 +569,7 @@ When resources are scarce, individual competition is intense, and even advanced 
 想要突破性的技术就首先需要给予工作者足够的休息时间和娱乐时间，没有休息和娱乐的时间，没有放空的遐想空间，拿什么脑细胞来创新？
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Have you ever experienced 996?
 
 If you have, you should know that once you start 996, you lose all sources of creativity.
@@ -595,7 +595,7 @@ While it is intended to boost productivity and accelerate company growth, it oft
 996的大厂甚至鼓励员工把供应商的设计资料骗走或者抄走，他们不缺创新，抢或者骗供应商的就行了[惊喜]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In some big 996 companies, employees are even encouraged to steal or copy design materials from suppliers. They don’t lack innovation—they just take it from others. 😲
 </div>
 
@@ -606,7 +606,7 @@ In some big 996 companies, employees are even encouraged to steal or copy design
 这个大厂我遇到过，要供应商去他们那评审图纸，美其名曰把关，他们全部录屏了。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve encountered this big company myself. They asked suppliers to come over for a design review—ostensibly “for quality control”—but they recorded everything.
 </div>
 
@@ -617,7 +617,7 @@ I’ve encountered this big company myself. They asked suppliers to come over fo
 我也遇到了，这样的公司会创新的员工不如会抢别人的，慢慢公司的创造力也就自己作没了，自作自受。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve experienced this too. In such companies, employees who can truly innovate are valued less than those who can grab or copy from others. Over time, the company’s own creativity withers—it’s a case of self-inflicted consequences.
 </div>
 
@@ -628,7 +628,7 @@ I’ve experienced this too. In such companies, employees who can truly innovate
 管理有创新，这个学问在这片土地上大于科技创新
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Management innovation—knowing how to organize, control, and leverage people—has historically been valued more than technological innovation in this land.
 </div>
 
@@ -639,7 +639,7 @@ Management innovation—knowing how to organize, control, and leverage people—
 现代企业的这一套模式不也是西方那边搬过来的嘛？国内某些公司的管理那只能说是折腾人
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Isn’t this whole modern corporate model originally borrowed from the West? In some domestic companies, their “management” can only be described as tormenting people.
 </div>
 
@@ -650,7 +650,7 @@ Isn’t this whole modern corporate model originally borrowed from the West? In 
 别赖西方，咱们只取了对他们有利的一面，你去读读西方管理学的书籍就明白了，西方的管理学是哲学的延申。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t blame the West. We only adopted the parts that benefit us. If you read Western management books, you’ll see that Western management theory is actually an extension of philosophy.
 </div>
 
@@ -661,7 +661,7 @@ Don’t blame the West. We only adopted the parts that benefit us. If you read W
 这就是文化，没办法。谁也改变不了。明知道走入死胡同了，谁也改变不了。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is culture—there’s nothing anyone can do about it. Even when you know you’re walking into a dead end, no one can change it.
 </div>
 
@@ -673,7 +673,7 @@ This is culture—there’s nothing anyone can do about it. Even when you know y
 现在西方的福利全是当初美苏争霸互相为了体现制度优越性搞出来的
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What culture? It’s just human nature. As Marx said long ago, every pore of capitalism seeps with blood and filth. Today’s Western welfare systems were largely created during the US-Soviet rivalry, as each side tried to prove the superiority of its own system.
 </div>
 
@@ -684,7 +684,7 @@ What culture? It’s just human nature. As Marx said long ago, every pore of cap
 以前是美苏争霸，现在是美中争霸，抢夺人才站开始了
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It used to be the US vs. the USSR. Now it’s the US vs. China, and the race to grab talent has begun.
 </div>
 
@@ -695,7 +695,7 @@ It used to be the US vs. the USSR. Now it’s the US vs. China, and the race to 
 你真的了解那段历史吗？你中比当时的苏联体量十不足一，人家老美不屑于向你证明什么，更不要说就国内这工作环境，能留住几个真正的人才[飙泪笑]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Do you really understand that period of history? Back then, your country was less than a tenth the size of the USSR. The Americans didn’t even bother proving anything to you. And with the current work environment at home, how many real talents do you think can even be retained? 😭😂
 </div>
 
@@ -706,7 +706,7 @@ Do you really understand that period of history? Back then, your country was les
 所以，不是有人就说了么，美国的强大，根本的原因不是他们的技术，而是他们强大的中产阶级，因为中产，有钱且有闲，所以才能有时间去创意。相反某些地方，他们有所谓的中产么？（真以为大城市里的一套钢筋混凝土就是中产了？它能变现么？）
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So, as some people have said, the real reason for America’s strength isn’t their technology—it’s their strong middle class. Because the middle class has both money and leisure, they have the time to be creative. In contrast, do certain places even have a middle class? (Do you really think a slab of concrete in a big city counts as middle class? Can it generate real value?)
 </div>
 
@@ -729,7 +729,7 @@ So, as some people have said, the real reason for America’s strength isn’t t
 天才，艺术家却并不能被大量培养只能被发现。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From the history of human technological development, the leap from 0 → 1 is made not by engineers, but by geniuses.
 
 Currently, education can be roughly divided into two types:
@@ -750,7 +750,7 @@ Historical evidence shows that education can produce a large number of engineers
 0-1是科学家，1-100是工程师，工程师是利用科学家发现的自然规律建设方便人类生存和物质生活的职业，这个解释其实西方的技术书籍有写，我是读了一本诺贝尔奖获得者的书籍看到的。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 0 → 1 is the domain of scientists, while 1 → 100 is the domain of engineers. Engineers are professionals who use the natural laws discovered by scientists to build systems that make human survival and material life more convenient. This explanation is actually mentioned in Western technology books—I came across it in a book by a Nobel Prize laureate.
 </div>
 
@@ -788,7 +788,7 @@ Historical evidence shows that education can produce a large number of engineers
 年薪70万在瑞典真的是妥妥的高薪了，瑞典平均月工资只有人民币3万多，码农可能好一点，能到5，6万，清洁工，餐馆端盘子的只有1万5左右，和中国没法比。PS:别想着来瑞典端盘子了，瑞典不是移民国家，现在政客们越来越保守，今年出了个政策，不到2万8瑞典克朗，也就是2万人民币左右，不给你续签和拿永居，这里消费还高，真的没啥意思。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I live in Sweden, and while I can’t speak for every company, I know my own very well. It’s a 40-person township enterprise in equipment manufacturing. Most employees have vocational high school education; among the core designers, only two have a formal bachelor’s degree.
 
 Despite this, their clients are almost all Fortune 500 companies. In the niche of wind power equipment, the company has achieved remarkable feats: they can move components weighing up to 800 tons inside the factory, and the world’s most advanced 16MW offshore wind power manufacturer has already bought three of their machines. In India, these machines would be considered national-level heavy equipment.
@@ -809,7 +809,7 @@ I once jokingly suggested, “Performance is so good this year—why not buy a F
 主要是社会保障完备，我也是想，如果生存有保障，那随便做什么工作都无所谓，喜欢就行。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The key is having a complete social safety net. I also think that if basic survival is guaranteed, it doesn’t really matter what job you do—you can just do what you enjoy.
 
 </div>
@@ -821,7 +821,7 @@ The key is having a complete social safety net. I also think that if basic survi
 你想有什么用，你父母子女，亲戚邻居，社会价值观由不得你想。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No matter what you want, your parents, children, relatives, neighbors, and the societal values around you won’t let you have your way.
 </div>
 
@@ -832,7 +832,7 @@ No matter what you want, your parents, children, relatives, neighbors, and the s
 这个适用在文化领域还说说 工业领域就太扯淡了 又不是你专心想想图画出来就神笔马良了 没有工业效率和产业链（一定程度上较低的人工成本才能保障） 设计图纸到规模化成品谁来一遍遍试错？试错成本高吗？工人操作熟练度如何？ 市场在哪里？拉不下工业成本导致售价高竞争力在哪？工业是残酷的 可不和你提福利和情怀
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This argument might work in the cultural or artistic fields, but in industrial sectors, it’s complete nonsense. You can’t just sit and imagine a design and expect it to magically work. Without industrial efficiency and supply chains (and, to some extent, lower labor costs), who’s going to repeatedly test and iterate from design drawings to large-scale products? Are the trial-and-error costs low? How skilled are the workers? Where’s the market? If you can’t reduce industrial costs, the selling price will be high—so where’s the competitiveness? Industry is brutal; it doesn’t care about welfare or ideals.
 
 </div>
@@ -846,7 +846,7 @@ This argument might work in the cultural or artistic fields, but in industrial s
 所以中国更多而商业模式创新，模式一旦突破，可以短时间遍布全国，你不扩张，别人可以用量积累客户和技术，打败你是迟早的事
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Only small countries can afford such extensive welfare because the state benefits from overall advantageous division of labor. A local factory can survive thanks to local protectionism—it’s almost guaranteed that this company’s products will be chosen—or because the market segment is small, with little competition. In industries with fierce competition, larger countries inevitably dominate.
 
 In a large country like China, internal competition is much stronger because the market is huge. If you leverage financial means to scale first, you gain a head start; if you don’t, someone else will expand and replace you. That’s why in China there’s more emphasis on business model innovation—once a model breaks through, it can quickly spread nationwide. If you don’t expand, competitors can accumulate customers and technology through scale, and it’s only a matter of time before they overtake you.
@@ -860,7 +860,7 @@ In a large country like China, internal competition is much stronger because the
 你有饭吃，我也有饭吃，你有房子，我也有房子。大家都能做自己喜欢做的事，不为钱财，只图兴趣。可眼瞎是有饭吃的，不光不在乎你没饭吃，还想要把你的破碗也拿走。他自己有，还想要他的子子孙孙一起骑在别人头上。所以奴隶社会奴隶没有任何高价值，只是一件工具。更甚有喉舌反复在你耳边喊话，你能活着都是莫大的恩赐。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If you have food, I have food. If you have a house, I have a house. Everyone can do what they love, not for money, just for interest. But the blind greedy ones have food, and not only do they not care that you have none, they want to snatch your broken bowl as well. They have plenty, yet they want their children and grandchildren to keep riding over others. In a slave society, slaves have no intrinsic value—they are merely tools. Worse, there are propagandists constantly whispering in your ear that being alive is a tremendous favor.
 </div>
 
@@ -871,7 +871,7 @@ If you have food, I have food. If you have a house, I have a house. Everyone can
 还有价值观多样化，如果大多数人都把吃穿住行豪奢、趾高气扬高人一等当作人生最高追求，那么保障再好人心也静不下来
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Also, consider the diversity of values. If most people regard extravagant consumption, flaunting status, and feeling superior as life’s highest goals, then no matter how good the social safety nets are, people’s minds will never be at peace.
 </div>
 
@@ -882,7 +882,7 @@ Also, consider the diversity of values. If most people regard extravagant consum
 在中国扩产就等于放开来给中国抄了，这事估计老外都有心理阴影了
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In China, expanding production often means opening the door for local players to copy your designs. This probably leaves a psychological scar on many foreign companies.
 </div>
 
@@ -893,7 +893,7 @@ In China, expanding production often means opening the door for local players to
 看文中的描述，就是个工厂内的大型搬运设备，我不知道这是个什么设备，也不知道40人的工厂掌握的这种设备的核心技术是个啥（我觉得首先一个设备上的核心机电控制系统就不可能是自制的），但是我觉得这东西对中国企业没啥技术门槛，现在还活着纯粹是因为中国企业没注意，或者还没看上这个市场罢了（有可能是市场太小，也可考虑到还要研发，利润的角度不划算）
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From the description in the text, it seems to be a large material-handling machine inside a factory. I don’t know exactly what type of equipment it is, nor the core technology a 40-person factory possesses for it (I think the core electromechanical control system on such a device is unlikely to be entirely homemade). However, I feel that this equipment probably doesn’t pose much of a technical barrier for Chinese companies. Its survival so far is likely because Chinese firms either haven’t noticed it or haven’t considered entering this market yet—perhaps the market is too small, or from an R\&D and profit perspective, it isn’t worth the investment.
 </div>
 
@@ -905,7 +905,7 @@ From the description in the text, it seems to be a large material-handling machi
 题主说的这种现象，德国和日本也很多。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve been working in the automation industry in the Pearl River Delta for about ten years, focusing on mechanical design. I dedicate myself to research—not pursuing high-tech breakthroughs, just striving to perfect things in terms of quality, functionality, and cost. This kind of dedication is rare in China; it’s not limited to one company—it’s a widespread phenomenon. There’s a lack of respect for technology, and the mindset is dominated by chasing quick profits, with deadlines compressed without limits. You can imagine what that does to quality and functionality. Moreover, this situation isn’t something that can be changed in the short term.
 
 The kind of phenomena the original poster mentioned also exist in Germany and Japan.
@@ -918,7 +918,7 @@ The kind of phenomena the original poster mentioned also exist in Germany and Ja
 我对瑞典公司记忆最深刻的一次， 前些年有过一次严重的烫伤，医院用了一种瑞典公司专利的 Mepilex含银的海绵垫，带胶的一面直接贴伤口上，旁边再固定一下就完事了。 渗出的组织液把胶溶解，再被海绵吸收，伤口一直是干爽的，还有银离子防感染。 换药的时候一点点的粘连都没有，完全无感。 真的是好东西。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 One of my most vivid experiences with a Swedish company was a few years ago when I suffered a serious burn. The hospital used a patented Mepilex silver-containing foam dressing from a Swedish company. The adhesive side was applied directly to the wound, and then it was lightly fixed in place. The exuding tissue fluid would dissolve the adhesive and get absorbed by the foam, keeping the wound dry, while the silver ions prevented infection. When changing the dressing, there was no sticking at all—completely painless. It really is an excellent product.
 </div>
 
@@ -929,7 +929,7 @@ One of my most vivid experiences with a Swedish company was a few years ago when
 瑞典的医疗和高端护理材料确实很不错，质量好，而且是大部分人的经济水平能够承担的。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Sweden’s medical care and high-end healthcare materials are indeed very good—high quality, and affordable for most people given the general economic level.
 </div>
 
@@ -940,7 +940,7 @@ Sweden’s medical care and high-end healthcare materials are indeed very good�
 小疑问：银重金属通过伤口更容易被身体吸收，这玩意确定没问题
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A small question: heavy metals like silver can be absorbed more easily through a wound. Are you sure this stuff is safe?
 </div>
 
@@ -951,7 +951,7 @@ A small question: heavy metals like silver can be absorbed more easily through a
 瑞典这种厂子只能当小赛道的王者，细分领域，技能点在科技树偏僻处，市场小投入产出比低大资本进来也没有利润，才能独自芳香。换成大行业，这样干分分钟扑街。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Swedish factories like this can only dominate niche markets—specialized fields where the “tech skill points” are in remote corners of the innovation tree. The market is small, the ROI is low, and even if big investors come in, there’s no profit. That’s why they can thrive independently. In a large industry, the same approach would fail immediately.
 </div>
 
@@ -962,7 +962,7 @@ Swedish factories like this can only dominate niche markets—specialized fields
 千千万万的细分小行业精英小厂组合在一起就是结构化的高端产业了。[捂脸]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 All those countless niche small-firm elites, when combined, form a structured high-end industry. \[🤦]
 </div>
 
@@ -973,6 +973,6 @@ All those countless niche small-firm elites, when combined, form a structured hi
 这是欧美的说辞而已，高端产业需要的资金和人力不是精英小厂能支撑得起的，欧美的精英小厂真要那么牛逼何必怕中国研发出光刻机。不是说精英小厂不行，精英小厂也值得学习，实际上我们的精英小厂也不少。只是任何事物都要符合环境和规律才能发展，精英小厂的和主流工业遵循的规律本来就不是一回事，各有各的发展道路。我们一个体量这么大的国家，不把自己的规模量产做大做强，反去羡慕仿效别人的小厂，到底有何道理。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is just a Western narrative. High-end industries require capital and manpower that elite small firms alone cannot support. If Western elite small firms were really that strong, why would they be afraid of China developing a lithography machine? It’s not that elite small firms aren’t capable—they’re worth learning from, and in fact we have quite a few of our own. But everything needs to align with its environment and underlying rules to thrive. The operational logic of elite small firms is fundamentally different from that of mainstream industry; each has its own path. In a country as large as ours, if we don’t scale up our own mass production, why envy and imitate someone else’s small firm? It makes no sense.
 </div>

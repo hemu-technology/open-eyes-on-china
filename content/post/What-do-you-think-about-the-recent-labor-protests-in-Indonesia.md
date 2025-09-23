@@ -19,7 +19,7 @@ thumbnail = "images/2025/indonesia-protests.png"
 +++
 
 <small>最低工资上调 10.5%、废掉争议劳工法《创造就业法》、取消外包模式、提高免税额度、取消遣散费与年终奖税收、设专门小组阻止裁员潮…… 以上是摘抄的最近印尼劳工抗议的部分条款，觉得很合理吗，对我们也适用。想知道大家的看法</small>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Minimum wage increase of 10.5%, abolition of the controversial Job Creation Law, cancellation of the outsourcing model, higher tax-free thresholds, removal of taxes on severance pay and year-end bonuses, establishment of a special task force to prevent mass layoffs…
 
 The above are some of the demands from the recent labor protests in Indonesia. Do you think they are reasonable? Would they also be applicable to us? I’d like to know what everyone thinks.
@@ -51,7 +51,7 @@ CN和韩国的情况有很多类似的地方，后发国家，制造业强劲，
 发展从来不是一件一蹴而就，顺风顺水的事情，民众的权益保障进步也是这样，解决了旧的问题就会有新的问题出现
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s still the same point: when the economy is booming and growing rapidly, most social conflicts don’t become real problems. But when the economy slows down, every social conflict can turn into a problem.
 
 I know a lot of people will bring up CN as an example. But the so-called privileges, inequality in benefits, nepotism in academia and bureaucracy, and rampant corruption being criticized today were also there ten or twenty years ago, when growth was even faster. In fact, back then, these issues might have been even more blatant, and corruption penetrated almost every corner.
@@ -83,7 +83,7 @@ Development has never been smooth or achieved overnight. The protection of citiz
 其实换一种模式还有会另外的问题和代价。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A lot of people think taking a different path means no problems or costs. In reality, switching models just brings different problems and costs.
 </div>
 
@@ -94,7 +94,7 @@ A lot of people think taking a different path means no problems or costs. In rea
 你错了，十几年前觉得好是因为什么都可以说，什么都在慢慢改，所以有希望。现在觉得赛博亡国是因为什么都不能说，什么都改不了，甚至还可能被上门拜访。就如同一个缺氧的密闭罐子里慢慢憋死！这样说你能理解否？[思考]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You got it wrong. Ten or fifteen years ago, people thought things were good because you could talk about anything, and things could slowly change, so there was hope.
 
 Now, people feel like we’re heading for a cyber-collapse because you can’t say anything, nothing can be changed, and you might even get visited for speaking out. It’s like slowly suffocating in a sealed jar. You get what I mean? 🤔
@@ -115,7 +115,7 @@ Now, people feel like we’re heading for a cyber-collapse because you can’t s
 我还是那句话，每个人总能通过互联网看到自己想看到的东西，不管有没有审核，但是怎么思考，怎么判断就是自己决定的，这和你的成长经历，工作性质，生活环境，教育水平息息相关，你能从墙外看到的我都能看到，但是我和你得出了不一样的结论，仅此而已
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A lot depends on how you see things and your personal situation or status.
 
 For white-collar workers and young urbanites in big cities, 15 years ago really was better. But for people in smaller cities, counties, and rural areas, the past ten years have actually been when living standards improved, infrastructure got better, and local bullies and organized crime were cracked down on. 🤔
@@ -134,7 +134,7 @@ I still stick to this: everyone can find whatever they want on the Internet, reg
 那么经济的发展是以什么来牺牲呢？
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So, what gets sacrificed for economic growth? 🤔
 </div>
 
@@ -152,7 +152,7 @@ So, what gets sacrificed for economic growth? 🤔
 天下没有免费的午餐，很多知乎er们批判社会制度的时候从来不提历史发展脉络，自然地理条件和地缘环境等等问题，好像选票民主和私有化可以根治一切。CN今天的发展成果和社会问题离不开地缘环境的压力，历史路径的积累，这两点对于政策的制定影响非常大
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If a country has its own mines or oil fields, like Saudi Arabia, this isn’t really an issue.
 
 But for late-developing countries with lots of people but limited resources, it’s basically all built on the sweat and labor of the masses. Japan, Korea, and China are all like this — industrialization was brutal. Without that “cake-making” process, talking about “dividing the cake” is meaningless.
@@ -171,7 +171,7 @@ There’s no free lunch. Many people criticizing society on Zhihu ignore histori
 政府应该提前考虑这些潜在的风险，否则不是一个合格的政府
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A government should anticipate these potential risks in advance — otherwise, it’s not a competent one.
 </div>
 
@@ -186,7 +186,7 @@ A government should anticipate these potential risks in advance — otherwise, i
 60年代欧洲开始大面积搞福利，很大一个原因就是苏联的外部压力，70年代弗朗哥政权提高福利，80年代韩国的民主化很大程度上来自于内部和外部的同时冲击。当底层维稳成本或者应对外部压力的成本大于福利支出时，那么就必然要提高底层福利
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If there’s no internal or external pressure, conflicts don’t surface, and no government will proactively consider these risks.
 
 Only individuals with foresight think about such risks — bureaucracies rarely do. The key difference is how much influence those foresighted people have.
@@ -211,7 +211,7 @@ When the cost of stabilizing the lower class or dealing with external pressure e
 正确思路是直接建立一套社会信任机制，然后利用这套社会信任机制，把由各种坑蒙拐骗引发的大量社会问题成批量解决掉。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When a society faces a pile of long-accumulated problems, don’t think you can fix them one by one — otherwise, as soon as you solve one, another pops up, and the problems just keep piling up.
 
 The right approach is to build a social trust system, and then use that system to tackle large numbers of problems caused by scams, fraud, and exploitation all at once.
@@ -239,7 +239,7 @@ The right approach is to build a social trust system, and then use that system t
 一个人的消费是另一个人的收入，通过引导广大消费者的消费方向来影响从业者/商家的收入，就可以对众多行业进行重塑。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 With trillions in debt, it’s unrealistic to expect welfare to rise much. As long as employment isn’t effectively addressed, even forcing higher welfare won’t last long.
 
 The real priority isn’t how much welfare we can raise, but how many jobs we can create. Only full employment can get us out of the current predicament.
@@ -274,7 +274,7 @@ One person’s spending becomes another’s income. By guiding consumer behavior
 确实，经济下行是原罪，经济弄不好，其他都是零
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly, economic downturn is the original sin — if the economy tanks, everything else is basically zero. 😅
 </div>
 
@@ -287,7 +287,7 @@ CN的情况基本上是历史上独一份了，无论是内部矛盾，外部环
 阶级固化和分化依然会变大，但是只要保证底层有不错的生活水平，整个政治经济体系依旧会很稳固，老欧洲这些年经济不景气但是社会矛盾并不严重，很大程度上在于底层吃福利都能过得不错
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China’s situation is basically one of a kind in history. With its unique combination of internal conflicts, external environment, and industrial development, there’s no existing case to follow for upcoming reforms.
 
 The strategy should definitely focus on:
@@ -317,7 +317,7 @@ Class stratification will still increase, but as long as the bottom layers live 
 而2024年印尼GDP仅约1.4万亿美元（我国2024年GDP超过18万亿美元）
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Indonesia just bumped up MPs’ housing allowance to 50 million rupiah (~3,057 USD / ~21,800 CNY) — that’s almost 10 times Jakarta’s minimum wage and 20 times the minimum wage in poorer regions.
 
 With other allowances, MPs can pull in over 100 million rupiah a month (~6,062 USD / ~43,227 CNY).
@@ -334,7 +334,7 @@ And all this while Indonesia’s GDP for 2024 is only around 1.4 trillion USD (c
 我们体制内一年的退休金啥的，比这高多了，这不是体现了制度的优越性嘛
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Our civil servants rake in more in one year of pension and perks than these MPs do in a month. Talk about “system superiority,” huh? 😏💸
 </div>
 
@@ -345,7 +345,7 @@ Our civil servants rake in more in one year of pension and perks than these MPs 
 应该拿美国比更直观，两国人口差的不大，gdp差的大
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If you compare with the US, it’s even more obvious — similar population, but GDP way higher. Our civil servants still get way more in a year than these MPs do in a month. 😏💸
 </div>
 
@@ -357,7 +357,7 @@ If you compare with the US, it’s even more obvious — similar population, but
 啊？上海的最低工资标准2748，比印尼多几百，上海不愧是小孟买[暗中学习]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ah? Shanghai’s minimum wage is 2,748 RMB, just a few hundred more than Indonesia’s. No wonder Shanghai is like a “mini Mumbai” 😏📚
 </div>
 
@@ -368,7 +368,7 @@ Ah? Shanghai’s minimum wage is 2,748 RMB, just a few hundred more than Indones
 不高啊，印尼人民真勇
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Not high at all… Indonesians are really brave! 😅💪
 </div>
 
@@ -383,7 +383,7 @@ Not high at all… Indonesians are really brave! 😅💪
 根据之前的剧情，这一起都是……
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Based on what happened before, this whole thing is all… 😬
 
 ![](images/2025/v1-indonesia.jpg (One Piece))
@@ -418,7 +418,7 @@ Then the navy tried to cut off the network, but they ran into a Buddha-Jumps-Ove
 印尼确实贫富分化很严重，而且贪污腐败也极其严重，而且，有一个很重要的点是官员们不作为，根本不作为，这个观念在印尼年轻人中应该有共识，因为上个月在爪哇岛旅行的时候和一个当地年轻人聊过天，对方对政府官员怨气很大，所以，确实有革命的土壤
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Indonesia really has severe wealth inequality, and corruption is rampant. On top of that, officials do nothing — absolutely nothing.
 
 This seems to be a shared sentiment among young Indonesians. I noticed it myself last month when traveling on Java Island — I chatted with a local young person, and they were really frustrated with government officials.
@@ -442,7 +442,7 @@ So yeah, there’s definitely revolutionary soil there.
 雅加达的最低工资标准2100+，东赢小孟买的最低工资标准2700+，东赢还是赢了。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Long live the workers! ✊
 
 I don’t know the Indonesian laborers personally,
@@ -461,7 +461,7 @@ Looks like Dongying still wins. 😏
 无产阶级的斗争，是好事，印尼正在经历我们以前的打土豪，斗劣绅，分土地的阶段。好日子在后头呢，坐等社会主义国家声援印尼无产阶级革命家。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The proletariat struggle is a good thing! 💪
 
 Indonesia is basically going through the stage we once had: smashing rich landlords, punishing corrupt gentry, and redistributing land.
@@ -477,7 +477,7 @@ The good times are ahead — waiting for socialist countries to cheer on Indones
 前面说印尼议员载歌载舞庆祝自己加薪，后面是印尼平民艰难讨生活，不抗议才有鬼了
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Earlier, Indonesian MPs were dancing and singing to celebrate their pay raise,
 while ordinary folks are struggling to make a living.
 If they don’t protest, something’s seriously wrong. 😏
@@ -493,7 +493,7 @@ If they don’t protest, something’s seriously wrong. 😏
 这锅印尼政府肯定跑不了，政策明显不合理，明摆着把民众当傻子。但是话又说回来，印尼这个欠发达政治又不成熟稳定的国家，也没太多好办法。毕竟都是为了支持率的需要，按照赵贞吉的话来说就是：先苦一苦百姓，骂名我来担。相比爆发抗议，爆发抗议的时间更值得玩味。世人都知道东大最近有两场大活动，印尼又是早早确定参加的国家。所以，这里面不排除有美日的煽风点火与推波助澜。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No doubt, the Indonesian government can’t escape blame — the policies are obviously unreasonable, clearly treating people like fools.
 
 But on the other hand, Indonesia is still underdeveloped and politically immature, so there aren’t many good options. After all, it’s all about maintaining support. As Zhao Zhenji said: “Let the people suffer a bit first, I’ll take the blame.”
@@ -531,7 +531,7 @@ So we can’t rule out some stirring from the US and Japan, fanning the flames a
 绝大多数印尼人做梦都想做老爷，可惜投胎概率太小，睡醒了想做狗腿子，哪里知道现实中是泥腿子，最惨的是，还养了个做题家的“大学生”
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The current situation in Indonesia, summed up in one sentence:
 
 If you don’t take class into account, you’re just messing around.
@@ -577,7 +577,7 @@ Most Indonesians dream of being elites — too bad reincarnation odds are slim. 
 ...
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A long-standing buildup of social tensions in Indonesia could erupt at any time. If not properly managed, it could cause prolonged social and economic instability. Investors planning to put money into Southeast Asia should carefully reconsider investments in Indonesia.
 
 Here are some major social issues in Indonesia that are hard to solve:

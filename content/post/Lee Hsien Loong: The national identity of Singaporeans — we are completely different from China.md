@@ -48,7 +48,7 @@ Click to expand Chinese comment</span>
 小国持小义，大国持大义。大国强大，小国依附。中国强大，新加坡归附。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Smaller nations often safeguard their own limited interests, while major powers are expected to uphold broader principles. When great powers rise, smaller countries tend to align with them. With China’s growing strength, Singapore inevitably gravitates toward its influence.
 </div>
 
@@ -64,7 +64,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Well said, I support you.👍👍👍
 </div>
 
@@ -80,7 +80,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China is a great socialist country 👍
 </div>
 
@@ -96,7 +96,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This world is always determined by the strong! When the nation is strong, the people can live in peace and security!
 </div>
 
@@ -112,7 +112,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore is a democratic sovereign nation with diverse ethnicities and cultures. There is no need to overemphasize being Chinese or Indian. Ethnic discord inevitably leads to national division, and emphasizing ethnicity is at best someone else’s wishful thinking.
 </div>
 
@@ -128,7 +128,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 After China surpasses the United States, Singaporean Chinese will naturally reconnect with their ancestral roots.
 </div>
 
@@ -144,7 +144,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Once China’s overall strength surpasses the United States by several times, Singapore and Mongolia will naturally and voluntarily reconnect with their ancestral roots. This is only a matter of time. It is also possible that other poor small countries will be willing to join China’s extended family, such as historical Annam (now Vietnam) and the Ryukyu Islands.
 </div>
 
@@ -160,7 +160,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No Chinese person considers Singaporeans as Chinese. It doesn’t matter if you don’t acknowledge that your ancestors came from China. So why are Singaporeans always so obsessed with this issue?
 </div>
 
@@ -176,7 +176,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 As a Chinese, I don’t need Singaporeans to identify with China. It’s just that many Chinese people think Singaporeans are Chinese and expect them to yield on certain matters. In reality, Singaporeans don’t care about Chinese people at all.
 </div>
 
@@ -192,7 +192,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore is a sovereign nation, no doubt about it.
 </div>
 
@@ -208,7 +208,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Nationality is essentially your household registration. If your registration is in Shanghai, you are a Shanghai resident and enjoy the benefits and rights of a Shanghai citizen. Your ancestral home is just where your parents came from—once they are gone, your ties to that place are effectively severed. In practice, you and your descendants will naturally identify as Shanghai residents.
 </div>
 
@@ -224,7 +224,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Thumbs up for Singapore today! 👍
 </div>
 
@@ -240,7 +240,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Many years ago, Singapore was at the forefront of anti-China sentiment. After the two countries established diplomatic relations, Singapore’s view of China became somewhat more positive. However, the Singaporean leadership, especially the Lee father and son, remain staunchly pro-American and anti-China.
 </div>
 
@@ -256,7 +256,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 While China commemorates the victory in the War of Resistance and the Anti-Fascist War, you rushed to Japan to receive a medal from the Emperor. You’re right—we are indeed very different.
 </div>
 
@@ -272,7 +272,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You speak English, we speak Chinese—that’s the difference. You are ethnically Chinese but have a Western mindset.
 </div>
 
@@ -288,7 +288,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The country with the world’s strongest passport 🌹
 </div>
 
@@ -304,7 +304,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No matter how politically or economically developed a small country is, it often lacks a sense of security. Large countries usually enjoy a strong sense of security, but once their system becomes corrupt or they temporarily lose direction, they too can fall—like a tiger on the plains or a whale stranded in shallow waters.
 </div>
 
@@ -320,7 +320,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Whether you call yourselves Chinese or African, we don’t care about you, Singapore. Don’t try to hitch a ride on China’s fame in the future 😊
 </div>
 
@@ -336,7 +336,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore is Singapore, a country separate from us. The main population is different, and the national language is Malay.
 </div>
 
@@ -352,7 +352,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore is basically under Japan’s influence.
 </div>
 
@@ -368,7 +368,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He’s not wrong—Singapore really has nothing to do with us.
 </div>
 
@@ -384,7 +384,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Lee Hsien Loong of contemporary Singapore is not wrong in saying this. Once the world order changes and the United States can no longer dominate, with a multipolar world emerging—or in other words, if the US and Western powers weaken and can’t control global affairs—Lee Hsien Loong and Singapore’s mindset will immediately change. For now, they fundamentally rely on the United States.
 </div>
 
@@ -400,7 +400,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s just a blade of grass growing crookedly in the cracks—there’s some story and spirit to it, but in the end, it’s still just a misshapen blade of grass.
 </div>
 
@@ -416,7 +416,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In less than ten years, as the United States declines and China rises, Lee Hsien Loong will be crying out, claiming to be of Chinese descent!
 </div>
 
@@ -432,7 +432,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Haha… awkward. Singapore 🇸🇬 suddenly emerged as a tiny enclave, only about two-thirds the size of Hong Kong. Its wealth and security certainly have the shadow of a major power behind them. It’s hard to imagine—without its Chinese ethnic background and backing, where would its ‘independence,’ wealth, security, or the chance to make a name for itself even come from?
 </div>
 
@@ -448,7 +448,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How can a small country with a sparse population have the same mindset as a great nation? It’s normal, and no one expects them to share our culture.
 </div>
 
@@ -464,7 +464,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So don’t be self-deluding—we are not on the same path as them. In fact, they are not friendly toward us at all.
 </div>
 
@@ -480,7 +480,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The British speak English, and so do Americans. Sharing the same language doesn’t mean being the same country. Singapore is an independent nation with ethnic Chinese as its main population.
 </div>
 
@@ -496,7 +496,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The main point is that Singaporeans’ ideology is completely different from that of Chinese people, so there’s no basis for comparison.
 </div>
 
@@ -512,7 +512,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If Singapore and the United States had a trade dispute, and the US used force to impose its will, how should Singapore respond?
 </div>
 
@@ -528,7 +528,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I have never considered Singaporeans as Chinese. Singapore is a foreign country and is also pro-Western.
 </div>
 
@@ -544,7 +544,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He’s not wrong. Although they share the same ancestry, the countries and regions are different. In Singapore, littering is heavily fined, so no one dares to do it, whereas in mainland China, such behavior is very common. Differences are an objective fact and there’s nothing wrong with stating them.
 </div>
 
@@ -560,7 +560,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If Singapore declines in the future, don’t use the banner of shared language and ethnicity to demand China’s help! I just don’t believe Singapore will have smooth sailing over the next decades, centuries, or millennia.
 </div>
 
@@ -576,7 +576,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore is just indulging in wishful thinking. From a national perspective, China will never emotionally care about notions of shared ancestry. Without strategic or economic interests, Singapore is just a peripheral small country. China has no shortage of people; in terms of interests and geopolitics, individuals are expendable—Taiwanese included. The state doesn’t care about ethnic or ancestral recognition; what matters is strategic positioning.
 </div>
 
@@ -592,7 +592,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Neither China nor Chinese people recognize you as Chinese. Where you are from, or what you do, that’s your choice. Nowadays, acquiring Chinese nationality is extremely difficult.
 </div>
 
@@ -608,7 +608,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Chinese people are spread all over the world, but having Chinese ancestry abroad does not automatically make someone Chinese. Only those with Chinese nationality are considered Chinese.
 </div>
 
@@ -624,7 +624,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Taiwan is a province, and Singapore can only be considered a county—let’s call it ‘Po County’ for short.
 </div>
 
@@ -640,7 +640,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There’s no such thing as big or small, only strong versus weak. As the saying goes, ‘A big mountain may lack firewood.
 
 > Note: ‘A big mountain may lack firewood’ is a Chinese proverb, meaning that something may appear powerful but may not have practical resources or real strength.
@@ -658,7 +658,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore—they take themselves way too seriously, but Chinese people don’t care who they are. Lee Kuan Yew went to the United States to call for rebalancing in the Asia-Pacific to contain China—his intentions are unforgivable!
 </div>
 
@@ -674,7 +674,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This time, he chose to respectfully receive the Order of the Rising Sun in Japan on the anniversary—what can be said… Taiwanese media also commented: In front of China, Lee says we share the same culture and speak Chinese; in front of the US, he says most of us speak English; in front of Japan, he calls us good economic partners… always adjusting to the prevailing winds, favoring the powerful and stepping on the weak.
 </div>
 
@@ -690,7 +690,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Any previous goodwill toward Lee Hsien Loong has completely vanished, and I’ve also developed a sense of aversion toward Singapore.
 </div>
 
@@ -706,7 +706,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Regardless of culture, what matters most is that your own citizens live well.
 </div>
 
@@ -722,7 +722,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Does a tiny patch of land amount to anything? They want to break away from a strong motherland and rely on the US, and we don’t like them either 🙏🙏🙏
 </div>
 
@@ -738,7 +738,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China is China, Singapore is Singapore—why should the two countries be the same?
 </div>
 
@@ -754,7 +754,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, they are a country. Chinese people really shouldn’t judge others based on emotions.
 </div>
 
@@ -770,7 +770,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I can’t stand this guy; he’s all about profit and has no sense of loyalty.
 </div>
 
@@ -787,7 +787,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When the nation is about to be destroyed, don’t claim that we are descendants of the Chinese.
 </div>
 
@@ -803,7 +803,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China is a sovereign and powerful country dominated by ethnic Chinese, whereas Singapore is under foreign influence.
 </div>
 
@@ -819,7 +819,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It doesn’t matter whether you acknowledge it or not since you’ve gone abroad. The key point is that once China becomes strong, everything will change.
 </div>
 
@@ -835,7 +835,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Without China, Singapore wouldn’t be considered so important in the eyes of Westerners…
 </div>
 
@@ -851,7 +851,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Chinese civilization has objectively existed as a nation, much like Christian or Islamic countries. Christian countries are based on the Bible, Islamic countries on the Quran, and Chinese (Hua-Xia) states on pictographic characters. Over thousands of years, Chinese states have risen and fallen, with more than a thousand states emerging in succession, each distinct and independent, with no direct succession or affiliation. Singapore is the youngest of the Chinese states, and its founding follows a typical Chinese state formation process. Japan, Korea, Vietnam, and Mongolia have all used Chinese characters in their history as part of the Chinese civilization.
 </div>
 
@@ -867,7 +867,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore follows whoever has the milk! Once our socialist China surpasses the United States, they will acknowledge us as their true father!
 </div>
 
@@ -883,7 +883,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No Chinese person cares what Singapore thinks. On the contrary, Singapore is very worried that its citizens lack national identity and is afraid of being led astray.😂
 </div>
 
@@ -899,7 +899,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Holding a harbor, clinging to a powerful ally? Being wealthy is fine, but don’t look down on China! China doesn’t rely on plunder or oppression, but on its own hard work—and will still become a world power!
 </div>
 
@@ -915,7 +915,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Country, political system, people, ethnic Chinese, overseas Chinese, and citizens are all different concepts.
 </div>
 
@@ -931,7 +931,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They are Singaporeans, from an independent country! Even if they were originally Chinese, acquiring the nationality of any other country does not make them Chinese.
 </div>
 
@@ -947,7 +947,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The systems and institutions are different!
 </div>
 
@@ -963,7 +963,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Being a tiny country determines its scope of vision and perspective.
 </div>
 
@@ -979,7 +979,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Even if you are Chinese now, once you acquire Singaporean nationality tomorrow, you are no longer Chinese! What’s there to be so hung up about???
 </div>
 
@@ -995,7 +995,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The prime minister of a country went to Japan to fawn over them and accept a decoration 👍
 </div>
 
@@ -1011,7 +1011,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Lee Hsien Loong is making too much drama. No Chinese person cares whether you recognize Singapore as a Chinese country.
 </div>
 
@@ -1027,7 +1027,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If Singapore doesn’t remain neutral between China and the US, its good times will come to an end.
 </div>
 
@@ -1043,7 +1043,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore is a global financial and trade hub.
 </div>
 
@@ -1059,7 +1059,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I heard a Singaporean say: “I’m not Chinese, I’m just ethnically Chinese! Chinese people’s English is really bad! As for Koreans, well, they’re not an English-speaking country, so that’s understandable.”
 </div>
 
@@ -1075,7 +1075,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore’s foundation is its closeness to the West and English as its national language. So Chinese people shouldn’t assume all ethnic Chinese feel close to China—some are even more distant than other groups.
 </div>
 
@@ -1091,7 +1091,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 We may share the same ancestry and language, but we’re still different. What’s the big deal?
 </div>
 
@@ -1107,7 +1107,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singaporeans think very highly of themselves—soon they’ll get a taste of what Hong Kong independence feels like.
 </div>
 
@@ -1123,7 +1123,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore is so small, it’s not even as big as a town in China. They keep showing off, as if afraid people won’t know they’re a sovereign country. What can you do? You’re as small as an egg!
 </div>
 
@@ -1139,7 +1139,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just a lucky former colony.
 </div>
 
@@ -1155,7 +1155,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is just survival—Singapore has to please the West. If they sided with China, their good days would be over because they’d anger the West and their economy and trade would suffer.
 </div>
 
@@ -1171,7 +1171,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If China becomes number one in the world, these people will suddenly claim to be Chinese.
 </div>
 
@@ -1187,7 +1187,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This guy’s been getting a bit arrogant lately. Even if you really think this way, you don’t have to shout it from the rooftops. Are you trying to stir up resentment?
 </div>
 
@@ -1203,7 +1203,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The US and Canada both speak English and share the same roots, but they’re different countries.
 </div>
 
@@ -1219,7 +1219,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the end, Singapore will be ruled by India! They don’t understand that a divided people will eventually be conquered by outsiders.
 </div>
 
@@ -1235,7 +1235,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Singapore became independent from Malaysia. It’s a sovereign country and should be treated like any other nation!
 </div>
 
@@ -1251,7 +1251,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Western countries always use China as a reference point, and so does Singapore. They’re all in the same boat. Singapore keeps bringing up China to boost itself, but in a few decades, when they come looking for their roots, China might not even care about them.
 </div>
 
@@ -1267,7 +1267,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No need to emphasize historical ties with China! Just like with the US, Japan, the UK, India, or Indonesia, it’s simply a relationship between countries. China has never made a big deal out of it—mutual cooperation and benefit are enough.
 </div>
 
@@ -1283,7 +1283,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No matter what, Chinese people will always be your ancestors—there’s no escaping that unless you change your bloodline and appearance. Otherwise, Westerners will never truly accept you.
 </div>
 
@@ -1299,7 +1299,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Americans aren’t British either.
 </div>
 
@@ -1316,7 +1316,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t put too much faith in overseas Chinese—they’re not Chinese and won’t help China. In fact, they might even harm China.
 </div>
 

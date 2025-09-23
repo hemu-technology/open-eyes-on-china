@@ -1,8 +1,12 @@
 .nav-link:hover
   color: $theme !important
+  [data-mode="dim"] &
+    color: lighten($theme, 15%) !important
 
 .posts a:hover, .post_title a:hover
   color: #0077b8 !important
+  [data-mode="dim"] &
+    color: lighten(#0077b8, 15%) !important
 
 .comment-block
   border: 1px solid #b6e2f8
@@ -11,12 +15,28 @@
   padding: 1.5em 1.2em
   margin: 2em 0
   box-shadow: 0 2px 8px 0 rgba(34,158,217,0.08)
+  [data-mode="dim"] &
+    background: rgba(0, 119, 184, 0.08)
+    border-color: rgba(182,226,248,0.4)
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,0.4)
+    // Let the global body text color apply; only tune accents for contrast
+    color: var(--text)
+    strong, b
+      color: var(--light)
+    a
+      color: lighten(#0077b8, 20%)
+      &:hover
+        color: lighten(#0077b8, 30%)
 
 .quizzer
   border-left: 4px solid #0077b8; 
   padding: 0.75em 1em; 
   margin: 1em 0; 
   background: #f8fafc
+  [data-mode="dim"] &
+    background: rgba(255,255,255,0.06)
+    border-left-color: #33a4e2
+    color: var(--light)
 
 // Keyboard nav highlight for search results
 .search_result--active
@@ -26,3 +46,449 @@
   border-radius: .25rem
   text-decoration: none
   display: block
+  [data-mode="dim"] &
+    background: #0884c4
+    outline-color: #33a4e2
+
+// Reusable translation accent styles (replaces inline style="color: #0077b8;")
+.translated-text, .translated-accent
+  color: #0077b8
+  [data-mode="dim"] &
+    color: lighten(#0077b8, 20%)
+  a &
+    // safeguard if nested
+    color: inherit
+
+// Strong label (e.g. Overview:, OP:) inside translation blocks
+.translated-label
+  font-weight: 600
+  color: #0077b8
+  [data-mode="dim"] &
+    color: lighten(#0077b8, 25%)
+
+// Unified card grid styles for related & series sections (replaces inline styles)
+.related-posts-list,
+.series-posts-list
+  list-style: none
+  padding-left: 0
+  margin: 0
+  display: grid
+  gap: 1rem
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))
+
+.related-card, .series-card
+  border: 1px solid #eee
+  border-radius: 8px
+  background: #fff
+  overflow: hidden
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05)
+  padding: 0
+  transition: box-shadow .18s var(--ease), transform .18s var(--ease)
+  &:hover
+    box-shadow: 0 4px 14px rgba(0,0,0,0.12)
+    transform: translateY(-2px)
+
+.related-card-link, .series-card-link
+  text-decoration: none
+  color: inherit
+  display: block
+
+.related-card-thumb, .series-card-thumb
+  width: 100%
+  height: 140px
+  object-fit: cover
+  display: block
+  margin: 0
+
+.related-card-body, .series-card-body
+  padding: .75rem .85rem 1rem .85rem
+
+.related-card-title, .series-card-title
+  font-weight: 600
+  font-size: 1rem
+  line-height: 1.3
+  margin-bottom: .45rem
+  display: -webkit-box
+  -webkit-line-clamp: 2
+  line-clamp: 2
+  -webkit-box-orient: vertical
+  overflow: hidden
+  text-overflow: ellipsis
+  min-height: 2.6em
+  transition: color .18s var(--ease)
+
+.related-card-meta, .series-card-meta
+  font-size: .8rem
+  color: #777
+  display: flex
+  gap: .6rem
+  flex-wrap: wrap
+
+[data-mode="dim"]
+  .related-card, .series-card
+    background: #0b3d58
+    border-color: #125577
+    box-shadow: 0 4px 18px -4px rgba(0,0,0,0.55)
+  .related-card-title, .series-card-title
+    color: rgba(255,255,255,0.92)
+    text-shadow: 0 1px 2px rgba(0,0,0,0.35)
+    &:hover
+      color: #fff
+  .related-card-meta, .series-card-meta
+    color: rgba(240,240,240,0.65)
+  .related-card-link:focus-visible, .series-card-link:focus-visible
+    outline: 2px solid #33a4e2
+    outline-offset: 2px
+
+// Related & series posts styling (scoped)
+[data-mode="dim"]
+  // Limit headings to specific containers
+  .post_related,
+  .sidebar h2.taxonomy,
+  .sidebar h2#tags-section,
+  .sidebar h2#series-section
+    color: rgba(255,255,255,0.9)
+
+  // Links inside related / series lists
+  ul li a.nav-link
+    color: rgba(255,255,255,0.82)
+    position: relative
+    transition: color .18s var(--ease)
+    &:hover
+      color: lighten(#0077b8, 25%)
+    &:focus-visible
+      outline: 2px solid lighten(#0077b8, 20%)
+      outline-offset: 2px
+
+  // Provide a subtle accent bar for related lists
+  .post_related + ul,
+  .sidebar h2 + ul
+    padding-left: 0.75rem
+    border-left: 2px solid rgba(255,255,255,0.08)
+
+  // Underline on hover for clarity
+  ul li a.nav-link:hover
+    text-decoration: underline
+
+  // Reduce blue link brightness when inside accent list on dark backgrounds
+  .post_related + ul li a.nav-link
+    color: rgba(255,255,255,0.84)
+    &:hover
+      color: lighten(#0077b8, 30%)
+
+// Focus style for light mode (accessibility parity)
+ul li a.nav-link:focus-visible
+  outline: 2px solid #0077b8
+  outline-offset: 2px
+
+// Improve main post title contrast specifically in dark mode
+[data-mode="dim"] .post_title
+  color: rgba(255,255,255,0.95)
+  font-weight: 500
+  letter-spacing: .2px
+  line-height: 1.25
+  text-shadow: 0 1px 2px rgba(0,0,0,0.4)
+
+// Excerpt (series/related list) post titles (h3.post_link > a)
+[data-mode="dim"] h3.post_link a
+  color: rgba(255,255,255,0.92)
+  font-weight: 500
+  text-shadow: 0 1px 2px rgba(0,0,0,0.35)
+  transition: color .18s var(--ease)
+  &:hover
+    color: #fff
+
+// Ensure series heading stands out
+[data-mode="dim"] h2.post_related
+  color: rgba(255,255,255,0.94)
+  font-weight: 500
+  text-shadow: 0 1px 2px rgba(0,0,0,0.45)
+
+// Dark mode card adjustments for series/related listing pages
+[data-mode="dim"] .posts .post_item
+  // Solid themed dark card background
+  background: #063248
+  border: 1px solid #0c4d6b
+  box-shadow: 0 4px 18px -4px rgba(0,0,0,0.55)
+  --post-bg: #063248
+
+[data-mode="dim"] .posts .post_item .excerpt_header,
+[data-mode="dim"] .posts .post_item .excerpt_footer
+  background: transparent
+
+// Provide a unified darker background variable override usage if needed
+// Ensure variable alignment with solid card color
+[data-mode="dim"] .posts .post_item,
+[data-mode="dim"] .posts .post_item .excerpt_footer,
+[data-mode="dim"] .posts .post_item .excerpt_header
+  --post-bg: #063248
+
+// Colored block style for related/series list links
+[data-mode="dim"] .post_related + ul li a.nav-link,
+[data-mode="dim"] .sidebar h2#series-section + ul li a.nav-link
+  display: block
+  background: #0c4d6b
+  padding: .55rem .85rem
+  margin: .35rem 0
+  border-radius: .55rem
+  color: rgba(255,255,255,0.9)
+  font-weight: 500
+  line-height: 1.3
+  transition: background .18s var(--ease), color .18s var(--ease)
+  text-shadow: 0 1px 1px rgba(0,0,0,0.35)
+  &:hover
+    background: #126591
+    color: #fff
+  &:focus-visible
+    outline: 2px solid #33a4e2
+    outline-offset: 2px
+
+// Remove previous left border accent when colored blocks enabled
+[data-mode="dim"] .post_related + ul,
+[data-mode="dim"] .sidebar h2 + ul
+  border-left: none
+  padding-left: 0
+
+// Strengthen meta text and tag visibility
+[data-mode="dim"] .posts .post_item .post_meta,
+[data-mode="dim"] .posts .post_item .post_meta span,
+[data-mode="dim"] .posts .post_item .post_meta a.post_tag
+  color: rgba(255,255,255,0.75)
+
+[data-mode="dim"] .posts .post_item a.post_tag.button_translucent
+  background-color: rgba(0,119,184,0.18)
+  color: lighten(#0077b8, 15%)
+  border-color: rgba(0,119,184,0.4)
+  &:hover
+    background-color: #0077b8
+    color: #fff
+
+// Ensure summary text has sufficient contrast
+[data-mode="dim"] .posts .post_item .pale p
+  color: rgba(255,255,255,0.84)
+
+// Footer links modernization
+.footer-links
+  margin-top: 1em
+  font-size: .85rem
+  font-weight: 500
+  letter-spacing: .4px
+  text-align: center
+  &__list
+    list-style: none
+    margin: 0
+    padding: 0
+    display: inline-flex
+    align-items: center
+    gap: .55rem
+    flex-wrap: wrap
+  &__item
+    line-height: 1.2
+  &__sep
+    opacity: .45
+    line-height: 1
+    font-weight: 400
+    user-select: none
+  &__link
+    color: #0077b8
+    text-decoration: none
+    position: relative
+    padding: 2px 0
+    display: inline-block
+    font-weight: 600
+    transition: color .18s var(--ease)
+    &:before
+      content: ''
+      position: absolute
+      left: 0
+      bottom: 0
+      height: 2px
+      width: 100%
+      background: currentColor
+      transform: scaleX(0)
+      transform-origin: left
+      transition: transform .25s var(--ease)
+    &:hover:before
+      transform: scaleX(1)
+    &:hover
+      color: darken(#0077b8, 7%)
+    &:focus-visible
+      outline: 2px solid #33a4e2
+      outline-offset: 3px
+
+[data-mode="dim"]
+  .footer-links__link
+    color: lighten(#0077b8, 25%)
+    &:hover
+      color: #fff
+    &:before
+      background: currentColor
+  .footer-links__sep
+    opacity: .5
+
+  // Translator note label utility (replaces <font color="#0077b8">)
+  .translator-note-label
+    color: #0077b8
+    font-weight: 600
+    letter-spacing: .3px
+    [data-mode="dim"] &
+      color: lighten(#0077b8, 22%)
+
+  // Optional container block for a translator note section
+  .translator-note
+    border-left: 4px solid #0077b8
+    padding: .75rem 1rem
+    background: #f5f9fc
+    margin: 1.25rem 0
+    border-radius: 4px
+    font-size: .95rem
+    line-height: 1.5
+    p:last-child
+      margin-bottom: 0
+    [data-mode="dim"] &
+      background: rgba(0,119,184,0.12)
+      border-left-color: #33a4e2
+      color: var(--light)
+      .translator-note-label
+        color: lighten(#33a4e2, 15%)
+
+// ===========================
+// Series banner component
+// ===========================
+.series-banner
+  font-size: .82rem
+  margin: 1rem 0 1.25rem
+  background: #f5f7fa
+  padding: .55rem .75rem .6rem
+  border-radius: 6px
+  position: relative
+  border: 1px solid #e2e8f0
+  transition: background .25s var(--ease), border-color .25s var(--ease), color .25s var(--ease)
+  summary::-webkit-details-marker
+    display: none
+  &[open]
+    .series-banner__toggle-text
+      // JS swaps text, keep style stable
+      opacity: 1
+
+.series-banner__summary
+  cursor: pointer
+  list-style: none
+  display: flex
+  flex-wrap: wrap
+  gap: .65rem .9rem
+  align-items: center
+  user-select: none
+
+.series-banner__label
+  font-weight: 600
+
+.series-banner__name
+  font-weight: 500
+
+.series-banner__part
+  opacity: .65
+
+.series-banner__toggle-text
+  margin-left: auto
+  font-size: .75rem
+  background: #e1e6eb
+  padding: 2px 6px
+  border-radius: 4px
+  line-height: 1.2
+  font-weight: 500
+  transition: background .2s var(--ease), color .2s var(--ease)
+
+.series-progress
+  height: 4px
+  background: #dbe1e6
+  border-radius: 2px
+  margin: .55rem 0 .4rem
+  position: relative
+  overflow: hidden
+
+.series-progress__bar
+  height: 100%
+  background: #3b82f6
+  transition: width .35s var(--ease)
+  width: 0
+
+.series-banner__nav
+  margin-top: .6rem
+  display: flex
+  flex-wrap: wrap
+  gap: .5rem .6rem
+  align-items: center
+
+.series-banner__parts
+  flex: 1 0 100%
+
+.series-banner__part-link
+  display: inline-block
+  min-width: 1.8rem
+  text-align: center
+  text-decoration: none
+  background: #e4e9ef
+  color: #333
+  border-radius: 4px
+  padding: 2px 6px
+  font-weight: 500
+  line-height: 1.25
+  transition: background .18s var(--ease), color .18s var(--ease), transform .18s var(--ease), box-shadow .18s var(--ease)
+  &:hover
+    background: #d5dce3
+  &:focus-visible
+    outline: 2px solid #3b82f6
+    outline-offset: 2px
+  &:active
+    transform: translateY(1px)
+  &.is-current
+    background: #222
+    color: #fff
+    font-weight: 600
+    cursor: default
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.3) inset
+
+.series-banner__prevnext
+  margin-left: auto
+  white-space: nowrap
+  a
+    text-decoration: none
+    font-weight: 500
+    color: #1d4ed8
+    transition: color .18s var(--ease)
+    &:hover
+      text-decoration: underline
+    &:focus-visible
+      outline: 2px solid #3b82f6
+      outline-offset: 2px
+
+// Dark mode adjustments
+[data-mode="dim"]
+  .series-banner
+    background: #063248
+    border-color: #0c4d6b
+    box-shadow: 0 4px 18px -4px rgba(0,0,0,0.55)
+    color: var(--light)
+  .series-banner__toggle-text
+    background: #0c4d6b
+    color: rgba(255,255,255,0.85)
+  .series-banner__part
+    opacity: .75
+  .series-progress
+    background: #0c4d6b
+  .series-progress__bar
+    background: linear-gradient(90deg,#1992d4,#33a4e2)
+  .series-banner__part-link
+    background: #0c4d6b
+    color: rgba(255,255,255,0.85)
+    &:hover
+      background: #126591
+      color: #fff
+    &.is-current
+      background: #1992d4
+      color: #fff
+  .series-banner__prevnext a
+    color: lighten(#0077b8, 25%)
+    &:hover
+      color: #fff

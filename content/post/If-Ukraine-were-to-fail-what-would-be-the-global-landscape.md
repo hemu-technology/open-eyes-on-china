@@ -38,7 +38,7 @@ Click to expand Chinese comment</span>
 乌克兰战争从来不是两个国家的领土纠纷那么简单，而对整个国际秩序的维护，一个公平和文明的环境不仅符合正义，也对任何人都有好处。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 According to Canadian singer Céline Dion:
 'The victory or defeat of Ukraine will be the dividing line for the future of human civilization. If Ukraine wins, the civilized order remains intact and rules cannot be broken by force. If Ukraine loses, the immense sacrifices made in World War I and World War II will have been for nothing, and humanity will return to a jungle society where only the strong survive.'
 
@@ -58,7 +58,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Céline Dion's singing is beautiful. I didn't expect her to have such a great outlook on things—it’s truly rare and admirable.
 </div>
 
@@ -74,7 +74,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Why is it okay for the U.S. to invade, but not for Russia?
 </div>
 
@@ -92,7 +92,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Because the U.S. is the world's police, representing the direction of Earth's development.
 The former is a police officer cracking down on a criminal, while the latter is a thug bullying someone—they can't be compared. [Witty]
 </div>
@@ -109,7 +109,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Are there still people who think the world's **fundamental logic is civilization**? You must have lived a sheltered life; if you'd ever been hungry, you would know how treacherous the world truly is. [Laughing]
 </div>
 
@@ -126,7 +126,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia's invasion is fine then? Vladivostok hasn't been returned either. [Facepalm] [Laughing with tears]
 </div>
 
@@ -142,7 +142,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That was Tsarist Russia. At that time, Russia and Ukraine were still one family. [Awkward]
 </div>
 
@@ -160,7 +160,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, some people can completely ruin your life, but you don't have the power to do the same.
 
 He can mess with you and face no consequences, yet you don't even have the right to talk back.
@@ -180,7 +180,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Which countries has the U.S. invaded?
 </div>
 
@@ -196,7 +196,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So, is it or isn't it? When do we start counting, and how do we divide the timeline? Do we count the Soviet Union's actions? How do you compare it to the U.S.? What is your logic?
 </div>
 
@@ -212,7 +212,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Oh, so the world police interfered in Yugoslavia's internal affairs?
 Bombing Yugoslavia?
 Invading Afghanistan?
@@ -231,7 +231,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia is also a member of the SCO and advocates for counter-terrorism. So what's the problem with Russia going to Ukraine for counter-terrorism, to clear out the Ukro-Nazis and the Azov Battalion? [Playful]
 </div>
 
@@ -248,7 +248,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To put it bluntly, the biggest maintainer of the existing international framework is the United States, especially the U.S. from ten or twenty years ago, which led the international order after WWII. And the U.S.'s post-WWII military actions were never based on expanding its own territory; at most, they involved overthrowing and installing regimes. This, at least, is a relatively acceptable international order. Russia's open invasion and occupation of another country's territory, however, is a return to the international order of WWI, WWII, or even earlier. It's not even as good as when the U.S. was the world's police. A chaotic order is always better than pure chaos.
 
 In the future, if our country wants to lead the international order, we must also assume the role of its defender. We have to be like the U.S. was twenty years ago. If we turn a blind eye to a multitude of actions that violate that order, then the order will never be fully established, and our leadership will be meaningless. If we don't take on the leadership role, then in an order led by other countries, they will be the biggest beneficiaries and hold the most sway.
@@ -266,7 +266,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just as you said, Russia's attack on Ukraine was formed in history. It's said that history is created by the people, so no one can deny the choice of the people.
 </div>
 
@@ -282,7 +282,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From his perspective, as long as you don't occupy a country's land, it doesn't count as an invasion. Little does he know, interfering in a country's internal affairs is the greatest invasion.
 </div>
 
@@ -301,7 +301,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A fair and civilized environment not only serves justice but also benefits everyone. 👍👍👍👍👍👍👍👍👍👍
 </div>
 
@@ -317,7 +317,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 We should look at this issue **dialectically**. Is it possible that we shouldn't be guided by what might be a flawed Western concept of fairness, civilization, and justice? If Ukraine really were to occupy all of Russia's territory, what should we do if they no longer allow our warships to visit **Vladivostok (Haishenwai)** in the future?
 </div>
 
@@ -333,7 +333,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When did Ukraine ever say it was going to occupy Russia?
 </div>
 
@@ -349,7 +349,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But for a dictator, there is no benefit.
 </div>
 
@@ -365,7 +365,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Justice will prevail! I strongly demand the "world police" directly send troops to punish the aggressor and restore a world of fairness and justice. If the world police won't send troops to sanction the invader, then it might as well just take its own life to apologize to the world. [doge][doge][doge][doge]
 </div>
 
@@ -381,7 +381,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Some people have a mindset that when a rich and powerful country attacks another, it's just going there to liberate them. Russia's problem is that it is not a developed country.
 
 Also, the U.S. wants to fight with Venezuela because Venezuela has one of the top oil reserves but is disobedient.
@@ -399,7 +399,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You didn't analyze this: Venezuela has top-tier oil reserves, but its people are living in such a pathetic state?
 
 Check this: Does Maduro really have hundreds of millions in wealth, and is it still stored with the enemy, the American imperialists?
@@ -419,7 +419,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They often unilaterally claim to represent freedom, democracy, justice, and civilization, because, anyway, no one can beat them, so there's nothing anyone can do. [Facepalm]
 
 Essentially, they are just the strong ones in a world where the strong prey on the weak.
@@ -437,7 +437,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Why don't they go to Mexico to fight drugs? Oh, so the Mexican drug traffickers are one and the same as the U.S. government, right?
 </div>
 
@@ -453,7 +453,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Is the sale of oil truly free? Saudi Arabia still has a royal family, so why doesn't the U.S. get involved? It's because Venezuela's oil was nationalized, and it wanted its own pricing power and the right to choose its own trading currency. When other countries sanction you, how can you live well?
 </div>
 
@@ -471,7 +471,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Does what the U.S. says make it so?
 
 What's more, growing drugs doesn't even violate international law. Even if arrests are necessary, they should be carried out under the framework of the United Nations or Interpol, with sufficient evidence to apprehend and arrest individuals involved in drug trafficking. Which international law stipulates that if a country has people growing drugs, one can declare war on it?
@@ -489,7 +489,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Mexico is right next door to the U.S. and is the largest source of U.S. drug imports. So why doesn't the U.S. attack it, but instead attacks Venezuela, thousands of miles away?
 </div>
 
@@ -505,7 +505,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From a long-term historical perspective, the Russia-Ukraine war is the final act of a century-long attempt and failure by the **newly emerging 19th-century powers**—Germany, Russia, and Japan—to replicate the colonialist model of the **old-guard powers**—Spain, Portugal, the Netherlands, and Britain.
 
 Russia cannot win.
@@ -538,7 +538,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The day after the U.S. collapses, I'll immediately become a pro-American loyalist, cursing the Russians every day and frantically supporting the 50 American states in various forms of retaliation against Russia.
 
 If the U.S. collapses today, tomorrow I will go around claiming that Lake Baikal has been ours since ancient times.
@@ -567,7 +567,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That's right! [Surprised]
 
 The moment the U.S. breaks up, those pro-Russian fans and I will become sworn enemies. [Crying with laughter] [Crying with laughter]
@@ -586,7 +586,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If the U.S. breaks up, I'll become a pro-American fanatic. [love]
 
 It's basically a case of supporting whoever's not in power.
@@ -604,7 +604,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If a button existed that, when pressed, would make Ukraine win and Russia lose, while also causing the U.S. to collapse, many so-called "pro-Russian fans" would not hesitate to press it.
 </div>
 
@@ -620,7 +620,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That's asking too much; I'll start showing my devotion the moment the U.S. splits into two countries.
 </div>
 
@@ -636,7 +636,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Splitting into two might still not be enough, because it's very likely to divide into one large and one small, and the large one would inherit over 70% of the strength. That would still be a major threat to us.
 </div>
 
@@ -652,7 +652,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Putting aside the issue of Hawaiian independence, as long as **Taiwan is brought under China's effective control**, American **hegemony will be gone**. The U.S. is an **imperial system**, and if it loses control of one of its pillars—Japan, Germany, South Korea, or Taiwan—that's when the dominoes will start to fall.
 </div>
 
@@ -668,7 +668,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Democratic Party and the Republican Party can split up along their respective political bases. The Republican U.S. can have Elon Musk as president, and the Democratic U.S. can have Taylor Swift as president. In that case, I'll immediately become a full-on American fan. [Happy]
 </div>
 
@@ -684,7 +684,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That first sentence you said freaked me out. Fifty American states would mean the Chinese men's national football team's ranking would drop by at least 50 spots. [Facepalm] What are we going to do about that?
 </div>
 
@@ -700,7 +700,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The moment the U.S. dies and splits up, I'll immediately call for us to take back Outer Manchuria and Lake Baikal, which have been ours since ancient times.
 </div>
 
@@ -716,7 +716,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You've hit the nail on the head. Most people who are labeled as "Russia fans" basically think that way.
 </div>
 
@@ -734,7 +734,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 After Ukraine loses, the U.S. and Europe come to Saint Zelensky with $170 billion in IOUs. Ze-Sheng then uses all of Ukraine’s land, minerals, factories, and companies as collateral for the debt. So, even though the Ukrainian people are left with nothing, they get to live a happy life of freedom and democracy. Then, the Ukrainian people realize they can’t go on living this happy life, and they democratically elect a new president who legally announces that he will liquidate Saint Zelensky’s agreements and nationalize all the land and minerals. The West then declares the new president illegitimate, denouncing Ukraine as a lawless dictatorship. They rally the world against it, bring their armies to Ukraine’s borders, and give them the exact same sanctions package they originally gave Russia. Following their example, Ukraine establishes a “no-limits” strategic partnership with a certain mysterious great power in the East. And the righteous folks on Zhihu who once supported Ukraine immediately turn their guns and collectively begin to attack Ukraine’s dictatorial regime for its lack of rule of law and for defaulting on its debts.
 </div>
 
@@ -750,7 +750,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 And then they must also lavishly praise the U.S., the light of the world, for how incredibly kind it was back then, helping Ukraine fend off an external enemy.
 </div>
 
@@ -766,7 +766,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The playbook is always the same. Some people don't get it, or they pretend not to.
 </div>
 
@@ -786,7 +786,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Isn't working for a European or American foreign company better than working for a local Ukrainian company?
 
 And isn't the export volume of European or American foreign companies greater than that of local Ukrainian companies?
@@ -810,7 +810,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 All the war funding comes from Russia, as Europe and the U.S. have frozen over $600 billion of Russia's overseas assets. Legislation has now been passed to transfer this money to Ukraine to be used for military spending and reparations for property damage.
 
 It can be said that Russia is paying to fight itself. Of course, it could also ask its adopted son for money.

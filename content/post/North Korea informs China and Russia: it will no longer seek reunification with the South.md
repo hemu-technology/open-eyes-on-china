@@ -34,7 +34,7 @@ Click to expand Chinese comment</span>
 朝鲜明智的选择，接下来大力发展经济。走中国社会主义改革开放的路线
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 A wise choice by North Korea—now it can focus on economic development and follow China’s path of socialist reform and opening up.
 </div>
 
@@ -50,7 +50,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Recognizing the reality of two countries, mutual recognition, peaceful coexistence, and moving toward win-win cooperation in economy and culture. Wishing both countries healthy economic growth!
 </div>
 
@@ -66,7 +66,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Keep reunification in mind, but put development and strength first. When the time and strength are right, things will naturally fall into place.
 </div>
 
@@ -82,7 +82,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the future, China will bring both North and South Korea into the big socialist family. China has the strength and tradition to do this. 💪💪💪💪
 </div>
 
@@ -98,7 +98,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Absolutely correct—focus on developing the domestic economy, build friendly relations with China and Russia, communicate on major issues, gradually reform and open up. Life for North Koreans will keep improving. Thumbs up for Kim Jong Un (the “post-80s” leader)!
 </div>
 
@@ -114,7 +114,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is a pragmatic and progressive attitude, and it helps resolve decades of psychological barriers to China-South Korea relations and exchanges.
 </div>
 
@@ -130,7 +130,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In reality, north and south of the 38th parallel are two sovereign countries with different systems, taking different paths. May they turn hostility into friendship, coexist peacefully, and develop independently.
 </div>
 
@@ -146,7 +146,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North Korea is suited to a planned economy, can take on low-end manufacturing from China and Russia, and could set up industrial parks at the border. If armed conflict breaks out, China and Russia would protect the factories and workers and mediate.
 </div>
 
@@ -162,7 +162,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 An impressive move—more realistic and beneficial for long-term development. The three generals are not simple!
 </div>
 
@@ -178,7 +178,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Recognizing the reality of two countries, mutual recognition, peaceful coexistence, and moving toward win-win cooperation in economy and culture. Wishing both countries healthy economic growth!
 </div>
 
@@ -194,7 +194,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A wise choice by North Korea—now it can focus on economic development and follow China’s path of socialist reform and opening up. 💐
 </div>
 
@@ -210,7 +210,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Recognizing both sides as independent countries is a big step forward for North Korea. Hope it keeps developing its economy and improving people’s lives.
 </div>
 
@@ -226,7 +226,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is a pragmatic and progressive attitude, and it helps resolve decades of psychological barriers to China-South Korea relations and exchanges.
 </div>
 
@@ -242,7 +242,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North Korea is making its own decisions, focusing on development and moving away from South Korea. China and Russia are working together to safeguard peace on the peninsula. Northeast Asia’s new stability shows the strength and cooperation of major powers.
 </div>
 
@@ -258,7 +258,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Accept reality, don’t give up! Change the living conditions of your people, develop the economy, and quickly grow by learning from China’s experience. North Korea is at the downstream end of China’s industrial chain! 👍
 </div>
 
@@ -274,7 +274,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Mutual respect, peaceful coexistence, win-win cooperation! 👍 This is a pragmatic and progressive attitude, and it helps resolve decades of psychological barriers to China-South Korea relations and exchanges!
 </div>
 
@@ -290,7 +290,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is a big step toward peaceful development. Focus on practical growth and improve people’s happiness. 💐
 </div>
 
@@ -306,7 +306,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Protect national security and improve people’s living standards.
 </div>
 
@@ -322,7 +322,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Recognizing the reality of two countries, mutual recognition, peaceful coexistence, and moving toward win-win cooperation in economy and culture. Wishing both countries healthy economic growth!
 </div>
 
@@ -338,7 +338,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A wise choice by North Korea—now it can focus on economic development and follow China’s path of socialist reform and opening up! 💐
 </div>
 
@@ -354,7 +354,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Peace on the peninsula and stable borders are good for everyone. Peace and stability are the greatest contributions to both peoples and the world.
 </div>
 
@@ -370,7 +370,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Very pragmatic—develop yourself, open up, and as the economy grows, people’s lives will improve.
 </div>
 
@@ -386,7 +386,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Pragmatic approach—reunification requires strength. You need to be strong to succeed; developing the economy is the key.
 </div>
 
@@ -402,7 +402,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From China’s approach to Taiwan, we learn that only by developing the economy and strengthening the country will reunification happen naturally.
 </div>
 
@@ -418,7 +418,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 One island, two countries—if they get along, the island will thrive, people will be happy, and life will be beautiful. 👍👍👍👍👍👍
 </div>
 
@@ -434,7 +434,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 An impressive move—more realistic and beneficial for long-term development.
 </div>
 
@@ -450,7 +450,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A smart choice. Now North Korea can focus on economic development and improving people’s lives.
 </div>
 
@@ -466,7 +466,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Wishing peace and a bright future for both Koreas.
 </div>
 
@@ -482,7 +482,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Focus on reality, plan for the future—people’s happiness and national strength are what matter. 👍👍👍
 </div>
 
@@ -498,7 +498,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Accept reality, coexist peacefully, and develop together.
 </div>
 
@@ -514,7 +514,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Open the country and develop the economy.
 </div>
 
@@ -530,7 +530,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If the border fence and guards were removed, which way would Koreans run?
 </div>
 
@@ -546,7 +546,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North Korea: “We’re not seeking reunification anymore.” South Korea: “That’s not up to you—now it’s our turn to seek reunification.”
 </div>
 
@@ -562,7 +562,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Three generations have worked for the people, all for one wish: a bowl of rice, a bowl of soup, a tiled house. For over 80 years, they’ve never forgotten their original goal! 👍👍👍
 </div>
 
@@ -578,7 +578,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If North Korea explains this at the UN, what reason would the U.S. have to keep troops in South Korea?
 </div>
 
@@ -594,7 +594,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North Korea’s top priority is economic development. Military is for self-defense. No need to seek reunification anymore.
 </div>
 
@@ -610,7 +610,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If reunification is hopeless, stop wasting national resources—focus on building and managing the country. This news is a bit surprising, but it’s a wise and necessary move for North Korea. I understand their difficulties. Wonder what South Korea thinks?
 </div>
 
@@ -626,7 +626,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North Korea and South Korea, like China and Taiwan, can understand each other, cooperate, and develop together without war or casualties. People can live in peace. 🙏💐
 </div>
 
@@ -642,7 +642,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So you’re saying, “I won’t attack you, so don’t be hostile to me either?”
 </div>
 
@@ -658,7 +658,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, keeping the status quo on the peninsula benefits China and Russia. North Korea’s shift from offense to defense saves money and shows it’s ready to develop the economy and improve people’s lives. That’s a good thing.
 </div>
 
@@ -674,7 +674,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is the wise thing to do! North Korea and South Korea are both recognized by the UN as independent sovereign states. No one can swallow the other—this is reality! Peaceful coexistence and following your own path is the right way. Making enemies is irrational and only leads to living in a fantasy, which is bad for national development.
 </div>
 
@@ -690,7 +690,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s wise for North Korea to recognize it won’t reunify with South Korea. South Korea’s population is much larger, so the small fish can’t eat the big fish. This isn’t like China and Taiwan, where the mainland is much bigger and has overwhelming advantages for reunification. 🎉
 </div>
 
@@ -706,7 +706,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This move makes the U.S. military presence in South Korea even less justified. Someday, with mutual trust and recognition, peace and development will come, and South Koreans will act on it.
 </div>
 
@@ -722,7 +722,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If there were no borders, people could go wherever they want—like in China, where you can travel freely. Would that bring world peace?
 </div>
 
@@ -738,7 +738,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the 1970s and early 1980s, North Korea was a wealthy, moderately developed country in Asia. Pyongyang’s subway was built before Shanghai’s, and South Korea looked up to it. After the Soviet Union collapsed, North Korea declined, so its pursuit of revival is understandable.
 </div>
 
@@ -754,7 +754,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Soviet and American systems—two neighboring countries founded at almost the same time. Now you can see the difference in development. It’s not about the system, but about the people in charge. Life is tough for ordinary people.
 </div>
 
@@ -770,7 +770,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is a pragmatic approach. In the short term, North and South Korea can’t reunify. Recognizing each other as independent countries opens up diplomatic progress and can gradually end open hostility.
 </div>
 
@@ -786,7 +786,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No need for hostility—equal, mutually beneficial exchanges, respect for personal choice, and friendly relations.
 </div>
 
@@ -802,7 +802,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North Korea should open up gradually like China, but learn from China’s lessons—don’t privatize, and don’t let corruption spread.
 </div>
 
@@ -818,7 +818,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s because he knows reunification would mean being unified by the other side, like Germany was.
 </div>
 
@@ -834,7 +834,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Giving up the dream of reunifying South Korea isn’t easy. It shows North Korea’s leaders are taking a pragmatic approach, which is great for the country’s future.
 </div>
 
@@ -850,7 +850,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North and South Korea are the same people, but the world recognizes them as two independent sovereign states. No need to force reunification—just focus on development.
 </div>
 
@@ -866,7 +866,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Giving up reunification is right—North Korea is too weak. But in the future, reunification is inevitable, just like East and West Germany.
 </div>
 
@@ -882,7 +882,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North Korea is being pragmatic and realistic. With U.S. support, South Korea is strong, and North Korea realizes it can’t reunify by itself. Rapid development is the way forward! With Russia’s support, South Korea won’t dare provoke North Korea. Keeping the status quo is good for China too!
 </div>
 
@@ -898,7 +898,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In over 3,000 years of history, the Korean peninsula has rarely been unified. Having two or three governments is normal.
 </div>
 
@@ -914,7 +914,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Many years ago, China recognized North Korea and South Korea as independent countries.
 </div>
 
@@ -930,7 +930,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 We don’t interfere in other countries’ internal affairs—they decide for themselves! China handles its own affairs and won’t tolerate foreign interference, especially regarding national unity!
 </div>
 
@@ -946,7 +946,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Unification was never really possible—South Korea is a developed country. Kim realizes this and is treating it as a relationship between two countries, which is correct.
 </div>
 
@@ -962,7 +962,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The key is for both sides to sign a peace agreement and end the state of war. I think North Korea’s move will help peace and stability on the peninsula, give it more room to develop, and strengthen its position with the U.S., Japan, and South Korea.
 </div>
 
@@ -978,7 +978,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Support North Korea’s wise choice—build the country, embrace China and Russia, develop the economy, and improve people’s lives. North Koreans have dignity, but South Koreans don’t have that right.
 </div>
 
@@ -994,7 +994,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Let the people of both countries vote and see which country they’d rather get rid of.
 </div>
 
@@ -1010,7 +1010,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 With the U.S. and China separating, and China needing reliable neighbors, North Korea can join China’s new order and share in the benefits. China’s investment and infrastructure can flow into North Korea and drive development.
 </div>
 
@@ -1026,7 +1026,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s good for Koreans to have two countries, each with its own character. North Korea should open up more—just one year of visa-free tourism from China would bring in huge revenue.
 </div>
 
@@ -1042,7 +1042,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Historically, North and South Korea weren’t always one people, and periods of unity were rare. No need to force reunification.
 </div>
 
@@ -1058,7 +1058,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If reunification is no longer the goal, military spending should go down, and the savings should be used for development and improving people’s lives.
 </div>
 
@@ -1074,7 +1074,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Diplomatic relations between China and South Korea in 1992 really hurt North Korea’s feelings.
 </div>
 
@@ -1090,7 +1090,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North Korea’s existence gives people today a way to see what life was like in the past.
 </div>
 
@@ -1106,7 +1106,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Hope North and South Korea recognize each other soon, sign a friendship treaty, end the war, and establish normal diplomatic relations.
 </div>
 
@@ -1122,7 +1122,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t expect others to follow your path of reform and opening up! Every country has its own situation, and don’t think like Americans. 🙏
 </div>
 
@@ -1138,7 +1138,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Peaceful development is the only way! If humanity could live in peace and use military research and resources to improve life and technology, imagine how far we could go! War and militarization have held back human progress.
 </div>
 
@@ -1154,7 +1154,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Giving up reunification means major policy changes—focus on people’s livelihoods and the economy.
 </div>
 
@@ -1170,7 +1170,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North Koreans will wake up sooner or later.
 </div>
 
@@ -1186,7 +1186,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This step is not ideal, but it’s a necessary move—after all, the world recognizes two countries.
 </div>
 
@@ -1202,7 +1202,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No need for reunification—mutual respect and peaceful coexistence! Both are UN member states, and reunification isn’t needed or possible!
 </div>
 
@@ -1218,7 +1218,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 For most of history, the Korean peninsula was divided into several small states. Unified periods were short.
 </div>
 
@@ -1234,7 +1234,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is a good move—it should lower the risk of war, maybe a lesson learned from Ukraine.
 </div>
 
@@ -1250,7 +1250,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s a reluctant choice for a weak country. China must keep getting stronger to lead the world to real peace and development.
 </div>
 
@@ -1266,7 +1266,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s just as well—South Koreans aren’t seeking reunification either. Maybe relations can normalize now.
 </div>
 
@@ -1282,7 +1282,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just wait—North Korea will surprise the world someday.
 </div>
 
@@ -1298,7 +1298,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Silla and Baekje were two separate countries in ancient times.
 </div>
 
@@ -1314,7 +1314,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In ancient times, Tang’s Andong Protectorate and Goryeo were separate from Silla and Baekje—three independent countries.
 </div>
 
@@ -1330,7 +1330,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The key is for both countries to stop military conflict and recognize each other.
 </div>
 
@@ -1346,7 +1346,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Instead of chasing unrealistic reunification, focus on improving the economy and people’s lives. 👍👍👍
 </div>
 
@@ -1362,7 +1362,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s a pragmatic choice—if North Korea doesn’t improve its environment and economy, it will fall further behind. Get strong first!
 </div>
 
@@ -1378,7 +1378,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Face reality and let go of historical baggage. That’s the best way to inspire patriotism and economic growth. It’s the best choice right now.
 </div>
 
@@ -1394,7 +1394,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This textbook should be kept to educate children, so people understand this phenomenon exists in the world.
 </div>
 
@@ -1410,7 +1410,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This change is a realistic statement—neither side can swallow the other. Focus on development.
 </div>
 
@@ -1426,7 +1426,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To unify, North Korea must be stronger than South Korea.
 </div>
 
@@ -1442,7 +1442,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Simple: rely on China for the economy, Russia for the military, and you’ll have a solid footing in the world.
 </div>
 
@@ -1458,6 +1458,6 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Let go of unrealistic dreams, develop the economy, and improve people’s lives—good move!
 </div>

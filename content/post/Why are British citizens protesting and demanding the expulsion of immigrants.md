@@ -46,7 +46,7 @@ Click to expand Chinese comment</span>
 到那个时候谁驱逐谁还不一定呢.
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I think it’s already too late, and not just for the UK.
 I once saw a street interview where a Muslim woman was asked about the growing Muslim population. Her reply was: “Not only here, but worldwide.”
 Give it another decade or so, maybe one generation, and the native British vote will be outnumbered.
@@ -66,7 +66,7 @@ Click to expand Chinese comment</span>
 那些英国政客还在为了选票对非法移民宽容反歧视,人家人数多起来,白皮变少数民族时,是选同样面孔同样文化的人还是选你白皮,看现在英国政坛渐渐多出中东面孔就知道了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Those British politicians are still being “tolerant” toward illegal migrants just for the sake of votes and “anti-discrimination.” But once the numbers grow, when white Brits become the minority, who do you think people will vote for—someone who looks like them and shares their culture, or a white politician?
 Just look at how more and more Middle Eastern faces are appearing in UK politics already… the trend is obvious.
 </div>
@@ -83,7 +83,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly, you said it yourself—it’s British politicians, not just white politicians. Honestly, ever since Britain insisted on being the empire on which the sun never sets, this outcome was inevitable. If you want to be a global empire, of course people from all over the world will become part of it. How could you then divide them into “white” or “non-white”? 😎
 </div>
 
@@ -99,7 +99,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Doesn’t the UK government realize this is way more dangerous than the “big goose”? The whole Democratic Party approach really messed up the West. 😬
 </div>
 
@@ -115,7 +115,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They know, but the government’s interests (collective interest) don’t always match individual interests. 🤷‍♂️
 </div>
 
@@ -131,7 +131,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Does the UK government even know? If they did, how could they keep giving illegal immigrants money, hotels, free healthcare, free education, and refuse to deport them no matter what… 😳💸🏨🏥📚
 </div>
 
@@ -147,7 +147,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the history of human civilization, only the Han and the Germanic peoples have built advanced, prosperous nations. The British Empire falling into the hands of people wearing hats and eating with their hands? Totally doomed! 😅🌍🏛️
 </div>
 
@@ -163,7 +163,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, this feels so satisfying 😅🤦‍♂️. I don’t really like Muslims either, but seeing the UK, this troublemaker, bring the fire on itself 🤭🔥… just feels so vindicating. 😏
 </div>
 
@@ -179,7 +179,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No wonder Elon Musk keeps urging people to have more kids 🐶. If you don’t occupy, someone else will 🐶.
 </div>
 
@@ -195,7 +195,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Looking at Europe now, I really realize how remarkable Israel is — carving out a dawn among all the rogues. Go, Netanyahu!
 </div>
 
@@ -211,7 +211,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I really don’t understand why some Chinese are so anxious. Islam and Christianity have been clashing for over a thousand years — it’s completely normal for back-and-forth conflicts.
 </div>
 
@@ -227,7 +227,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Christianity used to have a solid base, so even in conflicts the core stayed strong. Now, it feels like even the base is being taken away.
 </div>
 
@@ -245,7 +245,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, it’s self-inflicted. Europe wants influence in the Middle East, and one of the easiest ways is to use immigration to attract Middle Eastern elites.
 
 But if they reject Middle Eastern immigrants, then within a few years the Middle East will be dominated by anti-white and anti-Catholic sentiments. After that, the world’s hubs will have nothing to do with them.
@@ -263,7 +263,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 During the colonial era, severe racial discrimination in Europe and America didn’t stop them from controlling a bunch of colonies all over the world.
 </div>
 
@@ -279,7 +279,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Back then, European and American colonizers could kill freely while others had no way to fight back. Now it’s different — unless another “little mustache” shows up, but they’ve already completely crushed the last one.
 </div>
 </div>
@@ -296,7 +296,7 @@ Click to expand Chinese comment</span>
 这就是选票政治的弊端，为了选上去，哪管他洪水滔天
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is the downside of vote-driven politics — as long as they get elected, who cares if the flood is raging?
 </div>
 
@@ -312,7 +312,7 @@ Click to expand Chinese comment</span>
 虽然我看英国这样挺爽，但还是担心穆斯林占领世界
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Even though I find what’s happening in the UK pretty satisfying, I still worry about Muslims taking over the world.
 </div>
 
@@ -328,7 +328,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No way, Western whites are pirates — it’s not like they’ve ripped off the mask and resorted to violence yet 🤦‍♂️.
 </div>
 
@@ -344,7 +344,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Islamic culture has a very low ceiling.
 </div>
 
@@ -360,7 +360,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Not really. In a sense, Islam is quite practical and secular — otherwise the Renaissance, which involved translating Greek and Roman works from Arabic, would be pretty funny. But the Mongol westward conquests wiped out the enlightened ruling factions 😢, leaving the monsters hiding in the mountains 🤦‍♂️ to survive and become the source of today’s mainstream sects.
 </div>
 
@@ -376,7 +376,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Muslims were invited in by the UK 😏. Doesn’t matter who “takes over” — future generations will just consider themselves British, just like the Five Barbarians in our history called themselves Chinese 😂.
 </div>
 
@@ -392,7 +392,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, I feel the same way. If Muslims take over the world, society will regress.
 </div>
 
@@ -408,7 +408,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Worrying is a bit unnecessary. The Anglo-Saxons have always been thieves, and Middle Eastern Muslims have been exploited for thousands of years. Bringing in immigrants is really just a way to pit the lower classes against each other — high welfare can’t last forever, so people need an outlet to vent.
 </div>
 
@@ -424,7 +424,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 With the UK as the world’s top “old B,” the sneaky ones are like grandmasters. If the white hats get a little advantage, it’s probably just bait. How it plays out next? I’m rooting for the UK.
 </div>
 
@@ -440,7 +440,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Back when the Anglo-Saxons replaced the Native Americans in North America and the indigenous peoples in Australia, we should have known — the boomerang might be delayed, but it will never miss.
 </div>
 
@@ -457,7 +457,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They won’t have another generation. Israel has shown they are a weak country.
 Deep down, the British are extremely brutal and violent Anglo-Saxons — when they kill, it’s almost mechanical.
 </div>
@@ -474,7 +474,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Europe has been colonizing the world for 500–600 years — it’s time for that blood debt to be paid.
 </div>
 </div>
@@ -497,7 +497,7 @@ Click to expand Chinese comment</span>
 现在想想，东大坚决不开移民这个口子，真特么英明。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Four million illegal immigrants 😂 — just thinking about it makes me laugh.
 
 Deport them? How? The trend is already unstoppable.
@@ -520,7 +520,7 @@ Click to expand Chinese comment</span>
 你以为中国移民管理局是准备干嘛
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 China almost slipped up, but it was the outcry from the Chinese people that stopped it.
 Do you really think the Chinese immigration authorities were planning to just let it happen?
 </div>
@@ -537,7 +537,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I really didn’t know that — good to hear.
 </div>
 
@@ -553,7 +553,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A lucky thing, otherwise the traitors would have succeeded and the Chinese civilization would be in danger.
 </div>
 
@@ -569,7 +569,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Traitors have gotten away with a lot. 
 </div>
 
@@ -585,7 +585,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I actually experienced this. East China was planning to change the requirements for obtaining Chinese citizenship and let the public vote on it. There was a huge uproar — if I remember correctly, almost every platform strongly opposed it. Later, the relevant authorities came out and withdrew the proposed policy.
 </div>
 
@@ -601,7 +601,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But now some people are bringing Black partners over to marry, helping others find partners in Africa, and some Black individuals are even being manipulated into becoming online celebrities, making a lot of money. There are huge numbers of online followers, though it’s unclear if they’re paid bots or genuine fans. It seems the state’s control over this isn’t very strict.
 </div>
 
@@ -616,7 +616,7 @@ Click to expand Chinese comment</span>
 那个你避免不了，总不能禁制本国人嫁娶外国人吧
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 You can’t avoid that. You can’t ban citizens from marrying foreigners.
 </div>
 
@@ -631,7 +631,7 @@ Click to expand Chinese comment</span>
 把这些黑人打压到底层就行了,没经济实力就失去繁衍能力
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just keep those Black people at the bottom—if they don’t have money, they can’t have kids.
 </div>
 
@@ -646,7 +646,7 @@ Click to expand Chinese comment</span>
 不进来才最好。[思考]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s best if they don’t come in at all. 🤔
 </div>
 
@@ -661,7 +661,7 @@ Click to expand Chinese comment</span>
 西方还没被黑人吞没,没办法搞这麽极端,只能尽力打压了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The West hasn’t been overrun by Black people yet, so they can’t go to extremes—just try to suppress them. 
 </div>
 
@@ -676,7 +676,7 @@ Click to expand Chinese comment</span>
 不要滥发福利就行，这些黑人如果能扛得住我们的劳动强度就让他待着，不过我觉得大部分扛不住。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just don’t hand out too many benefits. If they can handle our work intensity, let them stay, but I doubt most can.
 </div>
 
@@ -691,7 +691,7 @@ Click to expand Chinese comment</span>
 东大做事要经得起历史的考验，一边实行计划生育一边开放外国移民，显然是无法向历史交代的，如果以后人类不搞政治正确了，科技发达了，揭示了中国人普遍智商更高的事实，更是会被后代骂得体无完肤
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 China needs to stand the test of history. You can’t do family planning and open up to foreign immigrants at the same time. If political correctness fades and science proves Chinese people have higher IQs, future generations will curse us for it.
 </div>
 
@@ -706,7 +706,7 @@ Click to expand Chinese comment</span>
 说的很精辟，我第一次去伦敦的时候发现伦敦本地白人绝对小于五成，而且公共服务部门，比如医院，警察，基层公务员，白人已经罕见了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Well said! When I first went to London, local white people were definitely less than half the population. In public services—hospitals, police, civil servants—whites were already rare.
 </div>
 
@@ -721,7 +721,7 @@ Click to expand Chinese comment</span>
 现在去日本也是，上个月去大阪玩，便利店酒店好多都是东南亚人
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s the same in Japan now. Last month in Osaka, most convenience store and hotel staff were Southeast Asians.
 </div>
 
@@ -738,7 +738,7 @@ Click to expand Chinese comment</span>
 申请人能提供年收入 10 万以上的工资流水（需显示工资字样）、10 万以上的存款证明、个人工资纳税证明等条件之一。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Even if Japan opens visas to Southeast and South Asian countries, they won’t open to China. For Chinese tourists, you need proof of 100k annual income, 100k in savings, or tax records.
 </div>
 
@@ -755,7 +755,7 @@ Click to expand Chinese comment</span>
 这都被抢走了，那白人干什么职业去了？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s strange—those jobs are pretty stable, but if they’re all taken, what do white people do for work? 
 </div>
 
@@ -770,7 +770,7 @@ Click to expand Chinese comment</span>
 伦敦就是个洗钱中心，但是洗钱这一行对本地普通人百害无一利，不创造就业，不产生税收，反而推高本地资产价格和物价，三哥可以一个公寓十五个人合租，白人顶不住的。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 London is a money-laundering center, but that doesn’t help ordinary people—no jobs, no taxes, just higher prices. Some South Asians can cram 15 people into one apartment; white people can’t compete.
 </div>
 
@@ -785,7 +785,7 @@ Click to expand Chinese comment</span>
 白人被淘汰了[看看你]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The white people have been phased out. 👀
 </div>
 
@@ -800,7 +800,7 @@ Click to expand Chinese comment</span>
 一些比较狠的三哥已经把热铺的概念引入租房里了，夜班三哥们和白班三哥们合租一套公寓，你想想就生活成本来说谁能拼得过他们
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Some tough South Asians have brought the “hot shop” concept to rentals—night shift and day shift workers share one apartment. Who can beat that on living costs?
 </div>
 
@@ -815,7 +815,7 @@ Click to expand Chinese comment</span>
 现在伦敦房租一个月三千多英镑很正常，但是很多人月收入只有两千多最多三千出头
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s normal for London rent to be over £3,000 a month, but most people only make £2,000–£3,000.
 </div>
 
@@ -830,7 +830,7 @@ Click to expand Chinese comment</span>
 现在伦敦房租一个月三千多英镑很正常，但是很多人月收入只有两千多最多三千出头
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s normal for London rent to be over £3,000 a month, but most people only make £2,000–£3,000.
 </div>
 
@@ -845,7 +845,7 @@ Click to expand Chinese comment</span>
 偏个题，这也是我嘲笑香港人的一个论据，你一个开冰室的，或者菜市场小贩，你没生意跟香港失去金融中心地位有鸡毛关系，金融精英虽然花钱多，但是他们买的都是量小价高的东西，不会把你的杂货店包场[捂脸]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Off topic, but this is why I laugh at Hong Kongers. If you run a diner or market stall, losing the financial center doesn’t affect you. Finance elites spend a lot, but they buy small, expensive things—they won’t buy out your grocery store. 
 </div>
 
@@ -860,7 +860,7 @@ Click to expand Chinese comment</span>
 400万估计只有内战才能清理干净了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 With 4 million, only a civil war could clean things up.
 </div>
 
@@ -875,7 +875,7 @@ Click to expand Chinese comment</span>
 真打起来指不定谁清理谁，而且再过个十几年400万移民的后代都能进入中高层以上职位了[惊喜]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 If a fight really breaks out, who knows who’ll win? In another decade, the children of those 4 million immigrants will be in top positions. 🎉
 </div>
 
@@ -890,7 +890,7 @@ Click to expand Chinese comment</span>
 简单，引进印度移民以毒攻毒[doge]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Simple—bring in Indian immigrants to fight poison with poison.🐶
 </div>
 
@@ -932,7 +932,7 @@ Click to expand Chinese comment</span>
 2.加强公民信仰自由保护，禁止以教规名义干涉不信教的公民。禁止信仰宗教的人员以婚姻、职务、教育、医疗等特殊关系施加压力或以其他不正当方式要求不信仰宗教的人员入教；禁止以教规名义干预不信教公民的饮食、风俗、语言等习惯。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 We shouldn’t be too optimistic. Although the refugee intake has been blocked, there are still “cancerous cells” spreading internally.
 
 Certain groups disguise themselves as mild-mannered, and using methods that are against national laws but not extremely violent, they bind religion and ethnicity, advance gradually, and assimilate unidirectionally — a “boiling frog” style expansion that’s becoming unstoppable.
@@ -965,7 +965,7 @@ Click to expand Chinese comment</span>
 你知道为什么现在管汉人这么狠吗？因为汉人比他们过分多了，所以我很相信国家，那些少数民族也蹦哒不了几天，现在高考加分都取消了，清真食堂也改名风味餐厅了，大圆顶建筑也被叫做城市特色建筑了[撇嘴]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Do you know why the Han are being strictly regulated now? It’s because Han people tend to overdo things 😒. So I really trust the state. Those minority groups won’t be able to act up for long — college entrance exam bonus points have been canceled, halal canteens have been renamed “flavor restaurants,” and big domed buildings are now just called “city-style architecture.”
 </div>
 
@@ -980,7 +980,7 @@ Click to expand Chinese comment</span>
 是汉人比他们过分还是怕他们闹事所以打压汉人来给他们优待?你最好先想明白这个问题
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Is it because Han people go too far, or because the government fears minorities causing trouble and gives them special treatment? Think about it. 
 </div>
 
@@ -995,7 +995,7 @@ Click to expand Chinese comment</span>
 是因为以前管的不那么严时汉人闹的更厉害，听说过砍手帮飞车党没有？那时候少数民族一点刺也不敢扎，所以打压汉人优待少数民族，现在也取消了优待 ，只要取消优待，少数民族照样不敢扎刺，原先很过分的一点是汉人和少数民族打架只拘留汉人，所以他们才那么猖狂
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s because when rules were loose, Han people caused more trouble. Ever heard of the “hand-chopping gang” or biker gangs? Minorities didn’t dare act up. Now, with less special treatment, minorities don’t dare either. In fights, only Han people were detained, so minorities got bold.
 </div>
 
@@ -1015,7 +1015,7 @@ Click to expand Chinese comment</span>
 英国现在自食其果，报应到自己头上，根本不值得同情。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Before Hong Kong’s return, the UK let in hundreds of thousands of Vietnamese refugees to make things harder for China. Now the UK is getting its own karma—no sympathy.
 </div>
 
@@ -1031,7 +1031,7 @@ Click to expand Chinese comment</span>
 我认识一位南越华人后代，都是经过香港中转去五眼国家移民，香港当时任务负责甄别。其实华人世界搞了个灯下黑，把真华人和有钱的越南人给输送到五眼国家，剩下讲不清背景的越南人一直关押到千禧年左右，特区政府和越南谈妥之后，全部包机遣返越
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I know a South Vietnamese Chinese descendant who immigrated to a Five Eyes country via Hong Kong. The real Chinese and rich Vietnamese were sent to Five Eyes, while those with unclear backgrounds were detained until the 2000s, then sent back after a deal.
 </div>
 
@@ -1047,7 +1047,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Many Vietnamese came during the war, lots of overseas Chinese. I support accepting them.
 </div>
 
@@ -1063,7 +1063,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Those were Vietnamese Chinese—China took in over 200,000, spread across farms nationwide.
 </div>
 
@@ -1079,7 +1079,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, companies like Overseas Chinese Town and Konka were set up to help Vietnamese Chinese resettle. 
 </div>
 
@@ -1095,7 +1095,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Round them all up, pay a war-torn African country to take them, and send them to fight. At most, 10 billion.
 </div>
 
@@ -1111,7 +1111,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Native Americans! Native Brits! 😎😎
 </div>
 
@@ -1127,7 +1127,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The 2019 troublemakers were all Southeast Asian Hong Kongers.
 </div>
 
@@ -1143,7 +1143,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Fake news. The fact is that the Hong Kong government long ago sent planes to repatriate Vietnamese boat people and only allowed a few hundred Vietnamese Chinese families to gain citizenship. The real crisis started after 2014, when Hong Kong followed the EU’s example and brought in hundreds of thousands of Indian and Pakistani immigrants. After 2024, they’ll even be able to get back their Home Return Permits.
 </div>
 
@@ -1159,7 +1159,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What’s a home return permit? What does it mean?
 </div>
 
@@ -1174,7 +1174,7 @@ Click to expand Chinese comment</span>
 能拿回乡证的话，这些移民就同香港人一样可以自由进出内地了。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 If they get a home return permit, these immigrants can travel freely between Hong Kong and mainland China.
 </div>
 
@@ -1189,7 +1189,7 @@ Click to expand Chinese comment</span>
 他们是中国人[生气]认同中国文化，讲汉语，民族身份上和汉族人结婚，以后小孩就是汉族，而不是回族！能拿回乡证的话，这些移民就同香港人一样可以自由进出内地了。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 They’re Chinese—accept Chinese culture, speak Chinese, marry Han people, and their kids become Han, not Hui. With a home return permit, they can travel freely like Hong Kongers.
 </div>
 
@@ -1204,7 +1204,7 @@ Click to expand Chinese comment</span>
 他们是中国人[生气]认同中国文化，讲汉语，民族身份上和汉族人结婚，以后小孩就是汉族，而不是回族！能拿回乡证的话，这些移民就同香港人一样可以自由进出内地了。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 They’re Chinese—accept Chinese culture, speak Chinese, marry Han people, and their kids become Han, not Hui. With a home return permit, they can travel freely like Hong Kongers.
 </div>
 
@@ -1219,7 +1219,7 @@ Click to expand Chinese comment</span>
 回乡证是香港同胞外来大陆地区通行证，可以在大陆享受一切法律和民事权力，包括结婚生子
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 A home return permit lets Hong Kong people travel to mainland China and enjoy all legal and civil rights, including marriage and having kids.
 </div>
 
@@ -1234,7 +1234,7 @@ Click to expand Chinese comment</span>
 在香港的印度难民不少拿的是香港身份 但没有中国国籍 能拿回乡证 说明这些印度人巴基斯坦人几乎已经等同于拿到中国国籍身份
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Many Indian refugees in Hong Kong have local status but not Chinese citizenship. If they get a home return permit, it’s almost like getting Chinese nationality.
 </div>
 
@@ -1249,7 +1249,7 @@ Click to expand Chinese comment</span>
 在香港的印度难民不少拿的是香港身份 但没有中国国籍 能拿回乡证 说明这些印度人巴基斯坦人几乎已经等同于拿到中国国籍身份
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Many Indian refugees in Hong Kong have local status but not Chinese citizenship. If they get a home return permit, it’s almost like getting Chinese nationality.
 </div>
 
@@ -1265,7 +1265,7 @@ Click to expand Chinese comment</span>
 真的假的？？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Really? Tens of thousands? Is that true? [surprised]
 </div>
 
@@ -1280,7 +1280,7 @@ Click to expand Chinese comment</span>
 2021年的时候7万人 现在4年过去了 我出门就㴰看见一大堆 我家这栋楼也住了一大堆 你说有没有十几万？甚至20万都有可能 因为巴基斯坦和印度难民只要一家有一个人到了香港 就会把全家弄过来 所以他们人口增长非常快 快的你难以想象
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 In 2021, there were 70,000. Four years later, I see them everywhere—even in my building. Could be 100,000 or even 200,000. Pakistani and Indian refugees bring their whole families, so the population grows super fast.
 </div>
 
@@ -1297,7 +1297,7 @@ Click to expand Chinese comment</span>
 但是给回乡证这就更离谱了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Speechless.
 It seems that majority ethnic groups around the world are facing this problem.
 But giving them Home Return Permits? That’s just ridiculous.
@@ -1314,7 +1314,7 @@ Click to expand Chinese comment</span>
 给了回乡证 就相当于拿到了中国国籍 这就是一个缺口印度人可以通过香港深入中国腹地 如果以后香港彻底回归取消一国两制 这些印度巴基斯坦移民就相当于直接入了中国国籍 身份证直接写汉族了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 If you get a home return permit, it’s basically Chinese citizenship. That’s a loophole—Indians can use Hong Kong to enter mainland China. If Hong Kong fully returns and ends “one country, two systems,” these Indian and Pakistani immigrants will get Chinese IDs marked as Han.
 </div>
 
@@ -1338,7 +1338,7 @@ Click to expand Chinese comment</span>
 个人感觉真的不出50年，如果继续这么发展整个英国都要绿化黑化。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I visited Birmingham once in 2018. When I got out of the train station, I wondered if I had gotten off at the wrong stop — there was trash everywhere, MSLs in black robes, South Asian women with headscarves, and a lot of Black people. White people were almost a minority. There was even an MSL community made up entirely of people from Turkey, Bangladesh, Pakistan, and other Middle Eastern countries. From restaurants to shops, the staff were mostly older men with beards and white caps. There was a small converted mosque with loudspeakers playing religious music — it felt really eerie. Inside, you couldn’t see a single white person; it was like a Middle Eastern city. I even went to a public restroom — no toilet paper, just a foreign-style water jug next to the toilet. I got scared and left after wandering around a bit. Later, I talked to a local white person from Birmingham. He told me that when his mother was young, the neighborhood was all white — around 50 years ago, the demographics completely changed.
 
 London is basically a melting pot. There are many Black people, South Asians, and MSLs. In fast food restaurants, barbershops, and clothing stores, staff are often from the Middle East. There’s even a Turkish community that sticks together very tightly. I remember being at a busy square — a few Black bands were performing songs I couldn’t understand, confidently smiling and waving at the crowd. Nearby, MSLs were selling grilled meat with cumin, creating a striking contrast with the British architecture.
@@ -1360,7 +1360,7 @@ Click to expand Chinese comment</span>
 英国穆斯林寺院比教堂多了吧，很多教堂都改了。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 There are probably more mosques than churches in the UK now, and many churches have been converted.
 </div>
 
@@ -1376,7 +1376,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Most mosques are converted houses, painted green and pretty rough. Small churches exist but are mostly empty; big churches are lively with tourists and worshippers, especially on special days.
 </div>
 
@@ -1392,7 +1392,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Since the big refugee wave in 2015, it’s only been ten years. By 2035, the UK might look like South Africa.
 </div>
 
@@ -1409,7 +1409,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The world is a mess… Can’t believe politicians don’t see this.
 </div>
 
@@ -1425,7 +1425,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No way they don’t see it—we all do. They’re not stupid, just focused on their own interests. Who cares what happens after they’re gone?
 </div>
 
@@ -1441,7 +1441,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Most people think politicians should care about the country, but really, most just serve themselves and their teams, and only help the country on the side.
 </div>
 
@@ -1458,7 +1458,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But they all have children, friends, and relatives still living in the country.
 And politicians aren’t alone, and even after they die, it’s not completely unrelated to them… After their death, their family will inevitably gradually decline…
 </div>
@@ -1474,7 +1474,7 @@ Click to expand Chinese comment</span>
 政客在卖国怎么会看不清楚，难民支出大部份都被政客利益集团吞了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Politicians know exactly what they’re doing—most refugee spending goes to their own interest groups.
 </div>
 
@@ -1489,7 +1489,7 @@ Click to expand Chinese comment</span>
 说不定这些政客的子女朋友早润了，我之前还看到一篇新闻，说今年英国富豪移民创新高，达到一万多人，第二名中国才五千多，但是英国才多少人啊。你可想而知现在英国的情况有多严峻。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Maybe their kids and friends already left. I saw a news story—UK millionaire emigration hit a record, over 10,000 left, China was second with 5,000. But the UK’s population is tiny, so you can imagine how bad things are.
 </div>
 
@@ -1503,7 +1503,7 @@ Click to expand Chinese comment</span>
 当利益和国家不一致的时候，卖国不是顺手的事，移民多了又咋了，我职位上升了，钱也挣到了，声望也有了。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 When personal interests don’t match the country’s, selling out is easy. More immigrants? My career goes up, I make more money, I get more fame.
 </div>
 
@@ -1518,7 +1518,7 @@ Click to expand Chinese comment</span>
 别搞得最后不列颠正统在爱尔兰就搞笑了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t let the last true Brit end up in Ireland—that would be hilarious.
 </div>
 
@@ -1533,7 +1533,7 @@ Click to expand Chinese comment</span>
 爱尔兰独立是正确的[赞]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ireland’s independence was the right move 👍
 </div>
 
@@ -1548,7 +1548,7 @@ Click to expand Chinese comment</span>
 爱尔兰情况也好不到哪去，都柏林郊区一堆黑人帮派，穆斯林也开始不少了，这几年都柏林一堆反移民游行的，甚至爱尔兰政府自己都接受一部分英国遣返的难民我也是没想到的[捂脸]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ireland’s situation isn’t much better. In the suburbs of Dublin, there are lots of Black gangs, and the Muslim population is also growing. In recent years, there have been many anti-immigration protests in Dublin. I didn’t even expect that the Irish government would accept some refugees deported from the UK 😅.
 </div>
 
@@ -1563,7 +1563,7 @@ Click to expand Chinese comment</span>
 爱尔兰现在也黑货一大堆！爱尔兰人口少，更经不起黑货移民
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ireland now has a huge number of Black immigrants! With a small population, Ireland can’t really handle this influx.
 </div>
 
@@ -1578,7 +1578,7 @@ Click to expand Chinese comment</span>
 你把土耳其算到中东国家还勉强有的说，啥时候巴基斯坦和孟加拉也成了中东国家了[捂脸][思考]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 You can barely count Turkey as a Middle Eastern country, but when did Pakistan and Bangladesh become part of the Middle East 😅🤔?
 </div>
 
@@ -1593,7 +1593,7 @@ Click to expand Chinese comment</span>
 他的意思就是穆斯林国家
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 He just means Muslim countries.
 </div>
 
@@ -1608,7 +1608,7 @@ Click to expand Chinese comment</span>
 谁告诉你中东就是穆斯林？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Who told you the Middle East is all Muslim?
 </div>
 
@@ -1623,7 +1623,7 @@ Click to expand Chinese comment</span>
 我当然知道有以色列、黎巴嫩等非穆斯林中东国家。但他用中东国家来指代，他混淆了中东和穆斯林国家的概念
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Of course I know Israel, Lebanon, and others aren’t Muslim. He’s just mixing up Middle Eastern and Muslim countries. 
 </div>
 
@@ -1638,7 +1638,7 @@ Click to expand Chinese comment</span>
 没事。北印度，巴基斯坦，孟加拉也算白人
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 No worries. North India, Pakistan, and Bangladesh count as “white” too. 
 </div>
 
@@ -1653,7 +1653,7 @@ Click to expand Chinese comment</span>
 阿三（指中国网民对印度的称呼），巴基斯坦和孟加拉其实都是一个人种，就算是高种姓也没看到有白的。当时我还在剑桥的一家印度人家寄宿了一个月，他家两个小孩黑的和煤炭一样
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Indians, Pakistanis, and Bangladeshis are basically the same ethnicity—even the high castes aren’t really white. I stayed with an Indian family in Cambridge for a month, and their kids were as dark as coal.
 </div>
 
@@ -1668,7 +1668,7 @@ Click to expand Chinese comment</span>
 巴基斯坦人有的要白一些像中东人，印度人这一比例很低，孟加拉人则完全没有
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Some Pakistanis are lighter, like Middle Easterners. Indians are rarely light-skinned, and Bangladeshis not at all.
 </div>
 
@@ -1695,7 +1695,7 @@ Click to expand Chinese comment</span>
 哈哈哈，活该！
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 This saying applies again and again: When an avalanche happens, not a single snowflake is innocent.
 And also this one: The price of fate’s gift has long been secretly marked.
 
@@ -1716,7 +1716,7 @@ Click to expand Chinese comment</span>
 英国能从一个超级大国平稳落地成为一个富家翁已经是非常幸运的事情了，牢英总不能指望再次平稳落地吧。古今中外多少大帝国灭亡后渣都不剩。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s already very fortunate that Britain could descend from a superpower and still remain a wealthy nation. The UK certainly can’t expect to land so smoothly again. Throughout history, countless great empires have completely vanished after their fall, leaving nothing behind.
 </div>
 
@@ -1732,7 +1732,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 With that logic, even the British Isles weren’t fully unified. Churchill completely sold out, and the U.S. took over — and it’s basically Anglo-Saxon too.
 </div>
 
@@ -1748,7 +1748,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Once they got money, they had nothing better to do than mess around with political correctness 😹.
 </div>
 
@@ -1764,7 +1764,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The good news is that the reputation of British cuisine might improve — curry masala is definitely better than stargazing pie 😹.
 </div>
 
@@ -1780,7 +1780,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Germans didn’t do much colonizing, yet they’re still being overrun by MSLs. It has nothing to do with “karma.”
 </div>
 
@@ -1796,7 +1796,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 German South West Africa, German Togo, German Cameroon, German New Guinea…
 Most people have a wrong idea that politicians should act for the nation’s or ethnic group’s interest. In reality, most serve themselves and their own teams first, and only incidentally serve the country.
 </div>
@@ -1813,7 +1813,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Germany has been brainwashed by American propaganda machines and accepted way too many refugees. Back then, Germany should have shipped them off to the U.S.
 </div>
 </div>

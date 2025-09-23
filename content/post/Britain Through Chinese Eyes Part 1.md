@@ -30,7 +30,7 @@ This post analyzes Britain’s historical reputation from a Chinese perspective,
 
 
 <div class="comment-block quizzer">
-  <strong style="color: #0077b8;">OP:</strong>
+  <strong class="translated-label">OP:</strong>
 
 **Did Britain really dominate the world?**
 
@@ -74,7 +74,7 @@ Click to expand Chinese comment</span>
 你的问题源于你的无知
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The issue here is simply your ignorance.
 </div>
 
@@ -90,7 +90,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Zhihu really needs an IQ threshold. Seeing these dumb questions is just infuriating.
 
 > <font color="#0077b8">Translator’s Note</font>  
@@ -109,7 +109,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They’re not wrong—Britain never even dominated Europe, so where does this claim of “ruling the world” come from??
 The French, Prussians, Spanish, Russians, Austro-Hungarians—these real continental powers—who among them would waste their main armies in some “barbaric” lands outside Europe??
 </div>
@@ -126,7 +126,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s not about who shouts louder—what matters are the facts.
 If you don’t even know that Britain never had the power to dominate Europe…
 If you don’t even know that Britain couldn’t fully conquer Scotland on the very same island, and in the end had to pull them in under equal terms…
@@ -148,7 +148,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Modern democracy and the rule of law both originated in Britain.
 The British Empire—the “empire on which the sun never sets”—once controlled the largest territory in global history.
 And without even looking too far back, the peaceful, non-violent Scottish independence referendum has already written a remarkable chapter in the history of human civilization.
@@ -166,7 +166,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 With an IQ like that, you’re a stain on humanity itself. I’m sure every human, past and present, would be embarrassed to be in your company.
 </div>
 
@@ -182,7 +182,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The British are just “eating the melons” (enjoying the drama) of the Dutch and Portuguese.
 </div>
 
@@ -198,7 +198,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Brits aren’t exactly saints either, but at least they were moving forward, making real progress in history and technology.
 Unlike those Native Americans, stuck going in circles for thousands of years. 😏
 </div>
@@ -216,7 +216,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In literature, Britain was totally overshadowed by France… yet they still gave us Dickens, Shakespeare, and Shelley.
 In mathematics, France might have dominated… but Britain had Newton, Russell, and Maclaurin.
 </div>
@@ -233,7 +233,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Maritime nations and continental powers play by different rules—we just can’t wrap our heads around their way of developing.
 </div>
 
@@ -249,7 +249,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If Britain had never been born, the world would have remained in eternal darkness.
 </div>
 
@@ -265,7 +265,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Napoleon tried to unify Europe—and failed;
 the British spent centuries successfully preventing a unified Europe.
 </div>
@@ -282,7 +282,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Come on, do you really buy what you’re saying?
 </div>
 
@@ -298,7 +298,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is ridiculously ignorant.
 </div>
 
@@ -314,7 +314,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You don’t even need much—just a quick Google or Wikipedia check, and you wouldn’t be asking this about Britain.
 </div>
 
@@ -330,7 +330,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Back before the Industrial Revolution, the French were proud if they could even get a taste of British food.
 </div>
 
@@ -346,7 +346,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Looks like the OP has no clue about the British Empire’s pioneering work in physics, law, philosophy, modern politics, or international relations.
 </div>
 
@@ -362,7 +362,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Britain? Just following the Dutch all along.
 </div>
 
@@ -378,7 +378,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 …Holy crap, Britain can totally outclass those so-called “local” (but immigrant) political economists on the continent.
 </div>
 
@@ -394,7 +394,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Also, France wasn’t really stronger in mathematics or the natural sciences. How many modern units in math, physics, and chemistry are actually named after British scientists? France has some, sure, but from my experience in STEM, it’s not that many. After the 19th century, Germany became dominant, not France.
 
 As for other areas in the humanities, Britain was pretty average, though not exactly backward in literature. In art, France was strong, but so was Italy—Mediterranean countries generally did well. These are all soft power aspects and don’t directly reflect national strength.
@@ -412,7 +412,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From the very beginning, whenever France clashed with Britain, it was always pushed around. The best colonies in Africa were in British hands. In India, Portugal, the Netherlands, and France all tried to dominate trade at first, but in the end, Britain monopolized it for nearly two centuries. France was left with just a handful of trading posts in a few cities. Does that count as a measure of British strength?
 
 In North America, French colonies lost to Britain and were effectively neutralized—essentially annexed—then later sold cheaply by France to the U.S. That’s today’s North American Great Plains region. India and Pakistan were firmly within Britain’s sphere of influence, officially incorporated into the British Empire by the mid-19th century, not just limited to trade monopolies.
@@ -432,7 +432,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s simply because France dominated continental Europe, while Britain never did—so Britain had a large surplus population available to emigrate. The French had very few people willing to go beyond Europe. Take North America as an example: British settlers outnumbered the French by more than ten to one. Britain could focus its main efforts overseas, while continental powers always concentrated their forces on Europe, the more valuable prize.
 
 And that’s supposed to be impressive? France, with its relatively small overseas investment over the years, repeatedly humiliated British forces—like Rommel in North Africa—winning battles with fewer troops. In the end, it was just that France had invested too much in Europe and couldn’t spare enough forces overseas, so it failed.
@@ -452,7 +452,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Holy Roman Empire? Basically a hollow shell. The German lands were always fragmented. The Habsburgs never had the power to unify Europe, and the Austrian Empire? Not exactly a powerhouse—probably the weakest of the major early-19th-century players (Britain, France, Germany, Russia, Austria). And if Britain and Spain were really on the same level, were all the European politicians back then just noobs?
 
 No one who knows history underestimates the Ottomans, but since the Age of Exploration, they were in decline—basically fat targets. And Iran? Its last real golden age—are we talking before the Tang dynasty? Or way back to Ancient Greece?
@@ -472,7 +472,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If we’re talking about Iran’s last real golden age, you can at least go back to the Safavid dynasty.
 </div>
 
@@ -488,7 +488,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Hey OP, have you ever actually heard of this thing called English?
 </div>
 
@@ -504,7 +504,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 British people don’t really think English is all that sophisticated.
 </div>
 
@@ -520,7 +520,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s not fancy, but it’s basically the world’s practical lingua franca.
 </div>
 
@@ -536,7 +536,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The British Navy’s goal at the time was to be stronger than the combined strength of the next three navies. Isn’t that strong enough?
 </div>
 
@@ -552,7 +552,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A navy can be as strong as you want, but it can’t conquer a culture—it can only land where there are few or no people. India’s still India, no matter what.
 </div>
 
@@ -568,7 +568,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You can never get around Britain when it comes to modern and contemporary history.
 </div>
 
@@ -584,7 +584,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s like saying, “If a university is awesome, all its majors must be awesome too, right?”
 </div>
 
@@ -600,7 +600,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Without the British Empire, there would be no United States of America.
 </div>
 
@@ -616,7 +616,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Come on, don’t drag France through the mud.
 </div>
 
@@ -632,7 +632,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Peak Germany, full of “black tech,” had the same mindset. And a fading Britain? Meh, big deal…
 </div>
 
@@ -648,7 +648,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Beating France in the Seven Years’ War was enough; everything else is irrelevant. The only ones who could truly challenge Britain were the U.S. and Germany.
 </div>
 
@@ -664,7 +664,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 After the Seven Years’ War, France still had six colonies in India. France actually withdrew from India later than Britain did.
 </div>
 
@@ -680,7 +680,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So tell me—how many countries would you actually put above Britain when it comes to the greatest in human civilization?
 </div>
 
@@ -696,7 +696,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A presumptuous challenge. There’s no doubt—Britain is the master of modern humanity. The British Empire broadcast European civilization across the globe, and more and more of humanity gradually left the realm of mere animals.
 </div>
 
@@ -712,7 +712,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Even up until the end of WWII, Britain was basically still semi-feudal. And meanwhile, the rest of the world was moving forward.
 </div>
 
@@ -728,7 +728,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the history of humanity, Britain’s contributions are the greatest. No developed country would deny the value of the Industrial Revolution.
 
 France? Probably the worst country in Europe. Many people who have been to Europe say so—I’m just repeating what I’ve heard; I haven’t even been to France myself, just got some information from others.
@@ -750,7 +750,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A lot of the brains behind Britain’s first Industrial Revolution came from mainland Europe.
 </div>
 
@@ -766,7 +766,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Perhaps the Second and Third Industrial Revolutions were even more important.
 </div>
 
@@ -782,7 +782,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Out of the more than 200 UN member states, only about twenty or so in history were never invaded by Britain.
 </div>
 
@@ -798,7 +798,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Maybe try brushing up on some modern world history?
 </div>
 
@@ -814,7 +814,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Britain produced a Newton, which alone could overshadow France’s literature, mathematics, music, and art.
 </div>
 
@@ -830,7 +830,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s nonsense. No wonder math went downhill later, and industry couldn’t keep up either.
 </div>
 
@@ -846,7 +846,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Newton’s team used algorithms developed by French and Italian mathematicians.
 </div>
 
@@ -862,7 +862,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t flaunt your ignorance everywhere. I’m sure any bookstore or library has books on British history.
 </div>
 
@@ -878,7 +878,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, you probably need to hit the books a bit more…
 </div>
 
@@ -894,7 +894,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Overseas expansion and the Industrial Revolution are the two most important events of the modern era.
 </div>
 
@@ -910,7 +910,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Newton and Darwin basically dominated the world. Of course, there’s also the driving force of the Industrial Revolution—the steam engine improved by Watt, who was also British.
 </div>
 
@@ -926,7 +926,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If it were really just those two, we’d be doomed. No wonder this way of thinking was surpassed by Germany.
 </div>
 
@@ -942,7 +942,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 OP is a total world history noob.
 </div>
 
@@ -958,7 +958,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I originally wanted to use the turbulent history of continental Europe to explain the Holy Roman Empire… but it turns out the OP has already “played” it. And yet they still asked this question… total waste of playtime. Of course, if they’ve played Paradox’s Victoria, they’d understand even more—France really was the strongest country of that era.
 </div>
 
@@ -974,7 +974,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Setting everything else aside—do you even know aircraft engines? The UK’s Rolls-Royce is way out of your league. I could talk about it casually. Seriously, in aviation tech, the pinnacle of industry, who besides the U.S. would dare disrespect Britain? Swap Britain out—who’s even qualified? I’m listening.
 </div>
 
@@ -990,7 +990,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Forget everything else—what really matters is: the In-du-stri-al Re-vo-lu-tion!
 </div>
 
@@ -1006,7 +1006,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Newton, Eddington, Maxwell, Darwin, Shakespeare, Adam Smith, Keynes, Bentham, Russell, Turing, Hawking…
 </div>
 
@@ -1032,7 +1032,7 @@ Click to expand Chinese comment</span>
 当然，成功的社会制度，也在很多地方失败了。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Britain is not overrated—it may in fact be underrated.
 
 It’s no exaggeration to say that modern human civilization was essentially “Made in Britain.” I’ve never been to Britain, and I’m not a fanboy, but the sheer scale of Britain’s contribution to and influence on modern civilization is something that really deserves serious study.
@@ -1056,7 +1056,7 @@ Click to expand Chinese comment</span>
 低估了。信息茧房里的奴隶永远不会知道外面有多辉煌。一个例子足以：英国的牛顿爵士改变了人类文明的进程。[酷][大笑]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Totally underestimated. Slaves trapped in their own information bubble will never realize how brilliant the outside world truly is. One example is enough: Sir Isaac Newton of Britain literally changed the course of human civilization. 😎😂
 </div>
 
@@ -1072,7 +1072,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Overrated. Britain’s so-called “civilization” only happened with a lot of help from France. 🙄 The original Britons were basically a bunch of crazy savages, living at about the same level as China’s Xia or Shang dynasties. 🤷‍♂️ No wonder they got driven out and lost any real cultural foundation. And honestly, some of Britain’s bizarre customs are just beyond comprehension.
 </div>
 
@@ -1089,7 +1089,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 And don’t forget Darwin’s theory of evolution — written with such brilliance it felt almost supernatural. 👀 What an achievement! As for historical materialism? To take a timescale of centuries or millennia to observe changes in species — just imagine how mind-blowing that was in the Renaissance era.
 </div>
 
@@ -1105,7 +1105,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Newton helped humanity understand the world — he didn’t do it so people would worship him like dogs.
 </div>
 
@@ -1125,7 +1125,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The American political scientist Robert Putnam’s concept of social capital is still incredibly striking: the question of how humans can cooperate more effectively is a long-term challenge with no end in sight. Getting governments and civil society to take collective action for mutual benefit is even harder. Social institutions provide a basic framework for cooperation among different classes, but they’re far from the whole picture. As for those who keep pointing to geography—it’s not all that convincing. Even if you swapped the land of Russia with that of the United States, Americans would still likely manage to build a developed economy on relatively barren soil. A real-world case is Israel: surrounded by enemies and stuck in desert conditions, yet still becoming a developed country. That says a lot.
 
 Some societies, nations, or ethnic groups—due to insufficient historical accumulation or lack of wisdom—remain stagnant even if God grants them a so-called “Promised Land.” It’s like thinking you can turn a C-student into an A-student just by changing classrooms—reality doesn’t work that way.
@@ -1143,7 +1143,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How humanity can cooperate effectively, achieve mutual benefit, fairness, and dignity—that’s a long-term question. Beautifully said. At least with my limited wisdom, I can confidently say that the master–slave model is definitely the worst possible answer.
 </div>
 
@@ -1159,7 +1159,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 👍 Even a C-student, put in a top-class A-student class, probably still won’t become an A-student.
 </div>
 
@@ -1175,7 +1175,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 As long as one branch of human evolution succeeds, that’s enough—because it shows the direction is clear.
 </div>
 
@@ -1191,7 +1191,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Modern industrial civilization started in Britain. It completely transformed human production and daily life, and even dealt a “dimensionality reduction” blow to other civilizations—so in terms of spreading civilization, it was extremely successful. Today, the U.S., Canada, Australia, and New Zealand all count as former British colonies, covering a total of 2.8 million square kilometers—making Britain the most successful country in colonial history. Compared with the old empires, the path to the great rejuvenation of the Chinese nation is still long; we’ve only just taken the first step beyond our borders.
 </div>
 
@@ -1207,7 +1207,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But the Second Industrial Revolution? That’s actually what sowed the seeds of the British Empire’s decline—blessings and curses go together. Whatever boosted Britain to the top could just as easily make other countries strong too.
 </div>
 
@@ -1223,7 +1223,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Seriously, what country hasn’t gone through decline?
 </div>
 
@@ -1239,7 +1239,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If I remember correctly, when the Magna Carta was issued, we were still in the Song Dynasty here. 🤦‍♂️ The gap was already obvious ages ago.
 </div>
 
@@ -1255,7 +1255,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They literally kicked the door open and brought in a whole new civilization. Britain basically leveled up civilization itself.
 </div>
 
@@ -1271,7 +1271,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France, Germany, the Netherlands, Sweden… modern civilization was built by all Western European countries. Giving all the credit to Britain? Yeah, that’s a bit much. 🤦‍♂️ Britain did dominate the First Industrial Revolution, but for the Second—electricity, telegraphs, all that—America and Germany did most of the heavy lifting. Saying it was “for all humanity”? Yeah… a little over the top. 😅
 </div>
 
@@ -1287,7 +1287,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France and Germany didn’t fail because of their systems—it’s just that their geography wasn’t as good as Britain’s. The Brits could focus solely on building a navy, while France and Germany couldn’t. That’s basically why Britain ruled the waves. ⚓🌊
 </div>
 
@@ -1305,7 +1305,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It was a failure of social institutions. 
 After the French Revolution, society fell into chaos, with feudal restorations happening multiple times—there was no stability at all. Germany’s system went to extremes, got wrecked in WWII, and even after the Americans rebuilt it, they were basically following Britain’s playbook.
 </div>
@@ -1322,7 +1322,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Germany lost because it didn’t have colonies to offload surplus goods and access resources—it had nothing to do with its institutions. Swap the territories of Britain and the U.S. with those of France and Germany, and the winners and losers would totally flip.
 </div>
 
@@ -1340,7 +1340,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 By your logic, how would you explain Japan invading China? Swap territories and reverse the outcome? Actually, it’s highly related to institutions. Britain got rid of feudal serfdom relatively early, and the U.S. did it even more thoroughly, which greatly unleashed people’s intelligence and initiative. ⚖️💡
 </div>
 
@@ -1356,7 +1356,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Germany was basically just Britain’s “IP thief” before—stealing all their know-how… 😏
 </div>
 
@@ -1372,7 +1372,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Aren’t the Brits basically the same—their empire was built by looting and swiping stuff? 😏⚓
 </div>
 
@@ -1388,7 +1388,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Who did the Magna Carta steal from? And during Charles I’s trial, who exactly did they snatch stuff from? 🤨
 </div>
 
@@ -1404,7 +1404,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If the Brits hadn’t gone to Africa, Australia, and North America to grab colonies instead of African slaves, would they have even made it big? Stop playing word games.
 </div>
 
@@ -1421,7 +1421,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The British imperial fleet even fired on slave ships, even though they had huge economic interests at the time. Britain grabbing colonies was an effect, not a cause—they could take them because they were strong enough, not the other way around. It’s like the Russians taking Asian lands because they had Western-made weapons, not the other way around…
 </div>
 
@@ -1437,7 +1437,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Several people arguing with you clearly don’t get the absolute importance of geographic advantage in political and historical processes…
 </div>
 
@@ -1468,7 +1468,7 @@ Click to expand Chinese comment</span>
 开启的工业化不是西方，此荣誉仅属于英国。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Let’s set aside armies, territories, populations, or cultural output, and just focus on the statement in the topic:
 
 “Industrial Revolution just happened a bit earlier?”
@@ -1496,7 +1496,7 @@ Click to expand Chinese comment</span>
 确实如此，英国的工业化几乎是一己之力完成的，当时欧洲其他国家还在玩小农经济
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly. Britain basically carried industrialization on its own, while the rest of Europe was still stuck playing with small-scale agrarian economies. 🌾🏭
 </div>
 
@@ -1512,7 +1512,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “In the 17th and 18th centuries, humanity was already on the doorstep of an industrial society—Britain just happened to step in first. Without Britain, France, Russia, Spain, Venice, the Holy Roman Empire, etc., could have led industrialization instead.” — I used to think the same way, influenced by the high school political idea of “historical inevitability”… Thanks for the answer! 🙏
 </div>
 
@@ -1528,7 +1528,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The scale of historical inevitability is huge—a mere few hundred years are just a tiny splash that barely matters. 🌊⌛
 </div>
 
@@ -1544,7 +1544,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If the Anglo-Saxons hadn’t been born, the world would have been in eternal darkness.
 </div>
 
@@ -1560,7 +1560,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Who would’ve thought that a bunch of barbarians taking turns as island rulers would eventually light the way for the world?
 </div>
 
@@ -1576,7 +1576,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Playing it conservative, you could even say that constitutional government and the Industrial Revolution were uniquely English. Without the Anglo-Saxons and England, even a hundred million years might not have produced them.
 </div>
 
@@ -1592,7 +1592,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s 2023, and honestly, China might still not be ready to kick off an Industrial Revolution—even after almost 200 years of Western influence. Playing it safe, you could even say constitutional government and the Industrial Revolution were purely English inventions. Without the Anglo-Saxons and England, you could wait 100 million years and they still might never show up.
 </div>
 
@@ -1608,7 +1608,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 By the 17th century, they were already debating freedom of the press
 </div>
 
@@ -1624,7 +1624,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Pioneers can’t be replaced—nobody else could’ve done it.
 </div>
 
@@ -1640,7 +1640,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I can’t speak for labor costs—maybe France wouldn’t have made it. But the rest seems kinda pointless. Even before the Industrial Revolution, Britain practiced trade protectionism, so in terms of trade policies, there wasn’t much difference between England and France.
 </div>
 
@@ -1656,7 +1656,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly, that was Britain’s economic background at the time. Labor costs were high, so their products weren’t competitive in the market—even heavy dumping in the colonies didn’t go smoothly.
 </div>
 
@@ -1672,7 +1672,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Sure, the idea of historical inevitability was definitely overblown—the Industrial Revolution could have easily been delayed by four or five hundred years. But don’t forget France. Back then, they were also just about to pull it off.
 </div>
 
@@ -1688,7 +1688,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is up for debate. At least according to the author I quoted, the Industrial Revolution wouldn’t have spontaneously happened in France at that stage. First, credit where it’s due—France was academically top-notch. But economically, labor was cheaper than energy, so using new technology would have been a loss for business owners. French workers’ handwoven cloth could still beat British goods on price.
 
 In fact, everywhere in the world except Britain—including the U.S.—industrialization only happened under government support: light tariffs and subsidies, heavier government-supervised businesses, and at the extreme, state-run industries. These countries didn’t start industrialization out of economic motives—they did it for military value.
@@ -1706,7 +1706,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The British independently developed the steam engine over a hundred years, making it profitable in Britain, where labor costs were high, coal and iron were abundant, and waterways convenient. If it had relied on France, that last crucial step would probably have taken at least 500 years.
 </div>
 
@@ -1722,7 +1722,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Britain only adopted free trade policies long after the Industrial Revolution, after its textiles had already beaten the Dutch. Adam Smith’s advice serves as evidence.
 </div>
 
@@ -1740,7 +1740,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This might explain why China’s upstream industries are so trash—and why we’re stuck in today’s predicament.
 </div>
 
@@ -1756,7 +1756,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Can someone explain in detail why labor costs were so high in Britain?
 </div>
 
@@ -1772,7 +1772,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I have a thought: the existence of colonies allowed the proletarianized poor from the enclosure movement to emigrate. On one hand, this prevented Britain from falling into political turmoil like France; on the other, it made it harder for employers to push wages down—maybe you could even say it prevented over-internal competition.
 </div>
 
@@ -1788,7 +1788,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 After the Seven Years’ War, France probably only had colonies in places like Guyana, New Orleans, and a few islands in the Americas.
 </div>
 
@@ -1804,7 +1804,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France did have large colonies in the Americas—but hardly anyone went there.
 </div>
 
@@ -1820,7 +1820,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I don’t have enough knowledge to answer something this theoretical.
 </div>
 
@@ -1836,7 +1836,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If only Japan had coal…
 </div>
 
@@ -1852,7 +1852,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But you’d still need geniuses like Newton, Watt, and Faraday.
 </div>
 
@@ -1868,7 +1868,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Japan actually has a lot of coal.
 </div>
 
@@ -1905,7 +1905,7 @@ Click to expand Chinese comment</span>
 我觉得这么个国家，怎么吹都不为过。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 A country that once occupied a quarter of the Earth’s land.
 
 A country whose Royal Navy and Redcoats defeated every major power in the world.
@@ -1939,7 +1939,7 @@ Click to expand Chinese comment</span>
 还意外怀孕生出来了美国这个后期的巨无霸 怎么吹都不为过
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 And it even ended up accidentally giving birth to the future powerhouse—the U.S. 🇺🇸💥 Honestly, there’s no such thing as overhyping it.
 </div>
 
@@ -1955,7 +1955,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The “father” was Britain—after violently subjugating the Indigenous peoples, the U.S. was born.
 America isn’t a purely English country; it’s a New Western nation with an Anglo cultural base, but composed of multiple ethnicities and races.
 </div>
@@ -1972,7 +1972,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Wrong. America has always called Britain the “mother country.” You could even say Louis XVI was the real Founding Father of the U.S.
 </div>
 
@@ -1988,7 +1988,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Never mind anything else—just getting the whole world to learn its language is already impressive enough.
 </div>
 
@@ -2007,7 +2007,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Britain gave birth to a giant like Darwin.
 By completely rejecting divinity and embracing humanity, humans became capable of breaking free from all ideological constraints.
 </div>
@@ -2024,7 +2024,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Magna Carta laid the groundwork for everything
 </div>
 
@@ -2040,7 +2040,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 And you don’t even mention Darwin, Newton, Turing, Maxwell, or Shakespeare… 😬
 </div>
 
@@ -2056,7 +2056,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Compared to the others, Shakespeare’s contribution to humanity feels a bit overstated.
 </div>
 
@@ -2072,7 +2072,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Come on, Britain never even had the strength to dominate continental Europe—just that alone smashes the whole “ruled the world” idea. And on top of that, Britain kept getting conquered by little European princes. The Norman Conquest? A permanent humiliation they never recovered from. Even the French Angevin princes got the better of them.
 
 The so-called “Glorious Revolution”? Ended with a Dutch army taking over Britain. And Britain itself? Couldn’t even conquer Scotland—had to drag people into alliances just to survive.
@@ -2096,7 +2096,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You’re a professional “Brit-hater,” huh? I won’t go into anything else—Britain’s strength has always been in balance-of-power diplomacy. Read some history, will you? Ignorant.
 </div>
 
@@ -2112,7 +2112,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A frog in a well.
 </div>
 
@@ -2128,7 +2128,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly, Britain? Not even close to a world superpower.
 </div>
 
@@ -2146,7 +2146,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Europe is high-level. If Britain had been located where Japan is, the Greater East Asia Co-Prosperity Sphere would have happened ages ago.
 
 Even the Ming couldn’t hold off the Qing—do you really think Britain’s line-formation Redcoats could have done any better?
@@ -2164,7 +2164,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ruling through sheer military force is shameful—just look at Qin Shi Huang or the Soviet Union. Military domination is a twisted value system.
 </div>
 
@@ -2180,7 +2180,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Look at what Europe was capable of! If the continent had been as weak as old China or the Korean Peninsula, maybe the Greater Western Europe Co-Prosperity Sphere would have been built.
 </div>
 
@@ -2196,7 +2196,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 One Magna Carta is worth the whole Earth, and one Newton is worth the entire universe. If not Britain, then who else??
 </div>
 
@@ -2212,7 +2212,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Glorious Revolution kicked off the era of the rule of law for humanity.
 </div>
 
@@ -2230,7 +2230,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 By World War I and II, Britain had already fallen from its pedestal—that’s why Germany dared to challenge it. Germany lost in WWII mainly because of the US and USSR.
 
 Now Britain’s just a troublemaker 😆, America’s top sidekick.
@@ -2248,7 +2248,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Britain and Tsarist Russia have always been Europe’s troublemakers. Brexit and NATO’s anti-Russia stance are just modern politicians exploiting old national rivalries for geopolitical games.
 </div>
 
@@ -2267,7 +2267,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Selling people in Africa, pillaging and burning in the Americas.
 
 Colonizing India for 200 years, forcing China to buy opium.
@@ -2318,7 +2318,7 @@ Click to expand Chinese comment</span>
 工业革命只是我们看到的成功的显化和结果。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The title “Beacon of Civilization” is well-deserved.
 
 Britain’s key strength lies in their mindset: the maritime civilization mindset.
@@ -2362,7 +2362,7 @@ Click to expand Chinese comment</span>
 唯一能压住“受命于天，既寿永昌”的，就是“王在法下，主权在民”。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The only thing that can restrain “Mandated by Heaven, eternal prosperity” is “the king is under the law, sovereignty belongs to the people.”
 </div>
 
@@ -2378,7 +2378,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The cost of breaking promises in a maritime civilization is high.
 </div>
 
@@ -2394,7 +2394,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The key is the system—taking power from the king was never an easy feat.
 </div>
 
@@ -2410,7 +2410,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Seek the truth from facts, value efficiency, and pursue freedom.
 </div>
 
@@ -2429,7 +2429,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Sun never sets on the British Empire”? You must be joking… With 34 million km² of colonies, wherever the British ruled, the sun was always up—hence the phrase.
 
 …Cambridge University itself is the origin of modern science and engineering education… The Times has centuries of history, and even Japan’s Yomiuri Shimbun, which became the world’s second-largest newspaper by circulation, was modeled after learning from Britain.🤔
@@ -2447,7 +2447,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Britain is the greatest country in history.
 </div>
 
@@ -2462,7 +2462,7 @@ Click to expand Chinese comment</span>
 现在出问题了，穆斯林问题解决不了了[大哭]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Now there’s a problem—the Muslim issue can’t be solved 😭
 </div>
 
@@ -2477,7 +2477,7 @@ Click to expand Chinese comment</span>
 说这么多就一句话，商业文明。因为只有钱和物可以精确量化，而只有可以被精确量化的规则才能体现文明。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 After all that, it comes down to one thing: commercial civilization. Only money and goods can be precisely measured, and only rules that can be measured precisely can reflect true civilization.
 
 </div>
@@ -2491,7 +2491,7 @@ Click to expand Chinese comment</span>
 对！英国就是比美国强！
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly! Britain is stronger than the U.S.!
 </div>
 
@@ -2505,7 +2505,7 @@ Click to expand Chinese comment</span>
 [捂脸]美利坚那块建国前、殖民者就是大英帝国[思考]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 😅 Before America was founded, the colonists were part of the British Empire 🤔
 </div>
 
@@ -2530,7 +2530,7 @@ Click to expand Chinese comment</span>
 3、没有英格兰，欧洲能不能走出中世纪还是两说。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Three sentences:
 
 1. Modern civilization is essentially English civilization.
@@ -2550,7 +2550,7 @@ Click to expand Chinese comment</span>
 文艺复兴，意大利
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Renaissance—Italy.
 </div>
 
@@ -2566,7 +2566,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So you’re saying the French Revolution was basically sparked by British workers infiltrating France?
 </div>
 
@@ -2582,7 +2582,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Of course, we can’t deny the contributions of French thinkers, but just look at who first proposed the separation of powers—and who first actually executed a king to establish a republic.
 </div>
 
@@ -2598,7 +2598,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Middle Ages ended after the fall of Constantinople in the 15th century. Scholars from the Byzantine Empire fled west to Italy with ancient manuscripts, sparking the Renaissance—this had little to do with England.
 </div>
 
@@ -2614,7 +2614,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To some extent, it’s more accurate to say that the English-speaking world, rather than “the West” in general, became developed. Most developed countries founded by European settlers are English-speaking (South Africa—Afrikaans counts partially, Argentina partially, Quebec partially).
 </div>
 
@@ -2630,7 +2630,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s more accurate to say that Germany and France became developed largely because they were close to the UK and shared similar cultural roots—like close siblings basking in the “holy light.” Only Britain’s nearest relatives—its “brother” Europe and “sons” like the U.S., Australia—became fully developed; more distant “relatives’ children” lagged behind.
 </div>
 
@@ -2646,7 +2646,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly. Many other countries’ colonies didn’t develop nearly as successfully. Britain’s colonies—like the U.S., Canada, Australia, and New Zealand—benefited from the institutional, legal, and economic frameworks imported from the UK, which helped them grow into prosperous societies. In contrast, colonies of other European powers often lacked the same combination of stability, institutions, and incentives for long-term development.
 </div>
 
@@ -2666,7 +2666,7 @@ Click to expand Chinese comment</span>
 反过来我们国家，号称以德服人。几千年受我们文化影响的周边国家，日韩越，请问对我们什么态度？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The British colonized so many places—so tell me, which of them are still gnashing their teeth at Britain every single day?
 
 On the other hand, our country claims to “govern by virtue.” After thousands of years of cultural influence on neighboring countries like Japan, Korea, and Vietnam, what kind of attitude do they actually have toward us?

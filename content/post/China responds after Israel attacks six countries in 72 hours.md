@@ -40,7 +40,7 @@ Click to expand Chinese comment</span>
 也只能说人家是真牛逼，也敢打敢做。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Say what you want, but they really got the guts to do it.
 </div>
 
@@ -56,7 +56,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Gotta admit, Israel is really tough — with only 10 million people, it still dominates the Middle East. It all comes down to their willingness to fight. Now nobody dares to step up, even Iran has gone quiet after being hit.
 </div>
 
@@ -72,7 +72,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Pakistan just spoke up after Israel hit Qatar! 🇵🇰 Defense Minister Khawaja Asif didn’t hold back — called Israel a rogue state and said Muslim countries need to unite. He basically said: weak to Israel = stupid, only unity can protect our interests.
 
 Yes, Pakistan’s economy isn’t strong, but their government and military? Professional and tough. They’ve even gone head-to-head with India five times their size. 💪
@@ -94,7 +94,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Heroic people of Israel 🇮🇱, the great counter-terror warrior Netanyahu, the shining light of human civilization and peace!
 </div>
 
@@ -110,7 +110,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Where is the UN? Where is international law?
 </div>
 
@@ -126,7 +126,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So where’s the UN? Seriously, isn’t this straight-up aggression? Who’s even protecting world peace?
 </div>
 
@@ -142,7 +142,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Western values are basically: ruthlessly bully the weak, and completely bow to the strong.
 </div>
 
@@ -158,7 +158,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Israel just goes at whoever it wants in the Middle East, bombs whoever it wants. Why is it that Japan in Asia nobody dares touch?
 
 What even counts as a terrorist or extremist group? Was Unit 731 a terrorist group?? Killing 300,000+ people — extremist or not?
@@ -178,7 +178,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Check it out, all you know-it-alls, this is the West’s true face!
 </div>
 
@@ -194,7 +194,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Houthis launched missiles at the US Independence Day 249th anniversary event, and US soldiers fled the scene in panic.
 
 Having just completed an attack on Qatar, Israeli Prime Minister Netanyahu personally attended the US Independence Day celebration. The event, held at the US Embassy in Jerusalem, was grand and lively. Netanyahu attended to congratulate US independence and acknowledged that he had authorized the Israeli military to strike Qatar.
@@ -220,7 +220,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Hypersonic missiles + drones” hitting Jerusalem—this plotline wouldn’t even dare appear in a video game. Houthi spokesperson Sareyah didn’t chant slogans this time; he directly announced the model: Palestine-2, multiple warheads, over Mach 5. Sounds like sci-fi, but Israeli air raid alarms really went off, and the runway at Eilat Airport really got “brushed” by a drone, causing flight delays.
 
 First, the missiles. In the past, Houthis’ stuff barely had an 800 km range. To reach Jerusalem, they had to cross Saudi Arabia and the Red Sea—a total of over 1,800 km. Now suddenly there’s the “Palestine-2,” which can separate mid-flight, basically splitting a parcel into three, each hitting different addresses. Israel’s Iron Dome excels at intercepting rockets, but for these high-altitude, high-speed “deliveries,” they need Arrow-3. Strangely, the Israeli military didn’t release any interception footage, only claiming “no damage.” No footage = no proof? Netizens joked: maybe they’re embarrassed by the missile debris.
@@ -248,7 +248,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “One land shapes its people: the Middle East’s terrain forged the desert-like character of Arab countries—scattered and disunited.”
 </div>
 
@@ -264,7 +264,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Middle Eastern monarchies are something else—someone flies over your airspace to strike your Arab brothers, and you just watch, staring at the sky as if nothing’s happening. Looks like, besides being rich, they’re… just rich.
 </div>
 
@@ -280,7 +280,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Arab world has basically become a joke on Earth 😂
 </div>
 
@@ -296,7 +296,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Countless facts have once again proven a truth: Befriending China brings peace and development, while aligning with the U.S. and the West only brings war and slaughter!”
 </div>
 
@@ -312,7 +312,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “The UN General Assembly? Forget it. A waste of money every day, an outdated and loose institution with no fairness or justice. The sooner it’s disbanded, the better.”
 </div>
 
@@ -328,7 +328,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Israeli atrocities will accelerate the process of Palestinian statehood. Europe is hosting justice this time, and the U.S. allies have expressed support and approval. However, Hungary has voiced opposition, which is unusual and condemned by most justice-supporting countries. Argentina’s new president has aligned with the U.S., while a few other minor countries are not worth mentioning.”
 </div>
 
@@ -344,7 +344,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Israel’s victory is undoubtedly the greatest threat to humanity…”
 </div>
 
@@ -360,7 +360,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “A small country, unafraid of the UN, strikes six nations for its own interests. Truly impressive.”
 </div>
 
@@ -376,7 +376,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “The Western values come in two flavors: what they say and what they actually do. On their lips, it’s all lofty talk about democracy, freedom, and equality; in practice, it’s raw power—if your fists are big enough, you can strike anywhere without fear.”
 </div>
 
@@ -392,7 +392,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Western values are basically the law of the jungle—they never really change.”
 </div>
 
@@ -408,7 +408,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “In the Middle East, the West has shown the most extreme double standard of the 21st century: when Israel commits aggression and massacres, that’s one attitude; when it comes to our goal of unifying Taiwan, it’s a completely different face. Things aren’t judged by right or wrong—only by whether they agree with you.”
 </div>
 
@@ -424,7 +424,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “The title of ‘Middle East Overlord’ for Israel is by no means undeserved.”
 </div>
 
@@ -440,7 +440,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “If the EU put even a tenth of the effort it gives to supporting Ukraine into supporting Palestine, Israel wouldn’t be slaughtering Palestinians with such impunity.”
 </div>
 
@@ -456,7 +456,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Is Qatar basically a sitting duck… just talk? Getting attacked at your doorstep out of nowhere, and all you do is protest verbally—how embarrassing!”
 </div>
 
@@ -472,7 +472,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The United Nations is just a place to eat, drink, and chat with each other—totally useless!
 </div>
 
@@ -488,7 +488,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In this world, the truly independent countries are basically China, the U.S., and Russia. Without strong military power, those so-called high-welfare Middle Eastern and Western countries could vanish at any moment!
 </div>
 
@@ -504,7 +504,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The current United Nations is much like the League of Nations in 1937—essentially a paper tiger, existing in name only.
 </div>
 
@@ -520,7 +520,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If the United Nations acts contrary to U.S. government policies while on American soil, the U.S. government can enforce compliance under its immigration laws.
 </div>
 
@@ -536,7 +536,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “The Arab world in the desert is like a pile of loose sand, allowing Israel to rampage at will. China and Russia cannot remain idle; a strategic foothold needs to be established in the Middle East!”
 </div>
 
@@ -552,7 +552,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Israel acts with complete impunity, bombing Qatar and tearing away the hypocritical veil of the US-Western ‘rules-based’ international order! Openly defying the UN Charter and positioning itself against the peoples of the world—heaven, in its wrath, allows the reckless to run wild.
 </div>
 
@@ -568,7 +568,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Europe is full of naive, second-rate politicians—life is too short for hypocrisy!…Either they go for mutual benefit or they just fight among themselves, up to them—it’s a buffet, pick what you want.
 </div>
 
@@ -584,7 +584,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s not that the deceiver is too clever, but that the one being deceived is too foolish! Uncle Sam’s kids make sure Israeli Daddy can attack Arab countries without restraint! Even the cattle, horses, and sheep are laughing their heads off.
 </div>
 
@@ -600,7 +600,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Shameless Israel and blustering, timid Americans have done all sorts of wicked deeds. Arab countries, unite and fight the oppressors!”
 </div>
 
@@ -616,7 +616,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, the old powers are probably secretly thrilled, almost ready to put little Israel on the table. Looking at Israel’s recent actions, isn’t it all about dragging the US into it or slapping its so-called security guarantees? Of course, from a moral standpoint, Israel still deserves condemnation—after all, a few scoldings might even earn some goodwill from the Middle Eastern monarchs, so why not?
 </div>
 
@@ -632,7 +632,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Qatar hosts US troops, and yet it still got bombed. The US military’s protection has become a joke—those sky-high annual defense budgets basically went down the drain. But of course, the US will keep stationing troops there, and the spending continues. The Americans have basically put the ‘robbery business’ out in the open. As for those oil-rich Middle Eastern states, they probably still don’t dare make a move. The richer they are, the more they fear death, the less they dare to stir trouble. Looks like East Asian arms dealers are about to see business spike again—after all, counting on the US is just wishful thinking. Betting on East Asia seems way more reliable.
 </div>
 
@@ -648,7 +648,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, this will likely have a huge impact on the Belt and Road Initiative. This is also why the US supports Israel—having a ‘little bully’ as an enforcer on the ground.
 </div>
 
@@ -667,7 +667,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “The US protects you when you’re not under attack! Once the conditions are right, they can strike whenever they want! The so-called protection fee is just the price for peace. They protect you during normal times, but before you embarrass the US or make it lose credibility, why didn’t you clear troubles for them? What are they protecting you for? The US doesn’t need your meager resources!”
 </div>
 
@@ -683,7 +683,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly! You can’t just remember who’s “the boss” only when you’re getting beaten. If you don’t show respect and loyalty proactively during the calm times, trying to smooth things over when trouble hits won’t work at all. No shortcuts there. [🤭🤭🤭]
 </div>
 
@@ -699,7 +699,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Starting from Operation Aqsa Flood, now, with a series of developments in the Middle East, it is clear that our strategy towards the region needs adjustment. We can no longer rely on uniting Islamic forces to counter the U.S. and Israel.
 </div>
 
@@ -718,7 +718,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is the reality: the Arab countries are all being humiliated. Today it’s Qatar, tomorrow it could be other Arab states, the UAE, and so on—it’s just a matter of need.
 
 Also, don’t underestimate Iran; among Middle Eastern countries, Iran has dealt a significant blow to Israel.
@@ -736,7 +736,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 For the Eastern and Western hegemons, and later the maritime powers, a divided Islamic world has always been humanity’s blessing. A unified Islamic world, with states consolidated under religion, ultimately hinders East-West exchange and slows civilizational progress. That’s why successive global powers have sought to keep the Middle East divided, to “nail it down.” Israel serves as America’s “nail” in the Middle East.
 </div>
 
@@ -752,7 +752,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Israel is basically America’s “kid,” but the Israelis see the Middle East as their Promised Land and don’t really care about anywhere else.
 </div>
 
@@ -770,7 +770,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Israel is steadily following the path of white South Africa. The U.S. cannot truly ignore its own national interests and unconditionally support Israel forever. Israel’s relations with Arab countries can no longer normalize; long-term confrontation is inevitable.
 
 Eventually, the U.S. will want to offload this burden. The outcome will likely mirror white South Africa: either coexist with Arabs and establish a multiethnic state, or leave.
@@ -788,7 +788,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When heaven intends to destroy a nation, it first drives it to madness. Israel’s reckless, no-mercy killings, leaving a trail of blood debts, may well summon the next “Hitler” for the Jewish people. If things move fast, within a decade—once the U.S. declines and its control wanes—the surrounding Arab states may settle old and new scores in an instant, tearing apart this tiny land. Massacres, exile, and the brutal, short-sighted, and fearless law-of-the-jungle logic could unfold again. Thirty years east of the river, thirty years west; Zion rises, the Wailing Wall stands, and the Mount of Olives tilts. The deep state structures and credibility that the U.S. built in the Middle East over decades could be erased in months; the international image Israel has spent two generations constructing could be shattered in two years by Netanyahu.
 </div>
 
@@ -804,7 +804,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Why does Israel even dare to bomb Qatar?
 </div>
 
@@ -823,7 +823,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Or maybe it’s just conspiracy theory: the U.S. and Israel share aligned interests in the Middle East. It’s that simple. Qatar? Just a base for U.S. troops—so what if it gets hit. Hasn’t the U.S. military already taken plenty of bombs to protect Israel? 🍿
 </div>
 
@@ -839,7 +839,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China’s current stance is indeed very important, but China is unwilling to step onto the battlefield itself. China values peace, but peace isn’t something that can just be negotiated—it has to be enforced. China can support forces fighting for justice, but prefers not to intervene directly, because development remains the key to solving problems.
 </div>
 
@@ -857,7 +857,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “This also fully shows that Middle Eastern countries: first, have inadequate air defense; second, cannot maintain air superiority; and third, lack the courage to confront Israel.”
 
 The U.S. has a military base in Qatar, so naturally there is radar early warning. If Israeli aircraft entered Qatari airspace, the radar would normally trigger an alert—but the radar remained silent. This indicates that Israel’s action had U.S. support. Qatar only received a call from the U.S. **10 minutes after** the bombing, which further confirms the point.
@@ -877,7 +877,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You can skip work, but high welfare and holidays cannot be cut. Truly impressive are these countries that maintained high welfare for centuries through colonization and plunder. Now, facing a globally awakened world, how can they continue relying on past exploitation? The government is running a deficit, but try to touch citizens’ welfare — haha, they’ll show you death. This situation will only escalate, and the fate of such countries is now teetering on the edge of a cliff.
 </div>
 
@@ -893,7 +893,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Middle Eastern “princes” thought they had hired bodyguards, but the truth is they invited wolves into their house.
 </div>
 
@@ -909,7 +909,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Little Israel has the big backup of Uncle Sam; the whole world only fears Russia and China. Now that Russia is stuck in the Ukrainian quagmire, only China remains. As long as China stays out of Middle Eastern affairs, Israel can operate freely in the region. That’s why, even when China criticizes Israel at the UN, Israel doesn’t dare respond; humanitarian aid from China is allowed through, and Jewish capital is deeply embedded in China’s economy. Israel itself actively responds to China’s Belt and Road Initiative, attracting Chinese investment. So far, China has only used words against Israel—no economic sanctions, let alone military intervention. In international relations, it’s all about exchanging interests; the high-sounding rhetoric is just for show.
 </div>
 
@@ -925,7 +925,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To rapidly improve the international environment, China must take proactive measures and offer protection to those seeking assistance. However, China’s approach of seeking opportunities through development is unlikely to change in the short term, and U.S. hegemony will not fade quickly either.
 </div>
 
@@ -945,7 +945,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 News has to be viewed in context:
 
 1. Israel bombs Qatar, and the U.S. expresses regret.
@@ -969,7 +969,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Force is the cornerstone of dialogue and the guarantee of peace.
 Yet, only having the ability to make your own decisions—true autonomy—provides the necessary condition for effective action.
 </div>
@@ -986,7 +986,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Qatar's troubles are its own fault. The more it gets hit, the more it sucks up to the U.S.! It totally deserves it!
 </div>
 
@@ -1002,7 +1002,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Israel is in itself a terrorist state.
 </div>
 
@@ -1018,7 +1018,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You should learn about who the originator of terrorism is. You should learn about the predecessor of the Likud Party, called the Irgun, and all the things they did. It can be said that Israel single-handedly turned the entire Middle East into a dark forest, and you're still whitewashing Israel.
 </div>
 
@@ -1038,7 +1038,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Taking military action against a sovereign state can be considered a declaration of war. You can decide when a war begins, but there's no way to decide when it ends. What is there to support about a decision like that?
 </div>
 

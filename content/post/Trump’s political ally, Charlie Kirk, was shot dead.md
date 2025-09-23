@@ -38,7 +38,7 @@ Click to expand Chinese comment</span>
 美国总统，政客经常被刺杀，历史上被枪杀的美国总统就有很多位。因为推行新政，利益分配不均被人记恨而报复
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 U.S. presidents and politicians have often been targeted for assassination; history records several presidents who were shot. This was frequently due to resentment over new policies or perceived unfair distribution of interests, which motivated acts of revenge.
 </div>
 
@@ -54,7 +54,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The previous attempt on Trump failed; this attack serves as another warning directed at him.
 </div>
 
@@ -70,7 +70,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Elon Musk is trembling with fear.
 </div>
 
@@ -86,7 +86,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He has already stepped down and no longer poses a threat. Another assassination attempt would be more harmful than beneficial. Politicians act only in ways that serve their own interests.
 </div>
 
@@ -102,7 +102,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The deepening domestic conflicts in the U.S. are an inevitable consequence of political and social polarization.
 </div>
 
@@ -119,7 +119,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Shouldn't it be a social movement rather than these targeted killings? In my view, this is an extension of politics—essentially similar to warfare.
 </div>
 
@@ -135,7 +135,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Actually, it’s the same all over the world. Just look at Nepal—they’re even more extreme.
 </div>
 
@@ -151,7 +151,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The shooter is already very old and probably only has enough strength left to pull the trigger.
 </div>
 
@@ -167,7 +167,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 And he’s even wearing reading glasses, so hitting the target in one shot seems unlikely. Most likely, there’s someone else involved.
 </div>
 
@@ -183,7 +183,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Speaking publicly in the U.S. really takes courage—almost everyone is armed.
 </div>
 
@@ -199,7 +199,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From now on, speeches might need to be delivered inside a bulletproof glass enclosure on stage.
 </div>
 
@@ -215,7 +215,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Gun control remains a distant hope.
 </div>
 
@@ -231,7 +231,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Gun control in the U.S.? That’s something you only see in cartoons.
 </div>
 
@@ -247,7 +247,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 For Americans, guns are part of their very foundation; gun control is essentially a nonstarter and doesn’t even warrant discussion.
 </div>
 
@@ -263,7 +263,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Iran raises its flag every day, while the U.S. lowers theirs daily.
 </div>
 
@@ -279,7 +279,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Lowering the flag for someone who didn’t even hold an official position? The U.S. flag seems hardly valued at all.
 </div>
 
@@ -295,7 +295,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Then you’re misrepresenting Eastern values. In the East, it’s also common to lower the flag for ordinary people who performed heroic deeds.
 </div>
 
@@ -311,7 +311,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. flag is lowered only for people deemed significant, not for officials or ordinary citizens. Viewing this through the lens of “Eastern values” is clearly a misunderstanding.
 </div>
 
@@ -327,7 +327,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just wondering: when the U.S. lowers its flag, does it really happen just because the president says so? Isn’t there supposed to be a formal procedure?
 </div>
 
@@ -343,7 +343,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Does “everyone being armed” really equalize things? In the U.S., a lot of semi-automatic rifles can shoot accurately from 400 meters. From behind cover, even trained soldiers can’t determine where the shots are coming from. Since the Las Vegas music festival massacre, more shooters have opted for long-distance attacks. How can anyone effectively defend against that?
 </div>
 
@@ -359,7 +359,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve seen his speeches—his debating skills are impressive… and he’s only 31.
 </div>
 
@@ -375,7 +375,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. is the enemy of all anti-civilization and anti-democracy forces in the world.
 </div>
 
@@ -391,7 +391,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No matter how many people cheer in support of you, it can never have the same impact as a single bullet. Bang! That’s it. Where birds and beasts gather, they will disperse! The gathering ends immediately. Lowering the U.S. flag a hundred, a thousand, or ten thousand times doesn’t compare to passing gun control even once. Yet in the U.S., party competition is unimaginably fierce. Perhaps it can be said: the world could do without the U.S., but Americans cannot be without guns! That’s why gun control is hopeless.
 </div>
 
@@ -407,7 +407,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 America is lively, but every day it’s essentially under the crosshairs!
 </div>
 
@@ -423,7 +423,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The electoral system has met a Waterloo. I’ve heard it’s even more extreme in the Philippines—every election, a dozen or so voters end up dead.
 </div>
 
@@ -439,7 +439,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The real reason guns aren’t banned is purely about vested interests—the power of arms manufacturers cannot be underestimated. It’s not really about “freedom,” as some might think.
 </div>
 
@@ -455,7 +455,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Indeed, their system just doesn’t work, yet the West keeps praising the U.S. every day.
 </div>
 
@@ -471,7 +471,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is what real foolishness looks like: if you want to wear a crown, you have to bear the consequences. That’s the so-called system of checks and balances—not picking a few people and then having everyone kneel. That’s not selecting talent, that’s selecting your own representatives, understand? Of course, a mindset like yours will never grasp this, even in a hundred years. Several U.S. presidents have been assassinated, yet guns weren’t banned—because presidents are human, and without proper security, anyone can be killed. They’re not gods; there are no gods, and there’s no need to kneel.
 </div>
 
@@ -488,7 +488,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ah, right, right—checks and balances are the greatest, the U.S. system is the greatest, and you’re the greatest!
 </div>
 
@@ -504,7 +504,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This American shooter is really something—he should be awarded the gold medal for professional shooters in the U.S.
 </div>
 
@@ -520,7 +520,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is a future president!!! Capital can no longer tolerate the U.S. being out of control.
 </div>
 
@@ -536,7 +536,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve seen Charlie Kirk’s debate—he completely shut down those LGBTQ opponents, quite impressive. As for the shooter, he hit the throat directly; the blood gushed like a water pipe—one shot, and it was instantly fatal.
 </div>
 
@@ -552,7 +552,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 For this kind of targeted shooting, there’s basically no need to panic—the shooter won’t fire randomly. After the shot, they either flee or get caught. The real danger is when it’s a chaotic, indiscriminate attack, where you have no way to react and don’t even know where the shots are coming from.
 </div>
 
@@ -568,7 +568,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If the U.S. lowered its flag for every person killed by gunfire, the flags would never rise again. \[2025]
 </div>
 
@@ -584,7 +584,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Jews would absolutely never let the Nazis go unpunished.
 </div>
 
@@ -600,7 +600,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Once it happens, it will happen countless times. American-style democracy is bound to protect the interests of some while harming others—the conflicts are irreconcilable.
 </div>
 
@@ -616,7 +616,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 American citizens have too many “legal” rights: legally owning guns, legally shooting, legally robbing, legally using drugs!!!
 </div>
 
@@ -632,7 +632,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The latest reports say the shooter is still on the run, and the suspect who was detained has been released after questioning. That’s truly Free America.
 </div>
 
@@ -648,7 +648,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Well done—next time, aim directly at the real target: Trump.
 </div>
 
@@ -664,7 +664,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He’s quite well-known; I’ve seen many of his debates on college campuses with some really fanatical opponents.
 </div>
 
@@ -680,7 +680,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Gun control is a topic U.S. politicians can’t even bring up—anyone who does becomes a potential target.
 </div>
 
@@ -696,7 +696,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is the so-called free world of the U.S. and the West! A beacon of humanity?
 </div>
 
@@ -712,7 +712,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I think I’ve watched his videos before—he seems like a smart, quick-witted, and polite person.
 </div>
 
@@ -729,7 +729,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Gun freedom is seen as essential to ensuring democracy and the rule of law.
 </div>
 
@@ -745,7 +745,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A prelude to civil war—trouble for America.
 </div>
 
@@ -761,7 +761,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He’s only 31, just a young kid—talking big comes with a price.
 </div>
 
@@ -777,7 +777,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Another victim is being blamed—no one has the right to take another person’s life! If you think it’s acceptable, imagine one day someone could shoot you!
 </div>
 
@@ -793,7 +793,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is Free America! What a pity—only 31 years old! The shooter’s skills were top-notch.
 </div>
 
@@ -809,7 +809,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Iran raises its flag when something happens, while the U.S. lowers theirs—no wonder the two don’t get along.
 </div>
 
@@ -825,7 +825,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Wow, I often watch his debates with the leftists on TikTok too…
 </div>
 
@@ -841,7 +841,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s just bad luck—hit in the neck.
 </div>
 
@@ -857,7 +857,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A young American politician who reasons with logic, always defeating young Americans who just spout positions in debates! It’s heartbreaking that he met with misfortune.
 </div>
 
@@ -873,7 +873,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It seems the U.S. left-wing parties are back to their assassination tactics—Clinton and Hillary are typical examples.
 </div>
 
@@ -889,7 +889,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Sigh! How could this happen? The Democrats did it. When they can’t win openly, they resort to underhanded tactics—despicable!
 </div>
 
@@ -905,7 +905,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So they’re targeting Trump now.
 </div>
 
@@ -921,7 +921,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Someone who could potentially turn out like Vance.
 </div>
 
@@ -937,7 +937,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It seems that politics in the U.S. is also a high-risk profession.
 </div>
 
@@ -953,7 +953,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Perhaps a promising future president—what a pity.
 </div>
 
@@ -969,7 +969,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 At first glance at the headline, I thought Trump had been assassinated.
 </div>
 
@@ -985,7 +985,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Is he a member of Trump’s team?
 </div>
 

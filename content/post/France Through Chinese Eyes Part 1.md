@@ -24,7 +24,7 @@ thumbnail = "images/2025/eiffel-tower.jpg"
 +++
 
 <div class="comment-block quizzer">
-  <strong style="color: #0077b8;">Overview:</strong><br>
+  <strong class="translated-label">Overview:</strong><br>
 Let’s take a look at how Chinese netizens view France. Overall, many Chinese people hold a positive attitude toward France, and quite a few express genuine goodwill toward the country.
 
 Since the volume of comments is quite large, I’ve decided to publish them in several parts. Below are translations of posts taken from the Chinese equivalent of Quora. I haven’t filtered them based on personal preference, and I’ve tried to keep the translations as fair and unbiased as possible.
@@ -57,7 +57,7 @@ Click to expand Chinese comment</span>
 世界总是有bug的，如果没有中美俄，法国就是地球上最好的地方。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 My biggest impression of France is how incredibly comfortable the climate is.
 
 I studied geography, but nobody ever told me that in Paris, the summer sun doesn’t set until around 10:30 p.m. That feeling is amazing—if you get off work at 5, it feels like you suddenly have an extra afternoon compared to the Eastern Hemisphere. I even wonder if Enlightenment thought itself was born out of such pleasant weather.
@@ -85,7 +85,7 @@ Click to expand Chinese comment</span>
 你倒是过几个冬天再下结论啊
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Try spending a few winters there before you jump to that conclusion.
 </div>
 
@@ -101,7 +101,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Winter is cold pretty much everywhere. A city’s climate doesn’t need to follow the “wooden-barrel theory”—what I like is when the “long plank” is really long. Take Canada as the opposite example: when half the year feels like winter, it’s hard to fall in love with the place.
 </div>
 
@@ -117,7 +117,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No, no—you’ve got it wrong. French winters aren’t “not cold”; they’re damp and bone-chilling, with icy winds that make 3°C feel like minus 5. And they drag on forever. One year I went to Paris in May and was shivering so badly I had to scour the streets for a scarf.
 
 Apart from the south, most of France’s plains share the same climate as Germany, the UK, Belgium, and the Netherlands—heavenly summers, but winters so long and miserable they make you want to die.
@@ -135,7 +135,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 🤦‍♂️ Good climate in France? You should try living in Lisbon—that’s what a good climate really feels like.
 </div>
 
@@ -151,7 +151,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Agreed, the weather in Portugal is absolutely amazing.
 </div>
 
@@ -167,7 +167,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The only downside is the rainy season in winter—it can get uncomfortably damp.
 </div>
 
@@ -183,7 +183,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Lisbon has a Mediterranean climate, right? Pretty similar to Rome and Athens.
 </div>
 
@@ -199,7 +199,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 And Barcelona too—no wonder so many football stars love Spain; it’s mostly for the weather.
 </div>
 
@@ -215,7 +215,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just saying Lisbon has great weather doesn’t mean France’s climate is worse than back home.
 </div>
 
@@ -231,7 +231,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The fact that it stays light late in the summer doesn’t make France special—you get the same thing in high-latitude places like Northeast China or Xinjiang.
 </div>
 
@@ -247,7 +247,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Without the US, China, and Russia… and with the UK and Germany eyeing France enviously 😄
 </div>
 
@@ -263,7 +263,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Even with the US, China, and Russia around, France is still one of the best places. You can’t exactly rearrange the whole planet, after all.
 </div>
 
@@ -279,7 +279,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly—being one of the best places doesn’t require a huge territory or the strongest overall power; those things don’t have to conflict.
 </div>
 
@@ -295,7 +295,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Explain it using geographic determinism—like North vs. South Korea, or East vs. West Germany.
 </div>
 
@@ -311,7 +311,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Good question—might as well let me explain the US and Native Americans too. Though your point has a flaw on the military side.
 </div>
 
@@ -327,7 +327,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 North Korea isn’t exactly weak, and East Germany was actually quite strong. Are you trying to blame it on political systems? Compare North Korea with India—who comes out ahead? East Germany versus Haiti—who’s stronger? Geography determines the people, and the people determine the ceiling of civilization.
 </div>
 
@@ -343,7 +343,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Southern Mexico and northern Mexico (what’s now New Mexico in the US) had similar geography and populations, yet their development ended up very different.
 </div>
 
@@ -359,7 +359,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 By geographic determinism, we’re talking about how indigenous peoples’ civilizations developed within their natural environments. When considering the New World, this really only applies to the pre-Columbian era. For example, why didn’t the Americas develop feudal societies? Geography alone can perfectly explain it.
 </div>
 
@@ -375,7 +375,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t change the subject—just tell me why North Korea, with the same ethnicity and culture, is far behind South Korea.
 </div>
 
@@ -391,7 +391,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s only been a few decades—on a larger timescale, that’s nothing.
 </div>
 
@@ -407,7 +407,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s only been a few decades—on a larger timescale, that’s nothing.
 </div>
 
@@ -423,7 +423,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 During the Japanese colonial period, North Korea was actually the industrial priority area—it wasn’t lacking in development.
 </div>
 
@@ -439,7 +439,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But that was built by the Japanese—what does it have to do with Koreans? If you work as a servant in a rich household, does the owner’s wealth become yours?
 </div>
 
@@ -455,7 +455,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Far behind in what sense? The 1950s? The 1960s? The 1970s? Even today, North Korea is an independent country while South Korea is basically a client of the US—how exactly is it “far behind”?
 </div>
 
@@ -471,7 +471,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s been falling far behind South Korea since the Park Chung-hee era. North Koreans were starving, and you’re calling that “independent”? Independent… and starving 🤭
 </div>
 
@@ -487,7 +487,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The winters are brutal—dark by 5 p.m., completely messing up your body clock. Even the locals leave town for Christmas holidays.
 </div>
 
@@ -503,7 +503,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Anyone who’s spent a winter anywhere knows… And seriously, what’s so great about Paris? Why do the French still flock to Southern Europe in winter?
 </div>
 
@@ -519,7 +519,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I spent a winter in France—by 4 p.m., it was already dark. That was the most depressing winter of my life, and I ended up fleeing back home as soon as spring arrived.
 </div>
 
@@ -535,7 +535,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Paris is roughly at the same latitude as Harbin, but with a stronger maritime influence. Still, in early spring and late autumn, the evenings feel cold and get dark early. Southern France has a Mediterranean climate, so winters are just a bit damp and chilly.
 </div>
 
@@ -551,7 +551,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No wonder there are so many elderly people by the seaside.
 </div>
 
@@ -567,7 +567,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Winter lows in Paris hit around -5°C, and with heating, it’s much warmer than most cities in northern China.
 </div>
 
@@ -585,7 +585,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Harbin uses Beijing time, so in December it gets dark around 4 p.m. (though correspondingly, it gets light around 7 a.m.). In France, sunrise is after 8 a.m., and it gets dark around 5 p.m.
 
 For someone with a typical work schedule, I feel it’s psychologically more comfortable if it gets dark around 5:30 or 6. Otherwise, seeing the sun set at 2 or 3 p.m. while it’s still freezing outside makes you not want to do anything 🤦‍♂️
@@ -603,7 +603,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Paris is at a higher latitude than Qiqihar, while Lyon is roughly at the same latitude as Qiqihar.
 </div>
 
@@ -619,7 +619,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In southern France, it only gets damp and chilly in winter. In northern France, near the English Channel, it can feel damp and chilly even in summer.
 </div>
 
@@ -663,7 +663,7 @@ Click to expand Chinese comment</span>
 马丁·尼莫勒
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I still remember a senior at school passionately speaking at the front of the classroom during a strike:
 
 *"First they came for the socialists, and I did not speak out—because I was not a socialist.
@@ -686,7 +686,7 @@ Click to expand Chinese comment</span>
 她应该庆幸自己是在法国，不然如果她在美国说这种话，会被一帮美国小将疯狂吐槽和嘲笑，还有可能会被人截图发到网上扣个分裂美国的帽子，以后美国无论出了什么事都能怪到她头上
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 She should be grateful she was in France. If she had said something like that in the US, a bunch of young Americans would probably roast and mock her relentlessly, maybe even screenshot it and label her as trying to “divide America.” From then on, no matter what happens in the US, it could somehow be blamed on her.
 </div>
 
@@ -702,7 +702,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Americans can be pretty crude, to begin with.
 </div>
 
@@ -718,7 +718,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s the US for you: psychologically, everyone has a bit of Stockholm Syndrome; morally, everyone’s a walking double standard; emotionally, everyone is hypersensitive and fragile. That’s how Americans are.
 </div>
 
@@ -734,7 +734,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Americans aren’t born this way. They’re taught to present themselves as the “people on the mountaintop” in formal settings, but in practice, their behavior is often petty and self-serving. If you don’t dig too deep, everything seems bright, sunny, and straightforward—but once you start to explore and understand, it’s a chaotic world of monsters and predation. Try telling this to those around you, and they won’t believe you; then you turn around and it feels like their faces have turned into demons, baring fangs. It’s no wonder Americans have such a fascination with Lovecraftian fiction.
 </div>
 
@@ -750,7 +750,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When an American cop shows up and shoots a 70-year-old just for mouthing off on Twitter, you can only say: that’s the US for you.
 </div>
 
@@ -766,7 +766,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When I was in Paris, I could hear people debating on the metro—it was amazing, I loved it.
 </div>
 
@@ -782,7 +782,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It doesn’t feel the same as in the UK. On the London Underground, everyone’s holding a book and reading—no one’s glued to their phone. Truly the land that gave us Newton; who can match that kind of learning atmosphere? 🙄
 </div>
 
@@ -800,7 +800,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I really like your line:
 *"If you don’t stand with us today, when you stand in my place tomorrow, there will be no one left by your side."*
 
@@ -819,7 +819,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If people actually united, there wouldn’t be any “too many or too few” problem. Blaming everything on the number of people is really ridiculous, isn’t it?
 </div>
 
@@ -835,7 +835,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Because there are so many people, resources are limited, so the proportion who receive higher education is low. That means only a few are conscious and daring enough to act, while the majority either stay silent or oppose you, making it much harder to unite and persuade them.
 </div>
 
@@ -851,7 +851,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The only reason someone would stand by you is if your interests align. If all you’re doing is causing trouble, they’re secretly hoping you get caught sooner rather than later.
 </div>
 
@@ -867,7 +867,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Thinking you’re the center of the universe, expecting everyone to support you like NPCs, right? There’s a certain naive beauty in that self-righteous, self-satisfied ignorance.
 </div>
 
@@ -883,7 +883,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s the same everywhere—just spouting some grand moral truth doesn’t make everyone blindly side with you. You have to learn how to unite other groups and forces with differing opinions; that’s a real skill.
 </div>
 
@@ -899,7 +899,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s the same everywhere—just spouting some grand moral truth doesn’t make everyone blindly side with you. You have to learn how to unite other groups and forces with differing opinions; that’s a real skill.
 </div>
 
@@ -915,7 +915,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Throughout tens of thousands of years up to modern times, it seems like France made the biggest contributions back in the day 😲
 </div>
 
@@ -931,7 +931,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The UK and France: one led humanity through the material revolution, the other through the intellectual and spiritual revolution.
 </div>
 
@@ -947,7 +947,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The UK’s institutional contributions are no less significant than France’s intellectual legacy.
 </div>
 
@@ -963,7 +963,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Without the Renaissance and the liberation of thought, you’d never reach the level of the French, even in a lifetime.
 </div>
 
@@ -979,7 +979,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What “level”? The one where the whole country surrenders in five days?
 </div>
 
@@ -995,7 +995,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Avoiding the fact that France nearly lost a whole generation in World War I, right? Other than joking about “shaming France” or the surrender memes, you don’t actually know any historical sources, do you?
 </div>
 
@@ -1017,7 +1017,7 @@ Click to expand Chinese comment</span>
 要对这样一个国家，抱有最起码的尊重。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The last major social experiment: the Germans planned it, the French implemented it, the Russians produced it, and in the end, the Chinese maintained and updated it.
 
 Looking further back, the French have never been absent from past experiments.
@@ -1037,7 +1037,7 @@ Click to expand Chinese comment</span>
 我也想尊重，可是没剩下多少法国人了[大哭]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I want to show respect too… but there aren’t that many French left anymore 😭
 </div>
 
@@ -1053,7 +1053,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Black people in France are French too! 😡😡
 </div>
 
@@ -1069,7 +1069,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Which country has a higher fertility rate, France or China?
 </div>
 
@@ -1085,7 +1085,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In France, is the fertility rate higher among White people or Black people?
 </div>
 
@@ -1101,7 +1101,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 First, the French nation was shaped with significant contributions from Black people. Second, civic nationalism in France doesn’t base itself on bloodlines or racial hierarchies.
 </div>
 
@@ -1117,7 +1117,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Blackening” of France is a fact; I’m not saying whether it’s good or bad. Why are you so quick to justify it?
 </div>
 
@@ -1132,7 +1132,7 @@ Click to expand Chinese comment</span>
 你所谓的法国“黑人”实际上来自北非，他们的人种和法国人一样，都是高加索人种。并且就算法国全是黑人对法国人也毫无露丝，生活水平依然吊打自认高贵的中国民族主义者
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 What you call “Black” people in France are actually from North Africa; their race is the same as the French—they’re Caucasian. Even if all of France were made up of these people, it wouldn’t diminish the French—living standards would still far surpass those of self-proclaimed “noble” Chinese nationalists.
 </div>
 
@@ -1147,7 +1147,7 @@ Click to expand Chinese comment</span>
 其实吧也别太为法国的种族问题担忧，人家一整个后花园呢，地方大多了难有特别大的地盘冲突，白人不会被排挤完的。而且这个世界还是靠白人的头脑更好维持秩序，足球上也是一样，光靠几个黑又硬没用，必须得有白人指挥官统筹，人家其实搭配相得益彰
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, there’s no need to worry too much about France’s racial issues. They have a huge “backyard,” so there’s rarely any major territorial conflict, and White people won’t be completely pushed out.
 
 Besides, the world still relies more on White people’s brains to maintain order. The same goes for football—just having a few strong Black players isn’t enough; you need White commanders to coordinate. The combination actually works quite well.
@@ -1164,7 +1164,7 @@ Click to expand Chinese comment</span>
 别太神话马克思了 没有法国人的启蒙运动和大革命他方案都做不出来
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t over-glorify Marx. Without the French Enlightenment and the Revolution, he wouldn’t have been able to come up with his plans.
 </div>
 
@@ -1179,7 +1179,7 @@ Click to expand Chinese comment</span>
 这就是一个很神奇的地方，右派往前追是马赛曲，左派往前追是国际歌，总归会发现源头都在法国
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is a fascinating thing: if you trace the right-wing back, you get the Marseillaise; trace the left-wing back, you get the Internationale. Either way, you’ll find the origins lie in France.
 </div>
 
@@ -1194,7 +1194,7 @@ Click to expand Chinese comment</span>
 别人说的没错啊，启蒙运动和大革命是上个版本的马克思和苏联。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 What they say isn’t wrong—the Enlightenment and the French Revolution were like an earlier version of Marx and the Soviet Union.
 </div>
 
@@ -1209,7 +1209,7 @@ Click to expand Chinese comment</span>
 启蒙运动的核心是理性和民族主义，大革命的本质是资产阶级革命，而马克思倡导打破民族的阶级斗争，苏维埃是工人阶级造反，请问哪里像了？？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The core of the Enlightenment was reason and nationalism, and the essence of the French Revolution was a bourgeois revolution. Marx, on the other hand, advocated breaking national boundaries for class struggle, and the Soviets were about the working class rising up. Where exactly is the similarity?
 </div>
 
@@ -1225,7 +1225,7 @@ Click to expand Chinese comment</span>
 资产阶级革命没有完成它追求理性、人人平等的承诺。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The essence of a bourgeois revolution is human liberation, and the essence of a proletarian revolution is also human liberation. First, it pursues political equality; then it pursues economic equality. The latter stage is a continuation of the former.
 
 The bourgeois revolution never fully fulfilled its promise of reason and equality for all.
@@ -1242,7 +1242,7 @@ Click to expand Chinese comment</span>
 马克思主义就是在意识到资产阶级革命无法实现资产阶级自己的要求的前提下提出的。马克思解放人类的理念就是启蒙思想的延续。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Marxism was proposed on the premise that the bourgeois revolution couldn’t fulfill the bourgeoisie’s own demands. Marx’s idea of human liberation is essentially a continuation of Enlightenment thought.
 </div>
 
@@ -1257,7 +1257,7 @@ Click to expand Chinese comment</span>
 马克思本人就是法革的支持者啊，这俩啥时候被切割了[好奇]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Marx himself was a supporter of the French Revolution—so when exactly were the two ever separated? 🤔
 </div>
 
@@ -1272,7 +1272,7 @@ Click to expand Chinese comment</span>
 对一个国家最大的尊重就是灭亡他，对于一个国家最大的不尊重就是无视他。法国都不在其列。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The greatest respect you can show a country is to destroy it; the greatest disrespect is to ignore it. France doesn’t fall into either category.
 </div>
 
@@ -1287,7 +1287,7 @@ Click to expand Chinese comment</span>
 波兰两个都占了[doge]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Poland got occupied by both of them 😆
 </div>
 
@@ -1302,7 +1302,7 @@ Click to expand Chinese comment</span>
 很神奇的是，波兰尚在人间，可瓜分它的国家都已灰飞烟灭了[惊喜]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 What’s amazing is that Poland still exists, while the countries that once partitioned it have long vanished 😲
 </div>
 
@@ -1317,7 +1317,7 @@ Click to expand Chinese comment</span>
 波兰王国，波立联合王国，波兰第一共和国，华沙公国，波兰第二共和国，波兰人民共和国都无了[捂嘴][捂嘴][捂嘴]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Kingdom of Poland, the Polish–Lithuanian Commonwealth, the First Polish Republic, the Duchy of Warsaw, the Second Polish Republic, and the Polish People’s Republic—none of them exist anymore 🤭🤭🤭
 </div>
 </div>
@@ -1357,7 +1357,7 @@ Click to expand Chinese comment</span>
 
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I only know these:
 
 Mathematics: Cauchy, Fourier, Galois, Poincaré, Laplace, Descartes, Grothendieck, Germain, Cartan, Weil
@@ -1395,7 +1395,7 @@ Click to expand Chinese comment</span>
 文学的话法国肯定还得加个普鲁斯特，另外法国这个国家在这方面不仅是出了不少名作和名作家，还在许多更深刻的地方影响了全球，古老一些的有莫里哀拉伯雷那一代对欧洲文化的影响，近一些的比较文学这个学科都是一百年前法国发育出来的，是他们第一次把抬起头看世界文学而不是只会研究本民族的文学这种思路变成一个正规成体系的学科。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 In terms of literature, France definitely deserves to have Proust added to the list. But beyond just producing great works and great writers, the country has influenced the world in much deeper ways. Going back further, figures like Molière and Rabelais shaped European culture as a whole. More recently, even the discipline of comparative literature itself was developed in France about a century ago — they were the first to formalize the idea of looking at world literature as a whole instead of limiting research to one’s own national tradition.
 </div>
 
@@ -1411,7 +1411,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In modern times, you can also pull out a whole list of names — Camus, Sartre, Beauvoir, Duras… 🤦‍♂️
 </div>
 
@@ -1427,7 +1427,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Both in literature and in philosophy, France has reached remarkable heights.
 </div>
 
@@ -1443,7 +1443,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, Proust’s In Search of Lost Time could well be considered the greatest work in French literary history, and it’s surprising that the author didn’t even mention Baudelaire. 😭
 </div>
 
@@ -1459,7 +1459,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In linguistics, Saussure; in sociology, Bourdieu.
 </div>
 
@@ -1475,7 +1475,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Sure, Saussure’s roots were technically French, but what’s really interesting is how structuralism—kickstarted by him—swept through so many fields in France during the 20th century. You see it in math with Bourbaki, and even in literature, where it sparked a whole new wave of ideas.
 </div>
 
@@ -1491,7 +1491,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Actually, Descartes’ place in philosophy is much higher than in mathematics. Leibniz is more or less on the same level in that regard.
 </div>
 
@@ -1507,7 +1507,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When France “surrendered,” they actually won in a way — their people didn’t have to become cannon fodder.
 </div>
 
@@ -1523,7 +1523,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Did France make the wrong choice in WWII? The war was ultimately destined to be a showdown between the US, the USSR, and Germany–Japan. France 🇫🇷 was on the front lines—why risk millions of its own people as cannon fodder? By yielding early, France minimized losses and preserved lives for eventual victory. Strategically, France’s decision was absolutely correct!
 </div>
 
@@ -1538,7 +1538,7 @@ Click to expand Chinese comment</span>
 刚打完一战，国内普遍反战。再加上过于迷信马奇诺，德国人几乎是偷袭过来的
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Having just fought in World War I, the country was generally anti-war. Add to that an overreliance on the Maginot Line—Germany essentially launched a surprise attack.
 </div>
 
@@ -1553,7 +1553,7 @@ Click to expand Chinese comment</span>
 没有维西法国，英国苏联不可能死那么多人
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Without Vichy France, Britain and the Soviet Union wouldn’t have lost so many lives.
 </div>
 
@@ -1571,7 +1571,7 @@ Click to expand Chinese comment</span>
 你们这么蝽，思考问题都是只看点，不能演绎思考？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, we’re on the front line of the Asian theater; giving up the Northeast would be strategically correct, the north and south should be abandoned too… Wait a minute, that sounds like Wang Jingwei’s position. Are you saying his approach would have been right?
 
 If we acted like France, what would have happened to the Soviet Union? To Britain? To the US?
@@ -1591,7 +1591,7 @@ Click to expand Chinese comment</span>
 问题法国二战打完一点没少死人啊[大笑]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The thing is, France still lost plenty of lives in WWII anyway 😂
 </div>
 
@@ -1606,7 +1606,7 @@ Click to expand Chinese comment</span>
 法国多大的国家？我们多大的国家？能比吗？法国也没有完全放弃，主力军人也参加战斗了！！！法国以最小的代驾取得最大的胜利，这是事实！
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 How big is France? How big is our country? Can you even compare? France didn’t completely give up—their main forces also fought! France achieved the greatest victory with the smallest sacrifice, and that’s a fact!
 </div>
 
@@ -1621,7 +1621,7 @@ Click to expand Chinese comment</span>
 比一战少太多太多了！法国是死人死怕了！
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Far fewer than in World War I! France was terrified of losing more lives!
 </div>
 
@@ -1636,7 +1636,7 @@ Click to expand Chinese comment</span>
 哦，原来法国投降这个让法国人民成了俘虏，人民被迫高负荷工作，生活条件极差的行为，是战略远见呀，学到了学到了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Oh, so France’s “surrender,” which turned its people into captives forced into hard labor under terrible living conditions, is now considered strategic foresight? Got it, got it.
 </div>
 
@@ -1661,7 +1661,7 @@ Click to expand Chinese comment</span>
 跑出去的还有自由法国和战斗法国两派坚持抵抗。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The “quiet war” of 1940 wasted a whole year.
 
 In 1941, they were hit by a complete surprise attack and suffered heavy losses.
@@ -1684,7 +1684,7 @@ Click to expand Chinese comment</span>
 但是你法国人拿着投降德国的法奸发泄怒火，给陪德军睡换口粮的法国女人剪光头羞辱，这算哪门子男子汉大丈夫所为？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 But you Frenchmen venting your anger on collaborators—shaving the heads of women who slept with the Germans in exchange for food—is that what you call the behavior of real men?
 </div>
 
@@ -1699,7 +1699,7 @@ Click to expand Chinese comment</span>
 二战德国军事思想太领先了，把法国人打得措手不及，加上一战影响太大
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 In WWII, German military thinking was far ahead, catching the French completely off guard—plus the lingering impact of World War I didn’t help.
 </div>
 
@@ -1714,7 +1714,7 @@ Click to expand Chinese comment</span>
 启蒙运动+大革命，就是法国的商标
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Enlightenment + the French Revolution—that’s France’s trademark.
 </div>
 
@@ -1729,7 +1729,7 @@ Click to expand Chinese comment</span>
 思想这方面，文艺复兴以来有点无敌啊
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 When it comes to ideas, France has been virtually unbeatable since the Renaissance.
 </div>
 
@@ -1744,7 +1744,7 @@ Click to expand Chinese comment</span>
 现代化程度高的国家都有几个够分分量的思想家的，没有他们就没有现代化。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Every highly modernized country has a handful of heavyweight thinkers; without them, modernization wouldn’t be possible.
 </div>
 
@@ -1783,7 +1783,7 @@ Click to expand Chinese comment</span>
 阿尔巴尼亚王国国父——安茹的查理
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 France has been the birthplace of founders for other countries:
 
 * **Founding Father of the United States** — Louis XVI
@@ -1810,7 +1810,7 @@ Click to expand Chinese comment</span>
 确实也说明了法国当了相当久地欧陆霸主
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 It certainly shows that France was the dominant power on the European continent for a long time.
 </div>
 
@@ -1826,7 +1826,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The founding father of Cambodia 😲
 </div>
 
@@ -1842,7 +1842,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You’re being a bit extreme.
 </div>
 
@@ -1858,7 +1858,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The French really were Cambodia’s benefactors—if they had arrived a few decades later, Cambodia might have been completely carved up by Vietnam and Thailand.
 </div>
 
@@ -1874,7 +1874,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly—by the time the French arrived, the Cambodian king was basically just the mayor of Phnom Penh.
 </div>
 
@@ -1890,7 +1890,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Objectively speaking, the French really were Cambodia’s benefactors 😭😂
 </div>
 
@@ -1906,7 +1906,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In ancient times, many Europeans took pride in speaking French, and English borrowed a huge number of words from French.
 </div>
 
@@ -1921,7 +1921,7 @@ Click to expand Chinese comment</span>
 英语纯纯土狗语言，就一欧洲日语，稍微高级点的词汇90%来自法语剩下来自希腊，日常的多和德语那边有关，本地的古英语占比有个10%就谢天谢地了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 English is basically a “European pidgin”; you could even call it the Japanese of Europe. About 90% of the more advanced vocabulary comes from French, the rest mostly from Greek, and everyday words are largely related to Germanic roots. The native Old English portion is maybe 10%—and that’s generous.
 </div>
 
@@ -1936,7 +1936,7 @@ Click to expand Chinese comment</span>
 阿尔巴尼亚历史我知道斯坎德培、伊斯梅尔·捷马利、索古一世、霍查、谢胡、阿利雅跟贝里沙，这个“安茹的查理”是怎么一回事？为什么说他是“阿尔巴尼亚王国国父”？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I know Albanian history—Skanderbeg, Ismail Qemali, Zogu I, Hoxha, Shehu, Aliya, and Berisha—but who is this “Charles of Anjou”? Why is he called the “founding father of the Kingdom of Albania”?
 </div>
 
@@ -1950,7 +1950,7 @@ Click to expand Chinese comment</span>
 安茹的查理是路易九世的幼弟,在中世纪他军事扩张到了现今阿尔巴尼亚杜拉斯地区，加冕为了阿尔巴尼亚国王，不过第三代之后卡佩安茹家族似乎就没使用这个国王头衔了，该地区的领主就称为杜拉佐公爵，统治了100年左右。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Charles of Anjou was the younger brother of Louis IX. In the Middle Ages, he expanded militarily into what is now the Durrës region of Albania and was crowned King of Albania. However, after the third generation, the Capet-Anjou family seems to have stopped using the royal title, and the local rulers were known as the Dukes of Durazzo, governing the area for roughly a century.
 </div>
 
@@ -1967,7 +1967,7 @@ Click to expand Chinese comment</span>
 美利坚是个几把灯塔，真灯塔还是看法国
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 United States is hardly a real beacon—if you want a true lighthouse, look to France.
 </div>
 
@@ -1983,7 +1983,7 @@ Click to expand Chinese comment</span>
 没有法国美国也建不了国[doge]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Without France, the United States wouldn’t have been able to form a country either. 😏
 </div>
 
@@ -1999,7 +1999,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The United States itself is basically the offspring of England and France 😅
 </div>
 
@@ -2015,7 +2015,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😅 Louis XVI—the founding father of the United States—sent support to America, and in the end, he lost his own head doing it. 😅
 </div>
 
@@ -2031,7 +2031,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You could say that, at the start, the original thirteen colonies and Louisiana were the core base. Later on, the population included many Germans, Poles, Irish, Italians, and Africans.
 </div>
 
@@ -2049,7 +2049,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The United States has a large number of German- and Irish-descended people—actually, their numbers even exceed those of English and French descendants. Yet in the end, everyone speaks English. That shows just how powerful Britain’s influence was.
 </div>
 
@@ -2064,7 +2064,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Makes sense—without France’s support, today’s America would just be a giant Australia.
 </div>
 
@@ -2080,7 +2080,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Louis XVI was actually a key “commander” supporting the American Revolutionary War.
 </div>
 
@@ -2096,7 +2096,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It wasn’t just Louis XVI—basically, the entire social framework of the United States was influenced by French social thought.
 </div>
 
@@ -2112,7 +2112,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Not just the United States—Germany wouldn’t have been able to form a unified state either; it was also established at the Palace of Versailles.
 </div>
 
@@ -2128,7 +2128,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 After all, France is the birthplace of modern social thought and, in a way, serves as the dual “founding father” of the United States—both spiritually and materially 😏
 </div>
 
@@ -2144,7 +2144,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I used to be quite enthusiastic about learning French—until I realized I couldn’t make sense of how French numbers are pronounced.
 </div>
 
@@ -2160,7 +2160,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I studied it for a couple of days too and noticed that many foreign place names in Chinese are actually transliterated from French. It seems most of the early scholars studied in France—truly, France is the real lighthouse.
 </div>
 
@@ -2176,7 +2176,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Sure, can you give me a few examples so I can casually brag about them over tea or dinner later? 😏😏
 </div>
 
@@ -2192,7 +2192,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 {{English}}
 </div>
 
@@ -2208,7 +2208,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve heard that many French people also speak English, so you can try using English for this part 😏🍿🍿🍿
 </div>
 
@@ -2224,7 +2224,7 @@ Quatre-vingt-dix猜下这是几
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Guess what number quatre-vingt-dix is？
 </div>
 
@@ -2240,7 +2240,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I can still read French numbers when I see them, but if you give me a number and ask me what it is in French, I just can’t react fast enough 😅
 </div>
 
@@ -2256,7 +2256,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 French is so tricky—I actually have to calculate just to say a number 😡
 </div>
 
@@ -2272,7 +2272,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The United States is the fairest place for the strong… like Nietzsche’s “master morality.” France, on the other hand, fits more closely the image of a lighthouse in the hearts of the general public.
 </div>
 
@@ -2288,7 +2288,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But the US is wealthy.
 </div>
 
@@ -2304,7 +2304,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France is the mother of the United States, and Britain is the father.
 </div>
 
@@ -2320,7 +2320,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France and Britain are like a married couple.
 </div>
 

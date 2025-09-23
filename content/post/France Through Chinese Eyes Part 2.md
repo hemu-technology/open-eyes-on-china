@@ -14,7 +14,7 @@ thumbnail = "images/2025/France_and_its_region.png"
 +++
 
 <div class="comment-block quizzer">
-  <strong style="color: #0077b8;">Overview:</strong><br>
+  <strong class="translated-label">Overview:</strong><br>
 This post explores how Chinese netizens perceive France, highlighting both admiration and criticism. It covers France’s historical role in shaping modern civilization, its reputation for revolutions, and its influence on law, culture, and global affairs. Through translated online comments, readers gain insight into Chinese views on France’s strengths, weaknesses, and its place in the world today.
 
 You’re also welcome to share your own thoughts on China in the comments. If you do, I can translate them into Chinese and post them on Chinese forums so that more people there can see how you view China.
@@ -41,7 +41,7 @@ Click to expand Chinese comment</span>
 但是现代文明跟封建时代比，选哪个你们都懂。在没有创造出新的东西取代这个现代文明之前：在座各位，【 】。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 In this world, some countries are chasing modern civilization, some are enjoying it, some are driving it forward, and some proudly proclaim: I am modern civilization.
 
 Yet a few countries simply smiled and said: We created modern civilization.
@@ -67,7 +67,7 @@ Click to expand Chinese comment</span>
 工业革命和法国大革命的爆发彻底驱散了人类现代化的迷雾
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Industrial Revolution and the French Revolution completely dispelled the fog surrounding humanity’s path to modernization.
 </div>
 
@@ -83,7 +83,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 For a long stretch of history, France has stood as a pioneer.
 </div>
 
@@ -99,7 +99,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Capitulator
 </div>
 
@@ -115,7 +115,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France may have surrendered once, but that very act kept alive the seed of its eventual revival.
 </div>
 
@@ -131,7 +131,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 As far as I know, France has surrendered more than once; World War II is just the most famous instance.
 </div>
 
@@ -147,7 +147,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Which other time? The famous defeats were one near the end of Napoleon, one in the Franco-Prussian War, and one in World War II. That’s it, right? The first two don’t really count as surrenders.
 </div>
 
@@ -163,7 +163,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 "In a way, much of modern Eurasian civilization—aside from the US, UK, Australia, and Canada—can be seen as a local adaptation and continuation of Franco-German civilization, best exemplified by the civil law system."
 </div>
 
@@ -179,7 +179,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Compared to the civil law tradition, the maritime legal system is more dynamic. England and the Netherlands were the most inventive, and their ‘offspring,’ the US, carried the torch."
 </div>
 
@@ -195,7 +195,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The common law system may look glamorous, mostly thanks to the US, but in reality, more countries around the world follow the civil law tradition.
 </div>
 
@@ -211,7 +211,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Netherlands follows the civil law system.
 </div>
 
@@ -227,7 +227,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Netherlands originally belonged to East Francia, the Germanic branch of the Holy Roman Empire.
 </div>
 
@@ -243,7 +243,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Netherlands follows the civil law system—it’s not a maritime nation, so it doesn’t belong to the common law or ‘maritime law’ tradition.
 </div>
 
@@ -259,7 +259,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The common law system is more favorable to commerce because it allows referencing foreign case law. This is highly beneficial for cross-border business activities.
 </div>
 
@@ -275,7 +275,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 As for the common law world, it pretty much boils down to the US 😏
 </div>
 
@@ -291,7 +291,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How come the four biggest financial hubs in the world—New York, London, Singapore, and Hong Kong—are all under common law?
 </div>
 
@@ -307,7 +307,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s really just a matter of practicality. Only the US still uses imperial units because its industry is strong, and switching entirely would be too expensive.
 </div>
 
@@ -323,7 +323,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Asia, you really shouldn’t be acting all proud.
 </div>
 
@@ -339,7 +339,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Renaissance? International Labor Movement? Bourgeois revolutions? Which of these can’t be shown off?
 </div>
 
@@ -355,7 +355,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But the Renaissance and the contemporaneous Reformation mainly took place in Italy and the Germanic regions, right?
 </div>
 
@@ -371,7 +371,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Each of these is one of the brightest stars in human history. And let’s not forget the Enlightenment, which was centered in France.
 </div>
 
@@ -387,7 +387,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The birthplace of around 80% of modern consensus.
 </div>
 
@@ -403,7 +403,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Of course, one would choose feudal civilization.
 </div>
 
@@ -419,7 +419,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Bro, you probably think you got luckier in the reincarnation lottery than most people.
 </div>
 
@@ -435,7 +435,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Which category of modern civilization does Vietnam belong to? 🤔 （A subtle jab at one’s own country- China.）
 </div>
 
@@ -451,7 +451,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s technically a branch of modern civilization, but a mutated one, and there are occasional rumors of a pre-modern resurgence 😭😲.
 </div>
 
@@ -467,7 +467,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A patchwork monster of classical and modern traits due to early political maturity and unique geography (also called a ‘ts’)
 </div>
 
@@ -483,7 +483,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Vietnam represents a strong ancient civilization but is a modern imitator (netizens use ‘Vietnam’ as a stand-in for China).
 </div>
 
@@ -499,7 +499,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Although I often roast France, I have to admit—they really were pioneers in modern civilization.
 </div>
 
@@ -515,7 +515,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France is truly a bona fide hotspot of revolutions.
 </div>
 
@@ -531,7 +531,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France was the pioneer, while the UK and the US were the distributors. France developed the methods for food production, and Britain and America produced it on a large scale and shipped it across the world.
 </div>
 
@@ -547,7 +547,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France doesn’t really have much to do with the UK and the US, right?
 </div>
 
@@ -563,7 +563,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France didn’t have much to do with Britain, but it was deeply connected to America… You could say France helped bring the US into existence, and the American system of government was inspired by French ideas.
 </div>
 
@@ -579,7 +579,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Louis XVI?
 </div>
 
@@ -595,7 +595,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Rousseau
 </div>
 
@@ -612,7 +612,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Without France’s support, the US wouldn’t have been able to establish itself—it couldn’t have beaten Britain. Also, the American system of government is derived from the achievements of the French Enlightenment.
 </div>
 
@@ -628,7 +628,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Whether or not it became independent, this place would sooner or later break free from British control. It’s not like, as Britain’s largest overseas colony, North America wouldn’t experience westward expansion and waves of settlers moving in.
 </div>
 
@@ -662,7 +662,7 @@ Click to expand Chinese comment</span>
 有民族国家自信是好事但请不要依靠贬低别人来建立自己的优越感，这很无聊，就跟乳法梗小鬼一样无聊
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Your description is really interesting—it might make some think France is backward.
 
 Politically, it’s one of the five permanent members of the UN Security Council.
@@ -689,7 +689,7 @@ Click to expand Chinese comment</span>
 年假是一个半月，而且可以攒到第二年。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The annual vacation is one and a half months, and it can be carried over to the next year.
 </div>
 
@@ -705,7 +705,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 And weekends are not counted—so if you take 10 days off, it actually amounts to 14 days including weekends.
 </div>
 
@@ -721,7 +721,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Vacations? Barely. Make-up workdays? Oh, we have plenty—weekends included. Living the dream!
 </div>
 
@@ -737,7 +737,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Sure, we work overtime… but hey, the paycheck stays tiny. Living the dream!
 </div>
 
@@ -753,7 +753,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I guess compared to France, that’s a bit arrogant… and we still don’t quite measure up to other developed countries.
 </div>
 
@@ -769,7 +769,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 European countries generally offer 4–5 weeks of paid annual leave, with one extra day added for each additional year of service.
 </div>
 
@@ -785,7 +785,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 My friend works at a three-character Chinese department store in Paris’s 9th arrondissement. Apparently, if employees choose to work on Sundays and public holidays, they only need to work about three to four months a year to earn 13–14 months’ worth of salary. The rest of the time, they can take compensatory leave for the holiday shifts. This setup is perfect for young people who want to take it easy or families with young children.
 </div>
 
@@ -801,7 +801,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Excessively mocking others is seriously freaking annoying.
 </div>
 
@@ -817,7 +817,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Making fun of France can be pretty entertaining—otherwise, the whole world wouldn’t be doing it. The fun of these jokes is that the more outrageous, the closer they get to the core of the humor. Just don’t let yourself get carried away—because when the French are truly impressive, it’s on all fronts.
 </div>
 
@@ -834,7 +834,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Joking about France is one thing, but France is still strong.
 As for following England… well, that’s true too, though they’re getting worse and worse at it.
 </div>
@@ -851,7 +851,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Anyway, over a billion people have no chance to go out; they spend their whole lives inside a well, shouting “win” and hearing an echo back, thinking winning twice means a double win—then that’s it.
 </div>
 
@@ -867,7 +867,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Who exactly is stuck in the well?
 </div>
 
@@ -883,7 +883,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The so-called “well” is relative—how many French people have actually been to China?
 </div>
 
@@ -899,7 +899,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Over the centuries, France has produced a whole host of top-tier mathematicians.
 </div>
 
@@ -915,7 +915,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 French mathematics is truly impressive.
 </div>
 
@@ -931,7 +931,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Only Göttingen can rival it.
 </div>
 
@@ -947,7 +947,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You can tell that the average French person is a mental arithmetic master just from the way they read numbers 🐶
 </div>
 
@@ -966,7 +966,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Berlin Humboldt and Munich—these two are no worse academically than Göttingen. Göttingen stands out because it excels in philosophy, law, and finance alike—think Bismarck, J.P. Morgan.
 </div>
 
@@ -982,7 +982,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France offers the best citizen welfare in the world—bar none.
 </div>
 
@@ -998,7 +998,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Revolutionary strongholds—they were all won through struggle.
 </div>
 
@@ -1014,7 +1014,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The four Nordic countries must be laughing—France’s 🐔 welfare doesn’t even come close to a fraction of theirs.
 </div>
 
@@ -1030,7 +1030,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 🤭 Which of the Nordic countries has worse welfare than France? Feel free to back it up with data.
 </div>
 
@@ -1046,7 +1046,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Nordic countries just spend a larger share of their GDP on welfare, but if you look at total government revenue and overall GDP, France actually comes out much higher.
 </div>
 
@@ -1062,7 +1062,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Three years in France—just take renting a €450 studio, for example. You get a €170 subsidy straight to your account, every month, on time, without a cent missing. Anything missed during the application period gets paid retroactively.
 </div>
 
@@ -1078,7 +1078,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Taxes in France are high too… seems even higher than ours.
 </div>
 
@@ -1094,7 +1094,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How much do French kids get per month? I’m not too sure, but it seems to be less than €100. In Germany, it’s €219. As long as the child is in school, the payments continue until they’re 26.
 </div>
 
@@ -1110,7 +1110,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the Nordics, there’s 16 years of compulsory education, with €8,000 in annual study grants and a €600 monthly meal allowance.
 </div>
 
@@ -1126,7 +1126,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Based on your per capita household income, it’s a solid case of wealth redistribution. Families with many kids and low per capita income can get a lot, including housing allowances. Some unemployed families can definitely get by—they have decent housing and food—but don’t expect to go on vacation twice a year.
 </div>
 
@@ -1142,7 +1142,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Taxes are even higher in the Nordics, but that doesn’t stop them from still ranking among the world’s highest in millionaire density per hundred people.
 </div>
 
@@ -1158,7 +1158,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I believe that high taxes and high welfare are more beneficial for social fairness and improving citizens’ living standards than low taxes and low welfare.
 </div>
 
@@ -1174,7 +1174,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Is it better in Switzerland? I see Germans and French people all wanting to move there.
 </div>
 
@@ -1190,7 +1190,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France has 67 million people, while the five Nordic countries—Norway, Denmark, and Finland have just over 5 million each, Iceland around 300,000, Sweden 10 million—combined don’t even reach half of France’s population. Are you really comparing total numbers? 😭😂 When it comes to per capita, nothing beats France.
 </div>
 
@@ -1206,7 +1206,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s a country where the average person lives better than you do.
 </div>
 
@@ -1222,7 +1222,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It had a colonial history spanning hundreds of years—if its quality of life wasn’t better than China’s 40 years of reform and opening up, would that even make sense? You enroll in eight pricey tutoring classes and end up scoring just a couple of points higher than kids from poor families, and you feel proud, right? 😭😂
 </div>
 
@@ -1238,7 +1238,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It had a colonial history spanning hundreds of years—if its quality of life isn’t better than China’s 40 years of reform and opening up, how could that even make sense? You enroll in eight tutoring classes costing tens of thousands, and your exam score is only a couple of points higher than a poor kid’s—feeling proud, huh? 😭😂
 </div>
 
@@ -1254,7 +1254,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So what, you’re proud of China’s 5,000 years of history even though a few hundred years elsewhere beat it? 🤩
 </div>
 
@@ -1270,7 +1270,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I don’t care whether it’s colonial or not—that’s none of my business. That’s no excuse for poor quality of life.
 </div>
 
@@ -1286,7 +1286,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Aren’t you always talking about 5,000 years of history? If things were so bad back then, what’s there to ‘revive’? Reviving thousands of years and still not matching a few hundred years of French colonial rule?
 </div>
 
@@ -1302,7 +1302,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Seeing this, I’m left speechless… and in tears. Sigh.
 </div>
 
@@ -1318,7 +1318,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You’re pretty slick at shifting concepts. When did China start industrializing? When did the West start? How did the West accumulate its initial capital? How did China do it? 🤔🤔
 </div>
 
@@ -1334,7 +1334,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So why isn’t anyone talking about 5,000 years now?
 </div>
 
@@ -1352,7 +1352,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly. Just after having a full meal, and they’re already acting like they can conquer the world. Once this kind of thinking becomes mainstream, big trouble is bound to follow.
 </div>
 
@@ -1368,7 +1368,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But I think it’s about to become mainstream… because those in power are already setting the tone.
 </div>
 
@@ -1384,7 +1384,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China needs to be confident 🤣
 </div>
 
@@ -1400,7 +1400,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 My assessment is that it’s nowhere near ‘conquering the world,’ but it’s not exactly right after a meal either.
 </div>
 
@@ -1416,7 +1416,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You’re the one who just had a meal, right? Broadly speaking, Chinese people have been well-fed for decades.
 </div>
 
@@ -1432,7 +1432,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Of course it is—if you count from 2000, that’s already 23 years.
 </div>
 
@@ -1448,7 +1448,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Broadly speaking, you could even start counting from 1990 or earlier.
 </div>
 
@@ -1464,7 +1464,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Do you believe it? It’s almost 2024, and there are still quite a few Chinese people who can’t get enough to eat. (Breakfast, lunch, and dinner are all just potatoes 🤦‍♂️)
 </div>
 
@@ -1480,7 +1480,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ah right, so can I use the fact that some Japanese people starve to prove that Japanese people aren’t well-fed either? 🐶 Just kidding. Every year, about 2,000 to 3,000 people in Japan die from malnutrition (that’s the term used by the Japanese Ministry of Health, Labour and Welfare).
 </div>
 
@@ -1496,7 +1496,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Setting everything else aside, their welfare blows ours out of the water.
 </div>
 
@@ -1512,7 +1512,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Can we be reasonable here? They colonized the world for hundreds of years, and China has only recently become wealthy. You attend tutoring classes every day and score just a few points more than kids from poor families, and you’re proud of that?
 </div>
 
@@ -1528,7 +1528,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Even if you scored a damn few hundred points more, let’s not talk about welfare—that’s too advanced for them. They can’t even manage basic fairness and justice, yet they still have the nerve to compare themselves to others.
 </div>
 
@@ -1544,7 +1544,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Comparing welfare with the West? Does China even qualify?
 </div>
 
@@ -1560,7 +1560,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ah, China’s 5,000-year history—why did Britain and France get there first? You could have colonized too, but it all comes down to backward thinking at the time.
 </div>
 
@@ -1576,7 +1576,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If you think colonization is justified, then you should also support Japan taking over Tsinghua. 🤔
 </div>
 
@@ -1592,7 +1592,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Italy says it can go head-to-head with France when it comes to luxury goods.
 </div>
 
@@ -1608,7 +1608,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France pioneered luxury goods, but Italy is clearly better at it. Then they show off to the Brits, Americans pay top dollar to buy them, and in the end, people in Yiwu sell them worldwide—sometimes even with plastic basins included.
 </div>
 
@@ -1630,7 +1630,7 @@ Click to expand Chinese comment</span>
 职场目前身边看了一圈下来没发现种族/性别歧视也没发现职场霸凌之类。一开始进公司当个小小实习生人家都对你超级客气。还有hr去各个部门宣讲关于反职场霸凌职场歧视的知识。就感觉自己真的被当人看了（不习惯又感动的心酸 哎！）
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 People-oriented policies—that alone makes me stop criticizing France.
 
 Normal work is 9–6–5, no overtime, and complete freedom after work. Paid annual leave is 35 days, not counting other public holidays.
@@ -1650,7 +1650,7 @@ Click to expand Chinese comment</span>
 众所周知，2000元＞3000刀＞3000欧[捂脸]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 As everyone knows, ¥2,000 > $3,000 > €3,000 🤦‍♂️
 </div>
 
@@ -1666,7 +1666,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China has been fully developing its economy since 1978—barely 50 years in total—and yet dares to compare its per capita living standards with developed Western countries. Isn’t that a bit overambitious?
 </div>
 
@@ -1682,7 +1682,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Looking at it now, it’s still pretty funny—high income comes with high expenses. What’s the point of comparing income without considering costs? 🤦‍♂️ Why not mention that things are more expensive there? 🤔 People who brag about free healthcare are the same—narrow-minded and crooked in thinking, so their whole perspective is off.
 </div>
 
@@ -1699,7 +1699,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Their GDP is nearly twice that of Russia 🤦‍♂️—so frustrating. But of course, there’s also the factor of countless poor African countries receiving aid.
 </div>
 
@@ -1716,7 +1716,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Only twice Russia? 😭😂 That seriously underestimates France. After this round of sanctions, the gap will probably widen even more.
 </div>
 
@@ -1732,7 +1732,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Four times Russia, and with smaller income inequality than Russia.
 </div>
 
@@ -1748,7 +1748,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 After all, €2,000 is already considered a high salary there, and there aren’t many industries that require overtime anyway.
 </div>
 
@@ -1764,7 +1764,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Isn’t having a smaller wealth gap a good thing?"
 </div>
 
@@ -1780,7 +1780,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 France’s wealth gap isn’t small, but those who earn more often move to the U.S., which makes the gap appear smaller.
 </div>
 
@@ -1796,7 +1796,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How is €2,000 considered a high salary? Maybe €3,500 counts. €2,000 feels like what you could earn working at a supermarket.
 </div>
 
@@ -1813,7 +1813,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When French people talk about salaries, they’re talking net pay 🤭. If you get €2,000 net, that’s about €2,800 gross—not a low salary. A cashier might only take home around €1,300. I have a junior colleague with a gross of over €1,900, and after taxes, it’s just €1,400 🤭.
 </div>
 
@@ -1830,7 +1830,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A €2,000 salary has the purchasing power of about ¥15,000 in China. Earning ¥15,000 a month in China is already a high salary—what’s there to look down on others for?
 </div>
 
@@ -1846,7 +1846,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 With €2,000 you can buy 3–4 iPhones; with ¥2,000, how many can you get? Not to mention that meat, eggs, and dairy are cheaper in Europe than in China 🤩
 </div>
 
@@ -1862,7 +1862,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 €2,000 net isn’t really a high salary… In big cities, most master’s graduates should be making €2,000+.
 </div>
 
@@ -1878,7 +1878,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Looking at the data, France is really strong—why could it stand up to Britain for a century, and yet get knocked down by the Qing? 🤦‍♂️ Today, I won’t criticize France.
 </div>
 
@@ -1894,7 +1894,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To be precise, the Hundred Years’ War was basically England plus half of France fighting the other half of France 🤦‍♂️
 </div>
 
@@ -1910,7 +1910,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To be precise, the Hundred Years’ War was a conflict in which the Duke of Normandy—who was also the King of England—led the English and half of the French against his own relatives to claim the French throne. After the war, the English royal family lost almost all of its continental possessions, and England became a true island nation. As for the Qing, they didn’t ‘crush’ France—Zhen Nanguan was just a single victory, their naval forces in the South Seas were annihilated, and after the French National Assembly decided to send reinforcements to the Far East, France negotiated peace with the Qing, gaining suzerainty over Vietnam and annexing Zhanjiang.
 </div>
 
@@ -1926,7 +1926,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Qing ‘crushed’ France, and then ceded territory to France to make peace? 🤦‍♂️
 </div>
 
@@ -1942,7 +1942,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The French government is seriously corrupt. Hourly wages are well above the EU average, but who can guarantee that all that money actually reaches your pocket? Moreover, the government does little, and the elected president acts like an American agent, personally causing the downfall of Alstom at the time. If General de Gaulle could see what France is doing now, he would be furious.
 </div>
 
@@ -1958,7 +1958,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The France of my dreams—back when I was at Da Fei, as soon as I got on the ship, I got beaten up 🤐. Later, when new recruits came, I also joined in beating them up.
 </div>
 
@@ -1974,7 +1974,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How many people know that even the currency in West and Central Africa is issued by France?
 </div>
 
@@ -1990,7 +1990,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the workplace, there’s generally no gender discrimination—it's mostly at the point of hiring. Men go to departments that require overtime, women to those that don’t. Strong women and weak men can ignore this rule.
 </div>
 
@@ -2006,7 +2006,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Discrimination is more likely at the lower levels; the higher you go, the better it gets.
 </div>
 

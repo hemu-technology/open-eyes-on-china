@@ -44,7 +44,7 @@ Click to expand Chinese comment</span>
 看来洒壮怂人胆，美国政府官员也搞吃吃.喝喝
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Seems like even the tough guys get nervous—U.S.😂 government officials are just there eating and drinking too😂.
 </div>
 
@@ -60,7 +60,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Céline Dion's singing is beautiful. I didn't expect her to have such a great outlook on things—it’s truly rare and admirable.
 </div>
 
@@ -76,7 +76,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Treasury Secretary Bassett is seriously fired up. He already went head-to-head with Elon Musk—doesn’t look like he’ll last long in office!
 </div>
 
@@ -92,7 +92,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This Treasury Secretary guy definitely has tattoos—last time, they say he gave Elon Musk those dark circles under his eyes.😊😊😊
 </div>
 
@@ -108,7 +108,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A story about a bunch of young ruffians.
 </div>
 
@@ -125,7 +125,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Strange? Not really—this administration is basically a club made up of a bunch of sick people.
 </div>
 
@@ -141,7 +141,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A makeshift troupe is bound to break up sooner or later, yet their antics are somehow Guinness-worthy.
 </div>
 
@@ -157,7 +157,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When the tariff war stalls, how is Trump supposed to reorganize and manage his crew?
 </div>
 
@@ -173,7 +173,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Trump is unreliable—a makeshift crew, a ragtag mob!
 </div>
 
@@ -189,7 +189,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Treasury Secretary is gay, a bit unconventional—but that’s just how it goes.
 </div>
 
@@ -205,7 +205,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In a business team, there are always conflicts of interest. Unlike a political team, which has a single ultimate goal and where brawls are almost nonexistent, business teams constantly face situations of poaching clients and undercutting each other.
 </div>
 
@@ -221,7 +221,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s not the main point. The key is that the U.S. openly made little Japan “eat dirt,” like with the Hiroshima agreement, to keep Japan from running wild—the 40 years of stagnation started from then…
 </div>
 
@@ -237,7 +237,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Not in the mood to bother with other people's business—just gonna make some tea and listen to music.
 </div>
 
@@ -253,7 +253,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s all just dogs fighting cats—humans are hard to manage.😭
 </div>
 
@@ -269,7 +269,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Mafias having a meal—that’s just normal.
 </div>
 
@@ -285,7 +285,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Professor Chu Yin once said that Trump’s administration was like a third-rate village committee—sure, they could flatter the village chief, but in reality, they couldn’t even reach the pot.
 </div>
 
@@ -301,7 +301,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This street-rat–level, makeshift U.S. government displays a complete lack of refinement and vindictiveness at the slightest provocation, showing none of the basic qualities expected of politicians.
 </div>
 
@@ -317,7 +317,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In front of this powerhouse Jewish figure, what position do any white people really have?🤭
 </div>
 
@@ -333,7 +333,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A federal government cobbled together from a bunch of makeshift amateurs—it's actually normal for stuff like this to happen!
 </div>
 
@@ -349,7 +349,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A makeshift troupe is bound to fall apart sooner or later, yet their antics are Guinness-worthy.
 </div>
 
@@ -365,7 +365,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is exactly what Trump wants.
 </div>
 
@@ -381,7 +381,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He puts on a suit, looks suave and polished, but honestly, he’s kind of asking for a smack.
 </div>
 
@@ -397,7 +397,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Caught with no way forward and pursuers at your back—getting hit from both sides isn’t easy.
 </div>
 
@@ -413,7 +413,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Bureaucracy runs rampant, everyone’s vying for power and profit—completely normal.
 </div>
 
@@ -429,7 +429,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s a blow to Trump’s authority!
 </div>
 
@@ -445,7 +445,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 House of Cards 😏
 </div>
 
@@ -461,7 +461,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A refined appearance often can’t hide the impulses within.
 </div>
 
@@ -477,7 +477,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The inner frustration vented from being constantly squeezed from all sides.
 </div>
 
@@ -493,7 +493,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Heard that the Treasury Secretary is a zero in private life, a gay man, yet quite manly.😭😭😭😂😂😂
 </div>
 

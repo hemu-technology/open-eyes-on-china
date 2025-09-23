@@ -31,7 +31,7 @@ thumbnail = "images/2025/tariffs-with-us.jpeg"
 特朗普如果意识不到这点，不想办法应对，那我认为关税战吃亏的是美国。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 here’s one advantage China has that the US simply can’t match: China can control what it buys, while the US cannot.
 
 China doesn’t even need tariffs to stop buying American products—but the US doesn’t have the same leverage.
@@ -56,7 +56,7 @@ If Trump fails to recognize this and doesn’t come up with a strategy to addres
 美国最大的问题是只聚焦在高端产品。那么必然可以通过非法途径获得。而中国产品中高低端都有，中低端一旦限制了，那么量的缺失美国很难补上，势必造成通胀和社会动荡。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The biggest problem for the US is that it focuses only on high-end products. These can always be obtained through illegal or alternative channels.
 
 China, on the other hand, produces both high-end and low- to mid-end goods. Once the supply of mid- and low-end products is restricted, the US would struggle to make up for the shortfall. This would inevitably lead to inflation and social unrest.
@@ -69,7 +69,7 @@ China, on the other hand, produces both high-end and low- to mid-end goods. Once
 特朗普管不了资本家，这才是最可怕的。美国跨国公司满世界捞钱，不给特朗普交保护费，他有什么办法？还要减税。我他妈的到处打仗，军费每年上万亿美金，结果就是免费给跨国公司打工。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The scariest part is that Trump can’t control the capitalists. American multinational companies are making money all over the world. If they don’t “pay protection” to Trump, what can he do?
 
 On top of that, he’s cutting taxes. Meanwhile, the US is waging wars everywhere, spending trillions on the military each year—essentially working for free for the multinational corporations.
@@ -85,7 +85,7 @@ On top of that, he’s cutting taxes. Meanwhile, the US is waging wars everywher
 美国只需要对部分人负责就行了，而且只需要让他们觉得负责就可以。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You make a good point, and I agree.
 But we shouldn’t underestimate the resilience of the US. Look at how many people died from COVID—yet the public carried on as if nothing had happened.
 
@@ -100,7 +100,7 @@ The US only needs to be responsible for a portion of the population, and it only
 这就要回到最初的那个话题了，美国为什么要跟中国打贸易战？在制裁前，中国以及国内某些公司一方面进口美欧日韩等国以芯片为代表的高科技产品，又同时不甘心落后积极建立自己的低端科技和产业，并不断积累技术向上攀登，打破欧美的科技垄断，当时网络上还流传着科技无国界的笑话，嘲讽中国及相关企业重复造轮子。现在看像是美国在掐自己的脖子，那只是因为它的对手是中国，并不是这招式不管用了，换成中国外的任何一个国家现在都已经被掐死了
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This brings us back to the original question: why did the US launch a trade war against China?
 
 Before the sanctions, China and some domestic companies were simultaneously importing high-tech products like chips from the US, Europe, Japan, and South Korea, while also striving not to fall behind by actively developing their own low-end technologies and industries. They kept accumulating knowledge and climbing the technological ladder, gradually breaking the Western tech monopoly.
@@ -117,7 +117,7 @@ Looking back now, it seems as if the US is choking itself—but that’s only be
 这就是他说的非关税壁垒啊，因此他认为美国对中国（或EU）的关税应该比反过来才公平。然而这个逻辑十分奇怪，一般人完全不理解，把美国的名声搞得奇臭无比。这就是现在的国际秩序，好处都让太平洋西岸拿了，臭名全让东岸背了，因此西岸完全不想收复台湾打破这个秩序（手动惊喜）
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is exactly what he calls a “non-tariff barrier.” That’s why he believes US tariffs on China (or the EU) should be higher than the other way around to be “fair.”
 
 However, this logic is very strange and hard for most people to understand, making the US’s reputation look extremely bad.
@@ -152,7 +152,7 @@ This is the current international order: the benefits all go to the West Coast o
 所以他的离谱行为根本威慑不到人，你哭闹打滚只会让我们乐呵，你要想谈实际的那就坐到桌子上来聊聊。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The “Tariff Emperor” didn’t figure out one thing—or rather, many foreign leaders never figure out it: when the Chinese government speaks, it represents the collective will.
 
 Once something is said, it must be done. If Chinese diplomacy ignores you, that’s because it’s unnecessary. But if it engages with you, it means some action is about to happen.
@@ -185,7 +185,7 @@ His absurd behavior could never intimidate anyone. Throwing a tantrum only makes
 捷克🇨🇿总统去见了大和尚，我们宣布不和他进行任何交往。最搞笑的是他们政府竟然说“总统与大和尚接触是属于私人性质，捷克与中国尚未建立最高层级别的直接沟通，因此中国这一举动不会改变现况”。真是搞不通他们的脑回路，一国总统与别人会面竟然说只是他的“私自行为”[好奇]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Czech 🇨🇿 president went to meet the Grand Monk, and we announced that we won’t engage in any official contact with him.
 
 The funniest part is that their government actually said: “The president’s contact with the Grand Monk is of a private nature. Since China has not yet established direct top-level communication with the Czech Republic, this action will not change the current situation.”
@@ -200,7 +200,7 @@ It’s really hard to understand their logic—how can a head of state meeting s
 老中几千年的文化传承下来，导致老中面对政治、外交、军事等方面，是极其严肃的，说出的每一个字，做的每一个决策，都慎之又慎。欧美曾经也是如此，也能严肃面对政治。但在这几年，文恬武嬉，变成了政客的口嗨大会，特朗普之流，上台就是胡吹，满嘴跑火车
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Chinese have thousands of years of cultural heritage, which makes them extremely serious when it comes to politics, diplomacy, and military affairs. Every word they speak and every decision they make is treated with utmost caution.
 
 Europe and the US used to be like this as well—they could also take politics seriously. But in recent years, it has turned into a spectacle of empty talk by politicians. People like Trump come to power just to brag and spout nonsense.
@@ -214,7 +214,7 @@ Europe and the US used to be like this as well—they could also take politics s
 想得到东西只有两个方法，一个是抢，一个是换，如果没本事抢就老老实实回家看看有什么瓶瓶罐罐可以拿出来当的，别整那些没有的。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There are only two ways to get something: either take it by force or trade for it.
 
 If you don’t have the ability to take it by force, then just go home and see what bottles and jars you can offer in exchange. Don’t try to go after things that don’t exist.
@@ -227,7 +227,7 @@ If you don’t have the ability to take it by force, then just go home and see w
 想明白这个难度太高了，西方哪怕是偏亲华的，大部分也是讲中国体制效率高，所以发展好，隐含的意思就是说你集权，尤其李家坡那几个小老头最近四处蹦跶吹中国，谁都知道他啥意思。等他们想明白中国决策是集体意志的时候，世界观真会塌的，离投共也不远了。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Understanding this is extremely difficult. Even the pro-China voices in the West mostly say that China develops well because its system is efficient.
 
 The implied meaning is that China is centralized. Especially those old gentlemen from Singapore who have been hopping around praising China recently—everyone knows what they really mean.
@@ -243,7 +243,7 @@ When they finally realize that Chinese decisions represent the collective will, 
 其实他们自己也是中式思维，如果我们的官员也是那种只顾口嗨，朝令夕改，说话没个把门的。老百姓第一个跳出来说不严肃，把政治当儿戏。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t be fooled by people constantly claiming that foreign politics is superior and that everyone participates in elections, while Chinese officials are all about bureaucratic talk.
 
 In reality, they themselves also think in a “Chinese-style” way. If our officials only cared about empty talk, changed policies overnight, and didn’t stand by their words, the public would be the first to jump up and say that politics isn’t serious and treat it like a game.
@@ -256,7 +256,7 @@ In reality, they themselves also think in a “Chinese-style” way. If our offi
 欧美那些国家，本质上还是一个部落联盟，酋长A说的话，不一定能代表酋长BCDEF的想法[捂脸][捂脸][捂脸]
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Essentially, those Western countries are still like a tribal alliance. What Chief A says doesn’t necessarily reflect the thoughts of Chiefs B, C, D, or E. 🤦‍♂️🤦‍♂️🤦‍♂️
 </div>
 
@@ -295,7 +295,7 @@ Essentially, those Western countries are still like a tribal alliance. What Chie
 美国各种农作物是高度工业化生产种植的，大企业去雇佣农户种植是主要形式（也就是地主/佃农），所以，这些大宗商品的农作物，在美国播种有着非常详细的日程表，地域区别很小，而大豆的播种时间，是七月份，已经过了
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Of course, it won’t go on indefinitely, and it probably won’t last very long—major changes will likely happen within two years.
 
 The US can’t hold out—not because of the tariff impact itself, but because it can’t afford to not trade with China at all.
@@ -328,7 +328,7 @@ US crop production is highly industrialized. Large companies hire farmers to pla
 大豆主要是为养猪服务的，中国人吃猪肉已经很多了，再大幅增加是不现实的，但是美国有很多的好朋友好伙伴，可以发展他们吃猪来扩大大豆需求，比如鱿...
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 However, the US has many allies and partners. They could try to expand soybean demand by encouraging more pork consumption in those countries, for example…
 </div>
 
@@ -339,7 +339,7 @@ However, the US has many allies and partners. They could try to expand soybean d
 以前美国人有段时间在国内推广过人造肉，就是为了给大豆找出路，不过2003那次坑中国人太狠了，哪个经销商和企业会跟他们玩，不要命了
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There was a time when Americans promoted artificial meat domestically, mainly to create a market for soybeans.
 
 But back in 2003, they really screwed over the Chinese. Which distributor or company would dare play along with them again? Not a single one—it’s too risky.
@@ -352,7 +352,7 @@ But back in 2003, they really screwed over the Chinese. Which distributor or com
 烂在地里倒是不至于，打骨折卖还是有人买的，比如说印尼埃及这些穆斯林国家，因为不能吃猪肉牛肉又太贵所以豆制品是重要的蛋白质来源，但是这些国家都没啥钱，卖了之后田地还是得被盖茨，贝索斯这些互联网大地主给兼并了去。
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s not like the soybeans would just rot in the fields. Even if they’re damaged, someone would still buy them—for example, in Muslim countries like Indonesia or Egypt. Since they can’t eat pork and beef is too expensive, soy products are an important protein source.
 
 But these countries aren’t wealthy, and after the sale, the farmland would still end up being acquired by big internet landlords like Gates or Bezos.
@@ -365,7 +365,7 @@ But these countries aren’t wealthy, and after the sale, the farmland would sti
 看看美国人能吸盟友和其他国家多少血，比如印度给加了50%，日本韩国欧盟虽然就19%还是20%，看着不多，可是要求投资美国得上万亿美刀[捂脸]按美国人烧钱的速度看看能撑多久。。。撑得住估计就维持现状，撑不住还得有一番恶斗！
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Let’s see how much the Americans can squeeze from their allies and other countries. India got hit with a 50% increase. Japan, Korea, and the EU only around 19–20%. It doesn’t look like much, but to invest in the US, we’re talking trillions of dollars. 🤦‍♂️
 
 At the rate Americans burn money, how long can they really hold out? If they can manage, things will probably just stay as they are. If not, there’s going to be quite a fight!
@@ -378,7 +378,7 @@ At the rate Americans burn money, how long can they really hold out? If they can
 前两天youtube上看到一个买极飞无人机喷药的美国小哥，他种的就是大豆，打算持续观察一下后续怎么样
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A couple of days ago, I saw an American guy on YouTube buying a XAG drone to spray pesticides. He’s planting soybeans. I plan to keep an eye on how things unfold.
 </div>
 
@@ -389,7 +389,7 @@ A couple of days ago, I saw an American guy on YouTube buying a XAG drone to spr
 大豆不是大米存放时间很长的，而且因为不是人吃，良好状态下存个两三年，给猪吃也不是太大问题。问题在于，美国农场主资金链能不能挺住而已
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Soybeans aren’t like rice that can be stored for a very long time. But since they’re not for human consumption, storing them in good condition for two to three years isn’t a big problem for feeding pigs.
 
 The real issue is whether American farmers’ cash flow can hold up.
@@ -425,7 +425,7 @@ The real issue is whether American farmers’ cash flow can hold up.
 也行这会是二十年的角逐
 </small>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Hard to say.
 It depends on whose economy can withstand the pressure.
 

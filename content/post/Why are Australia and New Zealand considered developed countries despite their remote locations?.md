@@ -36,7 +36,7 @@ Click to expand Chinese comment</span>
 你可以说美国单方面占其他国家便宜是因为其他国家腿软，但美国也把信息分享给这几个国家，说明人家真的是当自己人
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Anyone who has applied for a U.S. visa knows that the Five Eyes alliance is a genuine alliance.
 
 The visa systems of the U.S., U.K., Canada, Australia, and New Zealand are interconnected. If one country denies a visa, the others can see the time, location, and reason for the rejection.
@@ -56,7 +56,7 @@ Click to expand Chinese comment</span>
 澳大利亚新西兰加拿大英国等国家元首都是同一个人，即英联邦国王查尔斯三世，他们是特殊的国与国关系。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Australia, New Zealand, Canada, and the U.K. all share the same head of state — King Charles III. That alone shows how unusual and special their relationships really are.
 </div>
 
@@ -72,7 +72,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😂 No wonder the U.S. treats its allies so harshly — after all, the country was founded by rebelling against the British crown in the first place.
 </div>
 
@@ -88,7 +88,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. has always been inseparable from Britain — same language, same culture, and originally, the people came from Britain too. So maybe it’s time for the U.K. to just “take Taiwan” instead.
 </div>
 
@@ -104,7 +104,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Man, talk about shameless. In the past few years, billions of U.S. dollars have flooded into the Australian market, grabbing a piece of every industry you can think of. And really, are those dollars from “economic growth”… or did they just crank up the money printer again?
 </div>
 
@@ -120,7 +120,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Think the U.S. dollar is worthless? Fine, then don’t take it. Problem solved.
 </div>
 
@@ -136,7 +136,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s not “shameless” because they can print money. It’s shameless because, except for China and Russia, they can make everyone have to use the money they print. Got it?
 </div>
 
@@ -152,7 +152,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Shared ethnicity, language, culture, and values — that’s what makes them real ride-or-die bros.
 </div>
 
@@ -168,7 +168,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Clearly, Americans are a different breed compared to those four.
 </div>
 
@@ -184,7 +184,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Five Eyes alliance is great and all… but what happens if New Zealand cops start going international, chasing down American citizens?
 </div>
 
@@ -200,7 +200,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Been to Australia a few times, and still got denied a U.S. visa twice… absolutely wild.
 </div>
 
@@ -216,7 +216,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. isn’t part of the Commonwealth.
 </div>
 
@@ -233,7 +233,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Information comes in levels. Non-classified stuff? Sure, they can share it with you, no big deal. But secret, top secret, ultra-classified info? The U.S. isn’t going to hand that out for free — there’s no such thing as “one of us.”
 </div>
 
@@ -249,7 +249,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Among the allies, the Five Eyes actually sit at the top tier — just below the U.S. itself, and even above Israel.
 </div>
 
@@ -265,7 +265,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just look at how many sanctions the U.S. has on the U.K. When the next U.S. president calls the Canadian PM a “governor,” all Trudeau can do is fume helplessly.
 </div>
 </div>
@@ -302,7 +302,7 @@ Click to expand Chinese comment</span>
 没有这两点，基本上很难跻身现代文明。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 In Pringle’s world, there are only three “big hats”:
 
 Ancestors conquered stuff,
@@ -338,7 +338,7 @@ Click to expand Chinese comment</span>
 很认同作者归纳的两点：民主与法治，民主意味着公民思想的解放，激发民众的想象力与创造力，推进社会不断向前向上。法治又框住了民众行为自由度的边界与方向，有所为有所不为
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Totally agree with the author’s two points: democracy and the rule of law. Democracy means freeing people’s minds, sparking imagination and creativity, and pushing society forward. Rule of law sets the boundaries and direction for that freedom — showing what you can do and what you can’t.
 </div>
 
@@ -354,7 +354,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The simplest truths are often the hardest to pull off. Plenty of people could do things right, but very few actually do — that’s the difference.
 </div>
 
@@ -370,7 +370,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The cost is just too high. Most countries either can’t pull it off, or the entrenched elites won’t give up their own perks to make it happen.
 </div>
 
@@ -386,7 +386,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Can’t really get into these issues. Go too deep and you start shaking the foundation of the country 😅😅
 </div>
 
@@ -402,7 +402,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The problem is, even if you did want to get into it, you can’t — one mute and you’re silenced for a whole week.
 </div>
 
@@ -418,7 +418,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Look at the Anglo-American countries — yeah, they build roads and bridges slowly, but they’ve almost never taken a wrong turn in 300 years. That kind of accumulation put them at the top of the human pyramid.
 
 Continental Europe? Took some detours, so it’s been a bit turbulent, but they eventually got back on track.
@@ -440,7 +440,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 About ten years ago, I caught Australia PM Abbott’s New Year speech. He started with a line like, “We are committed to democracy built on the rule of law.”
 </div>
 
@@ -456,7 +456,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly. A lot of things seem high-yield in the short term — like bottling up anger and just going along with others’ unreasonable demands — but the long-term payoff? Disaster.
 
 People love to praise low-cost, easy-to-manage domestic education, but the catch is: once you start working, you often have to relearn a lot of stuff. And after all those years of schooling, very few actually gain the ability to be lifelong learners.
@@ -474,7 +474,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yeah, they’re basically just copying homework, but think it’s their own special thing. Then they get all cocky, feel the need to “build confidence and be more unique,” and end up going off the rails. Now everyone’s online, showing off their own little “downward consumption” journeys.
 </div>
 
@@ -490,7 +490,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😅 Democracy and the rule of law aren’t contradictory. On the contrary, rule of law protects democracy, and democracy ensures the health of the rule of law.
 
 Take Stalin’s era: they shouted about democratic voting, but when power trumps the law, you get “democracy in words” — votes don’t matter. Rule of law exists to make sure even the weak have the same democratic rights.
@@ -508,7 +508,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What would happen if officials from Australia, the U.K., or the U.S. actually said, “We can’t really help a business succeed, but destroying one is easy”?
 </div>
 
@@ -524,7 +524,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He might not even be able to pull it off — we’re talking about other countries’ capitalists with actual legal teams who can influence the courts. Over here, though? Capital interfering in politics is a huge no-no.
 </div>
 
@@ -540,7 +540,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If we’re really ranking disasters, a society where both capitalists and officials can trample the law is still better than one where only officials can — at least the capitalists have to organize production and create stuff.
 </div>
 
@@ -556,7 +556,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Can’t North and South Korea speak for themselves?
 </div>
 
@@ -572,7 +572,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 East and West Germany were basically a giant experiment, same with the USSR and the U.S… plenty of comparisons out there. But some people just can’t help themselves — thinking their own system is somehow superior. In reality, it’s really just the one that happens to fit them best.
 </div>
 
@@ -588,7 +588,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Japan and South Korea have no resources, got plundered, and are super densely populated — yet they completely slapped the “pink tide” in the face.
 </div>
 
@@ -604,7 +604,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Japan and Korea? Forget it. Classic case of having national power but zero respect for the little people. Welfare might sit at the same table as the U.S., but wages don’t even come close to what they pay in the U.S., Canada, or Australia.
 </div>
 
@@ -620,7 +620,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Dignity? How do you measure it — by what others say, or by how valuable your passport is for visa-free travel?
 </div>
 
@@ -638,7 +638,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😳 Man, your thinking isn’t much different from Pringle’s. Your first reaction — “what others think” and “visa-free countries” — is still all about macro power and diplomacy. Your sense of awareness is a step behind.
 
 “Dignity for the little people” means decent wages, a comfortable work system, decent housing, and access to a strong welfare system.
@@ -658,7 +658,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😂😂 So just being pro-America makes you developed, huh? What about the pro-U.S. regimes in Iraq, Afghanistan, and even Vietnam — all gone!
 </div>
 
@@ -674,7 +674,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, I even think Australian society is better than the U.S. Australia’s big government actually does a lot of good, while the U.S. government basically does nothing — anything goes under the banner of “freedom.”
 
 A lot of the problems in the U.S. today stem from declining education over the past few decades. Freedom only works if citizens have the quality to match it, but even the proportion of people with a bachelor’s degree in the U.S. is lower than in Australia. And that’s saying something — Australia’s bachelor’s rate isn’t exactly high, lower than Canada. U.S. education is mostly private, while Australia still has a strong public system from primary to higher education. Public schools and universities can be excellent, tuition is affordable, and even if you’re poor, the federal government offers interest-free loans. None of that exists in the U.S.
@@ -698,7 +698,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You don’t actually think a degree equals intelligence, do you? 😂
 </div>
 
@@ -714,7 +714,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yeah, so next time you’re job hunting and your degree isn’t enough, try saying that and see how well it works. 😏
 </div>
 
@@ -730,7 +730,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Was the boss educated abroad or what? Trump was totally unreliable once in office. So, what’s the vibe like among Americans these days? 😅
 </div>
 
@@ -746,7 +746,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, no feeling at all. People aren’t that bored to spend all their time collectively hating a single country. Only in China do they take a graduation speech from someone studying abroad and analyze it frame by frame, breaking down every word to figure out hidden motives.
 
 I’m in Texas, and according to Chinese media, this place is full of rednecks ready to pop off at any Chinese person they see. 😅
@@ -764,7 +764,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The thing is, Americans actually pay higher taxes than Australians. In Australia, property taxes on your own home are super low — not so in the U.S., where even your primary home gets taxed heavily.
 
 I’ve never understood why people keep saying Australian taxes are higher. Honestly, U.S. taxes are among the highest in all developed countries.
@@ -782,7 +782,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Australian income tax isn’t exactly low — a regular worker easily gives up over 30% of their paycheck. Here in Texas, there’s no personal income tax, and the GST is 10%, which is definitely higher than most U.S. state sales taxes.
 </div>
 
@@ -798,7 +798,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But in Australia, your primary home doesn’t get property tax. In the U.S., it does. California’s rates are low, but the total bill is high — over $10k a year. Texas has higher rates, but a lower total, still around $8k a year. Meanwhile, in Australia, a lot of primary homes cost just over $1k a year, including council rates and stuff.
 </div>
 
@@ -814,7 +814,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Add property taxes, and U.S. taxes are way higher than Australia’s. You can’t just look at income tax and sales tax. In Australia, public hospitals are free — you just pay a small registration fee, and monthly caps on meds are only a few dozen AUD. Surgeries and hospital stays? Free. In the U.S., all of that costs money, which is basically hidden taxes.
 </div>
 
@@ -830,7 +830,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But avoiding taxes in Australia is really tough — regulations are way stricter than in the U.S. Even here, I don’t get how American companies can be so harsh on their own people.
 
 For example, Australia went cashless years ago — I haven’t used a cent in ages. Apple Pay handles everything, and Aussie banks were among the first to support it. The tech behind it? Entirely American. You’d think the U.S. would be even more advanced, right? Nope. People still use cash. Some Walmarts even refuse Google or Apple Pay because Apple charges a fee per transaction — a fee that’s not charged outside the U.S. And there are plenty of other examples like this, where Americans can’t even use their own country’s tech products properly.
@@ -850,7 +850,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So this setup in the U.S. helps keep housing prices in check, right? Just look at Sydney — the prices are insane. Apartments in the millions are everywhere, and even in places like Bankstown, the cheapest units go for over 800k AUD. U.S. housing? Much more reasonable.
 </div>
 
@@ -880,7 +880,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 As long as a country isn’t developed, it gets labeled “undemocratic.” Saudi Arabia and Brunei prove otherwise — democracy has nothing to do with wealth. Monarchies can make countries rich too.
 
 Cuba has free healthcare and education — welfare doesn’t equal being developed.
@@ -906,7 +906,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You literally just repeated all your own flaws 😭 A triangle mocking a 16-sided polygon for not being perfectly round 😅
 </div>
 
@@ -922,7 +922,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You literally just repeated all your own flaws 😭 A triangle mocking a 16-sided polygon for not being perfectly round 😅
 </div>
 </div>
@@ -945,7 +945,7 @@ Click to expand Chinese comment</span>
 目前最像苏联的就是朝鲜，恕我直言，它永远不会成为发达国家。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Is the only real measure of a developed country whether it treats people like humans or like cattle?
 
 Every country that treats its people like humans eventually becomes developed.
@@ -969,7 +969,7 @@ Click to expand Chinese comment</span>
 你们敢吗?
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 A developed country isn’t just about material wealth — it’s also about people’s fighting spirit, the courage to say no to injustice, and the willingness to fight for their rights.
 
 Do you have the guts?
@@ -987,7 +987,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Beet, you might as well tell the U.S. to give up all its global military bases and aircraft carriers — let’s see if it’s still “developed” then.
 </div>
 
@@ -1003,7 +1003,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Beet, look at defeated Japan — developed or not? 🐶
 </div>
 
@@ -1019,7 +1019,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Beet, in Chinese territories — big Caoxian, Singapore, Hong Kong, Macau, Taiwan — what’s the median income in each? What does that have to do with military power?
 
 The Soviets kept singing, “I’ve got guns while the neighbor stocks grain!” Hype hype hype… until they actually went out to grab stuff and realized they totally sucked 😅
@@ -1043,7 +1043,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Q: Why was South Africa considered developed before?
 A: Didn’t treat people like humans (back then, Black people weren’t counted in GDP, so it “looked” developed).
 
@@ -1063,7 +1063,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The standard for judging a developed country isn’t just GDP.
 </div>
 
@@ -1078,7 +1078,7 @@ Click to expand Chinese comment</span>
 看下委内瑞拉再说这话吧。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Let's take a look at Venezuela before saying this.
 </div>
 </div>
@@ -1103,7 +1103,7 @@ Click to expand Chinese comment</span>
 3、资源丰富，地理位置优越，狗都能致富。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 If I said they have more advanced political systems, I’d definitely get flamed.
 
 So the only reasons they became developed are:
@@ -1127,7 +1127,7 @@ Click to expand Chinese comment</span>
 二战后美帝当老大，世界比之前10000年都要和平的多。很多小国弱国不用担心被大国占领掠夺，这才有了很多小国变成发达国家。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 After WWII, the U.S. took the lead, and the world has been way more peaceful than in the previous 10,000 years. Lots of small, weak countries didn’t have to worry about being invaded or plundered by a big power — that’s how many of them ended up becoming developed.
 </div>
 
@@ -1143,7 +1143,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. is probably the most powerful country in human history, but also one of the “kindest” — it’s killed far fewer people than regional powers like the USSR, Germany, or Japan.
 </div>
 
@@ -1159,7 +1159,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 At least being a U.S. lapdog pays better than being a Russian one.
 </div>
 
@@ -1175,7 +1175,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Why hasn’t Russia become a developed country? It’s missing the first point.
 </div>
 
@@ -1191,7 +1191,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s what Lu Xun called “deep-rooted flaws” 😂. Basically, it stems from the broad foundation of the Chinese population. The choice of this political system is a result of that foundation. True democracy might not even work — too many ethnic groups, and the geography creates a lot of separation. There’s a real possibility that if a proper democratic system were tried, the country could split (though I have no idea if that would be good or bad).
 </div>
 
@@ -1207,7 +1207,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There’s no perfect system — only the one that fits best.
 </div>
 
@@ -1222,7 +1222,7 @@ Click to expand Chinese comment</span>
 确实这三点才是主因，神化制度只是皈依者的一厢情愿。如果美西方的制度真的是关键，他们就不会到处推广了，因为他们不是闲的没事做的圣母。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yep, these three points are the main reasons. Idolizing the system is just wishful thinking by its followers. If Western institutions were really the key, they wouldn’t be pushing them everywhere — they’re not bored do-gooder saints with nothing better to do.
 </div>
 </div>

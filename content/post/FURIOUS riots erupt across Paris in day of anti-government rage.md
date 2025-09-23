@@ -37,7 +37,7 @@ Click to expand Chinese comment</span>
 不止是法国，整个欧洲都面临这个问题，高福利跟经济低迷的矛盾不可调和
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s not just France — the whole of Europe is facing this problem. The contradiction between high welfare and a sluggish economy is irreconcilable.
 </div>
 
@@ -53,7 +53,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Macron administration can’t even handle its own country’s affairs, yet it still points fingers at other nations.
 </div>
 
@@ -69,7 +69,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Little Macron surely has a grand vision — he’s a world leader! France’s domestic issues are just minor matters, while global affairs are what truly count. Thumbs up for him!👍👍👍
 </div>
 
@@ -85,7 +85,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Europe is getting lively again. They enjoy the excitement — let them have their fun! Meanwhile, we’ll just keep our heads down and focus on building our country.
 </div>
 
@@ -101,7 +101,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Thumbs up for Macron 👍
 </div>
 
@@ -117,7 +117,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A wise ruler should know how to grant the people a measured degree of freedom to vent their inner pain and dissatisfaction — as long as this expression doesn’t become too extreme or unruly. Suppressing bodily fluids or covering wounds to stop the pus from flowing only leads to more abscesses and tumors forming in the body.
 </div>
 
@@ -133,7 +133,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Paris Commune has awakened.😊
 </div>
 
@@ -149,7 +149,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Macron is about to step down.
 </div>
 
@@ -165,7 +165,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Macron: “Stop arguing, there’s nothing I can do — we simply don’t have the money!”
 </div>
 
@@ -181,7 +181,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 High welfare works like this: it can only increase, never decrease. If the budget is tight and benefits are cut, people will riot — so any increase must be made cautiously.
 </div>
 
@@ -197,7 +197,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Stability is the ballast for development.
 </div>
 
@@ -213,7 +213,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Where is the Paris Commune?
 </div>
 
@@ -229,7 +229,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The French consumables our company imported have already been delayed by a month.
 </div>
 
@@ -245,7 +245,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 All the government funds are being poured into Ukraine.
 </div>
 
@@ -261,7 +261,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The French are just romantic — and they like to set trash bins on fire for fun.😭😊😭😊
 </div>
 
@@ -277,7 +277,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Learn from Nepal, salute Nepal. The French people are following suit, and the Americans and Westerners aren’t far behind.😂😂😂😂😂😂😂😂
 </div>
 
@@ -293,7 +293,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Iran raises its flag every day, while the U.S. lowers theirs daily.
 </div>
 
@@ -309,7 +309,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. helps Ukraine under Biden, while Macron’s aid to Ukraine brings disaster. Who would be willing to risk their life for others? How can the French people not be furious?
 </div>
 
@@ -325,7 +325,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Are these people really this idle, or is it just that the welfare is so generous they feel no pressure in life?
 </div>
 
@@ -341,7 +341,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Warm congratulations to the French people for demonstrating to protect their own interests!👏👏👏
 </div>
 
@@ -357,7 +357,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Western countries protest at the drop of a hat — how can their economies develop like that?
 </div>
 
@@ -373,7 +373,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Let the French Revolution begin!
 </div>
 
@@ -389,7 +389,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Boldly forming groups to burn down other people’s shops to vent their anger.😂
 </div>
 
@@ -405,7 +405,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s chaos — France and the U.S. are frequently experiencing “free-for-all” looting.
 </div>
 
@@ -421,7 +421,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It seems Macron is planning to send these people to defend Ukraine.😁
 </div>
 
@@ -437,7 +437,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Isn’t Macron planning to send troops to protect Ukraine? His own country is already in such chaos.
 </div>
 
@@ -453,7 +453,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Victory belongs to the French people.
 </div>
 
@@ -469,7 +469,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Well done! Long live France!
 </div>
 
@@ -485,7 +485,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They’re showing the spirit of the original Paris Commune. Just shouting slogans won’t do 🐦 — they need to take up arms and fight like “Léon.”
 </div>
 
@@ -501,7 +501,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is truly characteristic of Western countries — very impressive! 👍
 </div>
 
@@ -517,7 +517,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Set the French Parliament building on fire.
 </div>
 
@@ -533,7 +533,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Hopefully the French people will stay true to their roots, uphold their traditions, and launch another Paris Commune movement!
 </div>
 
@@ -549,7 +549,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 AFP reports that the chaos is rampant, and most of it comes from Middle Eastern immigrants.
 </div>
 
@@ -567,7 +567,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It seems that such events in France are quite normal. Previously, when Macron postponed the retirement age, it felt like the whole country was in uproar — and in the end, it just fizzled out. France seems to treat big moves like ordinary actions; people are used to it, so it doesn’t cause much harm.
 
 Nepal, on the other hand, is really something — whether in power or not, they went all out and burned everything.
@@ -585,7 +585,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s worth watching how this movement develops next. It could reveal whether there’s a color revolution, whether the deep state is guiding populist movements, or whether other external forces are interfering. The next step will show whether this fire will reach the level of storming the Bastille and overthrowing the French monarchy — keeping with revolutionary traditions — or if it’s just exposing the secrets and home addresses of French elites on certain social platforms. Let the fire reach the parliamentarians’ homes! Go see for yourself what a corner of their “palace” really looks like!
 </div>
 
@@ -609,7 +609,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 As usual — take to the streets, wave a few flags, shout a bit — just another day for France’s political worriers.
 
 If you don’t go out, you’re seen as politically incorrect.
@@ -633,7 +633,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 For this land, it’s a truly dreamlike scene.
 
 ![](images/2025/france-portest-1.jpg (FURIOUS riots erupt across Paris in day of anti-government rage))
@@ -656,7 +656,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😅 Another proof that anarchists can’t get anything done +1+1. So many people gathered, and all they think about is protesting? If each person had a brick, they could have surrounded the Élysée Palace.
 </div>
 
@@ -674,7 +674,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Also, I suggest checking foreign news — they’ve already reached that point.
 
 I’m volunteering, handing out water to workers, defending the rights of myself and my colleagues. When I went to construction sites for my university thesis research, where were you?
@@ -694,7 +694,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If this revolutionary region’s style were transplanted to the U.S., the country would probably face daily “dark zone” uprisings.
 </div>
 
@@ -710,7 +710,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Why is it that every time there’s a strike in France, Macron is fine, but the Prime Minister steps down and the cabinet is reshuffled to resolve things? 🤦‍♂️
 </div>
 
@@ -726,7 +726,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When heaven sends rain, humans invite disaster. Macron jumped too high and angered the masses — protests and strikes continue. Time to push him out and investigate corruption issues.
 </div>
 
@@ -742,7 +742,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Macron has little room for progress in France. He should quickly go to the frontlines in Ukraine to make his mark.
 </div>
 
@@ -758,7 +758,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This marks the beginning of Europe stopping aid to Ukraine. The recent loud calls to support Ukraine were just the awakening after the peak.
 </div>
 
@@ -774,7 +774,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Macron wants to send the French people to die in Ukraine! The French people must rise up against him and push Macron out of office!
 </div>
 
@@ -790,7 +790,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Macron hasn’t handled domestic affairs properly, yet he constantly meddles in Ukraine, giving all the money away. What is he aiming for? What’s his purpose!?
 </div>
 
@@ -806,7 +806,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Macron is the most failed president in France’s history.
 </div>
 
@@ -822,7 +822,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Look through France’s news from previous years — this kind of thing happens several times almost every year. Besides making headlines, the French just like to stir things up for fun. After the commotion, life goes on as usual; nothing really changes!
 </div>
 
@@ -838,7 +838,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You can skip work, but high welfare and holidays cannot be cut. Truly impressive are these countries that maintained high welfare for centuries through colonization and plunder. Now, facing a globally awakened world, how can they continue relying on past exploitation? The government is running a deficit, but try to touch citizens’ welfare — haha, they’ll show you death. This situation will only escalate, and the fate of such countries is now teetering on the edge of a cliff.
 </div>
 
@@ -854,7 +854,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Little Macron lacks political savvy and strategic foresight, yet he tries to squeeze into the table of power. Compared to other French presidents in history, he falls far short and will ultimately end up in the dustbin of history.
 </div>
 
@@ -870,7 +870,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 French 🇫🇷 farmers, workers, and schoolchildren — stay strong and keep going! Support and thanks. Macron wants to send them to fight in Ukraine 🇺🇦, their whole families could go, but the money meant for farmers, workers, and schoolchildren must not go to Ukraine 🇺🇦. France 🇫🇷, stay strong — we support you. You are truly great!
 </div>
 
@@ -886,7 +886,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The French love of romance isn’t just seen in daily life — it’s vividly expressed in their street protests as well. This beautiful scene is the perfect expression of the French people’s love for freedom, democracy, and romance.
 </div>
 
@@ -902,7 +902,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Macron: “We will continue to throw taxpayers’ money down the drain in Ukraine.”😊
 </div>
 
@@ -918,7 +918,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The misfortune of the French people! Electing such a foolish president — and that foolish Ursula von der Leyen too.
 </div>
 
@@ -934,7 +934,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Macron believes he holds all the power and can use it however he wants, completely ignoring public opinion. The people feel powerless and can only vent their dissatisfaction with him in this rough manner.
 </div>
 
@@ -950,7 +950,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Capitalism has reached its limits. After prolonged accumulation, the wealth gap has become enormous — it’s no wonder ordinary people are revolting.
 </div>
 

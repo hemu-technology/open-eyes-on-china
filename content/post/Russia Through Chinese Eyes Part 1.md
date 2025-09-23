@@ -27,7 +27,7 @@ thumbnail = "images/2025/russia-part-1.avif"
 +++
 
 <div class="comment-block quizzer">
-  <strong style="color: #0077b8;">Overview:</strong><br>
+  <strong class="translated-label">Overview:</strong><br>
 Let’s take a look at how Chinese netizens view Russia. Overall, many Chinese people express strong opinions about Russia, ranging from admiration for its strength to criticism of its actions.
 
 Since the volume of comments is quite large, I’ve decided to publish them in several parts. Below are translations of posts taken from the Chinese equivalent of Quora. I haven’t filtered them based on personal preference, and I’ve tried to keep the translations as fair and unbiased as possible.
@@ -46,7 +46,7 @@ Click to expand Chinese comment</span>
 俄罗斯是个思想还停留在封建专制时代，还想靠武力征服世界的野蛮国家，是人类迈向更自由民主公平文明的绊脚石，是世界邪恶势力恐怖分子的总后台！
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia is a country whose mindset is still stuck in the era of feudal despotism, a barbaric state that still seeks to conquer the world through force. It has become an obstacle to humanity's progress toward greater freedom, democracy, fairness, and civilization, and serves as the ultimate backer of the world's evil forces and terrorists!
 </div>
 
@@ -62,7 +62,7 @@ Click to expand Chinese comment</span>
 只知道有一个整容打玻尿酸的玉皇大帝(普京)，有很多女粉丝，甚至愿意为他生孩子，但他治国能力确实不敢恭维，给他20年，他给本国一个破败不堪落后的俄罗斯，整天举着核大棒叫嚣与世界同归于尽。[捂脸]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 All I see is a so-called 'Jade Emperor' (Putin) obsessed with cosmetic surgery and Botox, surrounded by female fans who would even bear children for him. Yet his ability to govern leaves much to be desired: after twenty years in power, he has delivered nothing but a dilapidated and backward Russia, while brandishing nuclear weapons and shouting about dragging the whole world down with him.😏
 </div>
 
@@ -78,7 +78,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I don’t get it 🤔 — his looks are average, he’s on the shorter side, lacks talent and virtue, has no personal charm… so why does he have so many fans here?
 </div>
 
@@ -94,7 +94,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s a stumbling block on humanity’s path toward civilization.
 </div>
 
@@ -110,7 +110,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia really only relies on brute force, and it’s far behind the U.S. The U.S. doesn’t just use force—they also use infiltration. Over the years, there have been domestic spy arrests, the 2019 Hong Kong protests, and countless sanctions. The U.S. has a lot of tools to maintain its hegemony.
 </div>
 
@@ -126,7 +126,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Read more history books 📚—back then, Soviet Russia’s infiltration of China was even more intense.
 </div>
 
@@ -142,7 +142,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Are you questioning whether the Great Wall could stop the U.S. military, or whether the “Great Firewall” can block rumors online? You’re really overestimating America.
 </div>
 
@@ -158,7 +158,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Looking back at many events now, it’s clear who were the rogues and thugs, and who were the beacons of humanity 🤦. Nowadays, netizens aren’t easily fooled.
 </div>
 
@@ -174,7 +174,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Barbaric and fierce, tough and resilient, ravenously greedy for land—willing to swallow the last piece of meat in their mouth even if it will kill them the next second.
 </div>
 
@@ -190,7 +190,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Accurate assessment.
 </div>
 
@@ -206,7 +206,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia’s power is matched by the scale of the mischief it can cause.
 </div>
 
@@ -222,7 +222,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. is a barbaric and despicable country whose mindset is still stuck in the colonial era, trying to conquer the world through lies and force. It’s an obstacle to humanity’s progress toward greater freedom, democracy, fairness, and civilization, and serves as the ultimate backer of the world’s evil forces and terrorists!
 </div>
 
@@ -238,7 +238,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Do you even believe the things you’re saying yourself?
 </div>
 
@@ -254,7 +254,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Neither of them is any good 😒. Luckily, China has grown stronger than both over time.
 </div>
 
@@ -270,7 +270,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The greatest scourge of humanity.
 </div>
 
@@ -286,7 +286,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Who’s the troublemaker behind the Houthi forces, the Caribbean pirates, and Hamas?
 </div>
 
@@ -302,7 +302,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Big Goose 🦢 （Russia）
 </div>
 
@@ -318,7 +318,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The war’s been dragging on for almost three years. Russia 🦢 vs NATO in Ukraine—over 700,000 young soldiers gone, elite armored units shredded, the Black Sea Fleet barely holds the Black Sea. Ammo and missiles? Gone. Russia has to buy shells, missiles, and drones from North Korea and Iran 💸, even paying for North Korean soldiers to fight.
 
 To keep exporting grain for foreign currency, they’ve had to ration food at home. Ruble inflation is skyrocketing, and the economy is teetering…
@@ -342,7 +342,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When other countries launch rockets to explore space, he launches them to invade others—a country whose thinking is stuck in the 1970s.
 </div>
 
@@ -358,7 +358,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Marx once said that Russia 🦢 was the stronghold of feudal despotism and reactionary forces, blocking European revolutions. Today, Russia isn’t just an obstacle in Europe—it’s the ultimate backer holding back civilization worldwide. The so-called friendship between China and Russia is just about interests.
 </div>
 
@@ -374,7 +374,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the past, the impression was okay—reasons are obvious. Nowadays, the so-called “image” he presents to the world? Bunker boy 🏰 knows it best himself, so you can just ask him directly!
 </div>
 
@@ -390,7 +390,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The last sentence of the article isn’t quite right—Russia 🦢 isn’t even qualified to be the ultimate backer.
 </div>
 
@@ -406,7 +406,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Makes sense. So basically, the countries that cooperate with Russia 🦢 are all rogue states of this kind.
 </div>
 
@@ -426,7 +426,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Poor Russia 🦢, turned into such a demonized image. Keep in mind, since the collapse of the Soviet Union, Russia abandoned socialism and switched to capitalism. It’s also a nuclear power and one of the UN Security Council’s five permanent members—if it didn’t have some real capabilities, could it really hold that position?
 
 If Russia were truly backward, despotic, and barbaric, why are the U.S. and Western countries so afraid of it? The whole world suffers from “Russophobia,” a virus that has even infected pro-Western, America-loving factions within China.
@@ -446,7 +446,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😂 Because they’re scared of Russian aggression—taking the land but not the people, isn’t that terrifying? People always get swayed by public opinion.
 </div>
 
@@ -462,7 +462,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Only second? So who’s first? The first one could still take down the second, right? 🤭
 </div>
 
@@ -478,7 +478,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Sooner or later, it’ll be kicked out of the UN Security Council!
 </div>
 
@@ -494,7 +494,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 And the U.S.? Are they the instigator? That makes them even more guilty!
 </div>
 
@@ -511,7 +511,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China’s first and second Five-Year Plans were both designed by Russians, with 18,000 engineers coming to assist in construction. You could say that the starting point of China’s post-liberation industrialization—the 156 engineering projects—was thanks to Russian help 🥲.
 </div>
 
@@ -527,7 +527,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Soviet Union is the Soviet Union, Russia is Russia. Tsarist Russia made us cede territory and pay reparations, pillaging and burning along the way. Millions of square kilometers—some say it was “leased,” but they never returned it. Hong Kong and Macau were also leased for 100 years, yet they were returned. By your logic, it would be the Americans who helped us resist Japan and drove them out—they didn’t even take an inch of our land. The Americans must be saints.
 </div>
 
@@ -544,7 +544,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Are you talking about the U.S.? Russia 🦢 is actually the righteous side—Putin is like a heroic savior, descending to rescue Russia and the Slavic people from disaster.
 </div>
 
@@ -560,7 +560,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Only to end up dying on Ukrainian soil.
 </div>
 
@@ -576,7 +576,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Only NATO invaders end up dying on Ukrainian soil 😲
 </div>
 
@@ -592,7 +592,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😂 The U.S. can be ruthless at most with economic sanctions, but Russia 🦢 is different—just rolling tanks through like a deadly game of “match the race.”
 </div>
 
@@ -610,7 +610,7 @@ Click to expand Chinese comment</span>
 这世界要是少了俄罗斯会变的更美好，他们没有为人类贡献多少，而对外输出的1是贫困死亡与威胁，他们的强大往往意味着别人的灭亡与被奴役，是地球人的灾星，从莫斯科小公国开始，他们己经吞并了几十个国家，如果这回要是成功地吞并了乌克兰，毛熊就更加强大，对东西方都是巨大的威胁。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The world would be a better place without Russia 🦢. They haven’t contributed much to humanity; what they export is mostly poverty, death, and threats. Their strength often means the destruction or subjugation of others. They’ve been a disaster for humanity since the little principality of Moscow, having already annexed dozens of countries. If they succeed in annexing Ukraine this time, the “Bear” will grow even stronger, posing a massive threat to both East and West.
 </div>
 
@@ -626,7 +626,7 @@ Click to expand Chinese comment</span>
 几乎被全球孤立了，国运彻底被断送。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Almost completely isolated from the world, its national fortune utterly ruined.
 </div>
 
@@ -642,7 +642,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Even the loyal sons（China...） who “donate blood” end up being isolated and sanctioned alongside their father(Russia).
 </div>
 
@@ -658,7 +658,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 At least the newly elected U.S. president seems eager to cozy up to Putin 🐋.
 </div>
 
@@ -674,7 +674,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Normal people wouldn’t think that the president of a superpower could, just because of past political leanings, be willing—or even able—to betray the country against the will of Congress, the courts, and the military 🥲.
 </div>
 
@@ -690,7 +690,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Haha, now Putin wants to cozy up to Trump, but “Old Trump” won’t even glance at him 🤦.
 </div>
 
@@ -706,7 +706,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So you’ve all got it wrong. Trump wouldn’t hesitate to wreck the U.S. and throw the world into chaos just to help Putin 🐋.
 </div>
 
@@ -722,7 +722,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Then the clueless U.S. troops better go and give Russia 🦢 a good beating! Don’t tell me they’re scared?
 </div>
 
@@ -738,7 +738,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The greatest curse is that they exported them to China, bringing terror and death.
 </div>
 
@@ -754,7 +754,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There’s no such thing as a “beacon” in the world. Russia 🦢 is just another country.
 </div>
 
@@ -770,7 +770,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Putin is like a modern-day Hitler—ignoring economic development, fixated on annexing Ukraine to restore the Russian Empire. Of course, this is also the path Russians have chosen themselves, since they’ve been raised believing that aggression is justified.
 </div>
 
@@ -786,7 +786,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia 🦢 plays a key role in shaping Western ideology and psychology.
 </div>
 
@@ -802,7 +802,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I think you might as well have torn down the periodic table.
 </div>
 
@@ -819,7 +819,7 @@ Click to expand Chinese comment</span>
 一个贪得无厌恶霸国家，长期对外扩张从一个弹丸莫斯科小公国成为世界第一大幅员辽阔的国家，大部分领土都是由武力和杀戮从领国掠夺，历史上吞并掠夺了中国大幅国土，杀害我同胞，多起震惊世界的血案大屠杀，造成今天的俄罗斯远东地区不见一个原住民，这就是对俄罗斯的影响，极其厌恶，俄罗斯是中国永远的敌人。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 A greedy and tyrannical country, Russia 🦢 has long pursued external expansion, growing from a tiny Moscow principality into the world’s largest country by land. Most of its territory was seized through force and slaughter. Historically, it annexed large parts of China’s territory, killed countless of our compatriots, and carried out multiple massacres that shocked the world. As a result, today’s Russian Far East has no indigenous population left. This is the legacy of Russia—extremely detestable. Russia will always be China’s enemy.
 </div>
 </div>
@@ -837,7 +837,7 @@ Click to expand Chinese comment</span>
 从中国历史角度看原沙俄在我清朝时期吞占我三百多万平方公里领土，用武力迫使清政府签订不平等条约，在西方列强瓜分我国利益时趁火打劫，对我国经济、社会及领土主权造成了极大的损害，是实实在在的罪人。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 From the perspective of Chinese history, Tsarist Russia seized over three million square kilometers of our territory during the Qing Dynasty, forcing the Qing government to sign unequal treaties by military pressure. It took advantage of the scramble by Western powers to plunder China, causing immense damage to our economy, society, and territorial sovereignty. It was truly a criminal perpetrator.
 </div>
 
@@ -853,7 +853,7 @@ Click to expand Chinese comment</span>
 是贪得无厌的强盗
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 A greedy, insatiable robber.
 </div>
 
@@ -869,7 +869,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 An enemy, not just a criminal 😭.
 </div>
 </div>
@@ -887,7 +887,7 @@ Click to expand Chinese comment</span>
 蒙古化的斯拉夫，蒙古帝国的精神继承人。历史上长期受蒙古的影响变得极其野蛮，只不过因为白人血统和一些历史原因构成的光环骗了不少南边的人。有些人嘲笑日韩靠近欧美是跪舔白人，却完全不看自己怎么跪舔俄罗斯这个白人国家。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Slavs shaped by Mongol influence—the spiritual heirs of the Mongol Empire. Historically, they were long exposed to Mongol rule and became extremely brutal. Yet their white ancestry and some historical quirks created a halo that fooled many people to the south. Some mock Japan and South Korea for cozying up to the West as “bootlicking white people,” but they fail to see how they themselves fawn over Russia 🦢, this white country.
 </div>
 
@@ -903,7 +903,7 @@ Click to expand Chinese comment</span>
 蒙古人比斯拉夫人还是要文明一点，至少没有车轮高的小孩不杀
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Mongols were still a bit more civilized than the Slavs—at least they didn’t kill children who were about the height of a wheel.
 </div>
 
@@ -919,7 +919,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They don’t call it “bootlicking,” they call it “when the lips are gone, the teeth feel cold”—thinking long-term. I seriously don’t get it 🤨… which lips are supposedly targeting your teeth? Seems like that lip is the one screwing you over the most, right?
 </div>
 
@@ -935,7 +935,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Between China and Japan, it was 35 million back then, which converts to a “national blood debt” of 150 million today. That’s just during the Republic of China period—if you include the Qing Dynasty, can you even calculate a national blood debt? Back then, Han people were also fighting alongside the Qing…
 </div>
 
@@ -951,7 +951,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The fact is, the Mongols were the more “civilized” ones, while white ancestry is extremely brutal. The past few thousand years didn’t reveal this because they were historically backward for a long time.
 </div>
 </div>
@@ -969,7 +969,7 @@ Click to expand Chinese comment</span>
 强盗和独裁。人类社会的毒瘤
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 A robber and a dictator. A cancer on human society.
 </div>
 
@@ -985,7 +985,7 @@ Click to expand Chinese comment</span>
 邪恶的俄罗斯第一日本鬼子第二[生气]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Evil Russia comes first, Japanese devils second 😡.
 </div>
 
@@ -1001,7 +1001,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Haha, what place does the U.S. take then?
 </div>
 
@@ -1017,7 +1017,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Evil ranking: Japan first, Israel second, the U.S. third, Russia fourth.
 </div>
 
@@ -1033,7 +1033,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Domestic media loves to guide people to blame the U.S., making it seem like everything is caused by America. In reality, without the U.S., we wouldn’t have developed so fast. In 2000, the U.S. helped us join the WTO. After WWII, the U.S. crushed Japan, banned them from developing nuclear weapons, and destroyed their military. Companies like Apple and Tesla spurred China’s own smartphone and EV industries, creating countless jobs. Befriending strong countries brings benefits—they’re the best teachers.
 </div>
 
@@ -1049,7 +1049,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Kid, if all 1.4 billion Chinese lived like Americans, it would be a disaster for the world.
 </div>
 
@@ -1065,7 +1065,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Completely eliminate Putin and his gang of invading war criminals! Putin and his gang of robbers are enemies of the world.
 </div>
 
@@ -1103,7 +1103,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In 1944, they invaded Guatemala, installing a puppet regime.
 1955: Argentina, puppet regime.
 1958: Venezuela, crushed a revolution.
@@ -1140,7 +1140,7 @@ Click to expand Chinese comment</span>
 侵占了哪一寸土地？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Which inch of land did they actually seize?
 </div>
 
@@ -1156,7 +1156,7 @@ Click to expand Chinese comment</span>
 当年日寇扶持伪满，伪蒙等傀儡国就不叫侵略了是吧？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Not to mention places like Guantanamo are still illegally occupied—does that mean it’s not considered aggression if they don’t seize land? Back then, when the Japanese supported puppet states like Manchukuo and Mengjiang, that wasn’t considered invasion either, right?
 </div>
 
@@ -1170,7 +1170,7 @@ Click to expand Chinese comment</span>
 从苏共帝国开始，它弄的共产国际为什么就消失了？苏共帝国一看双头鹰北极熊自己孤掌难鸣又弄了一个华约集团，柏林墙倒塌华约解体苏联灭亡。苏联解体俄罗斯腾空出世，它双头鹰的眼睛紧盯北约，多次交申请书盼望着加入北约，但北极熊是人闲狗不待见最终梦想破灭。在北极熊的撮合下组建了一个毒联体，毒联体也是各怀鬼胎，其实早已经名存实亡了。北极熊心不甘又组装的一个集安团伙，看看这几个歪瓜裂枣能扛的动大旗吗？沙俄的历史就不用说了，苏共帝国的罪恶不比沙俄少，二战时期中国同样是反法西斯战争的同盟国和战胜国，为什么苏共匪首斯大林勾结外蒙古的乱臣贼子和孽畜在外蒙古搞橙色革命弄公投闹独立？让中国失去了外蒙古的管辖权？借助美国给日寇的原子弹苏共红军出兵中国东北，为什么把东三省的财富掠夺一空？贼不走空难道不是遗传了沙俄的基因？斯大林派遣克格勃搞暗杀南斯拉夫总统铁托3次都没有成功，铁托总统给苏共匪首斯大林回信，如果你在派克格勃暗杀我，我派一次人就会把你干掉，从此斯大林也是胆战心惊就此助手，再也不敢胆大妄为了。出兵侵略捷克斯洛伐克，还起了一个好听的名字叫布拉格之春。出兵侵略中国的珍宝岛，用核讹诈的手段恐吓中国，也在这场战争中我人民解放军缴获了苏共最先进的T62坦克，苏共团伙绞尽脑汁也没有把坦克捞回去，罪恶证据在中国军事博物馆展出。出兵侵略阿富汗战争，在全世界人民的声讨中，十年后撤离阿富汗，助纣为虐越南小霸王骚扰中国边民。中国中国对越自卫反击战最终取得了圆满的成功，打的越南其实扇的是苏共匪帮的脸。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 A Historical Critique of the Soviet and Russian Regimes
 From the moment the Soviet empire was established, why did its Comintern just disappear? After the Soviet empire realized it couldn't stand alone as a two-headed eagle and polar bear, it created the Warsaw Pact. The Berlin Wall fell, the Warsaw Pact dissolved, and the Soviet Union perished.
 
@@ -1197,7 +1197,7 @@ Click to expand Chinese comment</span>
 你知道吗，没有我们，俄罗斯撑不了这么久，视情况我们会加大支持的力度，我们不会也不能让他们输，我们希望就这样继续慢慢给美国放血，你心中信仰的美丽国，现在已经像个疾病缠身的老人，2024年一月，美债规模已经突破三十四万亿美元，2023年全年GDP才27万亿美元，如果你稍微懂一点经济知识应该会明白这对一个国家意味着什么，但美元信用是美国人最后的一根拐杖，我们国家已经完成了外资管控，他们割不了我们，现在他们正像热锅上的蚂蚁，满世界找韭菜，去年收割了欧洲一把，给他续了命，今年已经找不到收割对象了，小国家三瓜两枣根本无济于事，我们不急，坐看他们美债坐火箭，然后违约，看他美元信用塌方，你要杠先找个懂经济的人问问，看你强大的美丽国撑不撑的住[微笑]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 You know, without us, Russia couldn't have held on for so long. Depending on the situation, we will increase the intensity of our support. We will not, and cannot, let them lose. We hope to continue slowly bleeding America like this.
 
 The beautiful country you believe in is now like a diseased old man. In January 2024, the U.S. national debt already exceeded 34 trillion dollars, while its full-year GDP in 2023 was only 27 trillion dollars. If you know even a little bit about economics, you'll understand what this means for a country. But the credibility of the U.S. dollar is the last crutch Americans have. Our country has already completed its control of foreign capital, so they can't "harvest" us. Now they're like ants on a hot pan, scouring the world for "leeks" to harvest. Last year, they harvested Europe, which gave them a new lease on life, but this year they can't find anyone else to exploit. The small sums from minor countries are completely useless.
@@ -1215,7 +1215,7 @@ Click to expand Chinese comment</span>
 你大可不必在这儿为美国摇旗呐喊，曾经强大的苏联解体也是一夕之间，调整好心态，美国不是神，也不是你的圣殿，他们相对于我们的优势正在丧失殆尽，几乎所有的高科技产业正在被我们追杀，压缩生存空间，超越，摧毁。你可以否认，但事实正在上演。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 You don't need to be here waving the flag for America. The once-powerful Soviet Union also collapsed in an instant. You should adjust your mindset; America is not a god, nor is it your holy temple. Their advantages over us are rapidly disappearing, and almost all of their high-tech industries are being hunted down by us. Their room to maneuver is being squeezed, and they are being surpassed and destroyed. You can deny it, but the reality is playing out.
 </div>
 
@@ -1230,7 +1230,7 @@ Click to expand Chinese comment</span>
 现在是不是还有一些乱臣贼子和孽畜为双头鹰北极熊歌功颂德？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 From the moment the Soviet empire was established, why did its Comintern just disappear? After the Soviet empire realized it couldn't stand alone as a two-headed eagle and polar bear, it created the Warsaw Pact. The Berlin Wall fell, the Warsaw Pact dissolved, and the Soviet Union perished.
 
 The Russian Federation then emerged from the ashes of the USSR. Its two-headed eagle’s eyes were fixed on NATO, and it submitted multiple applications, eagerly hoping to join the alliance. But the polar bear was a pariah, unwanted by all, and its dream was ultimately shattered. Under the polar bear's influence, a "poisonous union" was formed—a Commonwealth of Independent States—but everyone had their own agenda, and it has essentially been a union in name only for a long time. The disgruntled polar bear then assembled the CSTO gang. Let's see if these misfits can really hold up the banner.
@@ -1258,7 +1258,7 @@ Click to expand Chinese comment</span>
 沙俄，苏联也包括乌克兰，你这样一说，我更厌恶乌克兰，他们不亡，天理难容[飙泪笑]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Tsarist Russia and the Soviet Union also included Ukraine. After you put it that way, I hate Ukraine even more. It would be an offense against all reason if they don't perish. [Crying with laughter]
 </div>
 
@@ -1272,7 +1272,7 @@ Click to expand Chinese comment</span>
 你这样的只考虑局部，不考虑全局是不行的，任何国家之间都有利益和矛盾冲突点，要考虑当时和当前历史背景，不同局势地位
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Interests and conflicts should be considered in light of the historical background and the different situations and statuses.
 </div>
 
@@ -1286,7 +1286,7 @@ Click to expand Chinese comment</span>
 你跟我说大局，是不是胆太肥了？君有一颗包容宇宙的心你听说过吗？什么心比天高 命比纸薄早过时了？人类世界动物本色，霸权主义横行，特权主义泛滥，你说说不想成王争霸？君要把安理会装兜里带走，你看炸不炸锅，跟君还来这套你确实嫩了不少？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 You're talking about the big picture with me? Aren't you too gutsy? Have you ever heard of a sovereign with a heart that can embrace the universe? Are you saying the idea of "a heart higher than the heavens, a life thinner than paper" is outdated?
 
 The human world is fundamentally animalistic, with hegemonism running rampant and special privileges everywhere. Are you telling me you don't want to become a king and dominate? If a sovereign were to put the UN Security Council in their pocket and walk away, do you think it would blow up? You're trying this with me? You're quite a bit more naive, aren't you?
@@ -1302,7 +1302,7 @@ Click to expand Chinese comment</span>
 你只是想说苏联[调皮]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 You just want to say Soviet Union 😝
 </div>
 
@@ -1316,7 +1316,7 @@ Click to expand Chinese comment</span>
 自信来自于夜郎自大[捂脸]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Confidence comes from arrogance born of ignorance. 🤦
 </div>
 
@@ -1330,7 +1330,7 @@ Click to expand Chinese comment</span>
 我跟你说的就不是一回事，说的是要先拿回俄罗斯东北那片地方，目前的形势并不是拿回来的时机，只有强大起来各方面无惧美国或者超越美国时，否则就像三国，蜀和东吴任何一方都不如曹操，但是后边因为荆州和关羽的事情魏国还没有倒下就内讧了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 What I'm saying is not the same thing. I'm saying that we must first take back that northeastern region of Russia. The current situation is not the right time to reclaim it. We can only do so when we become strong enough to fearlessly face the U.S. in all aspects, or to surpass it.
 
 Otherwise, it would be like the Three Kingdoms period: neither Shu nor Eastern Wu could match Cao Cao, but they later turned on each other over the matter of Jingzhou and Guan Yu before the State of Wei had even fallen.
@@ -1346,7 +1346,7 @@ Click to expand Chinese comment</span>
 这句话我也送给你，或许这么多年，美国已经成为了你心中的神，可惜的是他自己已经是病入膏肓，只是你不知道而已。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I'd like to share this thought with you as well.
 
 Perhaps after all these years, the U.S. has become a god in your heart. The unfortunate thing is that it is already terminally ill, but you just don't know it.
@@ -1362,7 +1362,7 @@ Click to expand Chinese comment</span>
 怎么是妄想着让双头鹰北极熊在恢复到沙俄和苏共帝国的时代吗？你以为北极熊希望中国强大吗？俄国匪首，就是希望白俄罗斯和乌克兰全部都是俄罗斯的领地。你看看从苏共帝国弄的共产国际和华约集团为什么都消失了？俄罗斯弄的毒联体和组装的集安团伙是不是苟延残喘分崩离析了？这难道不是俄罗斯北极熊人闲狗不待见吗？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Are you naively fantasizing about the two-headed eagle and the polar bear returning to the era of Tsarist Russia and the Soviet empire? Do you think the polar bear wants China to be strong? The Russian mob boss only wants Belarus and Ukraine to be Russian territory.
 
 Why did the Comintern and the Warsaw Pact created by the Soviet empire all disappear? Aren't the poisonous union and the CSTO gang created by Russia just barely clinging to life and falling apart? Isn't this just because the Russian polar bear is a pariah, unwanted by all?
@@ -1378,7 +1378,7 @@ Click to expand Chinese comment</span>
 俄罗斯经济不行，苏联解体也只是其他公司太穷了，俄罗斯自身难保养不起，俄罗斯当然不希望，中国强大，双方都一样想的[捂脸]，双方也都心知肚明，中俄也有矛盾，只不过大家都清楚当前最主要的敌人就是美国，要分清主次矛盾，从俄乌战争或者历次俄国对外战争，你要清楚，对于中国人来说其实俄罗斯比美国好对付，美国人可以说全面碾压你，中俄任何一方都斗不过美国，任何一方倒下，放心，你的日子肯定过的现在都不如，俄国的问题不是不报，时候未到
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia's economy is a mess. The Soviet Union's collapse was just because the other states were too poor, and Russia itself couldn't afford to maintain them. Of course, Russia doesn't want China to be strong; both sides think the same way. [Facepalm] Both sides are also fully aware of this. China and Russia have their own conflicts, but everyone is clear that the most important enemy right now is the U.S. We have to distinguish between the primary and secondary contradictions.
 
 From the Russia-Ukraine war or previous Russian foreign wars, you should be clear that for Chinese people, Russia is actually easier to deal with than the U.S. The Americans can come at you with all-out suppression. Neither China nor Russia can beat the U.S. alone. If either side falls, rest assured, your life will definitely be worse than it is now. It's not that Russia's problems won't be dealt with, the time just isn't right yet.
@@ -1394,7 +1394,7 @@ Click to expand Chinese comment</span>
 难道让俄罗斯恢复到沙俄和苏共帝国时代？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Should we really let Russia return to the era of Tsarist Russia and the Soviet Empire?
 </div>
 
@@ -1408,7 +1408,7 @@ Click to expand Chinese comment</span>
 这还真的有可能，对不起[大笑]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is actually possible, my bad. [Laughing out loud]
 </div>
 
@@ -1422,7 +1422,7 @@ Click to expand Chinese comment</span>
 你觉得可能回到吗？[捂脸]即使真的能回到，那也不知道多少年了，到时候中国又是什么水平呢，即使真的能回到，你觉得他能干过美国吗？当年他都没赢，何况现在，眼光要放远一些，但是当下比较明显的就是美国对付中国啊，两者不可能和睦相处，你有威胁的实力就是有罪
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Do you think it's possible to go back? [Facepalm] Even if it really could, who knows how many years it would take, and what level would China be at by then? Even if it really could go back, do you think it could beat the U.S.? It didn't even win back then, let alone now.
 
 One's perspective needs to be a bit more long-term, but what's more obvious right now is the U.S. targeting China. The two of them cannot coexist peacefully. Having the power to be a threat is a crime.
@@ -1438,7 +1438,7 @@ Click to expand Chinese comment</span>
 没有美国谁能打服了日本军国主义？没有美国谁能把苏共帝国送入坟墓？你是不是天天喊打倒美帝国主义？大国博弈靠的是国力，拼的是科学科技，关键还是在教育，要是靠喊口号能成为全球霸主，你说是不是太轻松了？还希望双头鹰北极熊会为你躺枪，这是不是痴心妄想？你懂得什么叫换位思考吗🤔
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Without the U.S., who could have defeated Japanese militarism? Without the U.S., who could have put the Soviet empire in its grave? Do you yell "down with American imperialism" every day?
 
 The great game between nations relies on national strength, what matters is science and technology, and the key is still education. If you could become a global hegemon just by shouting slogans, wouldn't that be too easy? And you still hope the two-headed eagle and the polar bear will take a bullet for you? Isn't that just a pipe dream? Do you even know what it means to put yourself in another's shoes?
@@ -1454,7 +1454,7 @@ Click to expand Chinese comment</span>
 美国打日本和苏共都是因为利益，谁说喊口号了，这跟喊口号有什么关系，没有说俄罗斯会主动给你躺枪啊，而且双方都明白，任何一个人单独都不是美国的对手，只能暂时联手，世界不是非黑即白，不同时期，不同阶段，敌人和盟友都只是暂时的，都是不断变化的，分清楚主要矛盾和次要矛盾，大国博弈靠的是综合实力，武力是保障，否则科技教育你也没时间发展起来，或者发展起来给别人做嫁衣，就像宋朝一样，我国古代经济最好的时代有用吗，清政府占全世界那么高的经济有用吗，目前很明显的就是美国把主要战略放在东亚了，就是中国，比俄罗斯威胁还大，不是明摆的事情吗？，一山不容二虎，美国衰落了，到时候中俄也会自然把彼此矛盾放大的，当然不是说科技教育不重要，而且和军事齐头并进，目前形势俄罗斯倒了，难道中国会好过吗？短暂的支持俄罗斯难道就是俄罗斯利益高于中国了，你这还关键科技教育呢，就这认知，搞出来了也是为别人做嫁衣
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. fought Japan and the Soviet Union for its own interests, so what does that have to do with shouting slogans? Nobody said Russia would take a bullet for you, and both sides understand that neither can stand alone against the U.S. They can only temporarily join forces. The world isn't just black and white; at different times and stages, enemies and allies are temporary and constantly changing. One must distinguish between the primary and secondary contradictions.
 
 The great game between nations relies on comprehensive national strength, and military force is the guarantee. Otherwise, you won't have the time to develop your science and technology, or your advancements will just end up benefiting someone else. It's like the Song Dynasty; what good was it that it had the best economy in ancient China? What good was it that the Qing government accounted for such a high share of the world's economy?
@@ -1472,7 +1472,7 @@ Click to expand Chinese comment</span>
 俄国人对土地的贪婪，是刻在骨子里基因🧬里的
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The greed of Russians for land is carved into their very bones and genes 🧬.
 </div>
 
@@ -1486,7 +1486,7 @@ Click to expand Chinese comment</span>
 俄罗斯是曾经侵占我国大量领土、杀害二十多万中国人的侵略者，被无知的人称之为战斗民族。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia is an aggressor that once occupied a vast amount of our country's territory and killed over 200,000 Chinese people, yet it is called "the fighting nation" by ignorant people.
 </div>
 
@@ -1500,7 +1500,7 @@ Click to expand Chinese comment</span>
 不知道为什么国内主流媒体也那样引导，试图掩盖历史
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I don't know why the domestic mainstream media also guides public opinion that way, trying to conceal history.
 </div>
 
@@ -1514,7 +1514,7 @@ Click to expand Chinese comment</span>
 那不是无知，是有很特殊的政治需求。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 That's not ignorance. It's because there is a very specific political need.
 </div>
 
@@ -1528,7 +1528,7 @@ Click to expand Chinese comment</span>
 黄俄是不知道这些历史的[大笑]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The pro-Russia fanatics are ignorant of this history. [Laughing out loud]
 </div>
 
@@ -1542,7 +1542,7 @@ Click to expand Chinese comment</span>
 他们知道的。但是他们故意洗地。故意给侵略者，给官僚碳管主义洗地
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 They know. But they deliberately whitewash things. They deliberately whitewash for the aggressors, and for bureaucratic carbon-tube-ism.
 </div>
 
@@ -1556,7 +1556,7 @@ Click to expand Chinese comment</span>
 你这么说，我第一个想到的是美英这些国家，一个从海盗起家，一个是漂洋过海屠杀原住民起家[思考]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 When you put it that way, the first countries I think of are the U.S. and the U.K. One started out as pirates, and the other by sailing across the ocean and slaughtering the indigenous population. 🤔
 </div>
 
@@ -1570,7 +1570,7 @@ Click to expand Chinese comment</span>
 阁下对于美国这个国家又是什么看法呢，比较好奇[doge]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 What's your view on the country of the United States? I'm quite curious [doge]
 </div>
 
@@ -1584,7 +1584,7 @@ Click to expand Chinese comment</span>
 人类的灯塔。世界上最不坏的国家。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The lighthouse of humanity. The least-bad country in the world.
 </div>
 
@@ -1598,7 +1598,7 @@ Click to expand Chinese comment</span>
 世界警察当之无愧，没有美国第四次世界都已经打完，很多小国家都消失了
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The world police is a well-deserved title. Without the U.S., World War IV would have already been fought, and many small countries would have disappeared.
 </div>
 
@@ -1612,7 +1612,7 @@ Click to expand Chinese comment</span>
 国内舆论最喜欢引导民众骂美国，觉得什么都是美国造成的，其实要不是美国我们不会发展这么快。2000 年美国让我们加入 WTO，二战美国把日本打趴，而且不准他们研发原子弹，摧毁日本武器，苹果，特斯拉带动了中国国产手机和新能源汽车发展，带动无数就业。和优秀国家结交带来的好处，最好的老师。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Domestic public opinion loves to stir up public sentiment against the U.S., thinking everything is caused by America. In reality, without the U.S., we would not have developed so fast.
 
 In 2000, the U.S. let us join the WTO. During WWII, the U.S. brought Japan to its knees, and also forbade them from developing nuclear weapons and destroyed their weapons. Companies like Apple and Tesla drove the development of China's domestic mobile phones and new energy vehicles, creating countless jobs. The benefits of befriending an excellent country—the best teacher.
@@ -1628,7 +1628,7 @@ Click to expand Chinese comment</span>
 支持😂国内媒体新闻只会黑美国，引导国人喷美国😂事实上美国各方面遥遥领先中国，群众也比中国群众幸福的多，只是大多数国人夜郎自大，不敢面对现实[大笑]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I agree 😂. Domestic media and news only badmouth the U.S. and guide the Chinese people to lash out at the U.S. 😂. In reality, the U.S. is far ahead of China in all aspects, and its people are much happier than the Chinese people. It's just that most of the Chinese people are foolishly arrogant and don't dare to face reality. [laughing out loud]
 </div>
 
@@ -1642,7 +1642,7 @@ Click to expand Chinese comment</span>
 美国只要钱！俄罗斯钱、命，地、全都要！
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. only wants money! Russia wants money, lives, and land—it wants it all!
 </div>
 
@@ -1656,7 +1656,7 @@ Click to expand Chinese comment</span>
 有些流氓地痞流氓们以出卖国家利益换取政权地位！
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Some thugs and scoundrels sell out national interests in exchange for political power and status. （Satirizing the Communist Party of China）
 </div>
 
@@ -1670,7 +1670,7 @@ Click to expand Chinese comment</span>
 是这些吗？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Are these that you've mentioned?
 
 ![](images/2025/russia-argue.jpg (That pig-headed, dog-faced, ill-tempered military politician from Ukraine.))
@@ -1686,7 +1686,7 @@ Click to expand Chinese comment</span>
 我觉得你应该先学外语再了解世界的真相，听一听俄罗斯人口中的俄罗斯，或者听一听巴基斯坦人口中的俄罗斯，你的信息来源太单一，单一的信息来源只会让你成为井底之蛙，希望你可以看看多个国家的报道，而不是一家之言，我是语言专业的学生，据我接触的各个国家的人对俄罗斯政府的评价和看法都是负面，甚至是俄罗斯人对自己政府看法都是负面
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I think you should first learn a foreign language and then understand the truth about the world. You should listen to what Russians say about Russia, or what Pakistanis say about Russia. Your information sources are too limited, and a single source will only make you a frog in a well. I hope you can read reports from multiple countries, not just one voice. I am a language student, and based on the people from various countries I have talked to, their evaluations and opinions of the Russian government are all negative, and even Russians' opinions of their own government are negative.
 </div>
 
@@ -1700,7 +1700,7 @@ Click to expand Chinese comment</span>
 了解了解真正的历史，没有写在书本上的历史，库页岛，海参崴，30万华人，海参崴屠杀，还有被他们分裂的蒙古，和被夺走的150万平方公里的土地，我甚至觉得他们比日本更可恨
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 You can try to understand the real history, the history that isn't written in books. Sakhalin Island, Vladivostok, the massacre of 300,000 Chinese people in Vladivostok, the Mongolia they divided, and the 1.5 million square kilometers of land that was taken away. I even think they are more hateful than Japan.
 </div>
 
@@ -1714,7 +1714,7 @@ Click to expand Chinese comment</span>
 俄罗斯这都十恶不赦了，那美帝什么程度我都不敢想，相必题主一定是个嫉恶如仇的人吧[飙泪笑]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia is guilty of the most heinous crimes, so I don't even dare to imagine what level of evil the American imperialists are at. I guess the original poster must be someone who hates evil with a passion, right? [Crying with laughter]
 </div>
 
@@ -1728,7 +1728,7 @@ Click to expand Chinese comment</span>
 对，我嫉恶如仇。毛子在东北作恶多年，抢了东北黑吉的出海口，包围了黑吉，当年要不是抗住了，现在东三省都归毛子管了，变成新的灰色畜生。东三省都特别恨毛子，当然也有不恨的，毕竟毛子在东北奸淫很多妇女，留下二毛子也是很正常的事
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, I hate evil with a passion. The Russians committed atrocities in the Northeast for many years. They stole the seaports of Heilongjiang and Jilin and encircled them. If we hadn't resisted back then, the three northeastern provinces would be under Russian rule now, turned into new gray beasts.
 
 The three northeastern provinces particularly hate the Russians. Of course, there are some who don't, since the Russians raped many women in the Northeast, and it's quite normal for them to have left behind half-breeds.
@@ -1744,7 +1744,7 @@ Click to expand Chinese comment</span>
 上个世纪深挖洞广积粮，大搞三线是因为谁要打我们？大鹅已经准备对我们扔核弹了！才几天，忘了吗？
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the last century, we were digging deep tunnels, storing vast grain, and greatly developing the Third Front. Who wanted to attack us? The Big Goose was already preparing to drop nuclear bombs on us! It's only been a few decades; have you forgotten?
 </div>
 
@@ -1758,7 +1758,7 @@ Click to expand Chinese comment</span>
 俄罗斯亡我之心不死
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia's ambition to destroy us is undying.
 </div>
 
@@ -1772,7 +1772,7 @@ Click to expand Chinese comment</span>
 俄罗斯出过大文豪，音乐家，数学家，国际象棋大师，这一点来看俄罗斯人是不错的
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Russia has produced great literary masters, composers, mathematicians, and chess grandmasters. From this point of view, the Russian people are quite remarkable.
 </div>
 
@@ -1786,7 +1786,7 @@ Click to expand Chinese comment</span>
 哪个国家没出过？封建国家人家还出了很多科学家呢
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Which country hasn't? Feudal countries have even produced many scientists.
 </div>
 
@@ -1800,7 +1800,7 @@ Click to expand Chinese comment</span>
 俄罗斯拿了多少个诺贝尔奖中国拿了多少个你随便百度搜搜就知道，别告诉我诺贝尔奖代表不了什么
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Go do a quick online search to see how many Nobel Prizes Russia has won and how many China has won. And don't tell me the Nobel Prize doesn't represent anything.
 </div>
 
@@ -1814,7 +1814,7 @@ Click to expand Chinese comment</span>
 不！正义联盟的领头羊，老大哥怎会是强盗、毒瘤呢？[滑稽]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 No! How could the leader of the Justice League, the Big Brother, possibly be a robber or a cancer? [witty]
 </div>
 

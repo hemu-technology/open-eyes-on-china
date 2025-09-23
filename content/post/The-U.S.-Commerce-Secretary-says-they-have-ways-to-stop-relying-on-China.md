@@ -35,7 +35,7 @@ Click to expand Chinese comment</span>
 以前的工业，归根结底是人，工人的数量和素质。现在的工业，需要基建和人共同配合，美国这两样都不行，他们想屁吃呢
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the past, industry ultimately came down to people — the number and quality of workers. Today, industry requires infrastructure and people working together, and the U.S. has neither. They’re dreaming.
 </div>
 
@@ -51,7 +51,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Céline Dion's singing is beautiful. I didn't expect her to have such a great outlook on things—it’s truly rare and admirable.
 </div>
 
@@ -67,7 +67,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You build your factory in a densely populated area? Don’t those places still need the power lines to be reinstalled?
 </div>
 
@@ -83,7 +83,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Pretty funny—what would Japanese people think upon hearing this? 😊😊😊
 </div>
 
@@ -99,7 +99,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Use your brain—do you really think international power games are that simple?
 </div>
 
@@ -116,7 +116,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ever since Trump took office, it really did become that simple.
 </div>
 
@@ -132,7 +132,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Ban the use of the US dollar in China! Because 7 yuan RMB should equal about 1.8 USD. But under the current US financial hegemony, 7.24 yuan is needed to exchange for 1 USD.
 </div>
 
@@ -148,7 +148,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The US dollar is already unusable in China. RMB appreciation doesn’t hurt the US—it hurts China. Use some common sense.
 </div>
 
@@ -164,7 +164,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 US construction foreman: “It takes us 2 years and \$1 billion to lay a single cable.”
 Chinese construction foreman: “We rebuild the Great Wall over thousands of miles in 2 months, costing just \$100 million.”
 </div>
@@ -181,7 +181,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A 2-year timeline—does that mean working 8 hours a day? A 2-month timeline—does that mean 12 hours a day aren’t enough, maybe 14 hours or more? Does 1 billion mean the daily wage could be ten times that of 100 million? Or perhaps the 100 million budget implies the materials aren’t very solid.
 </div>
 
@@ -197,7 +197,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Has the U.S. taken off its mask?
 </div>
 
@@ -213,7 +213,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s not the main point. The key is that the U.S. openly made little Japan “eat dirt,” like with the Hiroshima agreement, to keep Japan from running wild—the 40 years of stagnation started from then…
 </div>
 
@@ -229,7 +229,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Are Chinese pharmaceutical companies affected?
 </div>
 
@@ -245,7 +245,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, they are affected. Chinese pharmaceutical companies are also not spared, and traditional Chinese medicine prices keep rising year after year.
 </div>
 
@@ -261,7 +261,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They start with 5,500: the federal government first takes half, then each state grabs half of what’s left. The remaining half gets subcontracted, and after subcontracting, the project is handed out at the lowest possible price. If the budget still falls short, they just ask for another round…
 </div>
 
@@ -277,7 +277,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 These people aren’t thinking about investing or creating—they’re scheming about how to cut corners, steal, and grab whatever they can.
 </div>
 
@@ -293,7 +293,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Many products in the world rely on consumption by China’s large population; otherwise, no matter how advanced the technology is, it’s just a piece of scrap metal, and food would go to waste.
 </div>
 
@@ -309,7 +309,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Alright, China and Japan can strengthen trade cooperation. Japan’s role is basically to keep supplying resources to the U.S. so that the U.S. can continue its rivalry with China.
 </div>
 
@@ -325,7 +325,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They could make Japan contribute more funds to build highways, railways, factories, and so on for the U.S.
 </div>
 
@@ -341,7 +341,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If 550 billion could really save American industry, why wait for Japan to pay? Ridiculous.🥸
 </div>
 
@@ -357,7 +357,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 First, they need to bleed little Japan dry—works too.
 </div>
 
@@ -373,7 +373,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But aren’t they still relying on foreign production? If they had the capability, the U.S. could produce it themselves.
 </div>
 
@@ -389,7 +389,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So basically, they’ve been relying on China all along.
 </div>
 
@@ -405,7 +405,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I wonder who the U.S. will blame if, years from now, this mirage still hasn’t materialized.
 </div>
 
@@ -421,7 +421,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Japan probably lacks the raw materials.
 </div>
 
@@ -437,7 +437,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. can now produce fentanyl on its own—Americans are absolutely thrilled.
 </div>
 
@@ -453,7 +453,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Cut off their supply of raw materials completely!
 </div>
 
@@ -469,7 +469,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Isn’t this just outright robbing 550 billion from Japan?
 </div>
 
@@ -485,7 +485,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The preliminary determination results of the U.S.-India anti-dumping investigation on medical CT tubes should have been announced by now, right?
 </div>
 
@@ -501,7 +501,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Does the U.S. lack the money or technology to build factories? Haha, no—they just don’t have suitable workers. Labor unions are always causing trouble, striking left and right. Otherwise, why would American capitalists have outsourced their factories in the first place?
 </div>
 
@@ -517,7 +517,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 To speak of open plunder so bluntly and unashamedly—reckless and unconcealed—truly aligns with the nature of their predatory species.
 </div>
 
@@ -533,7 +533,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If you don’t want the Chinese market, then go ahead and play your own game—why be afraid of anything!
 </div>
 
@@ -549,7 +549,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Well said. Let Japan chip in even more—first to fund the weapons you covered in your PPT, and then to help support your elders.
 </div>
 
@@ -565,7 +565,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What Trump did was actually wise—fatten them up and then take what’s due, otherwise they might turn on you later.
 </div>
 
@@ -581,7 +581,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Saying something so shameless with such self-righteousness.
 </div>
 
@@ -597,7 +597,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You make antibiotics, we make chips, and in the end, it all leads to de-globalization.
 </div>
 
@@ -613,7 +613,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The most important thing is that the profits still go to the U.S.! Japan doesn’t get a thing.
 </div>
 
@@ -629,7 +629,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. Secretary of Commerce is the best minister ever, haha.
 </div>
 
@@ -645,7 +645,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s not that simple, haha. What exactly is the relationship between the Japanese and the U.S.?
 </div>
 
@@ -661,7 +661,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. can make the Japanese do whatever it wants! With a strong U.S. military presence in Japan, the right-wing factions there have no choice but to comply—kneeling and licking is nothing unusual…
 </div>
 
@@ -677,7 +677,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From a young age, American education teaches “no candy, cause mischief; no money, start a war.” The banner reads: rogue, bandit, and robber.
 </div>
 
@@ -693,7 +693,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Japan and South Korea are just lapdogs of the U.S.; if America tells them to lick shoes, they’d happily do it.
 </div>
 
@@ -709,7 +709,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The descendants of thieves—no matter how much they pretend to be civilized—are still thieves.
 </div>
 
@@ -725,7 +725,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This treats the behavior of thugs and scoundrels as if it were perfectly natural and justified.
 </div>
 
@@ -741,7 +741,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How much money did the Trump family make by manipulating the market? Does the U.S. really lack money?
 </div>
 
@@ -757,7 +757,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Is this the reason Japan’s Prime Minister resigned today? To delay or weasel out of paying that \$550 billion? Hahaha!
 </div>
 

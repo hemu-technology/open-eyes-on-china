@@ -37,7 +37,7 @@ Click to expand Chinese comment</span>
 这是我们的国防强大了，人民解放军拳头硬了的必然结果！
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is the inevitable result of our strong national defense and the hard fists of the People’s Liberation Army!
 </div>
 
@@ -53,7 +53,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What result?
 </div>
 
@@ -69,7 +69,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It means everything can be discussed and negotiated!
 </div>
 
@@ -85,7 +85,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The result is that the spokesperson for the U.S. Department of Defense said they do not actively seek conflict with China.
 </div>
 
@@ -101,7 +101,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Can’t you tell? China is very firm and sticks to its bottom line! TikTok will not be sold.
 </div>
 
@@ -117,7 +117,7 @@ tiktok战略意义非常重大，可以客观的展现中国的发展和中国�
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 TikTok has great strategic significance. It objectively showcases China’s development and the spirit of the Chinese people.
 </div>
 
@@ -133,7 +133,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is the inevitable result of our strong national defense and the hard fists of the People’s Liberation Army!
 </div>
 
@@ -149,7 +149,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. doesn’t want China to have something that can influence the world, so they must buy in and control it.
 </div>
 
@@ -165,7 +165,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Chinese people must have a voice internationally, and Douyin (TikTok) is our way to promote ourselves globally.
 </div>
 
@@ -181,7 +181,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China and the U.S. are both world-class powers. Cooperation benefits both peoples and the world. If they keep fighting, there will be no winners—both countries and the world will suffer.
 </div>
 
@@ -197,7 +197,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You’re right, but can you go tell Trump? He won’t see it here.
 </div>
 
@@ -213,7 +213,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Even if you tell him, it won’t matter. Even if Trump wanted to improve U.S.-China relations, Congress would never let him do it.
 </div>
 
@@ -229,7 +229,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Reaching consensus through argument is the best way to cooperate in trade. The ultimate goal is mutual benefit.
 </div>
 
@@ -245,7 +245,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You need equal strength. Without military power, you can’t negotiate mutual benefit with Western countries. They always think: what’s yours is mine, and what’s mine is still mine. That’s never going to change. Plundering others is the most direct and effective way to weaken them.
 </div>
 
@@ -261,7 +261,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Is this really an argument? It’s always them making demands and you having to answer. Only when you make concessions does it end.
 </div>
 
@@ -277,7 +277,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This time, if you remove unfair tariffs, we’ll remove ours. If you lift sanctions, we’ll cooperate. If not, forget it.
 </div>
 
@@ -293,7 +293,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. used to be idealistic and just, but now it’s selfish and arrogant.
 </div>
 
@@ -309,7 +309,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A country with only 200 years of history, no culture or civilization, what right do they have to compare with us? Their early and later development relied on Chinese research and science. Their history is just plunder and war—what else?
 </div>
 
@@ -325,7 +325,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Long live U.S.-China friendship! 🙏🙏🙏
 </div>
 
@@ -341,7 +341,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There is no friendship between China and the U.S.—it’s a life-or-death struggle.
 </div>
 
@@ -357,7 +357,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 U.S.-China relations are the most important bilateral relationship in the world and should be protected like a mother river.
 </div>
 
@@ -373,7 +373,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Both Chinese and American people love peace. There are no fundamental, irreconcilable contradictions, so we should cooperate for mutual benefit.
 </div>
 
@@ -389,7 +389,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Unless China suddenly overwhelmingly surpasses the U.S., the conflict will remain life-or-death. The U.S. will do everything to block China’s development. As China slowly grows, the conflict will only intensify—unless China leaps ahead or the U.S. suddenly falls, there will be more and more clashes!
 </div>
 
@@ -405,7 +405,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If World War III really breaks out, you’ll see if there’s a contradiction. The peace and safety you enjoy is thanks to the silent sacrifices of many heroes.
 </div>
 
@@ -421,7 +421,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Chairman Mao said: American imperialists are arrogant. Wherever they can be unreasonable, they will be. If they act reasonably, it’s only because they’re forced to.
 </div>
 
@@ -437,7 +437,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I only see the U.S. being rude and unreasonable, not peace-loving.
 </div>
 
@@ -453,7 +453,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. only cooperates when its power is crushed and it feels desperate. Only then will it compromise with China.
 </div>
 
@@ -469,7 +469,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Cooperation leads to mutual benefit. Keeping promises leads to lasting results.
 </div>
 
@@ -485,7 +485,7 @@ TikTok是中美老百姓之间友好交流的平台 增进了友善往来 促进
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 TikTok is a platform for friendly exchanges between ordinary people in China and the U.S. It promotes cooperation and win-win outcomes. Let’s keep working together!
 </div>
 
@@ -501,7 +501,7 @@ TikTok 相关问题妥善解决，意味着真正的C2M全球商业的时代到�
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Properly resolving TikTok issues means the true era of global C2M business is here, driven by global consumption and Chinese innovation. If you don’t keep up, you’ll be left behind.
 </div>
 
@@ -517,7 +517,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Both sides agreed to discuss TikTok seriously, but no concrete deal yet!
 </div>
 
@@ -533,7 +533,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Right. No matter the details, as long as TikTok operates in the U.S., global C2M business and Chinese innovation are here to stay.
 </div>
 
@@ -549,7 +549,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China and the U.S. will keep competing for a long time—no big changes soon!
 </div>
 
@@ -565,7 +565,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Long live U.S.-China friendship!
 </div>
 
@@ -581,7 +581,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Long live U.S.-China friendship—what a beautiful slogan. Long live our motherland. Long live the People’s Liberation Army. Long live fair cooperation between China and the U.S.
 </div>
 
@@ -597,7 +597,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If China and the U.S. are good, the world is good.
 </div>
 
@@ -613,7 +613,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 All countries should be independent, with no colonization, containment, or encirclement. That’s the kind of world we want.
 </div>
 
@@ -629,7 +629,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China and the U.S. resolved the TikTok deadlock pragmatically, reaching a win-win framework. This key move ensures data security, breaks investment barriers, and sets a new standard for global economic cooperation. Compliance and market openness go hand in hand—this is not a zero-sum game, but about growing the pie together!
 </div>
 
@@ -645,7 +645,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s right—interacting with all civilized countries makes every nation strong and its people happy.
 </div>
 
@@ -661,7 +661,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 How is the U.S. a civilized country—just because it has military bases everywhere?
 </div>
 
@@ -677,7 +677,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China will interact with any country and won’t accept restrictions from anyone!
 </div>
 
@@ -693,7 +693,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 America’s civilization is built on brutality against other countries and peoples.
 </div>
 
@@ -709,7 +709,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China earned America’s respect through its own strength. Only with strength can you protect your interests. Without it, everything is empty talk. Go China 🇨🇳
 </div>
 
@@ -725,7 +725,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This shows that only by being strong can you earn respect and have more say. Our country is awesome—keep it up!
 </div>
 
@@ -741,7 +741,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Long live U.S.-China friendship—what a beautiful slogan. Long live our motherland. Long live the People’s Liberation Army. Long live fair cooperation between China and the U.S.
 </div>
 
@@ -757,7 +757,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Keep your word and follow through! Looking forward to a breakthrough in U.S.-China relations—back to healthy, stable, sustainable development for the benefit of both countries and the world! 👍
 </div>
 
@@ -773,7 +773,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Both Chinese and American people love peace. There are no fundamental, irreconcilable contradictions, so we should cooperate for mutual benefit. 💐
 </div>
 
@@ -789,7 +789,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China and the U.S. are both world-class powers. Cooperation benefits both peoples and the world. If they keep fighting, there will be no winners—both countries and the world will suffer.
 </div>
 
@@ -805,7 +805,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China is strong, rich, confident, and proud. Only then can there be U.S.-China friendship. Otherwise, the U.S. will always profit more from China than vice versa. If we unite and stop buying American goods, we can win the trade and tech wars.
 </div>
 
@@ -821,7 +821,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China and the U.S. are the world’s two largest economies. It’s best to cooperate and develop together for world peace.
 </div>
 
@@ -837,7 +837,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 U.S.-China confrontation brings disaster to the world; cooperation brings peace.
 </div>
 
@@ -853,7 +853,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Keep improving and strengthening ourselves—only then will our opponents bow their heads and respect us.
 </div>
 
@@ -869,7 +869,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China and the U.S. are both top global powers. If they work together, both peoples benefit and the world becomes more stable. If they fight, both lose and the world suffers.
 </div>
 
@@ -885,7 +885,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The law of the jungle never changes. Our great country’s strength makes Western powers hesitate. Wishing prosperity to our country, our party, and our people!
 </div>
 
@@ -901,7 +901,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S.-China Madrid trade talks were an extraordinary move by the Chinese government to protect national interests and Chinese companies’ rights. Reaching a basic consensus on TikTok shows China’s determination and will. Just my opinion.
 </div>
 
@@ -917,7 +917,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Long live U.S.-China friendship! Cooperation leads to mutual benefit. Reaching consensus through argument is the best way to cooperate in trade. The ultimate goal is mutual benefit.
 </div>
 
@@ -933,7 +933,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Democracy, civil rights, and people’s welfare are the foundation of happiness and stability for working people, and the cornerstone of long-term national prosperity. Civilized democracy and freedom will lead and shape the world!
 </div>
 
@@ -949,7 +949,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China and the U.S. are world powers. Good relations drive global economic development, benefit nations and peoples, and earn respect worldwide. 👍👍👍
 </div>
 
@@ -965,7 +965,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If China and the U.S. cooperate, the world is peaceful. If they fight, the world is in chaos! Do your part, support a strong national defense! The People’s Liberation Army must be strong to deter war!
 </div>
 
@@ -981,7 +981,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China and the U.S. complement each other—don’t worry about who’s stronger. Complementary industries and shared interests are better than rivalry!
 </div>
 
@@ -997,7 +997,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Peaceful coexistence benefits humanity!
 </div>
 
@@ -1013,7 +1013,7 @@ TikTok依然姓中且不会退出美国市场，这是主基调。
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 TikTok will remain Chinese and won’t leave the U.S. market. That’s the main point.
 </div>
 
@@ -1029,7 +1029,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Compromise in competition is inevitable among strong rivals. Equal negotiation depends on strength. Fairness is backed by power. Hope China achieves breakthroughs in technology and national prosperity.
 </div>
 
@@ -1045,7 +1045,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. needs stability in Asia-Pacific right now. War is about to break out in Europe, which is bad for U.S. strategic interests. Bless China—strategic opportunity!
 </div>
 
@@ -1061,7 +1061,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 As long as the algorithm isn’t handed over, the U.S. can be the majority shareholder, but Chinese shareholders must have veto power.
 </div>
 
@@ -1077,7 +1077,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China always pursues peaceful coexistence and joint development. If China and the U.S. can cooperate and grow together, it will benefit both and the world.
 </div>
 
@@ -1093,7 +1093,7 @@ TikTok以“记录真实生活”为核心，通过短视频形式向全球用�
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 TikTok’s core is “recording real life.” Through short videos, it shows China’s achievements and spirit to the world. Its strategic significance goes far beyond business—it’s a key window for the world to observe China.
 </div>
 
@@ -1109,7 +1109,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Win-win cooperation is the only path to peaceful development. Fighting only leads to mutual harm. This platform benefits people worldwide, especially China and the U.S. Their cooperation helps create a peaceful international environment.
 </div>
 
@@ -1125,7 +1125,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Reaching consensus through argument is the best way to cooperate in trade. The ultimate goal is mutual benefit.
 </div>
 
@@ -1141,7 +1141,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China and the U.S. have always cooperated well. There are disagreements, but they keep working together and follow market rules and global trade standards. But then Trump came along and turned the world upside down.
 </div>
 
@@ -1157,7 +1157,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China and the U.S. have no fundamental territorial disputes. The U.S. shouldn’t suppress China or block its unification, but seek cooperation. Working together benefits both countries and the world.
 </div>
 
@@ -1173,7 +1173,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Don’t trust America too much—I feel Americans aren’t honest. They say one thing to your face and another behind your back. Today they’re one way, tomorrow they’re another.
 </div>
 
@@ -1189,7 +1189,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The friendship formed during WWII should last forever. Both countries should cherish it and be defenders of world peace.
 </div>
 
@@ -1205,7 +1205,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I sincerely hope China and the U.S. can coexist peacefully, learn from each other, and cooperate for mutual benefit. 🙏🙏🙏
 </div>
 
@@ -1221,7 +1221,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In these extraordinary times, friendly U.S.-China relations bring prosperity to the world! 💐
 </div>
 
@@ -1237,7 +1237,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When a country is strong, it has a voice and won’t be bullied! 👍
 </div>
 
@@ -1253,7 +1253,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. hypes up its tech companies’ market value, making it impossible for other countries to compete. They suppress other countries’ tech firms, making it hard for them to survive. But Chinese companies have a big enough market to survive, so they’re not afraid of pressure. National strength is crucial—if the country can’t hold up, everything collapses!
 </div>
 
@@ -1269,7 +1269,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You can’t really cooperate with someone like Trump—his principle is personal interest above all. “America First” is just a slogan for votes. If his interests or votes are threatened, he might make a small concession, but only as a temporary measure. If things change, he’ll flip instantly. If you know he’s unreliable, you’ll know how to deal with him and won’t be fooled.
 </div>
 
@@ -1285,7 +1285,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The U.S. now sees China as its main rival. Suppressing and defeating China is America’s future path, and all its actions follow this strategy. China shouldn’t have any illusions!
 </div>
 
@@ -1301,7 +1301,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Times have changed—America has fewer and fewer ways to restrain China. Now they’re trying everything they can, but in a few years, they’ll have to follow China’s lead.
 </div>
 
@@ -1317,7 +1317,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Whoever agrees to sell is the problem! Why does the U.S. want TikTok so badly? Because it knows TikTok has huge economic and social value. The U.S. knows its importance—doesn’t China? It’s a Chinese tech product, not just any product. If China refuses to sell, the U.S. can’t just take it. If China tried to buy or invest in Microsoft, would the U.S. agree? So why should China agree to the U.S. buying TikTok?
 </div>
 
@@ -1333,7 +1333,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China, the U.S., and Russia working together would make the world a better place!
 </div>
 
@@ -1349,7 +1349,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The cooperation framework means selling a portion to the U.S., but the U.S. must allow the company to operate fairly in America. Part of it belongs to China, part to the U.S., and both profit together. The exact share still needs to be negotiated.
 </div>
 
@@ -1365,7 +1365,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The Chinese people are kind and peace-loving, but are smeared and demonized by the U.S. and Western media. China always sticks to win-win principles and keeps showing goodwill and patience, but this sincerity is often met with greed and hegemony from the other side.
 </div>
 
@@ -1381,7 +1381,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 With someone who flips faster than a book, and a country with no policy continuity, having an agreement is better than none. But listen to what they say and watch what they do—don’t be too naive and believe everything.
 </div>
 
@@ -1397,7 +1397,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Personally, I think we shouldn’t have any illusions about U.S.-China trade talks. Be ready for a complete decoupling. No matter what, we should reduce trade with the U.S. as much as possible.
 </div>
 
@@ -1413,7 +1413,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Why can’t we use YouTube in China?
 </div>
 
@@ -1429,7 +1429,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Basically, TikTok’s U.S. operations just got another extension—Trump’s fourth delay. Otherwise, he’d lose face. The U.S. made the request, hoping for some face-saving. Otherwise, there’s no way to explain it at home. China agreed to include it in the negotiations.
 </div>
 
@@ -1445,7 +1445,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China’s TikTok is cooperating with the U.S. under pressure. But does the U.S. cooperate with China on lithography machines and chip technology? Why don’t we pressure the U.S. for cooperation?
 </div>
 
@@ -1461,6 +1461,6 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Any so-called consensus with the U.S. could be torn up by Trump at any moment. Don’t expect too much.
 </div>

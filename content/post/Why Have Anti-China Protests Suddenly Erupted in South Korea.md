@@ -26,7 +26,7 @@ thumbnail = "images/2025/South-Korea-Anti-China.png"
 +++
 
 <div class="comment-block quizzer">
-  <strong style="color: #0077b8;">Translator’s Commentary:</strong><br>
+  <strong class="translated-label">Translator’s Commentary:</strong><br>
 Reading through all the comments in this article, I’d like to offer some reflections from my own perspective. The discussion ranges from international relations, geopolitics, and economic competition, to social phenomena such as protests and gender dynamics.
 
 From my viewpoint:
@@ -85,7 +85,7 @@ Click to expand Chinese comment</span>
 立帖为证，算命的骗你十年八年，我这里用不了一年半载就可以看到结果。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 This might not be a bad thing at all. In fact, it could bring unexpected benefits in the future.
 
 Protests are essentially a way for the weak to collectively demonstrate against the strong. That’s why we often see people protesting against stronger powers—for example, Japanese people protesting the U.S., South Koreans protesting China, or citizens protesting their own governments. But you rarely see protests against weaker parties. Can you imagine Chinese people protesting the Philippines over the South China Sea? Israelis protesting Hamas raids? Americans protesting Mexican cartels? Of course not. When facing a weaker opponent, there’s no need to protest—you simply confront them directly.
@@ -111,7 +111,7 @@ Click to expand Chinese comment</span>
 我和你的看法一致，同时游行反华，就说明内部有亲华势力，游行越激烈就说明那股势力越强，打个比方，就不会有人游行呼吁禁止吃狗屎，因为大家都不会这么做，但是如果真的看到有人游行呼吁禁止吃狗屎，那就说明当地吃狗屎是一种大面积的现象。 这阵反华趋势一过，他们就认命了。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I completely agree with your perspective. In fact, the very existence of anti-China protests suggests that there is a significant pro-China force within South Korea. The more intense the protests become, the stronger that underlying force usually is.
 
 Think of it this way: no one would ever protest to “ban eating excrement,” because it’s not something people normally do. But if you actually see people protesting with signs demanding a ban, it only means that eating excrement must be widespread enough to be a real issue.
@@ -131,7 +131,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 amazing, this example is simple and easy to understand 👍
 </div>
 
@@ -147,7 +147,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That makes sense, but how do you explain the anti-U.S. protests in China back then? 🤔
 </div>
 
@@ -163,7 +163,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 He actually left out one situation: when your country or community has indeed been harmed, but the other side is an organization or another country. As an ordinary citizen, you can’t directly retaliate, so organizing protests to urge your government to take action becomes a feasible approach. A good example would be the protests in the U.S. after 9/11.
 </div>
 
@@ -179,7 +179,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 At that time, China was the weaker side compared to the U.S., which also fits exactly with what the original poster described.
 </div>
 
@@ -197,7 +197,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s absolutely correct. The chaos in Hong Kong a few years back followed the same logic. Now they’ve dropped the pretense and head south to Shenzhen, accepting reality. Around 2030/2035 this same effect will appear in Europe and the U.S., and by then Chinese people abroad should be mindful of their safety. By 2040/2045, the West will also come to terms with reality.
 
 The reasoning is simple: jealousy only occurs between peers. Once you’ve gone far beyond someone’s level, jealousy fades away. A regular physics teacher won’t be jealous of Qian Xuesen, and a small phone shop owner won’t be jealous of Ren Zhengfei.
@@ -215,7 +215,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It won’t take that long — probably within 10 years.
 </div>
 
@@ -231,7 +231,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Did they really lose anything by going to Shenzhen? I saw a video before: some Shenzhen residents were suffering terribly from kidney stones but couldn’t get immediate surgery, because the scarce medical resources had to be reserved for certain people. Can we stop talking only about these grand narratives? Can we actually safeguard our own tangible, real-life interests?
 </div>
 
@@ -247,7 +247,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There’s been a lot of news recently about attacks on Chinese people in Japan. I’d estimate that the next phase will be acceptance.
 </div>
 
@@ -265,7 +265,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Wealthy South Koreans stroll the streets of Shanghai, eating as they go.
 
 Poor South Koreans march the streets of Seoul in anti-China protests.
@@ -283,7 +283,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Actually, most of the people coming to China aren’t that wealthy—they’re mostly coming in debt.
 </div>
 
@@ -299,7 +299,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 ChatGPT 说：
 
 A year or so might be a bit too fast… The timing really depends on the state of the U.S. economy, because South Korea’s economy is embedded within the American system—its very existence even relies on the U.S.
@@ -321,7 +321,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A country moves cautiously with a small island because it’s extremely sensitive—any slightest change could really alter the global balance 🌟. Radical, sweeping changes would even harm ourselves; the state prefers gradual, controllable adjustments 🌟.
 </div>
 
@@ -345,7 +345,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Japan and South Korea have always been the U.S.’s lapdogs, but now even their master has no spare resources.
 
 Naturally, the dogs are left to fend for themselves.
@@ -369,7 +369,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Wait until that little island deteriorates further, then reclaim it when they come begging. Right now, with the East rising and the West declining, entrusting Taiwan to the wrong hands was inevitable. Taking over now just means it’ll inevitably become a burden.
 </div>
 
@@ -385,7 +385,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If it takes any longer, all of Taiwan’s industries will be snatched up by countries like Japan, and then Taiwan won’t hold much value anymore.
 </div>
 
@@ -401,7 +401,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’m just waiting for that little island to suddenly shift—like North Korea in the ’90s, losing support from the Soviet-led economic bloc.
 </div>
 
@@ -417,7 +417,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A stable environment is extremely important for development.
 </div>
 
@@ -433,7 +433,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Taiwan’s value doesn’t lie in its industries; its geographic location is what makes it truly strategic.
 </div>
 
@@ -449,7 +449,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Right now, the U.S. is basically bleeding its allies to save itself.
 </div>
 
@@ -466,7 +466,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Agreed! Protests are essentially impotent rage—they look loud and impressive, but in reality, they’re useless. From my perspective, the main purpose of this South Korean protest is actually to send a message to the U.S.: “If you don’t act, we’re done for!”
 
 So there’s really no need to focus on what South Korea does; just watch what the U.S. does!
@@ -484,7 +484,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 China’s development will be like climate change—just by living normal lives and working steadily, it can dismantle the colonial system that the white pirate powers built over hundreds of years.
 
 In the future, there will only be one global industrial and division-of-labor system, led by China. Every country will need to reposition itself and find the industries where it can integrate into this system. Those who resist will suffer badly; if you don’t claim a spot, someone else will rush in to fill it.
@@ -502,7 +502,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Besides angry netizens, it’s basically useless. This is in a situation where the government doesn’t intervene at all. If there were even a little oversight, these platforms wouldn’t dare be so bold—obviously paid or coordinated posts wouldn’t be pushed so openly.
 </div>
 
@@ -518,7 +518,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Some small countries and regions still want to sanction and contain China. They even remotely raise a bunch of dumb and disgusting “public intellectuals” to stir up online opinion wars on Chinese platforms. Honestly, every time I see these idiotic worms, I just want to laugh \[😂].
 </div>
 
@@ -534,7 +534,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s actually quite simple. China has fully surpassed South Korea in the electronics, automotive, and shipbuilding sectors that Korea prides itself on. Even Korea’s remaining advantage in chips is no longer guaranteed. Some people or forces are hoping this situation will happen!
 </div>
 
@@ -550,7 +550,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You think that can even “win”? So does that mean our Anti-Japanese protests or Anti-Taiwan-Independence demonstrations are just weak parties destined to lose?
 </div>
 
@@ -566,7 +566,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Then think back—weren’t protests more likely to happen when a country’s national power was weak?
 </div>
 
@@ -584,7 +584,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The last Anti-Japanese protests were triggered because Japan provoked over the Diaoyu Islands, and that was quite a few years ago.
 And when exactly have there been Anti-Taiwan-Independence demonstrations?
 Do you really think you’re the only Chinese person on Zhihu?
@@ -602,7 +602,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Anti-“Taiwan Independence” protests? Haha, they’d probably rather see it declare independence now—so they can deal with it quickly \[😏].
 </div>
 
@@ -618,7 +618,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 At that time, we were indeed the weaker side. Are you going to deny that fact?
 </div>
 
@@ -634,7 +634,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When we held Anti-Japanese protests, who was stronger—Japan or us? \[🙈]
 Now that we have daily presence at the Diaoyu Islands, of course there’s no need to protest anymore \[🙈].
 </div>
@@ -651,7 +651,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It won’t take that long. Right now, some people in South Korea are already moving in the direction you mentioned. I’ve recently watched some interviews with South Korean intellectuals—they’re well aware of the vast disparity between China and Korea, the overlap in industries, and they’re quite pessimistic about how much the U.S. will actually help Korea.
 </div>
 
@@ -667,7 +667,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 South Koreans’ information-gathering ability is on par with the Japanese (which can be attributed to national traits). Stakeholders with interests related to China conduct very detailed investigations into all aspects of China, often providing insights that are refreshing and eye-opening. Even if the public turns anti-China, the political and business circles cannot ignore realities. North Korea has existed next to China for thousands of years, and its continued existence has its reasons.
 </div>
 
@@ -683,7 +683,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes, China has held protests against Japan’s actions on the Diaoyu/Senkaku Islands (or at least that’s the general context), and during some of those demonstrations, people even vandalized Japanese cars belonging to fellow Chinese citizens.
 
 </div>
@@ -702,7 +702,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Back then, China was generally in a weaker position when facing the US, Japan, and South Korea.
 
 Without the United States, China might have already taken control of the Diaoyu/Senkaku Islands directly.
@@ -720,7 +720,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 At that time, we were indeed in a weak position, because Japan and the US were essentially allied.
 </div>
 
@@ -736,7 +736,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I knew someone would bring this up. That was back in 2014; now it’s 2025. Besides domestic crooked bosses withholding wages and people protesting with banners, there’s hardly anything abroad left for us to protest about.
 </div>
 
@@ -752,7 +752,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That was 2012. Back then, we really were the weaker side.
 </div>
 
@@ -768,7 +768,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There are exceptions too—there have been protests in the U.S. against Israel and against Japan.
 </div>
 
@@ -784,7 +784,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Today, Japan and South Korea have already lost their bargaining power. Back in 2018, or even 2020, they still had considerable leverage. With cooperation among China, Japan, and South Korea, it was possible to push back against Western countries in high-end manufacturing. Now, though, as Lao Zhong has noticed, China can accomplish this task even without Japan and South Korea.
 </div>
 
@@ -800,7 +800,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Makes sense. Protest marches are really just a powerless outburst of anger from the weak. For example, in ’99 people protested the US, in ’12 they protested Japan—but nowadays, would anyone still march to protest the US or Japan??? \[😂]
 </div>
 
@@ -822,7 +822,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Protests are not necessarily tied to strength or weakness. For example:
 
 In some countries, people protest against China for eating dog or cat meat.
@@ -854,7 +854,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I’ve participated in two protests. The second time was in 2001, when China’s national football team qualified for the World Cup qualifiers—fans’ first and last big celebration. Actually, when Japan qualified for the World Cup qualifiers for the first time, they also took to the streets, but now it’s so routine they don’t bother anymore.
 
 The first time I joined a protest was after the U.S. bombed our embassy in Yugoslavia. That was genuinely frustrating.
@@ -872,7 +872,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The more severe racial and ethnic hatred is abroad, the more advantageous it becomes for us Chinese.
 </div>
 
@@ -888,7 +888,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The reason is that South Korea’s pillar industries—home appliances, automobiles, steel, shipbuilding, displays, semiconductors, and communications—are being systematically replaced by China, leaving them with no hope. Can you blame South Koreans for being anxious? 😂 In the past, South Korea ran a trade surplus with China, but in recent years it has shifted to a deficit, which is still widening.
 </div>
 
@@ -904,7 +904,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A country that’s on the verge of naturally disappearing. Why worry so much? Truly patriotic—better focus on having more kids. Don’t let your nation vanish simply because of population decline.
 </div>
 
@@ -920,7 +920,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What you’re saying is too macro. You should focus on the benefits or drawbacks for ordinary Chinese people.
 </div>
 
@@ -940,7 +940,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 No, you want the unvarnished truth? Currently, China exhibits two major monopolistic characteristics: financial monopoly and bureaucratic monopoly. Even if Korea were completely dominated, the benefits wouldn’t trickle down to ordinary people. Moreover, China lacks a dedicated capital gains tax, has no comprehensive direct taxes, and certainly no estate tax. The elite operate almost unchecked; for example, the “35-year cutoff” rule has openly become standard practice in many companies.
 
 Domestically, China shows traits similar to the U.S.: strange and extreme opinions flourish in public discourse, internal divisions among the populace are severe, and the lower strata harm each other—largely because there’s fear of ordinary people uniting, and some actively stir up conflict. Think of figures like Yang Li or Fu Seoul: clearly low-quality personalities, yet they keep getting commercial opportunities.
@@ -959,7 +959,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The essence of the “age 35 phenomenon” is simply that there are too many people.
 If companies don’t shorten the employment cycle for workers, the large influx of new laborers without savings will inevitably trigger intense social unrest.
 </div>
@@ -976,7 +976,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Yes. I used to dislike Korea, but when they started protesting and demonstrating, I didn’t feel as much dislike—rather, I felt a bit sad. You see, when a country becomes strong, its neighbors are never truly happy about it. The same goes for individuals. So, we should just focus on living our own lives. Increasingly, we don’t need the emotional boost from foreign admiration, nor do we need the recognition of the international community. Praise either carries interest or sympathy; without either, it’s just hollow flattery.
 </div>
 
@@ -998,7 +998,7 @@ Click to expand Chinese comment</span>
 而韩女就不一样了，打赢了让外国男人死，打输了让本国男人死，她们怎么都是赢
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 The truly funny thing about the anti-China protests in South Korea is that there are more Korean women than men in the crowds.
 
 Because Korean men actually have to serve in the military and go to the battlefield.
@@ -1018,7 +1018,7 @@ Click to expand Chinese comment</span>
 刚看到一个回答，提到俄乌战争中，俄国人更支持战争。因为俄国没有女兵，乌克兰有[捂脸]。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I just saw an answer mentioning that in the Russia-Ukraine war, Russians are more supportive of the conflict—because Russia doesn’t have female soldiers, while Ukraine does \[🤦‍♂️].
 </div>
 
@@ -1034,7 +1034,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Actually, Russia does have female soldiers—the survey in question focused on Muscovites, and Russia rarely drafts conscripts from Moscow.
 </div>
 
@@ -1050,7 +1050,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Actually, saying Saint Petersburg is somewhat accurate—Moscow’s casualties rank among the top five in all of Russia 🍿.
 </div>
 
@@ -1066,7 +1066,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Suddenly realized that in the grand narratives of the past, the conflicts between nations were really conflicts between the property-owning classes. Now, the young men serving in the military don’t even have their own children, so there’s no need for them to get involved in struggles among women.
 </div>
 
@@ -1082,7 +1082,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You could say it’s a kind of proletarian solidarity.
 </div>
 
@@ -1098,7 +1098,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly—that’s what class is. It exists everywhere and won’t disappear just because circumstances change. Only when class contradictions outweigh other societal contradictions can the proletariat achieve liberation.
 </div>
 
@@ -1114,7 +1114,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You’re overthinking it. The reason is simple: these protests offer food and money, so the main participants are people without work or income. That’s why the elderly are usually overrepresented. If you see more women, it just indicates that South Korean women have lower employment rates and are poorer.
 </div>
 
@@ -1130,7 +1130,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Interests can explain a lot, but they’re not万能. If everyone were rational, the world would already be in utopia. Some people just can’t get anything good for themselves and still have to make trouble for others.
 </div>
 
@@ -1146,7 +1146,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The point is, who’s going to protest in broad daylight if they have a job? People protesting during working hours are inevitably unemployed, so the conclusion is correct: seeing more Korean women just reflects that their employment rate is lower.
 </div>
 
@@ -1162,7 +1162,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The siphon effect: 1,000 core participants can drive dozens more who bring their “own dog food” (i.e., biased opinions). Like a snowball, as rumors keep spreading, more and more people who don’t know the truth get caught up—just like in the stock market.
 </div>
 
@@ -1178,7 +1178,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 On the streets of Taiwan, those participating in protests are also mostly women \[😭].
 </div>
 
@@ -1194,7 +1194,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s kind of strange—one would expect men to be more politically engaged.
 </div>
 
@@ -1210,7 +1210,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You think protests are genuine expressions of demands? Nope—they’re mostly about getting paid. In the summer heat, you can even earn more
 </div>
 
@@ -1226,7 +1226,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Currently, South Korean women’s feminism has clearly started following a path similar to Germany’s AfD. Weidel is a typical example of nationalist feminism, essentially taking the “alt-right feminist” route. In contrast, domestic feminism is still mostly “liberal feminist,” which, for now, is a small blessing amid misfortune.
 </div>
 
@@ -1242,7 +1242,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Because they really don’t have to go to the battlefield—if their side wins, foreign men die; if their side loses, their own men die.
 </div>
 
@@ -1261,7 +1261,7 @@ Click to expand Chinese comment</span>
 如此超越民族超越阶级的朴素情感，日本人都没能完全做到。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Even so, when facing radical feminism, South Korean men still sided with us.
 
 Such a simple sentiment that transcends both nationality and class—even the Japanese haven’t fully managed it.
@@ -1279,7 +1279,7 @@ Click to expand Chinese comment</span>
 因为韩男是对抗流，日男是躺平流[思考]躺平流最大特点就是消极避世，怎么可能跟外界达成共识[捂脸]
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Because South Korean men tend to resist, while Japanese men tend to opt out \[thinking]. The hallmark of the “opt-out” type is passive escapism—how could they possibly reach any consensus with the outside world \[🤭]?
 </div>
 
@@ -1295,7 +1295,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Japanese men have already been defeated, so they simply chose to opt out. With no desires, they become naturally resilient, which is why today the space for Japanese feminist activism is quite limited.
 </div>
 
@@ -1311,7 +1311,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 “Fast knife” and “slow knife”: spread favorable public opinion to gather allies, while cutting off transfer payments and excessive liabilities.
 
 > <font color="#0077b8">Translator’s Note</font>  
@@ -1333,7 +1333,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 According to a survey in South Korea, among women in their 20s, 60% hold anti-China sentiments.
 </div>
 
@@ -1349,7 +1349,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 For nearly the past decade, about 80–90% of South Koreans have harbored negative feelings toward China.
 </div>
 
@@ -1365,7 +1365,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😂 So what? In 2023, roughly 1,500 South Korean women married Chinese men, while about 3,000 Chinese women married South Korean men (around 60% of them ethnic Koreans). Considering the population sizes of the two countries, this shows South Korean women are actually more willing to come to China, even under the ongoing anti-China propaganda at home and the popularity of Korean pop culture domestically.
 </div>
 
@@ -1381,7 +1381,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Actually, it’s mostly South Korean men who are anti-China—just look at Lee Jae-myung’s support rates and you’ll see.
 </div>
 
@@ -1397,7 +1397,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s unlikely. Some data shared on Zhihu shows that in recent surveys of South Koreans, about 6% have a “positive” attitude toward China, 82% have a “negative” attitude, and the rest are neutral or have no opinion. This seems to conflict with what you just said.
 </div>
 
@@ -1413,7 +1413,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Hostile relationships are always layered. As the saying goes, “brothers quarrel within the walls but unite against outsiders.” For example, as a Han Chinese, I originally despised the Manchu, but when facing the “Divine Sect” (Shenjiao), I’d side with Zuo Zongtang. Yet when confronted with radical feminism, I might even think the Divine Sect is not so bad… Of course, the lowest rung of my disdain hierarchy would be “Salt Selection” (Yanxuan), because even when they mock feminism, I won’t hesitate to downvote them.
 </div>
 
@@ -1429,7 +1429,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If Hitler invaded hell, I’d still have to say a few good words for the devil.
 </div>
 
@@ -1446,7 +1446,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When it comes to opposing radical feminism, I side with Korean men too.
 And actually, the group I support the most is the Taliban.
 </div>
@@ -1463,7 +1463,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Unfortunately, many Chinese men don’t support Korean men either. Instead, they proudly join online radical feminists in mocking Korean men for having small penises, as if insulting them somehow makes themselves look more impressive in front of women.
 </div>
 
@@ -1479,7 +1479,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The reason China hasn’t seen a strong pushback against radical feminism like in Japan or South Korea is that a portion of Chinese men still indulge women, which prevents an effective containment of radical feminists’ arrogance.
 </div>
 
@@ -1497,7 +1497,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, why the intense competition (“involution”)? Too many workers.
 Why don’t people have kids? They simply don’t want to.
 If you forbid women from going to school or working, not only would the birth rate stop declining, but wages would also rise.
@@ -1516,7 +1516,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 One must trust in the wisdom of the Prophet Muhammad.
 </div>
 
@@ -1532,7 +1532,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is the correct reasoning. In Afghanistan, less than half the population can work. By sending women back to the home, the Taliban increased employment opportunities for men. At the same time, the birth rate rose. Over 20 years, enough boys would grow up to mostly have jobs. Thus, the Taliban’s approach avoids overcompetition, boosts fertility, and ensures long-term workforce stability. Twenty years from now, as many countries face population shortages, Afghanistan could even export surplus labor. In my view, the Taliban is one of the longest-surviving organizations, whereas some groups—despite having billions of people—might face extinction within 200 years, and certainly within 400.
 </div>
 
@@ -1548,7 +1548,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s the Korean women wanting to send Korean men to the battlefield. This is such an old trick 😏.
 </div>
 
@@ -1567,7 +1567,7 @@ Click to expand Chinese comment</span>
 如果你去仔细看看视频，会发现游行的很多都是女性，要求对抗中朝，在正常国家这种战争游行女性参与度都是很低的。但是在韩国性别对抗过于激烈，这些韩女根本不在乎后果是啥，能把男性杀掉就好了。说起来也奇怪，世界各地的女拳都没有国家情节，普遍外男＞国男，我至今对此很为不解。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 If you take a closer look at the videos, you’ll notice that many of the protesters are women, demanding opposition to China and North Korea. In normal countries, female participation in war-related protests is usually very low. But in South Korea, gender antagonism is so intense that these women don’t care about the consequences—they just want men to suffer. Strangely, feminist movements around the world rarely show such nationalistic tendencies; generally, foreign men > domestic men in their focus, which I still find puzzling.
 </div>
 
@@ -1583,7 +1583,7 @@ Click to expand Chinese comment</span>
 这有什么不好理解的，女权要的是权力，在本国的权力，所以本国男性是她们的竞争对手，外国男性是潜在帮手，把两性对立看作两个组织对立，比如国共，民主党和共和党对立就明白了。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s not hard to understand. Feminism seeks power—power within their own country—so domestic men are their competitors, while foreign men are potential allies. Think of the gender conflict as a conflict between two organizations, like the rivalry between the Kuomintang and the Communist Party, or between Democrats and Republicans.
 </div>
 
@@ -1599,7 +1599,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 So clear and insightful—it just makes everything click at once!
 </div>
 
@@ -1615,7 +1615,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But I think their minds probably don’t think that far—like Brazilian steak, it’s just a habit of licking; finding a foreigner just hugely satisfies their vanity.
 </div>
 
@@ -1631,7 +1631,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In simple terms, they lack the ability to advance through the proper channels, so they pin their hopes on crooked shortcuts, naively deceiving themselves that things will somehow turn out in their favor. If they actually had the ability to succeed legitimately, they wouldn’t think this way—but lacking that ability, they’re trapped in an endless negative cycle.
 </div>
 
@@ -1647,7 +1647,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly—just like those pushing for various “independence” movements. They’re really trying to rally and manipulate a group of people to gain leverage, so they can get a bigger slice of the pie for themselves.
 </div>
 
@@ -1664,7 +1664,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly 😆—it’s similar to the dynamics between the Chinese Communist Party and various British political parties. Both involve coalitions, influence, and maneuvering to secure advantages within a system.
 </div>
 
@@ -1680,7 +1680,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly. 😏 These aren’t genuine “feminists” in the sense of advocating equality—they’re acting like comprador elites. Unable to rise through normal, merit-based channels, they sell out opponents and national interests to gain extra benefits, kowtow to foreign powers, and exploit domestically. The gender label is just a facade—call it “female compradorism,” not feminism.
 </div>
 
@@ -1696,7 +1696,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s determined by genetics. I recall someone saying that women rarely actively choose love; rather, they passively accept it. Evolving from the days of losing body hair and blood, modern women are naturally attracted to strength, because survival and reproduction are hardwired into their genes. If a woman cannot survive, reproduce, and provide for her offspring, she will abandon you—you simply do not deserve to have her.
 </div>
 
@@ -1712,7 +1712,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I saw this back in elementary school: it said that women are attracted to strength and status. The former ensures the continuity of their own genes, while the latter increases the diversity of their positional genes.
 </div>
 
@@ -1728,7 +1728,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In reality, this natural attraction to strength in women has a loophole that some men have exploited. “Bad boys” don’t need to support the woman or her children, nor ensure her survival, yet they can still attract many women. Simply put, some men discovered a flaw in women’s mate selection: they realized they don’t actually need to be genuinely strong—if they can make a woman perceive them as strong in the short term, then leave after the encounter, they can still father many offspring. This is why some women end up choosing those reckless “run-and-hide” guys.
 </div>
 
@@ -1744,7 +1744,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What’s the use of having a bunch of children who don’t know you—or even hate you? My father was a scumbag; none of his four kids acknowledge him, and some even want to see him dead. His miserable old age is plain to see. If all you want is lots of offspring, you might as well donate sperm. Women raise their own children, and most won’t abandon their mothers—they’ll support them. A scumbag is nothing more than a breeding boar.
 </div>
 
@@ -1760,7 +1760,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 From a purely biological standpoint, your dad succeeded.
 </div>
 
@@ -1776,7 +1776,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s not important—humans are just carriers of genes. In nature, the continuation of genes is what truly matters. Whether the offspring “hate” or “love” you is irrelevant. In the natural world, many male animals exist solely to mate, sometimes dying immediately after, while females exist primarily to conceive and reproduce.
 </div>
 
@@ -1792,7 +1792,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s not important. For the individual, it’s just a moment of pleasure and it’s over. For the gene, as long as it gets passed on, it’s a successful strategy.
 </div>
 
@@ -1808,7 +1808,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Love is nothing more than an illusion created by hormones. There’s never truly love at first sight—only desire at first sight.
 </div>
 
@@ -1824,7 +1824,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You actually hit the nail on the head. If society as a whole morally condemned “jerks,” affecting their social life and career and making their later years miserable, the number of such men would naturally decrease. But the problem today is that these moral constraints have largely failed: jerks go unpunished. They can sleep around, hide their past, and find an honest woman to take over. Even if exposed through divorce, they don’t really suffer. The same goes for “jerk women.” In the past, women who behaved like this were stigmatized, but now they can easily rehabilitate themselves and find an honest man to take over.
 
 This is the problem created by Western-style progressivism. People who should be shunned by society—jerks and scoundrels—are no longer effectively condemned. Instead, they can fight back, claiming you are sexually repressed, backward-thinking, or intolerant of minority groups. As a result, society can no longer sanction them, and the dating and marriage market falls into panic.
@@ -1842,7 +1842,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In short, in your father’s generation, jerks could actually be punished. That’s why your father ended up in a bad situation. But in today’s society, there’s no effective way to sanction jerks or “jerk women.” They can even turn around and attack you. By exploiting progressive ideology, they’ve wrapped themselves in a kind of invincible armor, which makes it extremely difficult to deal with them.
 </div>
 
@@ -1858,7 +1858,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 What’s so hard to understand? These feminists are basically funded by NGOs—just think of them as spies, and it makes perfect sense.
 </div>
 
@@ -1874,7 +1874,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Exactly—that’s the correct way to see it.
 </div>
 
@@ -1894,7 +1894,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You have to remember that the spread of female genes can conflict with the concept of a “nation-state.”
 
 For example, in primitive societies, after tribal conflicts, males of the defeated tribe were often killed, and females were captured and used as “reproductive tools.” The X chromosomes of these women would spread widely. Conversely, women in the victorious tribe faced risks such as shared mates or even having potential mates taken away, which limited the spread of their own X chromosomes. Therefore, in primitive societies, women had little tribal loyalty; they might even wish for their tribe to be defeated so that they and their daughters or granddaughters could be captured by different tribes for reproduction.
@@ -1916,7 +1916,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 By your logic, women should be kept in captivity and raised like animals.
 </div>
 
@@ -1934,7 +1934,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 A civilization that can last for thousands of years must suppress women.
 Therefore, male dominance over female is considered natural and inevitable.
 </div>
@@ -1953,7 +1953,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If others are pushing feminism and you don’t, you’ll be hit by a “dimensional downgrade.”
 This move is a proactive downgrade, countering the impending blow.
 </div>
@@ -1970,7 +1970,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s really flawed reasoning—what about matriarchal societies? What about feudal societies?
 </div>
 
@@ -1986,7 +1986,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 I feel like this logic is flawed.
 </div>
 
@@ -2002,7 +2002,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Women have no homeland; the theory originates from the idea that the proletariat has no homeland.
 </div>
 
@@ -2018,7 +2018,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Spoils of war have no homeland.
 </div>
 
@@ -2034,7 +2034,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Actually, it’s the other way around: the left originated from feminism.
 </div>
 
@@ -2050,7 +2050,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s not just a South Korean women’s issue—it’s the women across the entire East Asian region! \[watching popcorn]
 </div>
 
@@ -2066,7 +2066,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s the same in the Middle East as well.
 </div>
 
@@ -2082,7 +2082,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The underlying logic of feminism is the same everywhere; it’s completely beyond geography and, in part, transcends culture.
 </div>
 
@@ -2098,7 +2098,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Take a look at German feminism.
 </div>
 
@@ -2114,7 +2114,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Across the world, feminism tends to prioritize foreign men over local men. Among white women, some don’t engage in this, while others, influenced by the admiration for white men and the devaluation of local men, even expel local women from feminist circles.
 </div>
 
@@ -2130,7 +2130,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 This is true… it’s the same in Europe. German women often disparage German men, saying that men over 30 are balding and pot-bellied. They also claim that every 9 seconds a woman in Germany experiences violence or sexual assault.
 </div>
 
@@ -2146,7 +2146,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Oh, I found the source—it’s actually 3–4 minutes. The data comes from the women’s emergency aid organization in Münster.
 
 ![](images/2025/Germany-girl.png (women’s emergency aid organization in Münster))
@@ -2164,7 +2164,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Besides German women disparaging German men, do they also idealize foreign men? Or do they have a concept of an ideal man in their “perfect country”?
 </div>
 
@@ -2180,7 +2180,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s the same. I saw a street interview with a German woman who said she would rather be raped by a refugee than be with a German man.
 </div>
 
@@ -2196,7 +2196,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😭Why are women from every country like this? As long as it’s not a local man, it’s fine.
 </div>
 
@@ -2212,7 +2212,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Appeasement toward foreign men is a fundamental instinct; it helps avoid inbreeding.
 </div>
 
@@ -2229,7 +2229,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Regardless of gender, it’s very difficult to resist the instincts coded in our genes. Men’s flirtatiousness and attraction to physical beauty, and women’s vanity and preference for foreign partners, are all adaptive instincts that favor the continuation of DNA. We need to acknowledge and face them, rather than blindly deny them.
 </div>
 
@@ -2245,7 +2245,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Totally normal. One Korean woman praises Chinese men for being good at cooking, and a group of Chinese women immediately attack her \[crying-laughing emoji]. Meanwhile, one Japanese man calls Chinese men sleazy, and a Japanese woman counters by saying Japanese men are rapists. Basically, foreign monks always chant better.
 </div>
 
@@ -2261,7 +2261,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 There’s nothing hard to understand here. Back in my elementary school days in the 1990s, I read a book analyzing the differences between men and women. It discussed factors behind female infidelity and specifically mentioned women’s genetic instinct to favor foreign men. This instinct is encoded in their genes and exists to maintain genetic diversity.
 </div>
 
@@ -2281,7 +2281,7 @@ Click to expand Chinese comment</span>
 有种我小时候开水烫蚂蚁窝以后看蚂蚁炸窝的快感。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I actually enjoy it when these tiny-ass countries protest against China.
 
 It’s kind of like when I was a kid, pouring boiling water on an ant nest and watching the chaos—messy, panicked, and oddly satisfying.
@@ -2299,7 +2299,7 @@ Click to expand Chinese comment</span>
 我懂你，对方够弱的时候愤怒会变得搞笑
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 I get you—when the other side is weak enough, their anger just becomes funny.
 </div>
 
@@ -2315,7 +2315,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 As long as the other side is weak enough, even threats try to look cute—like a red panda lying on its back, showing its belly, hands up, asking for a hug, while actually trying to intimidate humans. 🤦🤦🤦
 </div>
 
@@ -2331,7 +2331,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Really? Can showing the belly be a form of intimidation?
 </div>
 
@@ -2347,7 +2347,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 In the animal kingdom, showing the belly is usually a sign of submission or begging for mercy, even for turtles.
 </div>
 
@@ -2363,7 +2363,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Rich South Koreans travel in China, while the poor ones protest against China on the streets back home.
 </div>
 
@@ -2379,7 +2379,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 South Korean patriarchy is far more intense than in China, and South Korean men are much more courageous and assertive than Chinese men.
 </div>
 
@@ -2395,7 +2395,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Who would care about male ants?😲
 </div>
 
@@ -2411,7 +2411,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Truly courageous—they even dared to make the U.S. ambassador kneel before the Taegukgi in the movie 😲
 </div>
 
@@ -2427,7 +2427,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The “courage” you’re talking about is really just being meek toward outsiders while hitting hard at your own women 😬. In the end, no one listens to anyone, kids stop being born, and eventually the country disappears 😭
 </div>
 
@@ -2443,7 +2443,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Korean women take to the streets in protests, trying to push Korean men onto the battlefield as cannon fodder, yet no Korean men actually rush in to fight physically. This proves that Korean men’s “courage” is still limited 😅
 </div>
 
@@ -2459,7 +2459,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 It’s just like playing with pets—when the other side is weak enough, no matter how much they throw a tantrum, they end up looking kind of cute 😭😂
 
 </div>
@@ -2476,7 +2476,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 When I was a kid at my grandparents’ village, there was a huge ant nest at the base of some weeds on the bridge. I just yanked the whole weed out by the roots, ants and all, and threw it into the little river below. Don’t even know how many ants survived 😭😂
 </div>
 
@@ -2501,7 +2501,7 @@ Click to expand Chinese comment</span>
 这大叔挺有意思的，跟后来遇到的一位印度小哥是卧龙凤雏，一个说首尔比北京大，一个说孟买比上海贵。这俩人都没有来过中国……
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 While traveling, I ran into a few Koreans who were very self-satisfied but absolutely refused to believe that China didn’t even really care about South Korea…
 
 They seemed more concerned about how Chinese people view South Korea than about China itself—especially in the context of trade and international status among China, Japan, and South Korea.
@@ -2523,7 +2523,7 @@ Click to expand Chinese comment</span>
 告诉他们一个事实就行：中国驻韩国大使是司局级，和驻东南亚、非洲国家的大使一个等级。相应的，中国驻朝鲜大使是副部级，驻美国、俄罗斯的是特命全权大使，是外交大使最高等级。这就是韩国在中国政府眼中的等级。
 </small>
 </details>
-<div style="color: #0077b8;">
+<div class="translated-text">
 Just tell them one fact: the Chinese ambassador to South Korea is at the departmental level, the same as ambassadors to Southeast Asian or African countries. In contrast, the Chinese ambassador to North Korea is at the vice-ministerial level, while those to the U.S. or Russia are full-fledged ambassadors with plenipotentiary powers—the highest rank in diplomacy. This is exactly how the Chinese government ranks South Korea in its diplomatic hierarchy.
 </div>
 
@@ -2539,7 +2539,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 These Korean uncles’ understanding is way too limited—they can’t even figure out how many kilometers it is from Hangzhou to Beijing, and yet I’m trying to explain this to them \[cry-laughing emoji].
 </div>
 
@@ -2555,7 +2555,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 The distance from Busan to Seoul—most Chinese people don’t even know either. 🤭
 </div>
 
@@ -2571,7 +2571,7 @@ South Korea is really small; is it even necessary to know more? 🤦‍♂️
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 {{English}}
 </div>
 
@@ -2587,7 +2587,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 That’s just you expecting too much 🤦‍♂️—most people in our country don’t even know the distances from Guam to Washington, St. Petersburg to Moscow, or Perth to Canberra.
 </div>
 
@@ -2604,7 +2604,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 But most people in China know that the U.S., Russia, and Australia are huge—it’s obvious just by looking at a map. Japan, on the other hand, is often thought of as small, but in reality, its north-to-south distance is very long—roughly equivalent to traveling from Jiangsu to the Leizhou Peninsula in Guangdong (excluding the Ryukyu Islands). If you compare Japan with Chinese provinces by area, it would rank ninth, just behind Yunnan.
 
 > <font color="#0077b8">Translator’s Note</font>  
@@ -2623,7 +2623,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Koreans and Indians really make a pair—one claims Seoul is bigger than Beijing, the other says Mumbai is more expensive than Shanghai. They’re so clueless.
 </div>
 
@@ -2639,7 +2639,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Honestly, India, despite its many flaws, is the South Asian heavyweight with a long history and high sovereignty—it’s one of the major powers today. Koreans, on the other hand, just don’t compare. India has this mysterious confidence, whereas Koreans have a kind of inferiority-driven arrogance.
 </div>
 
@@ -2655,7 +2655,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Koreans think of themselves as a superpower\~\~\~ in reality, they’re more like a semi-colony\~\~\~ imagining the U.S. as their paid bodyguard while they’re the “master.” They haven’t seen the bodyguard eating lavishly in villas while their own families survive on pickles and tofu soup, barely full\~\~\~\~ hilarious.
 </div>
 
@@ -2671,7 +2671,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Economically wealthy, they think they deserve a say in international affairs, but in reality, their sovereignty is entirely in the hands of the U.S. \[crying-laughing emoji] Back then, Japan also boasted about “buying the U.S.,” and what happened afterward? \[doge emoji] Extreme inferiority often manifests as arrogance…
 </div>
 
@@ -2687,7 +2687,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 You could just say that Chinese people have always feared Koreans. In their eyes, there are only two great powers in the world: Korea and the U.S. China supposedly supports Korea competing with the U.S. for influence in Asia, giving Korea absolute sway in the region… and then imagining it kicking the U.S. out of Asia. 😂
 
 </div>
@@ -2704,7 +2704,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 They wouldn’t dare mention the U.S. military. 😂
 </div>
 
@@ -2720,7 +2720,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 If it were me, I’d say: “In the eyes of Chinese people, South Korea is the strongest—stronger even than the U.S. Korea should kick out the U.S. troops, ideally push American influence entirely out of Asia, because Korea is the true god of the continent.”
 </div>
 
@@ -2736,7 +2736,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Next time, tell them: “South Korea and India are, apart from the U.S., the most powerful countries—but both are being bullied by the U.S.”
 </div>
 
@@ -2752,7 +2752,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 😭😭😭😭 Three “Seouls” equal one Shenzhen… Shenzhen is the smallest among China’s four first-tier cities… Beijing is more than ten times the size of Shenzhen… 😭😭😭😭
 
 > <font color="#0077b8">Translator’s Note</font>  
@@ -2771,7 +2771,7 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 
-<div style="color: #0077b8;">
+<div class="translated-text">
 Later I did some calculations—it’s roughly 27 Seouls in area. He insists that Seoul, whether in terms of prosperity or population density, is stronger than Beijing. Maybe he’s nostalgic for Korea when he was young and always assumes China is still like it was before the reform and opening up. I didn’t want to burst his bubble 😂.
 </div>
 
