@@ -1,0 +1,33 @@
+{{- /*
+  Usage: {{ partial "func/preload-image" (dict "src" "/images/foo.jpg") }}
+  Prefers AVIF then WEBP if corresponding files exist under /static.
+  Falls back to the original src. Outputs a <link rel="preload" as="image"> tag.
+*/ -}}
+{{- $src := .src -}}
+{{- if not $src }}{{- /* no-op if empty */ -}}{{- else -}}
+  {{- $isRemote := strings.HasPrefix $src "http" -}}
+  {{- $href := $src -}}
+  {{- $type := "" -}}
+  {{- if not $isRemote -}}
+    {{- $trim := strings.TrimPrefix $src "/" -}}
+    {{- $name := replace $trim (path.Ext $trim) "" -}}
+    {{- $avifDisk := printf "static/%s.avif" $name -}}
+    {{- $webpDisk := printf "static/%s.webp" $name -}}
+    {{- if fileExists $avifDisk -}}
+      {{- $href = printf "/%s.avif" $name -}}
+      {{- $type = "image/avif" -}}
+    {{- else if fileExists $webpDisk -}}
+      {{- $href = printf "/%s.webp" $name -}}
+      {{- $type = "image/webp" -}}
+    {{- else -}}
+      {{- $ext := lower (path.Ext $trim) -}}
+      {{- if eq $ext ".jpg" }}{{ $type = "image/jpeg" }}{{ end -}}
+      {{- if eq $ext ".jpeg" }}{{ $type = "image/jpeg" }}{{ end -}}
+      {{- if eq $ext ".png" }}{{ $type = "image/png" }}{{ end -}}
+      {{- if eq $ext ".gif" }}{{ $type = "image/gif" }}{{ end -}}
+      {{- if eq $ext ".webp" }}{{ $type = "image/webp" }}{{ end -}}
+      {{- if eq $ext ".avif" }}{{ $type = "image/avif" }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+  <link rel="preload" as="image" href="{{ $href | absURL }}" {{ with $type }}type="{{ . }}"{{ end }}>
+{{- end -}}
