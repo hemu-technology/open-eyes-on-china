@@ -7,3 +7,28 @@ Disallow: /post/placeholder-text/
 Disallow: /tags/text/
 Disallow: /categories/themes/
 Sitemap: https://openeyesonchina.com/sitemap.xml
+
+# Explicit disallows for AI-related crawlers (valid robots syntax)
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
