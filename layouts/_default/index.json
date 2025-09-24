@@ -1,0 +1,20 @@
+{{- $.Scratch.Set "index" (slice) -}}
+{{- $.Scratch.Set "seen" (dict) -}}
+{{- $main := site.Params.mainSections | default (slice "post") -}}
+{{- range where .Site.RegularPages "Section" "in" $main -}}
+  {{- if ne .Type "search" -}}
+    {{- $link := .Permalink -}}
+    {{- if not (index ($.Scratch.Get "seen") $link) -}}
+      {{- $.Scratch.Add "index" (dict
+        "title"   .Title
+        "body"    .Plain
+        "link"    $link
+        "id"      .RelPermalink
+        "section" .Section
+        "tags"    .Params.tags
+      ) -}}
+      {{- $.Scratch.SetInMap "seen" $link true -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- jsonify ($.Scratch.Get "index") -}}

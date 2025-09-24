@@ -357,6 +357,16 @@ ul li a.nav-link:focus-visible
       .translator-note-label
         color: lighten(#33a4e2, 15%)
 
+// Highlighted matches in search results and content
+mark.search-term
+  background: rgba(255, 215, 0, 0.5)
+  color: inherit
+  padding: 0 .08em
+  border-radius: 2px
+
+[data-mode="dim"] mark.search-term
+  background: rgba(255, 215, 0, 0.35)
+
 // ===========================
 // Series banner component
 // ===========================

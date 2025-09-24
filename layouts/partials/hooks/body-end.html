@@ -73,7 +73,12 @@
       if(idx === -1){ idx = items.length - 1; } else { idx = (idx - 1 + items.length) % items.length; }
     } else if(e.key === 'Enter') {
       var active = bySel('.'+ACTIVE, resultsContainer) || items[0];
-      if(active && active.href){ window.location.href = active.href; }
+      if(active && active.href){
+        // Prevent theme's default handler from redirecting to the search page
+        e.preventDefault();
+        e.stopPropagation();
+        window.location.href = active.href;
+      }
       return;
     } else if(e.key === 'Escape') {
       items.forEach(function(it){ it.classList.remove(ACTIVE); });
@@ -98,5 +103,20 @@
       }
     }
   });
+
+  // Intercept the native 'search' event (fired by some browsers on Enter or clear)
+  // Use capture phase so we run before the theme's listener that navigates to the search page.
+  input.addEventListener('search', function(e){
+    var resultsContainer = bySel('.search_results');
+    if(!resultsContainer) return;
+    var active = bySel('.search_result--active', resultsContainer);
+    var first = bySel('.search_result', resultsContainer);
+    var target = active && active.tagName === 'A' ? active : (first && first.tagName === 'A' ? first : null);
+    if(target && target.href){
+      e.preventDefault();
+      e.stopPropagation();
+      window.location.href = target.href;
+    }
+  }, true);
 })();
 </script>

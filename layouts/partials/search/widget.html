@@ -1,0 +1,33 @@
+{{- $params := site.Params -}}
+{{- if site.Params.enableSearch -}}
+  {{- $placeholder :=  T "search_field_placeholder" -}}
+  {{- $simple := true -}}
+  {{- if and (eq $.Page.Section "support") (eq .CurrentSection .FirstSection) -}}
+  {{- else -}}
+    {{- $placeholder =  T "blog_search_field_placeholder" -}}
+    {{- $simple = false -}}
+  {{- end -}}
+
+  {{/* Determine search scope: only scope on content section pages or singles, not on taxonomy/term/home */}}
+  {{- $scope := "" -}}
+  {{- $kind := .Kind -}}
+  {{- $isTaxonomy := or (eq $kind "taxonomy") (or (eq $kind "term") (eq $kind "taxonomyTerm")) -}}
+  {{- if not (or $isTaxonomy (eq $kind "home")) -}}
+    {{- /* For regular content pages/lists, scope to the current section (e.g., "post") */ -}}
+    {{- with .Section -}}
+      {{- $scope = . -}}
+    {{- end -}}
+  {{- end -}}
+
+  <div class="search">
+    <input type="search" class="search_field form_field" placeholder='{{ $placeholder }}' id="find" autocomplete="off" data-scope='{{ $scope }}'>
+    <label for="find" class="search_label">
+      {{- partial "sprite" (dict "icon" "search") -}}
+    </label>
+    {{- if $simple -}}
+    {{- end -}}
+    {{- if ne .Params.searchPage true -}}
+    <div class="search_results results"></div>
+    {{- end -}}
+  </div>
+{{- end -}}
