@@ -28,10 +28,13 @@
       <div class="author_bio">
         {{ markdownify $introDescription }}
       </div>
-      {{- if ( ne $s.introURL false ) }}
-      {{- $r := T "read_more" }}
-      <a href='{{ absLangURL (default "about/" $s.introURL) }}' class="button mt-1" role="button" title='{{ $r }}'>{{ $r }}</a>
-      {{- end }}
+  {{- if ( ne $s.introURL false ) }}
+  {{- $r := T "read_more" }}
+  {{- $introTarget := (default "about/" $s.introURL) -}}
+  {{- $introPath := trim $introTarget "/" -}}
+  {{- $introName := title (replace $introPath "-" " ") -}}
+  <a href='{{ absLangURL $introTarget }}' class="button mt-1" role="button" title='{{ printf "%s: %s" $r $introName }}' aria-label='{{ printf "%s: %s" $r $introName }}'>{{ $r }}</a>
+  {{- end }}
     {{- end }}  */}}
 
     {{/*  {{ if .Site.Params.sidebardisclaimer }}
