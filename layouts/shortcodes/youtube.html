@@ -1,0 +1,44 @@
+{{- /* Override theme shortcode to add JSON-LD for VideoObject so Google can index videos */ -}}
+{{- $youtubeHost := "https://www.youtube.com/watch?v=" }}
+{{- $url := .Get 0 }}
+{{- if in $url $youtubeHost }}
+  {{- $url = strings.TrimPrefix $youtubeHost $url }}
+{{- end }}
+{{- $videoId := $url -}}
+{{- $embed := printf "https://www.youtube.com/embed/%s?controls=1&rel=0" $videoId -}}
+{{- $watch := printf "https://www.youtube.com/watch?v=%s" $videoId -}}
+{{- $thumb := printf "https://i.ytimg.com/vi/%s/hqdefault.jpg" $videoId -}}
+{{- $title := .Page.Title -}}
+{{- $summary := cond (gt (len .Page.Summary) 0) (truncate 200 .Page.Summary) (truncate 200 .Page.Title) -}}
+{{- $uploadDate := (.Page.Date.Format "2006-01-02T15:04:05Z07:00") -}}
+
+<div class="video">
+  <iframe src="{{ $embed }}" loading="lazy" title="YouTube video: {{ $title | html }}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": {{ $title | jsonify }},
+  "description": {{ $summary | jsonify }},
+  "thumbnailUrl": [{{ $thumb | jsonify }}],
+  "uploadDate": {{ $uploadDate | jsonify }},
+  "embedUrl": {{ $embed | jsonify }},
+  "contentUrl": {{ $watch | jsonify }},
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ .Site.Title | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ (absURL .Site.Params.logo) | jsonify }}
+    }
+  }
+}
+</script>
+
+<noscript>
+  <p>
+    Watch on YouTube: <a href="{{ $watch }}">{{ $title | html }}</a>
+  </p>
+</noscript>
