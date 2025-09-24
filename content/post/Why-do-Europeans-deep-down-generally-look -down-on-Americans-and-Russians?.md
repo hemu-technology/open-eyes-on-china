@@ -944,4 +944,4 @@ But building a cultural powerhouse requires maintaining that hard-power status f
 That said, you don’t need to respect us—just tremble in the face of our strength.
 </div>
 
----
+<hr style="border: none; margin: 50px 0px; border-top: 3px dashed #87CEFA;">

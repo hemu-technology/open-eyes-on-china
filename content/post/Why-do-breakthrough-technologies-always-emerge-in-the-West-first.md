@@ -976,3 +976,5 @@ All those countless niche small-firm elites, when combined, form a structured hi
 <div class="translated-text">
 This is just a Western narrative. High-end industries require capital and manpower that elite small firms alone cannot support. If Western elite small firms were really that strong, why would they be afraid of China developing a lithography machine? It’s not that elite small firms aren’t capable—they’re worth learning from, and in fact we have quite a few of our own. But everything needs to align with its environment and underlying rules to thrive. The operational logic of elite small firms is fundamentally different from that of mainstream industry; each has its own path. In a country as large as ours, if we don’t scale up our own mass production, why envy and imitate someone else’s small firm? It makes no sense.
 </div>
+
+---

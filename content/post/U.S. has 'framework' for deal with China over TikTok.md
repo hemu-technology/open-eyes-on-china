@@ -1464,3 +1464,5 @@ Click to expand Chinese comment</span>
 <div class="translated-text">
 Any so-called consensus with the U.S. could be torn up by Trump at any moment. Don’t expect too much.
 </div>
+
+---

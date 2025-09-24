@@ -1461,3 +1461,5 @@ Click to expand Chinese comment</span>
 <div class="translated-text">
 Let go of unrealistic dreams, develop the economy, and improve people’s lives—good move!
 </div>
+
+---
