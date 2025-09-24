@@ -1819,7 +1819,16 @@ Click to expand Chinese comment</span>
 </small>
 </details>
 <div class="translated-text">
-{{English}}
+An extremely Sinophobic and anti-China country, with hostility surpassing even Japan. Japan merely dislikes China, but South Korea seems to wish all Chinese would go to hell.
+
+If there were ever a war, South Korea would likely be the first stop.
+
+Mongolia is also anti-China, but their Sinophobia is driven by fear of being absorbed by China. They conduct anti-China education to prevent their citizens from developing allegiance to China.
+
+South Korea’s anti-China sentiment, however, stems from a desire to replace China as the cradle of East Asian civilization, occupy Northeast China or even larger territories, claim Chinese ancient culture as their own, and present themselves as the inventors and inheritors of Chinese characters and culture. Of course, there’s also the realistic economic conflict caused by highly overlapping industrial chains between the two countries.
+
+Therefore, South Korea should be treated according to its position as a hostile country. While it’s not capable of truly challenging China, hating it is justified. Whenever an opportunity arises, it will try to hurt China as a way to vent its long-standing resentment. Their history is filled with grievances against China, and in their hearts toward China, there is only hatred.
+
 </div>
 
 #### ⬇️ Comments
