@@ -1,3 +1,13 @@
 <!-- Google AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2870832540499567"
-     crossorigin="anonymous"></script>
+{{/*
+     If using the open-source CMP provider (cookieconsent), gate AdSense until the user opts into the 'ads' category.
+     For TCF CMPs (e.g., Quantcast Choice), leave the script as normal; consent will be handled via TCF/Consent Mode.
+*/}}
+{{/* AdSense gating respects [cmp].enabled only (legacy removed) */}}
+{{ $cmpEnabled := eq site.Params.cmp.enabled true }}
+{{ $provider := default "cookieconsent" site.Params.cmp.provider }}
+{{ if and $cmpEnabled (eq $provider "cookieconsent") }}
+     <script type="text/plain" data-cookiecategory="ads" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2870832540499567" crossorigin="anonymous"></script>
+{{ else }}
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2870832540499567" crossorigin="anonymous"></script>
+{{ end }}

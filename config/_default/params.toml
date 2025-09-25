@@ -152,7 +152,17 @@ showRelatedInArticle = true
 showRelatedInSidebar = false
 
 
-cmpEnabled = true
+
+# Consent Management Platform configuration (free alternatives)
+# provider options:
+#  - "cookieconsent" (default): open-source vanilla-cookieconsent (MIT). Not IAB TCF.
+#  - "quantcast": free, IAB TCF-certified CMP (Quantcast Choice) — requires your script URL.
+[cmp]
+enabled = true
+provider = "quantcast"
+quantcast_choice_url = "https://cmp.inmobi.com/choice/zMQc3UtdAdk91/openeyesonchina.com/choice.js?tag_version=V3"
+# Alternatively, provide only the account id to support dynamic hostnames in dev (e.g., localhost)
+quantcast_choice_account_id = "zMQc3UtdAdk91"
 
 # Adjust reading time (multiplies raw word count before dividing by WPM).
 # 0.55 assumes bilingual (Chinese+English) content where effective reading effort per word is lower.

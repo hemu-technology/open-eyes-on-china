@@ -8,13 +8,470 @@
 <meta name="description" content="{{ .Site.Params.description }}">
 <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
 
-{{/* Consentmanager scripts: load only on production to avoid dev breakage; make autoblocking optional */}}
-{{ if and (eq site.Params.cmpEnabled true) (ne hugo.Environment "development") }}
-	{{ if eq site.Params.cmpAutoblocking true }}
-		<script type="text/javascript" data-cmp-ab="1" data-cfasync="false" src="https://cdn.consentmanager.net/delivery/autoblocking/b67838e792fd4.js" data-cmp-host="b.delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="16"></script>
-	{{ end }}
-	{{/* Load the main CMP loader (banner + icon). Provide the exact script URL from your Consentmanager dashboard via params.cmpLoaderSrc */}}
-	{{ with site.Params.cmpLoaderSrc }}
-		<script async src="{{ . }}" data-cfasync="false"></script>
+{{/* ConsentManager autoblocking script — disabled by default to avoid runtime errors when account is paused or ID is invalid. Enable by setting params.cmp.enabled = true. */}}
+{{/*
+	Consent banner (free alternative)
+	- Config: params.cmp.enabled = true and params.cmp.provider
+		Providers supported:
+			- "cookieconsent" (default): open‑source vanilla-cookieconsent (MIT). Not IAB TCF.
+			- "quantcast": load a TCF-certified free CMP (Quantcast Choice) via params.cmp.quantcast_choice_url
+*/}}
+{{ $cmpEnabled := eq .Site.Params.cmp.enabled true }}
+{{ if $cmpEnabled }}
+	{{ $provider := default "cookieconsent" site.Params.cmp.provider }}
+
+	{{ if eq $provider "cookieconsent" }}
+		{{/*
+			vanilla-cookieconsent (https://github.com/orestbida/cookieconsent)
+			Note: This is not IAB TCF. If you run Google AdSense for EEA users,
+			you likely need a TCF-certified CMP. See the "quantcast" option below.
+		*/}}
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@2.9.2/dist/cookieconsent.css">
+		<script defer src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@2.9.2/dist/cookieconsent.js"></script>
+		<script>
+					window.addEventListener('load', function () {
+				if (typeof initCookieConsent !== 'function') return;
+				const cc = initCookieConsent();
+				// Expose globally for footer "Manage Cookies" link when using the open-source provider
+				try { window.__cookieConsent = cc; } catch(e) {}
+				cc.run({
+					current_lang: 'en',
+					autoclear_cookies: true,
+					page_scripts: true,
+					gui_options: {
+						consent_modal: { layout: 'box', position: 'bottom right', transition: 'slide' },
+						settings_modal: { layout: 'box', transition: 'slide' }
+					},
+					onFirstAction: function() {},
+								onAccept: function(cookie) {
+									try {
+										if (window.gtag) {
+											gtag('consent', 'update', {
+												'ad_storage': cookie.categories.includes('ads') ? 'granted' : 'denied',
+												'analytics_storage': cookie.categories.includes('analytics') ? 'granted' : 'denied',
+												'ad_user_data': cookie.categories.includes('ads') ? 'granted' : 'denied',
+												'ad_personalization': cookie.categories.includes('ads') ? 'granted' : 'denied'
+											});
+										}
+									} catch(e) { /* noop */ }
+								},
+								onChange: function(cookie, changed) {
+									try {
+										if (window.gtag) {
+											gtag('consent', 'update', {
+												'ad_storage': cookie.categories.includes('ads') ? 'granted' : 'denied',
+												'analytics_storage': cookie.categories.includes('analytics') ? 'granted' : 'denied',
+												'ad_user_data': cookie.categories.includes('ads') ? 'granted' : 'denied',
+												'ad_personalization': cookie.categories.includes('ads') ? 'granted' : 'denied'
+											});
+										}
+									} catch(e) { /* noop */ }
+								},
+					languages: {
+						'en': {
+							consent_modal: {
+								title: 'We use cookies',
+								description: 'We use cookies to improve your experience. You can accept all, reject non-essential, or customize your choices.',
+								primary_btn: { text: 'Accept all', role: 'accept_all' },
+								secondary_btn: { text: 'Settings', role: 'settings' }
+							},
+							settings_modal: {
+								title: 'Cookie preferences',
+								save_settings_btn: 'Save settings',
+								accept_all_btn: 'Accept all',
+								reject_all_btn: 'Reject non-essential',
+								close_btn_label: 'Close',
+								blocks: [
+									{
+										title: 'Cookie usage',
+										description: 'We use cookies to ensure basic site functionality and to enhance your experience. You can choose to opt in/out of non-essential categories.'
+									},
+									{
+										title: 'Strictly necessary',
+										description: 'These cookies are essential for the website to function properly.',
+										toggle: { value: 'necessary', enabled: true, readonly: true }
+									},
+									{
+										title: 'Analytics',
+										description: 'Enable privacy-friendly analytics (if configured).',
+										toggle: { value: 'analytics', enabled: false, readonly: false }
+									},
+									{
+										title: 'Advertising',
+										description: 'Allow loading advertising scripts such as Google AdSense (if configured).',
+										toggle: { value: 'ads', enabled: false, readonly: false }
+									}
+								]
+							}
+						}
+					}
+				});
+			});
+		</script>
+	{{ else if eq $provider "quantcast" }}
+		{{/*
+			Quantcast Choice (free tier, IAB TCF certified) — requires your site-specific script URL.
+			Configure in config/_default/params.toml:
+			[cmp]
+			enabled = true
+			provider = "quantcast"
+			# Option A: provide a static URL (works best for production)
+			# quantcast_choice_url = "https://cmp.inmobi.com/choice/ACCOUNT_ID/yourdomain.com/choice.js?tag_version=V3"
+			# Option B: provide just the account id and we will build the URL dynamically from window.location.hostname (works for localhost too)
+			# quantcast_choice_account_id = "ACCOUNT_ID"
+		*/}}
+		<script>try{console.log('[CMP] Quantcast/InMobi provider enabled');}catch(e){}</script>
+		{{ if site.Params.cmp.quantcast_choice_account_id }}
+			<script type="text/javascript">
+			(function() {
+			  try{console.log('[CMP] InMobi account detected: {{ site.Params.cmp.quantcast_choice_account_id }}');}catch(e){}
+			  var host = window.location.hostname;
+			  // Use production domain when on localhost to ensure CMP executes in dev
+			  try {
+			    var prodHost = '{{ (or .Site.BaseURL (delimit (slice) "")) }}';
+			    // Fallback to CNAME if BaseURL is not helpful
+			  } catch(e) {}
+			  if (host === 'localhost' || host === '127.0.0.1') {
+			    host = 'openeyesonchina.com';
+			    try{console.log('[CMP] Overriding host to production for dev:', host);}catch(e){}
+			  }
+			  var element = document.createElement('script');
+			  var firstScript = document.getElementsByTagName('script')[0];
+			  var url = 'https://cmp.inmobi.com'
+			    .concat('/choice/', '{{ site.Params.cmp.quantcast_choice_account_id }}', '/', host, '/choice.js?tag_version=V3');
+			  var uspTries = 0;
+			  var uspTriesLimit = 3;
+			  element.async = true;
+			  element.type = 'text/javascript';
+			  element.src = url;
+			  element.onerror = function(){
+			    try {
+			      var fallback = '{{ site.Params.cmp.quantcast_choice_url }}';
+			      if (fallback && fallback.length > 0) {
+			        var fb = document.createElement('script');
+			        fb.async = true;
+			        fb.type = 'text/javascript';
+			        fb.src = fallback;
+			        firstScript.parentNode.insertBefore(fb, firstScript);
+			        console.warn('InMobi CMP: dynamic URL failed, loaded fallback URL');
+			      }
+			    } catch(e) {}
+			  };
+
+			  firstScript.parentNode.insertBefore(element, firstScript);
+
+			  function makeStub() {
+			    try{console.log('[CMP] Creating TCF stub');}catch(e){}
+			    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+			    var queue = [];
+			    var win = window;
+			    var cmpFrame;
+
+			    function addFrame() {
+			      var doc = win.document;
+			      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+			      if (!otherCMP) {
+			        if (doc.body) {
+			          var iframe = doc.createElement('iframe');
+
+			          iframe.style.cssText = 'display:none';
+			          iframe.name = TCF_LOCATOR_NAME;
+			          doc.body.appendChild(iframe);
+			        } else {
+			          setTimeout(addFrame, 5);
+			        }
+			      }
+			      return !otherCMP;
+			    }
+
+			    function tcfAPIHandler() {
+			      var gdprApplies;
+			      var args = arguments;
+
+			      if (!args.length) {
+			        return queue;
+			      } else if (args[0] === 'setGdprApplies') {
+			        if (
+			          args.length > 3 &&
+			          args[2] === 2 &&
+			          typeof args[3] === 'boolean'
+			        ) {
+			          gdprApplies = args[3];
+			          if (typeof args[2] === 'function') {
+			            args[2]('set', true);
+			          }
+			        }
+			      } else if (args[0] === 'ping') {
+			        var retr = {
+			          gdprApplies: gdprApplies,
+			          cmpLoaded: false,
+			          cmpStatus: 'stub'
+			        };
+
+			        if (typeof args[2] === 'function') {
+			          args[2](retr);
+			        }
+			      } else {
+			        if(args[0] === 'init' && typeof args[3] === 'object') {
+			          args[3] = Object.assign(args[3], { tag_version: 'V3' });
+			        }
+			        queue.push(args);
+			      }
+			    }
+
+			    function postMessageEventHandler(event) {
+			      var msgIsString = typeof event.data === 'string';
+			      var json = {};
+
+			      try {
+			        if (msgIsString) {
+			          json = JSON.parse(event.data);
+			        } else {
+			          json = event.data;
+			        }
+			      } catch (ignore) {}
+
+			      var payload = json.__tcfapiCall;
+
+			      if (payload) {
+			        window.__tcfapi(
+			          payload.command,
+			          payload.version,
+			          function(retValue, success) {
+			            var returnMsg = {
+			              __tcfapiReturn: {
+			                returnValue: retValue,
+			                success: success,
+			                callId: payload.callId
+			              }
+			            };
+			            if (msgIsString) {
+			              returnMsg = JSON.stringify(returnMsg);
+			            }
+			            if (event && event.source && event.source.postMessage) {
+			              event.source.postMessage(returnMsg, '*');
+			            }
+			          },
+			          payload.parameter
+			        );
+			      }
+			    }
+
+			    while (win) {
+			      try {
+			        if (win.frames[TCF_LOCATOR_NAME]) {
+			          cmpFrame = win;
+			          break;
+			        }
+			      } catch (ignore) {}
+
+			      if (win === window.top) {
+			        break;
+			      }
+			      win = win.parent;
+			    }
+			    if (!cmpFrame) {
+			      addFrame();
+			      win.__tcfapi = tcfAPIHandler;
+			      win.addEventListener('message', postMessageEventHandler, false);
+			      try{console.log('[CMP] TCF stub ready');}catch(e){}
+			    }
+			  };
+
+			  makeStub();
+			  try{console.log('[CMP] Injecting InMobi script: ' + url);}catch(e){}
+
+			  function makeGppStub() {
+			    const CMP_ID = 10;
+			    const SUPPORTED_APIS = [
+			      '2:tcfeuv2',
+			      '6:uspv1',
+			      '7:usnatv1',
+			      '8:usca',
+			      '9:usvav1',
+			      '10:uscov1',
+			      '11:usutv1',
+			      '12:usctv1'
+			    ];
+
+			    window.__gpp_addFrame = function (n) {
+			      if (!window.frames[n]) {
+			        if (document.body) {
+			          var i = document.createElement("iframe");
+			          i.style.cssText = "display:none";
+			          i.name = n;
+			          document.body.appendChild(i);
+			        } else {
+			          window.setTimeout(window.__gpp_addFrame, 10, n);
+			        }
+			      }
+			    };
+			    window.__gpp_stub = function () {
+			      var b = arguments;
+			      __gpp.queue = __gpp.queue || [];
+			      __gpp.events = __gpp.events || [];
+
+			      if (!b.length || (b.length == 1 && b[0] == "queue")) {
+			        return __gpp.queue;
+			      }
+
+			      if (b.length == 1 && b[0] == "events") {
+			        return __gpp.events;
+			      }
+
+			      var cmd = b[0];
+			      var clb = b.length > 1 ? b[1] : null;
+			      var par = b.length > 2 ? b[2] : null;
+			      if (cmd === "ping") {
+			        clb(
+			          {
+			            gppVersion: "1.1",
+			            cmpStatus: "stub",
+			            cmpDisplayStatus: "hidden",
+			            signalStatus: "not ready",
+			            supportedAPIs: SUPPORTED_APIS,
+			            cmpId: CMP_ID,
+			            sectionList: [],
+			            applicableSections: [-1],
+			            gppString: "",
+			            parsedSections: {},
+			          },
+			          true
+			        );
+			      } else if (cmd === "addEventListener") {
+			        if (!("lastId" in __gpp)) {
+			          __gpp.lastId = 0;
+			        }
+			        __gpp.lastId++;
+			        var lnr = __gpp.lastId;
+			        __gpp.events.push({
+			          id: lnr,
+			          callback: clb,
+			          parameter: par,
+			        });
+			        clb(
+			          {
+			            eventName: "listenerRegistered",
+			            listenerId: lnr,
+			            data: true,
+			            pingData: {
+			              gppVersion: "1.1",
+			              cmpStatus: "stub",
+			              cmpDisplayStatus: "hidden",
+			              signalStatus: "not ready",
+			              supportedAPIs: SUPPORTED_APIs,
+			              cmpId: CMP_ID,
+			              sectionList: [],
+			              applicableSections: [-1],
+			              gppString: "",
+			              parsedSections: {},
+			            },
+			          },
+			          true
+			        );
+			      } else if (cmd === "removeEventListener") {
+			        var success = false;
+			        for (var i = 0; i < __gpp.events.length; i++) {
+			          if (__gpp.events[i].id == par) {
+			            __gpp.events.splice(i, 1);
+			            success = true;
+			            break;
+			          }
+			        }
+			        clb(
+			          {
+			            eventName: "listenerRemoved",
+			            listenerId: par,
+			            data: success,
+			            pingData: {
+			              gppVersion: "1.1",
+			              cmpStatus: "stub",
+			              cmpDisplayStatus: "hidden",
+			              signalStatus: "not ready",
+			              supportedAPIs: SUPPORTED_APIs,
+			              cmpId: CMP_ID,
+			              sectionList: [],
+			              applicableSections: [-1],
+			              gppString: "",
+			              parsedSections: {},
+			            },
+			          },
+			          true
+			        );
+			      } else if (cmd === "hasSection") {
+			        clb(false, true);
+			      } else if (cmd === "getSection" || cmd === "getField") {
+			        clb(null, true);
+			      } else {
+			        __gpp.queue.push([].slice.apply(b));
+			      }
+			    };
+			    window.__gpp_msghandler = function (event) {
+			      var msgIsString = typeof event.data === "string";
+			      try {
+			        var json = msgIsString ? JSON.parse(event.data) : event.data;
+			      } catch (e) {
+			        var json = null;
+			      }
+			      if (typeof json === "object" && json !== null && "__gppCall" in json) {
+			        var i = json.__gppCall;
+			        window.__gpp(
+			          i.command,
+			          function (retValue, success) {
+			            var returnMsg = {
+			              __gppReturn: {
+			                returnValue: retValue,
+			                success: success,
+			                callId: i.callId,
+			              },
+			            };
+			            event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+			          },
+			          "parameter" in i ? i.parameter : null,
+			          "version" in i ? i.version : "1.1"
+			        );
+			      }
+			    };
+			    if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+			      window.__gpp = window.__gpp_stub;
+			      window.addEventListener("message", window.__gpp_msghandler, false);
+			      window.__gpp_addFrame("__gppLocator");
+			    }
+			  };
+
+			  makeGppStub();
+
+			  var uspStubFunction = function() {
+			    var arg = arguments;
+			    if (typeof window.__uspapi !== uspStubFunction) {
+			      setTimeout(function() {
+			        if (typeof window.__uspapi !== 'undefined') {
+			          window.__uspapi.apply(window.__uspapi, arg);
+			        }
+			      }, 500);
+			    }
+			  };
+
+			  var checkIfUspIsReady = function() {
+			    uspTries++;
+			    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+			      console.warn('USP is not accessible');
+			    } else {
+			      clearInterval(uspInterval);
+			    }
+			  };
+
+			  if (typeof window.__uspapi === 'undefined') {
+			    window.__uspapi = uspStubFunction;
+			    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+			  }
+			})();
+			</script>
+		{{ else if site.Params.cmp.quantcast_choice_url }}
+			<script type="text/javascript" src="{{ site.Params.cmp.quantcast_choice_url }}" async></script>
+		{{ else }}
+			{{/* Missing quantcast_choice_account_id and quantcast_choice_url; nothing to load. */}}
+		{{ end }}
 	{{ end }}
 {{ end }}
