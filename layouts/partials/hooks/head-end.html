@@ -8,4 +8,7 @@
 <meta name="description" content="{{ .Site.Params.description }}">
 <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
 
+{{/* ConsentManager autoblocking script — disabled by default to avoid runtime errors when account is paused or ID is invalid. Enable by setting params.cmpEnabled = true. */}}
+{{ if eq site.Params.cmpEnabled true }}
 <script type="text/javascript" data-cmp-ab="1" src="https://cdn.consentmanager.net/delivery/autoblocking/b67838e792fd4.js" data-cmp-host="b.delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="16"></script>
+{{ end }}

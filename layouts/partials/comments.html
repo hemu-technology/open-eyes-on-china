@@ -1,11 +1,21 @@
-<div class="post_comments" style="margin-top: 2rem;">
-  {{ if .Site.Config.Services.Disqus.Shortname }}
-    {{ template "_internal/disqus.html" . }}
-  {{ end }}
-  {{ if .Site.Params.utterances }}
-    {{ partial "utterances.html" . }}
-  {{ end }}
-  {{ if .Site.Params.giscus }}
-    {{ partial "giscus.html" . }}
-  {{ end }}
-</div>
+<section id="comments">
+  <div id="remark42"></div>
+  <script>
+    // Ensure the config is attached to window for Remark42 to pick up
+    (function () {
+      // Build URL from current location to avoid protocol (http/https) mismatches
+      var pageUrl = window.location.origin + window.location.pathname;
+      window.remark_config = {
+        host: "https://comments.openeyesonchina.com",
+        site_id: "open-eyes-on-china",
+        // Pin the exact page URL (no hash); using current origin ensures protocol matches
+        url: pageUrl,
+        components: ["embed"],
+        no_footer: true,
+        theme: (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? "dark" : "light",
+      };
+    })();
+  </script>
+  <script defer src="https://comments.openeyesonchina.com/web/embed.js"></script>
+  <noscript>Enable JavaScript to view comments powered by Remark42.</noscript>
+</section>
