@@ -1,0 +1,37 @@
+{{ define "main" }}
+{{- $s := .Site.Params -}}
+<div class="wrap content policy-page">
+  <header class="page-header">
+    <h1 class="post_title">{{ .Title | markdownify }}</h1>
+    {{- $updated := cond (ne .Lastmod .Date) .Lastmod .Date -}}
+    <p class="last-updated">Last updated: <time datetime='{{ $updated.Format "2006-01-02" }}'>{{ $updated.Format "Jan 2, 2006" }}</time></p>
+  </header>
+
+  <div class="page-grid">
+    <aside class="page-aside">
+      {{ if .TableOfContents }}
+      <nav class="toc-card" aria-label="Table of contents">
+        <div class="toc-card__header">On this page</div>
+        <div class="toc-card__body" id="toc-body">
+          {{ .TableOfContents }}
+        </div>
+        <button type="button" class="toc-card__toggle" aria-expanded="true" aria-controls="toc-body" onclick="(function(btn){
+          var card = btn.closest('.toc-card');
+          var body = card && card.querySelector('.toc-card__body');
+          if (!body) return;
+          var expanded = btn.getAttribute('aria-expanded') === 'true';
+          body.style.display = expanded ? 'none' : 'block';
+          btn.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+          var t = btn.querySelector('.toc-card__toggle-text');
+          if (t) t.textContent = expanded ? 'Show' : 'Hide';
+        })(this)"><span class="toc-card__toggle-text">Hide</span></button>
+      </nav>
+      {{ end }}
+    </aside>
+
+    <main class="page-content">
+      {{ .Content }}
+    </main>
+  </div>
+</div>
+{{ end }}

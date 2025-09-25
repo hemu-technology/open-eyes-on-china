@@ -1,0 +1,25 @@
+{{/*
+  Shortcode: toc
+  Usage: {{< toc >}}
+  Renders the current page's Table of Contents inside a container.
+  Requires headings in content (##, ###, ...).
+*/}}
+{{ if .Page.TableOfContents }}
+<nav class="toc-card" aria-label="Table of contents">
+  <div class="toc-card__header">On this page</div>
+  <div class="toc-card__body">
+    {{ .Page.TableOfContents }}
+  </div>
+  <button type="button" class="toc-card__toggle" aria-expanded="true" aria-controls="toc-body" onclick="(function(btn){
+    var card = btn.closest('.toc-card');
+    var body = card && card.querySelector('.toc-card__body');
+    if (!body) return;
+    var expanded = btn.getAttribute('aria-expanded') === 'true';
+    body.style.display = expanded ? 'none' : 'block';
+    btn.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+    btn.querySelector('.toc-card__toggle-text').textContent = expanded ? 'Show' : 'Hide';
+  })(this)">
+    <span class="toc-card__toggle-text">Hide</span>
+  </button>
+  </nav>
+{{ end }}

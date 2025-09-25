@@ -398,6 +398,112 @@ mark.search-term
 .series-banner__label
   font-weight: 600
 
+// ===========================
+// Privacy Policy enhancements
+// ===========================
+.policy-page
+  .page-header
+    margin-bottom: 1rem
+    h1
+      margin-bottom: .25rem
+    .last-updated
+      font-size: .9rem
+      color: #666
+  .page-grid
+    display: grid
+    gap: 1.25rem
+    grid-template-columns: 1fr
+    @media (min-width: 992px)
+      grid-template-columns: 260px 1fr
+  .page-aside
+    position: sticky
+    top: 6rem
+    height: fit-content
+  .page-content
+    min-width: 0
+    h2, h3
+      scroll-margin-top: 5.5rem
+
+.toc-card
+  position: relative
+  background: #f8fafc
+  border: 1px solid #e5e9f0
+  border-radius: 8px
+  padding: .75rem .85rem .9rem
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04)
+  .toc-card__header
+    font-weight: 600
+    margin-bottom: .35rem
+  .toc-card__body
+    font-size: .92rem
+    max-height: 60vh
+    overflow: auto
+    ul
+      list-style: none
+      padding-left: .75rem
+      li
+        margin: .25rem 0
+        a
+          text-decoration: none
+          color: #0b5cab
+          &:hover
+            text-decoration: underline
+  .toc-card__toggle
+    position: absolute
+    right: .5rem
+    top: .5rem
+    border: 1px solid #d3dbe6
+    background: #fff
+    padding: .15rem .5rem
+    border-radius: 6px
+    font-size: .8rem
+    cursor: pointer
+    color: #0b5cab
+    &:focus-visible
+      outline: 2px solid #33a4e2
+      outline-offset: 3px
+
+.privacy-choices
+  appearance: none
+  border: 1px solid #0b5cab
+  background: #0b5cab
+  color: #fff
+  padding: .5rem .8rem
+  border-radius: 6px
+  font-weight: 600
+  letter-spacing: .2px
+  transition: background .18s var(--ease), color .18s var(--ease), transform .08s var(--ease)
+  &:hover
+    background: darken(#0b5cab, 6%)
+  &:active
+    transform: translateY(1px)
+  &:focus-visible
+    outline: 2px solid #33a4e2
+    outline-offset: 3px
+
+[data-mode="dim"]
+  .policy-page .page-header .last-updated
+    color: rgba(255,255,255,0.7)
+  .toc-card
+    background: #0a3a54
+    border-color: #125577
+    box-shadow: 0 2px 8px rgba(0,0,0,0.45)
+    .toc-card__header
+      color: rgba(255,255,255,0.9)
+    .toc-card__body a
+      color: lighten(#33a4e2, 10%)
+      &:hover
+        color: #fff
+    .toc-card__toggle
+      background: #063248
+      border-color: #0c4d6b
+      color: lighten(#33a4e2, 5%)
+  .privacy-choices
+    background: #126591
+    border-color: #126591
+    &:hover
+      background: #1a7fb6
+
 .series-banner__name
   font-weight: 500
 

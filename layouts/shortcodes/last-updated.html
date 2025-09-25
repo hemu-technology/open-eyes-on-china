@@ -1,0 +1,8 @@
+{{/*
+  Shortcode: last-updated
+  Usage: {{< last-updated >}}
+  Shows the last updated date for the current page.
+*/}}
+{{ $p := .Page }}
+{{ $updated := cond (ne $p.Lastmod $p.Date) $p.Lastmod $p.Date }}
+<p class="last-updated">Last updated: <time datetime='{{ $updated.Format "2006-01-02" }}'>{{ $updated.Format "Jan 2, 2006" }}</time></p>

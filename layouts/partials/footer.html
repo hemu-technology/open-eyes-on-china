@@ -16,7 +16,8 @@
       {{/* Show Manage Cookies when CMP is enabled (works for both providers) */}}
       {{ $cmpEnabled := eq .Site.Params.cmp.enabled true }}
       {{ $provider := default "cookieconsent" .Site.Params.cmp.provider }}
-      {{ if $cmpEnabled }}
+      {{ $showManage := default true .Site.Params.cmp.showManageLink }}
+      {{ if and $cmpEnabled $showManage }}
       <li class="footer-links__sep" aria-hidden="true">|</li>
       <li class="footer-links__item">
         <a class="footer-links__link" href="#" onclick="return (function openConsentUI(){
@@ -63,9 +64,11 @@
       {{ end }}
     </ul>
   </nav>
+  {{ if and $cmpEnabled $showManage }}
   <script>
     try { console.log('[CMP] Footer Manage Cookies ready'); } catch(e){}
   </script>
+  {{ end }}
   <div class="footer_inner wrap pale">
     <img src='{{ absURL (default $defaultFooterLogo $s.footerLogo) }}' class="icon icon_2 transparent" alt="{{ $c }}">
   <p>{{ $c }}</p>

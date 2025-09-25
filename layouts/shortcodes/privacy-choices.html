@@ -1,0 +1,51 @@
+{{/*
+  Shortcode: privacy-choices
+  Usage: {{< privacy-choices >}}
+  Renders a button to reopen the site's Consent Management UI.
+  Works with provider "quantcast" (InMobi/TCF) and falls back to cookieconsent if configured.
+*/}}
+{{ $cmpEnabled := eq .Site.Params.cmp.enabled true }}
+{{ if not $cmpEnabled }}
+<!-- CMP is disabled; privacy choices button suppressed. -->
+{{ else }}
+<button type="button" class="btn privacy-choices" onclick="return (function(){
+  var ACCOUNT_ID = '{{ .Site.Params.cmp.quantcast_choice_account_id }}';
+  var FALLBACK_URL = '{{ .Site.Params.cmp.quantcast_choice_url }}';
+  function fallbackCookieConsent(){
+    if (window.__cookieConsent && typeof window.__cookieConsent.showSettings === 'function') { window.__cookieConsent.showSettings(); return true; }
+    alert('Consent UI not available yet. If your CMP is region-restricted, try from an EEA/UK IP or wait and try again.');
+    return false;
+  }
+  function pingLoaded(cb, timeoutMs){
+    var max = Math.max(1000, timeoutMs||6000), t = 0;
+    var h = setInterval(function(){
+      t+=250;
+      try{
+        if (typeof window.__tcfapi === 'function') {
+          window.__tcfapi('ping', 2, function(p){
+            if (p && (p.cmpStatus === 'loaded' || p.cmpLoaded === true)) { clearInterval(h); cb(true); }
+            else if (t>=max) { clearInterval(h); cb(false); }
+          });
+        } else if (t>=max) { clearInterval(h); cb(false); }
+      } catch(e){ if (t>=max) { clearInterval(h); cb(false); } }
+    }, 250);
+  }
+  function ensureCmpLoaded(cb){
+    if (typeof window.__tcfapi === 'function') {
+      pingLoaded(function(ok){ if (ok) cb(); else fallbackCookieConsent(); });
+      return;
+    }
+    if (!ACCOUNT_ID && !FALLBACK_URL) { fallbackCookieConsent(); return; }
+    if (document.getElementById('inmobi-cmp-loader')) { pingLoaded(function(ok){ if (ok) cb(); else fallbackCookieConsent(); }, 8000); return; }
+    var host = window.location.hostname;
+    if (host==='localhost' || host==='127.0.0.1') host = 'openeyesonchina.com';
+    var src = ACCOUNT_ID ? ('https://cmp.inmobi.com/choice/'+ACCOUNT_ID+'/'+host+'/choice.js?tag_version=V3') : FALLBACK_URL;
+    var s = document.createElement('script'); s.id='inmobi-cmp-loader'; s.async=true; s.type='text/javascript'; s.src=src;
+    s.onerror = function(){ if (FALLBACK_URL && src!==FALLBACK_URL){ var fb=document.createElement('script'); fb.async=true; fb.type='text/javascript'; fb.src=FALLBACK_URL; document.head.appendChild(fb); setTimeout(function(){ pingLoaded(function(ok){ if (ok) cb(); else fallbackCookieConsent(); }, 8000); }, 250); } else { fallbackCookieConsent(); } };
+    document.head.appendChild(s);
+    setTimeout(function(){ pingLoaded(function(ok){ if (ok) cb(); else fallbackCookieConsent(); }, 8000); }, 50);
+  }
+  try { ensureCmpLoaded(function(){ window.__tcfapi('displayConsentUi', 2, function(){}); }); return false; } catch(e) { return !fallbackCookieConsent(); }
+})();">Privacy choices</button>
+<noscript><p>JavaScript is required to manage your privacy settings.</p></noscript>
+{{ end }}

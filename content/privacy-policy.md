@@ -2,6 +2,7 @@
 title = "Privacy Policy"
 date = "2025-09-17"
 draft = false
+layout = "privacy-policy"
 +++
 
 # Privacy Policy
@@ -26,6 +27,12 @@ Our site may use third-party services (e.g., analytics, advertising) that collec
 ## Your Choices
 - You may request access, correction, or deletion of your personal information.
 - You may opt out of certain data collection by adjusting your browser settings.
+
+### Manage your privacy choices
+
+You can review or change your consent preferences at any time:
+
+{{< privacy-choices >}}
 
 ## Changes to This Policy
 We may update this Privacy Policy from time to time. Changes will be posted on this page.

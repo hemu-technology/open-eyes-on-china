@@ -163,6 +163,8 @@ provider = "quantcast"
 quantcast_choice_url = "https://cmp.inmobi.com/choice/zMQc3UtdAdk91/openeyesonchina.com/choice.js?tag_version=V3"
 # Alternatively, provide only the account id to support dynamic hostnames in dev (e.g., localhost)
 quantcast_choice_account_id = "zMQc3UtdAdk91"
+# Show or hide the footer "Manage Cookies" link (you can still open the UI via CMP's persistent link)
+showManageLink = false
 
 # Adjust reading time (multiplies raw word count before dividing by WPM).
 # 0.55 assumes bilingual (Chinese+English) content where effective reading effort per word is lower.
