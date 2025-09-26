@@ -1,5 +1,5 @@
 <section id="comments">
-  <h2>Comments</h2>
+  <h2>{{ with .Site.Params.commentsTitle }}{{ . }}{{ else }}{{ i18n "comments_title" | default "Comments" }}{{ end }}</h2>
   <div id="remark42"></div>
   <script>
     // Ensure the config is attached to window for Remark42 to pick up
