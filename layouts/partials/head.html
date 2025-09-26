@@ -1,62 +1,38 @@
-{{- $params := site.Params }}
-{{- $separator := default "|" $params.titleSeparator }}
-{{- $title := "" }}
-{{- if and .Title (ne (trim (lower .Site.Title) "") (trim (lower .Title) "")) }}
-  {{- if eq .Kind "taxonomy" }}
-    {{- $title = default .Title ( T (lower .Title) ) }}
-  {{- else }}
-    {{- $title = .Title }}
-  {{- end }}
-{{- end }}
+{{- $params := site.Params -}}
+{{- $separator := default "|" $params.titleSeparator -}}
+{{- $title := "" -}}
+{{- if and .Title (ne (trim (lower .Site.Title) "") (trim (lower .Title) "")) -}}
+  {{- if eq .Kind "taxonomy" -}}
+    {{- $title = default .Title ( T (lower .Title) ) -}}
+  {{- else -}}
+    {{- $title = .Title -}}
+  {{- end -}}
+{{- end -}}
 <title>{{ with $title }}{{ . }} {{ $separator }} {{ end }}{{ .Site.Title }}</title>
 <meta charset="utf-8">
-{{ if .Params.noindex }}
-<meta name="robots" content="noindex" />
-{{ end }}
-{{- with $params.ga_verify }}
-  <meta name="google-site-verification" content="{{ . }}">
-{{- end }}
+{{ if .Params.noindex }}<meta name="robots" content="noindex" />{{ end }}
+{{- with $params.ga_verify }}<meta name="google-site-verification" content="{{ . }}">{{- end }}
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-{{- if (ne hugo.Environment "development") }}
-  {{- partialCached "analytics" . }}
-{{- end }}
+{{- if (ne hugo.Environment "development") }}{{- partialCached "analytics" . }}{{- end }}
 {{- partial "opengraph" . }}
 {{- partialCached "favicon" . }}
-<link rel="canonical" href="{{ .Permalink }}">
+<link rel="canonical" href="{{ .Permalink | absURL }}">
 {{ range .AlternativeOutputFormats -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
-
-<!-- preload assets declaration -->
-<!-- preload main css file -->
+{{/* Preload bundles */}}
 {{ $styles := partialCached "func/getStylesBundle" . }}
-<link rel="preload" href="{{ $styles.Permalink }}" integrity = "{{ $styles.Data.Integrity }}" as="style" crossorigin="anonymous">
-
-<!-- preload main javascript file -->
+<link rel="preload" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" as="style" crossorigin="anonymous">
 {{ $bundle := partialCached "func/getJavascriptBundle" . }}
-<link rel="preload" href="{{ $bundle.Permalink }}" as="script" integrity=
-"{{ $bundle.Data.Integrity }}" crossorigin="anonymous">
-
-<!-- link main css file -->
+<link rel="preload" href="{{ $bundle.Permalink }}" as="script" integrity="{{ $bundle.Data.Integrity }}" crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
-<!-- load all custom css files -->
-{{- with $params.customCSS }}
-  {{- range . -}}
-  <link rel="stylesheet" href="{{ relURL . }}">
-  {{- end }}
-{{- end }}
-
+{{- with $params.customCSS }}{{- range . }}<link rel="stylesheet" href="{{ relURL . }}">{{- end }}{{- end }}
 {{- partial "scripts/google/tag-manager" (dict "noscript" false) }}
-
-<!-- performance: preconnect to known third-parties (site override) -->
 <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
 <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
 <link rel="dns-prefetch" href="//www.googletagmanager.com">
 <link rel="dns-prefetch" href="//www.google-analytics.com">
-<!-- ConsentManager preconnect removed (deprecated) -->
-
-<!-- performance: preload likely LCP image on homepage (first post thumbnail) -->
 {{ if .IsHome }}
   {{ $pages := .Pages }}
   {{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
@@ -67,65 +43,9 @@
     {{ $pages = $featuredPosts | append $normalPosts }}
   {{ end }}
   {{ with index $pages 0 }}
-    {{ with .Params.thumbnail }}
-      {{ partial "func/preload-image" (dict "src" .) }}
-    {{ end }}
+    {{ with .Params.thumbnail }}{{ partial "func/preload-image" (dict "src" .) }}{{ end }}
   {{ end }}
 {{ end }}
-
-<!-- performance: preload LCP image on single post page if featureImage is set -->
 {{ if .IsPage }}
-  {{ with .Params.featureImage }}
-    {{ partial "func/preload-image" (dict "src" .) }}
-  {{ end }}
+  {{ with .Params.featureImage }}{{ partial "func/preload-image" (dict "src" .) }}{{ end }}
 {{ end }}
-{{- $params := site.Params }}
-{{- $separator := default "|" $params.titleSeparator }}
-{{- $title := "" }}
-{{- if and .Title (ne (trim (lower .Site.Title) "") (trim (lower .Title) "")) }}
-  {{- if eq .Kind "taxonomy" }}
-    {{- $title = default .Title ( T (lower .Title) ) }}
-  {{- else }}
-    {{- $title = .Title }}
-  {{- end }}
-{{- end }}
-<title>{{ with $title }}{{ . }} {{ $separator }} {{ end }}{{ .Site.Title }}</title>
-<meta charset="utf-8">
-{{ if .Params.noindex }}
-<meta name="robots" content="noindex" />
-{{ end }}
-{{- with $params.ga_verify }}
-  <meta name="google-site-verification" content="{{ . }}">
-{{- end }}
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-{{- if (ne hugo.Environment "development") }}
-  {{- partialCached "analytics" . }}
-{{- end }}
-{{- partial "opengraph" . }}
-{{- partialCached "favicon" . }}
-<link rel="canonical" href="{{ .Permalink | absURL }}">
-{{ range .AlternativeOutputFormats -}}
-  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-{{ end -}}
-
-<!-- preload assets declaration -->
-<!-- preload main css file -->
-{{ $styles := partialCached "func/getStylesBundle" . }}
-<link rel="preload" href="{{ $styles.Permalink }}" integrity = "{{ $styles.Data.Integrity }}" as="style" crossorigin="anonymous">
-
-<!-- preload main javascript file -->
-{{ $bundle := partialCached "func/getJavascriptBundle" . }}
-<link rel="preload" href="{{ $bundle.Permalink }}" as="script" integrity=
-"{{ $bundle.Data.Integrity }}" crossorigin="anonymous">
-
-<!-- link main css file -->
-<link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
-<!-- load all custom css files -->
-{{- with $params.customCSS }}
-  {{- range . -}}
-  <link rel="stylesheet" href="{{ relURL . }}">
-  {{- end }}
-{{- end }}
-
-{{- partial "scripts/google/tag-manager" (dict "noscript" false) }}

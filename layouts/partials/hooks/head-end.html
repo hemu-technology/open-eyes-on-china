@@ -4,9 +4,8 @@
 
 {{ partial "adsense-head.html" . }}
 
-<!-- SEO Meta Tags: description and keywords only (Open Graph and Twitter tags handled by opengraph.html) -->
-<meta name="description" content="{{ .Site.Params.description }}">
-<meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
+<!-- Removed duplicate meta description (page-level description already emitted in opengraph.html) -->
+<!-- Removed duplicate meta keywords to avoid repetition (opengraph.html handles keywords aggregation). -->
 
 {{/* ConsentManager autoblocking script — disabled by default to avoid runtime errors when account is paused or ID is invalid. Enable by setting params.cmp.enabled = true. */}}
 {{/*
