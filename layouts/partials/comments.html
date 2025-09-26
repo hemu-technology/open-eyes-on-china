@@ -1,4 +1,5 @@
 <section id="comments">
+  <h2>Comments</h2>
   <div id="remark42"></div>
   <script>
     // Ensure the config is attached to window for Remark42 to pick up
@@ -6,23 +7,58 @@
       var pageUrl = window.location.origin + window.location.pathname;
       var host = '{{ default "https://comments.openeyesonchina.com" .Site.Params.remark42.host }}';
       var siteId = '{{ default "open-eyes-on-china" .Site.Params.remark42.site_id }}';
+
+      // Determine site theme from the theme's data-mode attribute (lit/dim)
+      function isSiteDark() {
+        try {
+          var dm = document.documentElement.getAttribute('data-mode');
+          if (dm) return dm.trim() === 'dim';
+        } catch (e) {}
+        // Fallback to system preference
+        return !!(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
+      }
+
       window.remark_config = {
         host: host,
         site_id: siteId,
         url: pageUrl,
         components: ["embed"],
         no_footer: true,
-        theme: (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? "dark" : "light",
+        theme: isSiteDark() ? 'dark' : 'light',
       };
-      // Optional: sync Remark42 theme on site theme change
-      try {
-        var mq = window.matchMedia('(prefers-color-scheme: dark)');
-        mq.addEventListener && mq.addEventListener('change', function(e){
+
+      // Keep Remark42 theme in sync with site theme toggles
+      (function syncRemarkTheme() {
+        function applyTheme() {
+          var theme = isSiteDark() ? 'dark' : 'light';
           if (window.REMARK42 && typeof window.REMARK42.changeTheme === 'function') {
-            window.REMARK42.changeTheme(e.matches ? 'dark' : 'light');
+            window.REMARK42.changeTheme(theme);
           }
-        });
-      } catch(e){}
+        }
+
+        // Observe changes to data-mode on <html>
+        try {
+          var mo = new MutationObserver(function (mutations) {
+            for (var i = 0; i < mutations.length; i++) {
+              if (mutations[i].type === 'attributes' && mutations[i].attributeName === 'data-mode') {
+                applyTheme();
+                break;
+              }
+            }
+          });
+          mo.observe(document.documentElement, { attributes: true, attributeFilter: ['data-mode'] });
+        } catch (e) {}
+
+        // Also react to system changes as a fallback when site follows system
+        try {
+          var mq = window.matchMedia('(prefers-color-scheme: dark)');
+          if (mq && mq.addEventListener) {
+            mq.addEventListener('change', applyTheme);
+          } else if (mq && mq.addListener) {
+            mq.addListener(applyTheme);
+          }
+        } catch (e) {}
+      })();
     })();
   </script>
   <script defer src="{{ default "https://comments.openeyesonchina.com" .Site.Params.remark42.host }}/web/embed.js"></script>
