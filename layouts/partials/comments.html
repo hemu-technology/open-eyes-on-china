@@ -3,19 +3,28 @@
   <script>
     // Ensure the config is attached to window for Remark42 to pick up
     (function () {
-      // Build URL from current location to avoid protocol (http/https) mismatches
       var pageUrl = window.location.origin + window.location.pathname;
+      var host = '{{ default "https://comments.openeyesonchina.com" .Site.Params.remark42.host }}';
+      var siteId = '{{ default "open-eyes-on-china" .Site.Params.remark42.site_id }}';
       window.remark_config = {
-        host: "https://comments.openeyesonchina.com",
-        site_id: "open-eyes-on-china",
-        // Pin the exact page URL (no hash); using current origin ensures protocol matches
+        host: host,
+        site_id: siteId,
         url: pageUrl,
         components: ["embed"],
         no_footer: true,
         theme: (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? "dark" : "light",
       };
+      // Optional: sync Remark42 theme on site theme change
+      try {
+        var mq = window.matchMedia('(prefers-color-scheme: dark)');
+        mq.addEventListener && mq.addEventListener('change', function(e){
+          if (window.REMARK42 && typeof window.REMARK42.changeTheme === 'function') {
+            window.REMARK42.changeTheme(e.matches ? 'dark' : 'light');
+          }
+        });
+      } catch(e){}
     })();
   </script>
-  <script defer src="https://comments.openeyesonchina.com/web/embed.js"></script>
+  <script defer src="{{ default "https://comments.openeyesonchina.com" .Site.Params.remark42.host }}/web/embed.js"></script>
   <noscript>Enable JavaScript to view comments powered by Remark42.</noscript>
 </section>

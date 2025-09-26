@@ -1,0 +1,75 @@
+version: "3.8"
+
+services:
+  remark42:
+    image: ghcr.io/umputun/remark42:latest
+    container_name: remark42
+    restart: unless-stopped
+    environment:
+      # Core (use .env in production; these can be overridden by env_file)
+      - REMARK_URL=${REMARK_HOST}
+      - SITE=${SITE_ID}
+      - SECRET=${REMARK_SECRET}
+      # Storage paths inside container
+      - AVATAR_FS_STORE=/srv/var/avatars
+      - IMG_FS_PATH=/srv/var/images
+      # CORS / embed origins
+      - CORS_ALLOWED=${CORS_ALLOWED}
+      # Auth providers (uncomment or set in .env to enable)
+      # Google
+      # - AUTH_GOOGLE_CID=${AUTH_GOOGLE_CID}
+      # - AUTH_GOOGLE_CSEC=${AUTH_GOOGLE_CSEC}
+      # Facebook
+      # - AUTH_FACEBOOK_CID=${AUTH_FACEBOOK_CID}
+      # - AUTH_FACEBOOK_CSEC=${AUTH_FACEBOOK_CSEC}
+  # Twitter / X (requires OAuth 1.0a API Key/Secret)
+  # - AUTH_TWITTER_CID=${AUTH_TWITTER_CID}
+  # - AUTH_TWITTER_CSEC=${AUTH_TWITTER_CSEC}
+      # Microsoft
+      # - AUTH_MICROSOFT_CID=${AUTH_MICROSOFT_CID}
+      # - AUTH_MICROSOFT_CSEC=${AUTH_MICROSOFT_CSEC}
+      # Apple
+      # - AUTH_APPLE_CID=${AUTH_APPLE_CID}
+      # - AUTH_APPLE_TID=${AUTH_APPLE_TID}
+      # - AUTH_APPLE_KID=${AUTH_APPLE_KID}
+      # - AUTH_APPLE_PRIVATE_KEY_FILEPATH=/srv/var/apple.p8
+      # Telegram
+      # - AUTH_TELEGRAM=true
+      # - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}
+      # Allow anonymous comments? default false
+      - AUTH_ANON=${AUTH_ANON}
+      # SameSite policy (optional)
+      # - AUTH_SAME_SITE=default
+      # Email auth & SMTP (optional)
+      # - AUTH_EMAIL_ENABLE=true
+      # - AUTH_EMAIL_FROM=${AUTH_EMAIL_FROM}
+      # - SMTP_HOST=${SMTP_HOST}
+      # - SMTP_PORT=${SMTP_PORT}
+      # - SMTP_TLS=${SMTP_TLS}
+      # - SMTP_STARTTLS=${SMTP_STARTTLS}
+      # - SMTP_INSECURE_SKIP_VERIFY=${SMTP_INSECURE_SKIP_VERIFY}
+      # - SMTP_USERNAME=${SMTP_USERNAME}
+      # - SMTP_PASSWORD=${SMTP_PASSWORD}
+    volumes:
+      - ./var:/srv/var
+      # Mount Apple private key file (rename locally to apple.p8)
+      # - ./secrets/apple.p8:/srv/var/apple.p8:ro
+    # If you front it with Caddy/NGINX, you usually don't publish ports here.
+    # ports:
+    #   - "8080:8080"
+
+  # Optional: Caddy reverse proxy example
+  # caddy:
+  #   image: caddy:latest
+  #   container_name: caddy
+  #   restart: unless-stopped
+  #   ports:
+  #     - "80:80"
+  #     - "443:443"
+  #   volumes:
+  #     - ./Caddyfile:/etc/caddy/Caddyfile:ro
+  #     - ./caddy_data:/data
+  #     - ./caddy_config:/config
+  #   depends_on:
+  #     - remark42
+

@@ -1,0 +1,44 @@
+version: "3.8"
+
+services:
+  remark42:
+    image: ghcr.io/umputun/remark42:latest
+    container_name: remark42
+    restart: always
+    environment:
+      # Core
+      - REMARK_URL=https://comments.openeyesonchina.com
+      - SITE=open-eyes-on-china
+      # IMPORTANT: change SECRET to a long random string and keep it private
+      - SECRET=CHANGE_ME_TO_A_LONG_RANDOM_STRING
+      # Security / CSP: which origins can embed the widget
+      - ALLOWED_HOSTS=openeyesonchina.com,www.openeyesonchina.com
+
+      # Auth providers (enabled only when both CID and CSEC are set)
+      # Google
+
+      # Optional: allow anonymous comments (default false)
+      - AUTH_ANON=false
+      # Optional: disable Telegram (default is disabled unless token set)
+      - AUTH_TELEGRAM=false
+
+      # Time zone and UID if needed
+      # - TIME_ZONE=Etc/UTC
+      # - APP_UID=1001
+
+    volumes:
+      - ./var:/srv/var
+
+    # If you are NOT fronting with a reverse proxy, uncomment the port mapping
+    # and access via http://<host>:8080 (but keep REMARK_URL set to your real HTTPS domain).
+    # ports:
+    #   - "8080:8080"
+
+    # If using a proxy (e.g., Caddy/NGINX), connect both containers to the same
+    # Docker network and proxy to http://remark42:8080
+    # networks:
+    #   - proxy
+
+# networks:
+#   proxy:
+#     external: true

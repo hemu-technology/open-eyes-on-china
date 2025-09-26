@@ -1,0 +1,6 @@
+# Ignore secrets and runtime data for remark42 tooling
+.env
+remark_var/
+caddy_data/
+caddy_config/
+secrets/
