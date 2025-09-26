@@ -1,0 +1,100 @@
+{{/* Local override to ensure structured data dates use ISO 8601 (RFC3339) and improve JSON-LD correctness */}}
+{{- $summary := truncate 160 .Summary -}}
+{{- $s := .Site.Params -}}
+{{- $p := .Params -}}
+
+{{- $relpath := "" -}}
+{{- $page := . -}}
+{{- if or $s.usePageBundles $p.usePageBundles }}
+  {{- $relpath = $page.RelPermalink -}}
+{{- end }}
+{{- if eq $p.usePageBundles false }}
+  {{- $relpath = "" -}}
+{{- end }}
+
+{{- with $p.description }}
+  {{- $summary = truncate 160 . -}}
+{{- end }}
+{{- if .IsHome }}
+  {{- $summary = $s.description -}}
+  {{- with $p.description }}
+    {{- $summary = . -}}
+  {{- end }}
+{{- end }}
+
+{{- $site := .Site.Title -}}
+{{- $title := .Title -}}
+{{- $permalink := .Permalink -}}
+{{- $logo := absURL $s.logo -}}
+{{- $author := $s.author -}}
+{{- with $p.author }}
+  {{- $author = . -}}
+{{- end }}
+
+{{/* Feature/Share Image resolution */}}
+{{- $image := absURL $s.fallBackOgImage -}}
+{{- with $p.featureImage }}
+  {{- $image = absURL ( add ( cond (or $s.usePageBundles $p.usePageBundles) $page.RelPermalink "" ) . ) -}}
+{{- end -}}
+{{- with $p.thumbnail }}
+  {{- $image = absURL ( add ( cond (or $s.usePageBundles $p.usePageBundles) $page.RelPermalink "" ) . ) -}}
+{{- end -}}
+{{- with $p.shareImage }}
+  {{- $image = absURL ( add ( cond (or $s.usePageBundles $p.usePageBundles) $page.RelPermalink "" ) . ) -}}
+{{- end -}}
+
+<meta property="og:locale" content="{{ .Lang }}" />
+{{- range .Translations }}
+<meta property="og:locale:alternate" content="{{ .Lang }}" />
+{{- end }}
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta name="description" content="{{ $summary }}" />
+<meta name="twitter:card" content="{{ if $s.largeTwitterCard }}summary_large_image{{ else }}summary{{ end }}" />
+<meta name="twitter:creator" content="{{ $s.twitter }}">
+<meta name="twitter:title" content="{{ $title }}" />
+<meta name="twitter:image" content="{{ $image }}"/>
+<meta property="og:url" content="{{ $permalink }}" />
+<meta property="og:title" content="{{ $title }}" />
+<meta property="og:description" content="{{ $summary }}" />
+<meta property="og:image" content="{{ $image }}" />
+
+{{/* Aggregate keywords */}}
+{{- $mergedKeywords := slice -}}
+{{- with $s.keywords }}{{- range . }}{{- $mergedKeywords = $mergedKeywords | append . -}}{{- end }}{{- end -}}
+{{- with $p.keywords }}{{- range . }}{{- $mergedKeywords = $mergedKeywords | append . -}}{{- end }}{{- end -}}
+{{- with $s.tags }}{{- range . }}{{- $mergedKeywords = $mergedKeywords | append . -}}{{- end }}{{- end -}}
+{{- with $p.tags }}{{- range . }}{{- $mergedKeywords = $mergedKeywords | append . -}}{{- end }}{{- end -}}
+{{- $mergedKeywordsString := delimit $mergedKeywords "," -}}
+{{- with $mergedKeywordsString }}<meta name="keywords" content="{{ . }}" />{{- end }}
+
+{{- if eq .Section $s.blogDir -}}
+  {{/* Use RFC3339 / ISO 8601 format with timezone (Z) for structured data */}}
+  {{- $datePublished := (.Date.UTC.Format "2006-01-02T15:04:05Z07:00") -}}
+  {{- $dateModified := (.Lastmod.UTC.Format "2006-01-02T15:04:05Z07:00") -}}
+  {{- $categories := slice -}}
+  {{- with $s.categories }}{{- range . }}{{- $categories = $categories | append . -}}{{- end }}{{- end -}}
+  {{- with $p.categories }}{{- range . }}{{- $categories = $categories | append . -}}{{- end }}{{- end -}}
+  <script type="application/ld+json">
+  {{- $data := dict
+      "@context" "https://schema.org"
+      "@type" "BlogPosting"
+      "mainEntityOfPage" $permalink
+      "name" $site
+      "headline" $title
+      "description" $summary
+      "url" $permalink
+      "datePublished" $datePublished
+      "dateModified" $dateModified
+      "keywords" $mergedKeywords
+      "author" (dict "@type" "Person" "name" $author)
+      "image" (dict "@type" "ImageObject" "url" $image)
+      "publisher" (dict "@type" "Organization" "logo" (dict "@type" "ImageObject" "url" $logo) "name" $site)
+      "inLanguage" .Lang
+      "dateCreated" $datePublished
+    -}}
+  {{- if gt (len $categories) 0 }}
+    {{- $data = merge $data (dict "articleSection" $categories) -}}
+  {{- end -}}
+  {{- $data | jsonify | safeJS -}}
+  </script>
+{{- end }}
