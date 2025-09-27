@@ -37,7 +37,7 @@ What kind of country is the United States, really? Do the lives of people living
 > <font color="#0077b8">Translator’s Note</font>  
 This question was originally posted by a Chinese netizen on Zhihu (a Chinese Q&A platform similar to Quora). The following content is my translation of responses to that question.  
 <br>
-For readers interested in related discussions, I previously wrote another piece on a different topic concerning the United States: [Is the United States a Just Nation?](/post/Is-the-United-States-a-just-nation?.md). You may refer to it for further reading.
+For readers interested in related discussions, I previously wrote another piece on a different topic concerning the United States: [Is the United States a Just Nation?](/post/is-the-united-states-a-just-nation). You may refer to it for further reading.
 
 
 <div class="comment-block">
