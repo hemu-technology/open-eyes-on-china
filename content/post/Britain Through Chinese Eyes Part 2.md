@@ -2,6 +2,7 @@
 author = "hemu"
 title = "Britain Through Chinese Eyes – Part 2"
 date = "2025-09-28"
+publishDate = "2025-09-27T09:00:00Z"
 summary = """
 The UK remains a top-10 global power, historically dominant and culturally influential. Its soft power—through the monarchy, Commonwealth, and legal traditions like the Magna Carta—amplifies its global presence. Strategically, it follows offshore balancing. While military and economic influence lags behind the US and China, the UK’s legacy and diplomacy sustain its global relevance.
 """
