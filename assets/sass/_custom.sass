@@ -368,6 +368,232 @@ mark.search-term
   background: rgba(255, 215, 0, 0.35)
 
 // ===========================
+// Improved 404 page styling
+// ===========================
+.notfound
+  padding: 3rem 0 4rem
+  display: grid
+  gap: 2.5rem
+  max-width: 980px
+  margin: 0 auto
+  // Provide extra top spacing to clear fixed/sticky header if it overlays content
+  // Adjust the CSS variable or fallback value below to match actual header height.
+  --header-clearance: 4.5rem
+  margin-top: var(--header-clearance)
+  .nf_header
+    text-align: center
+    .nf_title
+      font-size: clamp(2.4rem, 6vw, 3.5rem)
+      line-height: 1.05
+      margin: 0 0 .75rem
+      font-weight: 700
+      letter-spacing: .5px
+      background: linear-gradient(90deg, #0077b8, #33a4e2)
+      -webkit-background-clip: text
+      color: transparent
+    .nf_sub
+      font-size: 1.1rem
+      color: #555
+      max-width: 52ch
+      margin: 0 auto
+  .nf_actions
+    display: flex
+    flex-direction: column
+    align-items: center
+    gap: 1rem
+    .nf_search
+      display: flex
+      gap: .6rem
+      width: 100%
+      max-width: 480px
+      input
+        flex: 1
+        padding: .85rem 1rem
+        border: 1px solid #d4e2ea
+        border-radius: .65rem
+        font-size: 1rem
+        background: #fff
+        transition: border-color .18s var(--ease), box-shadow .18s var(--ease)
+        &:focus
+          outline: none
+          border-color: #0077b8
+          box-shadow: 0 0 0 3px rgba(0,119,184,0.2)
+      button
+        border: none
+        background: #0077b8
+        color: #fff
+        padding: 0 1.15rem
+        border-radius: .65rem
+        font-size: 1.05rem
+        cursor: pointer
+        font-weight: 600
+        transition: background .18s var(--ease), transform .18s var(--ease)
+        display: flex
+        align-items: center
+        &:hover
+          background: #00679e
+        &:active
+          transform: translateY(1px)
+    .nf_buttons
+      display: flex
+      flex-wrap: wrap
+      gap: .75rem
+      justify-content: center
+      a.button
+        text-decoration: none
+        background: #f0f7fb
+        color: #00679e
+        padding: .75rem 1.1rem
+        border-radius: .65rem
+        font-weight: 600
+        font-size: .95rem
+        transition: background .18s var(--ease), color .18s var(--ease), box-shadow .18s var(--ease)
+        border: 1px solid #d4e2ea
+        &:hover
+          background: #0077b8
+          color: #fff
+          border-color: #0077b8
+          box-shadow: 0 3px 10px rgba(0,0,0,0.1)
+        &:focus-visible
+          outline: 3px solid rgba(0,119,184,0.55)
+          outline-offset: 2px
+  .nf_block
+    background: #fff
+    padding: 1.75rem 1.5rem 1.6rem
+    border: 1px solid #e2eef4
+    border-radius: .95rem
+    box-shadow: 0 3px 12px -2px rgba(0,0,0,.05)
+    h2
+      margin: 0 0 1rem
+      font-size: 1.05rem
+      letter-spacing: .5px
+      font-weight: 600
+      text-transform: uppercase
+      color: #0d3a4f
+    ul
+      list-style: none
+      padding: 0
+      margin: 0
+      display: grid
+      gap: .55rem .85rem
+    &.nf_recent ul
+      grid-template-columns: 1fr
+      li
+        display: flex
+        flex-direction: column
+        gap: .25rem
+        a
+          font-weight: 600
+          line-height: 1.25
+          text-decoration: none
+          color: #0d3a4f
+          &:hover
+            color: #0077b8
+        time
+          font-size: .7rem
+          text-transform: uppercase
+          letter-spacing: .5px
+          color: #6b8592
+    &.nf_taxo ul
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr))
+      li a
+        display: inline-block
+        padding: .45rem .65rem .5rem
+        border-radius: .55rem
+        background: #f2f8fb
+        border: 1px solid #d5e5ed
+        font-size: .75rem
+        font-weight: 600
+        letter-spacing: .4px
+        color: #0d3a4f
+        text-decoration: none
+        transition: background .18s var(--ease), color .18s var(--ease), border-color .18s var(--ease)
+        &:hover
+          background: #0077b8
+          color: #fff
+          border-color: #0077b8
+    &.nf_links ul
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr))
+      li a
+        text-decoration: none
+        font-weight: 600
+        font-size: .8rem
+        color: #0d3a4f
+        position: relative
+        padding: 2px 0
+        &:before
+          content: ''
+          position: absolute
+          left: 0
+          bottom: 0
+          height: 2px
+          width: 100%
+          background: currentColor
+          transform: scaleX(0)
+          transform-origin: left
+          transition: transform .25s var(--ease)
+        &:hover:before
+          transform: scaleX(1)
+        &:hover
+          color: #0077b8
+  @media (min-width: 880px)
+    grid-template-columns: 1fr 1fr
+    .nf_header
+      grid-column: 1 / -1
+    .nf_actions
+      grid-column: 1 / -1
+    .nf_recent, .nf_taxo, .nf_links
+      align-self: start
+
+[data-mode="dim"]
+  .notfound
+    .nf_header .nf_sub
+      color: rgba(255,255,255,0.78)
+    .nf_block
+      background: #063248
+      border-color: #0c4d6b
+      box-shadow: 0 4px 18px -4px rgba(0,0,0,.55)
+      h2
+        color: rgba(255,255,255,0.85)
+      &.nf_recent ul li a
+        color: rgba(255,255,255,0.9)
+        &:hover
+          color: #33a4e2
+      &.nf_recent ul li time
+        color: rgba(255,255,255,0.55)
+      &.nf_taxo ul li a
+        background: #0c4d6b
+        border-color: #125577
+        color: rgba(255,255,255,0.85)
+        &:hover
+          background: #1473a3
+          border-color: #1473a3
+          color: #fff
+      &.nf_links ul li a
+        color: rgba(255,255,255,0.86)
+        &:hover
+          color: #33a4e2
+    .nf_actions .nf_search input
+      background: #0c4d6b
+      border-color: #125577
+      color: var(--light)
+      &::placeholder
+        color: rgba(255,255,255,0.55)
+    .nf_actions .nf_search button
+      background: #1473a3
+      &:hover
+        background: #1c8dc6
+    .nf_actions .nf_buttons a.button
+      background: #0c4d6b
+      border-color: #125577
+      color: rgba(255,255,255,0.87)
+      &:hover
+        background: #1473a3
+        border-color: #1473a3
+        color: #fff
+        box-shadow: 0 4px 18px -4px rgba(0,0,0,.6)
+
+// ===========================
 // Series banner component
 // ===========================
 .series-banner

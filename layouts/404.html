@@ -1,0 +1,81 @@
+{{ define "main" }}
+<section class="notfound wrap">
+  <div class="nf_header">
+    <h1 class="nf_title">{{ i18n "404_title" | default (T "404_title") }}</h1>
+    <p class="nf_sub">{{ i18n "could_not_find" | default (T "could_not_find") }}.</p>
+  </div>
+
+  <div class="nf_actions">
+    <form action="{{ .Site.BaseURL }}search/" method="get" class="nf_search" role="search" aria-label="Site search">
+      <input type="search" name="query" id="nf-query" placeholder="{{ i18n "blog_search_field_placeholder" | default (i18n "search_field_placeholder") }}" aria-label="Search" />
+      <button type="submit">🔍</button>
+    </form>
+    <div class="nf_buttons">
+      <a href="javascript:history.back()" class="button btn_back">{{ i18n "go_back" | default (T "go_back") }}</a>
+      <a href="{{ .Site.BaseURL }}" class="button btn_home">{{ i18n "overview" | default "Home" }}</a>
+    </div>
+  </div>
+
+  {{/* Recent Posts */}}
+  {{ $recent := first 6 ( where .Site.RegularPages "Type" "post" ) }}
+  {{ if gt (len $recent) 0 }}
+  <div class="nf_block nf_recent">
+    <h2>{{ i18n "recent_posts" | default (T "recent_posts") }}</h2>
+    <ul class="nf_list">
+      {{ range $recent }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  {{/* Popular Categories (by number of pages) */}}
+  {{ with .Site.Taxonomies.categories }}
+    {{/* Use the taxonomy term list objects ( .Site.Taxonomies.categories.ByCount ) which have .Name .Count .Page */}}
+    {{ $cats := first 10 $.Site.Taxonomies.categories.ByCount }}
+    {{ if gt (len $cats) 0 }}
+      <div class="nf_block nf_taxo">
+        <h2>{{ i18n "categories" | default (T "categories") }}</h2>
+        <ul class="nf_tags">
+          {{ range $cats }}
+            <li><a href="{{ .Page.RelPermalink }}">{{ .Name }} ({{ .Count }})</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{/* Popular Tags */}}
+  {{ with .Site.Taxonomies.tags }}
+    {{ $tags := first 15 $.Site.Taxonomies.tags.ByCount }}
+    {{ if gt (len $tags) 0 }}
+      <div class="nf_block nf_taxo">
+        <h2>{{ i18n "tags" | default (T "tags") }}</h2>
+        <ul class="nf_tags">
+          {{ range $tags }}
+            <li><a href="{{ .Page.RelPermalink }}">#{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{/* Sitemap / helpful links */}}
+  <div class="nf_block nf_links">
+    <h2>{{ i18n "overview" | default (T "overview") }}</h2>
+    <ul class="nf_links_list">
+      <li><a href="{{ .Site.BaseURL }}post/">{{ i18n "recent_posts" | default (T "recent_posts") }}</a></li>
+      <li><a href="{{ .Site.BaseURL }}categories/">{{ i18n "categories" | default (T "categories") }}</a></li>
+      <li><a href="{{ .Site.BaseURL }}tags/">{{ i18n "tags" | default (T "tags") }}</a></li>
+      <li><a href="{{ .Site.BaseURL }}archives/">{{ i18n "archives" | default "Archives" }}</a></li>
+      <li><a href="{{ .Site.BaseURL }}about/">{{ i18n "about" | default "About" }}</a></li>
+      <li><a href="{{ .Site.BaseURL }}contact/">{{ i18n "contact" | default "Contact" }}</a></li>
+      <li><a href="{{ .Site.BaseURL }}privacy-policy/">{{ i18n "privacy" | default "Privacy Policy" }}</a></li>
+    </ul>
+  </div>
+
+</section>
+{{ end }}
