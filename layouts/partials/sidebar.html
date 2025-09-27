@@ -3,11 +3,10 @@
   <section class="sidebar_inner">
     <br>
     {{ partial "search/widget" . }}
-    {{/*  {{- $introDescription := $s.introDescription }}
+    {{- $introDescription := $s.introDescription }}
     {{- with .Params.introDescription }}
       {{- $introDescription = . }}
     {{- end }}
-    
     {{- if $introDescription }}
       {{- $author := $s.Author  }}
       {{- $showAuthorPhoto := false }}
@@ -19,7 +18,7 @@
       {{- end }}
       {{- if $showAuthorPhoto }}
         <div class="author_header">
-          <img src="{{ absURL $author.photo }}" alt="{{ $author.name }} photo">
+          <img src="{{ absURL $author.photo }}" alt="{{ $author.name }} photo" loading="lazy">
           <h2>{{  $author.name }}</h2>
         </div>
       {{- else }}
@@ -28,14 +27,14 @@
       <div class="author_bio">
         {{ markdownify $introDescription }}
       </div>
-  {{- if ( ne $s.introURL false ) }}
-  {{- $r := T "read_more" }}
-  {{- $introTarget := (default "about/" $s.introURL) -}}
-  {{- $introPath := trim $introTarget "/" -}}
-  {{- $introName := title (replace $introPath "-" " ") -}}
-  <a href='{{ absLangURL $introTarget }}' class="button mt-1" role="button" title='{{ printf "%s: %s" $r $introName }}' aria-label='{{ printf "%s: %s" $r $introName }}'>{{ $r }}</a>
-  {{- end }}
-    {{- end }}  */}}
+      {{- if ( ne $s.introURL false ) }}
+        {{- $r := T "read_more" }}
+        {{- $introTarget := (default "about/" $s.introURL) -}}
+        {{- $introPath := trim $introTarget "/" -}}
+        {{- $introName := title (replace $introPath "-" " ") -}}
+        <a href='{{ absLangURL $introTarget }}' class="button mt-1" role="button" title='{{ printf "%s: %s" $r $introName }}' aria-label='{{ printf "%s: %s" $r $introName }}'>{{ $r }}</a>
+      {{- end }}
+    {{- end }}
 
     {{/*  {{ if .Site.Params.sidebardisclaimer }}
       <div class="sidebardisclaimer">

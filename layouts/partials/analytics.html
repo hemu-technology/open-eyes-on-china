@@ -15,59 +15,31 @@
 </script>
 
 {{- $config := site.Params }}
-{{- with $config.ga_analytics }}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '{{ . }}');
-</script>
-{{- end -}}
+  (function(){
+  var analyticsLoaded=false;
+  var idleTimeout=6000; // fallback after 6s
+  var gaId='{{ with $config.ga_analytics }}{{ . }}{{ end }}';
+  var baiduId='{{ with $config.baidu_analytics }}{{ . }}{{ end }}';
+  var matomoEnable='{{ if $config.matomo_analytics.enable }}1{{ end }}'==='1';
+  var matomoDomain='{{ with $config.matomo_analytics.matomoDomain }}{{ . }}{{ end }}';
+  var matomoSiteId='{{ with $config.matomo_analytics.matomoSiteID }}{{ . }}{{ else }}1{{ end }}';
+  var plausibleEnable='{{ if $config.plausible_analytics.enable }}1{{ end }}'==='1';
+  var plausibleDomain='{{ with $config.plausible_analytics.plausibleDomain }}{{ . }}{{ else }}plausible.io{{ end }}';
+  var plausibleSite='{{ with $config.plausible_analytics.websiteDomain }}{{ . }}{{ end }}';
+  var plausibleScriptName='{{ with $config.plausible_analytics.scritpName }}{{ . }}{{ else }}plausible{{ end }}';
+  var umamiId='{{ with $config.umami_data_website_id }}{{ . }}{{ end }}';
+  var umamiUrl='{{ with $config.umami_script_url }}{{ . }}{{ end }}';
 
-{{- with $config.baidu_analytics }}
-<script>
-  var _hmt = _hmt || [];
-  (function() {
-    var hm = document.createElement("script");
-    hm.src = "https://hm.baidu.com/hm.js?{{ . }}";
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(hm, s);
+    function loadScript(src, async){ var s=document.createElement('script'); s.src=src; if(async!==false) s.async=true; document.head.appendChild(s); return s; }
+    function loadGA(){ if(!gaId) return; loadScript('https://www.googletagmanager.com/gtag/js?id='+gaId); window.dataLayer=window.dataLayer||[]; function gtag(){dataLayer.push(arguments);} window.gtag=gtag; gtag('js', new Date()); gtag('config', gaId); }
+    function loadBaidu(){ if(!baiduId) return; var hm=document.createElement('script'); hm.src='https://hm.baidu.com/hm.js?'+baiduId; (document.getElementsByTagName('script')[0]||document.head).parentNode.insertBefore(hm, document.getElementsByTagName('script')[0]); }
+    function loadMatomo(){ if(!matomoEnable || !matomoDomain) return; var _paq=window._paq=window._paq||[]; _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function(){ var u='//'+matomoDomain+'/'; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', matomoSiteId]); var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); }
+    function loadPlausible(){ if(!plausibleEnable || !plausibleSite) return; var s=document.createElement('script'); s.setAttribute('data-domain', plausibleSite); s.defer=true; s.src='https://'+plausibleDomain+'/js/'+plausibleScriptName+'.js'; document.head.appendChild(s); }
+    function loadUmami(){ if(!umamiId || !umamiUrl) return; var s=document.createElement('script'); s.defer=true; s.src=umamiUrl; s.setAttribute('data-website-id', umamiId); document.head.appendChild(s); }
+    function loadAll(){ if(analyticsLoaded) return; analyticsLoaded=true; loadGA(); loadBaidu(); loadMatomo(); loadPlausible(); loadUmami(); }
+    ['click','keydown','pointerdown','scroll','touchstart','visibilitychange'].forEach(function(evt){ window.addEventListener(evt,function(){ if(evt==='visibilitychange' && document.visibilityState!=='visible') return; loadAll(); }, { once:true, passive:true }); });
+    if('requestIdleCallback' in window){ requestIdleCallback(function(){ loadAll(); }, { timeout: idleTimeout }); } else { setTimeout(loadAll, idleTimeout+1000); }
+    window.__loadAnalyticsNow = loadAll;
   })();
 </script>
-{{- end }}
-
-{{ $plausible := $config.plausible_analytics }}
-{{- if $plausible.enable }}
-<script async defer data-domain="{{ $plausible.websiteDomain }}"
-src='https://{{ default "plausible.io" $plausible.plausibleDomain }}/js/{{ default "plausible" $plausible.scritpName }}.js'>
-</script>
-{{- end }}
-
-{{- $matomo := $config.matomo_analytics }}
-{{- if ($matomo.enable) }}
-<!-- Matomo -->
-<script type="text/javascript">
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-  _paq.push(["setCookieDomain", "*.{{ $matomo.websiteDomain }}"]);
-  _paq.push(["setDomains", ["*.{{ $matomo.websiteDomain }}"]]);
-  _paq.push(["setDoNotTrack", true]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//{{ $matomo.matomoDomain }}/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '{{ default 1 $matomo.matomoSiteID }}']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="//{{ $matomo.matomoDomain }}/matomo.php?idsite={{ default 1 $matomo.matomoSiteID }}&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-<!-- End Matomo Code -->
-{{- end }}
-
-{{- with $config.umami_data_website_id }}
-<script defer src="{{ $config.umami_script_url }}" data-website-id="{{ . }}"></script>
-{{- end }}

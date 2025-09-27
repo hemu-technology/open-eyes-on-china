@@ -20,7 +20,7 @@
       {{- range $related }}
         <li class="related-card">
           <a class="related-card-link" href="{{ .RelPermalink }}" title="{{ .Title }}">
-            {{ with .Params.thumbnail }}<img class="related-card-thumb" src="/{{ . }}" alt="" loading="lazy" />{{ end }}
+            {{ with .Params.thumbnail }}{{ partial "responsive-thumb" (dict "Page" $page "Src" . "Class" "related-card-thumb" "Alt" "" "Sizes" "(max-width: 600px) 100vw, 240px") }}{{ end }}
             <div class="related-card-body">
               <div class="related-card-title" title="{{ .Title }}">{{ .Title }}</div>
               <div class="related-card-meta">

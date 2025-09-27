@@ -1,0 +1,43 @@
+{{/*
+  responsive-thumb partial
+  Usage: {{ partial "responsive-thumb" (dict "Page" . "Src" .Params.thumbnail "Class" "related-card-thumb") }}
+  Generates resized variants (webp + original fallback) if asset exists in /static or page bundle.
+*/}}
+{{- $p := .Page -}}
+{{- $src := .Src -}}
+{{- if not $src }}{{ return }}{{ end }}
+{{- $class := default "thumb" .Class -}}
+{{- $alt := default "" .Alt -}}
+{{- $sizes := default "(max-width: 640px) 50vw, 320px" .Sizes -}}
+{{- $widths := slice 160 240 320 480 640 -}}
+{{- $isAbs := or (hasPrefix $src "http://") (hasPrefix $src "https://") -}}
+{{- if $isAbs }}
+  <img src="{{ $src }}" class="{{ $class }}" alt="{{ $alt }}" loading="lazy" decoding="async" fetchpriority="low">
+{{- else -}}
+  {{/* Try to get from assets first */}}
+  {{- $img := resources.Get (printf "images/%s" $src) -}}
+  {{- if not $img }}
+    {{- $img = resources.Get $src -}}
+  {{- end -}}
+  {{- if and $img (ne $img.MediaType.SubType "svg") -}}
+    {{- $webpSet := slice -}}
+    {{- $fallbackSet := slice -}}
+    {{- range $w := $widths -}}
+      {{- $resized := $img.Fit (printf "%dx" $w) -}}
+      {{- if $resized -}}
+        {{- $webp := $resized | resources.Convert "webp" -}}
+        {{- $webpSet = $webpSet | append (printf "%s %dw" $webp.RelPermalink $w) -}}
+        {{- $fallbackSet = $fallbackSet | append (printf "%s %dw" $resized.RelPermalink $w) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $largest := (last 1 $widths) | index 0 -}}
+    {{- $largestFile := $img.Fit (printf "%dx" $largest) -}}
+    <picture>
+      <source type="image/webp" srcset="{{ delimit $webpSet ", " }}" sizes="{{ $sizes }}">
+      <source type="{{ $img.MediaType.Type }}/{{ $img.MediaType.SubType }}" srcset="{{ delimit $fallbackSet ", " }}" sizes="{{ $sizes }}">
+      <img src="{{ $largestFile.RelPermalink }}" class="{{ $class }}" alt="{{ $alt }}" loading="lazy" decoding="async" width="{{ $largestFile.Width }}" height="{{ $largestFile.Height }}">
+    </picture>
+  {{- else -}}
+    <img src="/{{ $src }}" class="{{ $class }}" alt="{{ $alt }}" loading="lazy" decoding="async" fetchpriority="low">
+  {{- end -}}
+{{- end -}}

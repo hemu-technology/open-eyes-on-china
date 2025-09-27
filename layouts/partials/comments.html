@@ -1,66 +1,41 @@
-<section id="comments">
+<section id="comments" data-comments-lazy>
   <h2>{{ with .Site.Params.commentsTitle }}{{ . }}{{ else }}{{ i18n "comments_title" | default "Comments" }}{{ end }}</h2>
-  <div id="remark42"></div>
+  <div id="remark42" aria-live="polite"></div>
+  <button id="load-comments" type="button" class="button" style="margin-top:1rem" aria-controls="remark42">Load Comments</button>
+  <noscript>Enable JavaScript to view comments powered by Remark42.</noscript>
   <script>
-    // Ensure the config is attached to window for Remark42 to pick up
-    (function () {
-      var pageUrl = window.location.origin + window.location.pathname;
+    (function(){
+      var loaded = false;
+      var btn = document.getElementById('load-comments');
       var host = '{{ default "https://comments.openeyesonchina.com" .Site.Params.remark42.host }}';
       var siteId = '{{ default "open-eyes-on-china" .Site.Params.remark42.site_id }}';
-
-      // Determine site theme from the theme's data-mode attribute (lit/dim)
-      function isSiteDark() {
-        try {
-          var dm = document.documentElement.getAttribute('data-mode');
-          if (dm) return dm.trim() === 'dim';
-        } catch (e) {}
-        // Fallback to system preference
+      function isSiteDark(){
+        try { var dm = document.documentElement.getAttribute('data-mode'); if(dm) return dm.trim()==='dim'; } catch(e){}
         return !!(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
       }
-
-      window.remark_config = {
-        host: host,
-        site_id: siteId,
-        url: pageUrl,
-        components: ["embed"],
-        no_footer: true,
-        theme: isSiteDark() ? 'dark' : 'light',
-      };
-
-      // Keep Remark42 theme in sync with site theme toggles
-      (function syncRemarkTheme() {
-        function applyTheme() {
-          var theme = isSiteDark() ? 'dark' : 'light';
-          if (window.REMARK42 && typeof window.REMARK42.changeTheme === 'function') {
-            window.REMARK42.changeTheme(theme);
-          }
-        }
-
-        // Observe changes to data-mode on <html>
-        try {
-          var mo = new MutationObserver(function (mutations) {
-            for (var i = 0; i < mutations.length; i++) {
-              if (mutations[i].type === 'attributes' && mutations[i].attributeName === 'data-mode') {
-                applyTheme();
-                break;
-              }
-            }
-          });
-          mo.observe(document.documentElement, { attributes: true, attributeFilter: ['data-mode'] });
-        } catch (e) {}
-
-        // Also react to system changes as a fallback when site follows system
-        try {
-          var mq = window.matchMedia('(prefers-color-scheme: dark)');
-          if (mq && mq.addEventListener) {
-            mq.addEventListener('change', applyTheme);
-          } else if (mq && mq.addListener) {
-            mq.addListener(applyTheme);
-          }
-        } catch (e) {}
-      })();
+      function config(){
+        window.remark_config = { host: host, site_id: siteId, url: window.location.origin+window.location.pathname, components:["embed"], no_footer:true, theme: isSiteDark()? 'dark':'light' };
+      }
+      function syncTheme(){
+        function applyTheme(){ try { var theme=isSiteDark()? 'dark':'light'; if(window.REMARK42 && window.REMARK42.changeTheme){ window.REMARK42.changeTheme(theme);} } catch(e){} }
+        try { var mo=new MutationObserver(function(m){ for(var i=0;i<m.length;i++){ if(m[i].attributeName==='data-mode'){ applyTheme(); break; } } }); mo.observe(document.documentElement,{attributes:true,attributeFilter:['data-mode']}); } catch(e){}
+        try { var mq=window.matchMedia('(prefers-color-scheme: dark)'); if(mq.addEventListener){ mq.addEventListener('change',applyTheme);} else if(mq.addListener){ mq.addListener(applyTheme);} } catch(e){}
+      }
+      function load(){
+        if(loaded) return; loaded=true; config(); syncTheme();
+        var s=document.createElement('script'); s.src= host + '/web/embed.js'; s.defer=true; s.onload=function(){ try{ btn.remove(); }catch(e){} };
+        document.head.appendChild(s);
+      }
+      if(btn){ btn.addEventListener('click', load); }
+      // Auto-load when near viewport (user intent) after slight delay to avoid race with LCP
+      var rootSec = document.querySelector('[data-comments-lazy]');
+      if('IntersectionObserver' in window && rootSec){
+        var io=new IntersectionObserver(function(entries){ entries.forEach(function(en){ if(en.isIntersecting){ setTimeout(load, 400); io.disconnect(); } }); }, { rootMargin: '600px 0px' });
+        io.observe(rootSec);
+      }
+      // Idle fallback (if user reads long without scrolling far) after 25s
+      if('requestIdleCallback' in window){ requestIdleCallback(function(){ if(!loaded) load(); }, { timeout: 25000 }); }
+      else { setTimeout(function(){ if(!loaded) load(); }, 26000); }
     })();
   </script>
-  <script defer src="{{ default "https://comments.openeyesonchina.com" .Site.Params.remark42.host }}/web/embed.js"></script>
-  <noscript>Enable JavaScript to view comments powered by Remark42.</noscript>
 </section>

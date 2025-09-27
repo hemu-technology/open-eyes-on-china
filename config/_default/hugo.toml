@@ -45,3 +45,10 @@ weight = 20
 [[related.indices]]
 name = "date"
 weight = 10
+
+# Global asset minification (improves mobile performance)
+[minify]
+	disableXML = true
+	[minify.tdewolff]
+		[minify.tdewolff.html]
+			keepWhitespace = false

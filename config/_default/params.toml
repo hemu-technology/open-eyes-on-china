@@ -4,7 +4,7 @@ enableSearch = true
 # socials
 twitter = "@hemuttwins"
 largeTwitterCard = false                                                                          # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "✨ Stay curious 🌟, stay open-minded 💭, and let’s explore together 🚀."
+# introDescription = "✨ Stay curious 🌟, stay open-minded 💭, and let’s explore together 🚀."
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 description = "We translate popular news and trending online discussions from China into English, offering the world a window into the real voices and opinions of Chinese people." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 keywords = ["Open", "thought", "America", "insight", "China", "share", "diversity", "eyes"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
@@ -36,7 +36,7 @@ usePageBundles = false
 # In some Apache server installs, these directory names could conflict and you
 # may want to change them. See:
 # https://github.com/chipzoller/hugo-clarity/issues/74
-#
+inlineCriticalCSS = false # temporarily disabled due to visual changes; re-enable after refining critical CSS
 # If you change the names of these directories, be sure to copy the contents of
 # the originals to get the files included with Hugo Clarity.
 #

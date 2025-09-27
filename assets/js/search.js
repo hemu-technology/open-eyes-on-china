@@ -355,16 +355,23 @@ function highlightSearchTerms(search, context, wrapper = 'mark', cssClass = '') 
   }
 }
 
-window.addEventListener('load', function() {
-  const pageLanguage = elem('body').dataset.lang;
-  const searchIndexLangSlug = pageLanguage === defaultSiteLanguage ? '': `${pageLanguage}/`;
-  let searchIndex = `${searchIndexLangSlug}index.json`;
-  searchIndex = new URL(`${baseURL}${searchIndex}`).href;
-  fetch(searchIndex)
-  .then(response => response.json())
-  .then(function(data) {
-    data = data.length ? data : [];
-    initializeSearch(data);
-  })
-  .catch((error) => console.error(error));
-});
+// Allow this script to be loaded lazily after initial page render.
+(function(){
+  if(window.__SEARCH_INIT) return; // guard in case of double inject
+  window.__SEARCH_INIT = true;
+  function boot(){
+    try {
+      const body = elem('body');
+      if(!body){ return; }
+      const pageLanguage = body.dataset.lang;
+      const searchIndexLangSlug = pageLanguage === defaultSiteLanguage ? '' : `${pageLanguage}/`;
+      let searchIndex = `${searchIndexLangSlug}index.json`;
+      searchIndex = new URL(`${baseURL}${searchIndex}`).href;
+      fetch(searchIndex)
+        .then(r=>r.json())
+        .then(function(data){ initializeSearch(Array.isArray(data)?data:[]); })
+        .catch(function(err){ console.error('[search] index load failed', err); });
+    } catch(e){ console.error('[search] init error', e); }
+  }
+  if(document.readyState === 'complete') boot(); else window.addEventListener('load', boot, { once: true });
+})();

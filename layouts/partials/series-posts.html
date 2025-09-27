@@ -7,7 +7,7 @@
       {{ range sort $related "Date" }}
         <li class="series-card">
           <a class="series-card-link" href="{{ .RelPermalink }}" title="{{ .Title }}">
-            {{ with .Params.thumbnail }}<img class="series-card-thumb" src="/{{ . }}" alt="" loading="lazy" />{{ end }}
+            {{ with .Params.thumbnail }}{{ partial "responsive-thumb" (dict "Page" . "Src" . "Class" "series-card-thumb" "Alt" "" "Sizes" "(max-width: 600px) 100vw, 240px") }}{{ end }}
             <div class="series-card-body">
               <div class="series-card-title" title="{{ .Title }}">{{ .Title }}</div>
               <div class="series-card-meta">

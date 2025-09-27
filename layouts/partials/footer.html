@@ -70,7 +70,10 @@
   </script>
   {{ end }}
   <div class="footer_inner wrap pale">
-    <img src='{{ absURL (default $defaultFooterLogo $s.footerLogo) }}' class="icon icon_2 transparent" alt="{{ $c }}">
+    <img src='{{ absURL (default $defaultFooterLogo $s.footerLogo) }}'
+      class="icon icon_2 transparent"
+      alt="{{ $c }}"
+      loading="lazy">
   <p>{{ $c }}</p>
     {{- partialCached "top" .}}
   </div>

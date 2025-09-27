@@ -2,11 +2,35 @@
 {{- if $params.enableSearch }}
   {{- $fusePath := "js/fuse.js" }}
   {{- $fuse := resources.Get $fusePath | resources.ExecuteAsTemplate $fusePath . }}
-
   {{- $searchPath := "js/search.js" }}
   {{- $search := resources.Get $searchPath | resources.ExecuteAsTemplate $searchPath . }}
-
   {{- $bundle2 := slice $fuse $search | resources.Concat "js/search.js" | resources.Minify | resources.Fingerprint "sha512" }}
 
-  <script src="{{ $bundle2.Permalink }}" defer></script>
+  <script>
+    (function(){
+      var SEARCH_BUNDLE_URL = "{{ $bundle2.Permalink }}";
+      var LOADED = false;
+      function loadSearch(){
+        if(LOADED) return; LOADED = true;
+        var s = document.createElement('script');
+        s.src = SEARCH_BUNDLE_URL; s.defer = true; s.crossOrigin='anonymous';
+        document.head.appendChild(s);
+      }
+      // Trigger points: focus search field, open command palette (if exists), first key press in search input, or explicit attribute
+      var early = false;
+      function bind(){
+        if(early) return; early = true;
+        var field = document.querySelector('.search_field,input[type="search"][name="q"],#search');
+        if(field){
+          ['focus','keydown','click','touchstart'].forEach(function(evt){ field.addEventListener(evt, loadSearch, { once: true, passive: true }); });
+        }
+        // Fallback: idle load after 8s if user hasn't interacted (keeps SEO metrics but avoids blocking initial)
+        if('requestIdleCallback' in window){ requestIdleCallback(function(deadline){ if(deadline.timeRemaining()>5) loadSearch(); }, { timeout: 8000 }); }
+        else { setTimeout(loadSearch, 9000); }
+      }
+      if(document.readyState === 'complete' || document.readyState === 'interactive') bind(); else document.addEventListener('DOMContentLoaded', bind);
+      // Expose manual hook
+      window.__loadSearchNow = loadSearch;
+    })();
+  </script>
 {{ end }}

@@ -15,6 +15,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 {{- if (ne hugo.Environment "development") }}{{- partialCached "analytics" . }}{{- end }}
+{{- if site.Params.inlineCriticalCSS }}{{ partial "critical-css" . }}{{ end }}
 {{- partial "opengraph" . }}
 {{- partialCached "favicon" . }}
 <link rel="canonical" href="{{ .Permalink | absURL }}">
@@ -43,9 +44,9 @@
     {{ $pages = $featuredPosts | append $normalPosts }}
   {{ end }}
   {{ with index $pages 0 }}
-    {{ with .Params.thumbnail }}{{ partial "func/preload-image" (dict "src" .) }}{{ end }}
+    {{ with .Params.thumbnail }}{{ partial "func/preload-image" (dict "src" . "attrs" (dict "fetchpriority" "high")) }}{{ end }}
   {{ end }}
 {{ end }}
 {{ if .IsPage }}
-  {{ with .Params.featureImage }}{{ partial "func/preload-image" (dict "src" .) }}{{ end }}
+  {{ with .Params.featureImage }}{{ partial "func/preload-image" (dict "src" . "attrs" (dict "fetchpriority" "high")) }}{{ end }}
 {{ end }}
