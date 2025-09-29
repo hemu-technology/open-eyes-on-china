@@ -1,0 +1,31 @@
+{{/* translation shortcode (inner-only for comment) 
+Purpose: Mark translated block so parent comment shortcode can split original/translation.
+
+Parameters:
+	inline = true|false (default false)
+					 true  -> collapses all internal newlines to single spaces, compresses multi-whitespace, trims edges.
+					 false -> preserves internal markdown structure (paragraphs, lists, etc.)
+
+Usage:
+	{{< comment author="..." >}}
+	原文文本…
+	{{< translation >}}Translated **markdown** text with *shortcodes* allowed.{{< /translation >}}
+	{{< /comment >}}
+
+	Inline sentence variant avoiding accidental paragraph splits:
+	{{< translation inline="true" >}}A sentence with an {{< tip text="Info" >}}inline tooltip{{< /tip >}} continues.{{< /translation >}}
+
+Implementation notes:
+	- We only emit raw HTML sentinel markers. Rendering of markdown happens later in comment shortcode.
+	- Trimming removes accidental leading/trailing blank lines that cause extra <p> wrappers.
+*/}}
+{{ $inline := .Get "inline" | default "false" }}
+{{ $body := .Inner }}
+{{/* Always trim outer whitespace first */}}
+{{ $body = trim $body " \n\r\t" }}
+{{ if eq (lower $inline) "true" }}
+	{{/* Collapse newline runs to single space, then collapse remaining multi-whitespace */}}
+	{{ $body = replaceRE "[\n\r]+" " " $body }}
+	{{ $body = replaceRE "\\s+" " " $body }}
+{{ end }}
+{{ printf "<!--OE_TR_START-->%s<!--OE_TR_END-->" ($body | safeHTML) | safeHTML }}

@@ -1,0 +1,34 @@
+{{/* Inline tooltip / note shortcode
+Usage examples:
+  Hover / focus note with plain text:
+    {{< tip text="A German political concept from the 19th century." >}}Realpolitik{{< /tip >}}
+
+  Custom label & HTML content inside body (body becomes the label if label parameter absent):
+    {{< tip label="黑红金" position="top" >}}Black–red–gold: colors of German liberal nationalism.{{< /tip >}}
+
+Params:
+  text       (string) content for tooltip if inner body is the trigger text only
+  label      (string) override trigger text (otherwise inner content before closing tag is trigger)
+  position   (top|bottom|left|right|auto) default auto
+  width      (narrow|normal|wide) optional width preset
+  variant    (info|warn|danger|success|neutral) color theme
+  icon       (emoji or short text prefix)
+  id         (for referencing; optional)
+Accessibility:
+  - Uses button role if interactive? Here spans with tabindex for inline semantics.
+  - Escape key closes any open tooltip (script attaches once per page).
+*/}}
+{{- $id := .Get "id" | default (printf "tip-%d" (now.UnixNano)) -}}
+{{- $textParam := .Get "text" -}}
+{{- $label := .Get "label" -}}
+{{- $position := .Get "position" | default "auto" -}}
+{{- $variant := .Get "variant" | default "info" -}}
+{{- $width := .Get "width" | default "normal" -}}
+{{- $icon := .Get "icon" | default "" -}}
+{{- $nowrap := .Get "nowrap" | default "false" -}}
+{{- $gap := .Get "gap" | default "8" -}}
+{{- /* Allow markdown in trigger (label or inner). We render markdown then strip a single wrapping <p>…</p> if present for inline use. */ -}}
+{{- $triggerSrc := cond (ne $label "") $label (.Inner) -}}
+{{- $triggerHTML := $triggerSrc | markdownify -}}
+{{- $triggerHTML = replaceRE "^<p>([\\s\\S]*)</p>$" "$1" $triggerHTML -}}
+<span class="oe-tip oe-tip--{{ $variant }} oe-tip-w-{{ $width }}{{ if eq (lower $nowrap) "true" }} oe-tip--nowrap{{ end }}" data-tip id="{{ $id }}" data-pos="{{ $position }}" data-gap="{{ $gap }}" tabindex="0" aria-describedby="{{ $id }}-bubble" aria-haspopup="true" aria-expanded="false"><span class="oe-tip__label">{{ if $icon }}<span class="oe-tip__icon" aria-hidden="true">{{ $icon }}</span>{{ end }}{{ $triggerHTML | safeHTML }}</span><span class="oe-tip__bubble" id="{{ $id }}-bubble" role="tooltip" aria-hidden="true">{{ if $textParam }}{{ $textParam | markdownify }}{{ else }}{{ .Inner | markdownify }}{{ end }}</span></span>

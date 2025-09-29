@@ -1,0 +1,78 @@
+{{/* Comment shortcode
+Params:
+  author, replyTo, lang, originalTitle, originalTitleOpen, translation
+If translation present AND inner content present -> inner treated as original (collapsible)
+If only translation present -> renders translation only
+If no translation -> inner rendered as body
+Nested shortcodes allowed inside translation via RenderString
+*/}}
+{{ $author := .Get "author" | default "Anonymous" }}
+{{ $reply := .Get "replyTo" }}
+{{ $lang := .Get "lang" | default "" }}
+{{ $translationRaw := .Get "translation" }}
+{{ $origClosed := .Get "originalTitle" | default "Show Chinese" }}
+{{ $origOpen := .Get "originalTitleOpen" | default "Hide Chinese" }}
+{{/* Translation label removed per request; param retained but ignored */}}
+{{ $labelTranslation := "" }}
+{{/* matchContentStyle now always on; param retained but ignored for backward compatibility */}}
+{{/* Determine if there is non-empty original text (after trimming whitespace) */}}
+{{ $innerPlain := .Inner | plainify }}
+{{ $innerStripped := replace (replace (replace $innerPlain "\n" "") "\r" "") "\t" "" }}
+{{ $hasOriginal := gt (len (trim $innerStripped " ")) 0 }}
+{{ $uid := printf "cmt-%d" (now.UnixNano) }}
+{{ $translation := "" }}
+{{ if $translationRaw }}
+  {{/* Render translation param allowing markdown + nested shortcodes */}}
+  {{ $translation = (.Page.RenderString $translationRaw) }}
+{{ end }}
+{{/* Support inner translation shortcode markers */}}
+{{ $rawInner := .Inner }}
+{{ $hadMarker := (in $rawInner "<!--OE_TR_START-->") }}
+{{ if $hadMarker }}
+  {{ $parts := split $rawInner "<!--OE_TR_START-->" }}
+  {{ $before := index $parts 0 }}
+  {{ $afterParts := split (index $parts 1) "<!--OE_TR_END-->" }}
+  {{ $translatedBlock := index $afterParts 0 }}
+  {{ $rest := index $afterParts 1 }}
+  {{/* Reconstruct original inner without markers */}}
+  {{ $originalBlock := printf "%s%s" $before $rest }}
+  {{/* Render markdown for original and translation separately */}}
+  {{ $renderedTrans := (.Page.RenderString $translatedBlock) }}
+  {{ $translation = $renderedTrans }}
+  {{/* Override hasOriginal detection with cleaned originalBlock */}}
+  {{ $innerPlain = $originalBlock | plainify }}
+  {{ $innerStripped = replace (replace (replace $innerPlain "\n" "") "\r" "") "\t" "" }}
+  {{ $hasOriginal = gt (len (trim $innerStripped " ")) 0 }}
+  {{/* Replace .Inner for downstream rendering by defining a new variable (can't reassign .Inner) */}}
+  {{ $cleanInner := $originalBlock }}
+  {{ $rawInner = $cleanInner }}
+{{ end }}
+<div class="oe-comment {{ if $reply }}oe-comment--reply{{ end }}"{{ if $lang }} data-lang="{{ $lang }}"{{ end }}>
+  <div class="oe-comment__meta">
+    <span class="oe-comment__avatar" aria-hidden="true">💬</span>
+    <span class="oe-comment__author">{{ $author }}</span>{{ if $reply }} <span class="oe-comment__reply-arrow" aria-hidden="true">↦</span> <span class="oe-comment__replyto">{{ $reply }}</span>{{ end }}
+    <span class="oe-comment__meta-spacer" aria-hidden="true"></span>
+    {{ if and $translation $hasOriginal }}
+    <button class="oe-comment__meta-toggle" type="button" aria-expanded="false" aria-controls="{{ $uid }}-orig" data-label-closed="{{ $origClosed }}" data-label-open="{{ $origOpen }}" aria-label="Toggle original: {{ $origClosed }}">
+      <span class="oe-comment__meta-icon" aria-hidden="true">
+        <svg class="oe-comment__meta-svg" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <polyline class="oe-comment__meta-svg-line" points="4 6.5 8 10 12 6.5" />
+        </svg>
+      </span>
+      <span class="oe-comment__meta-toggle-text">{{ $origClosed }}</span>
+    </button>
+    {{ end }}
+  </div>
+  {{ if and $translation $hasOriginal }}
+    <div id="{{ $uid }}-orig" class="oe-comment__original-meta-block" hidden>
+      <div class="oe-comment__original-meta-inner">{{ if $hadMarker }}{{ $rawInner | markdownify }}{{ else }}{{ .Inner | markdownify }}{{ end }}</div>
+    </div>
+    <div class="oe-comment__translation oe-comment__translation--match">{{ $translation }}</div>
+  {{ else if $translation }}
+  <div class="oe-comment__translation oe-comment__translation--match">{{ $translation }}</div>
+  {{ else }}
+  <div class="oe-comment__body">{{ if $hadMarker }}{{ $rawInner | markdownify }}{{ else }}{{ .Inner | markdownify }}{{ end }}</div>
+  {{ end }}
+</div>
+<script>(function(){const root=document.currentScript&&document.currentScript.previousElementSibling; if(!root) return; const btn=root.querySelector('.oe-comment__meta-toggle'); if(!btn) return; if(btn.dataset.init==='true') return; btn.dataset.init='true'; const contentId=btn.getAttribute('aria-controls'); const content=root.querySelector('#'+CSS.escape(contentId)); if(!content) return; const text=btn.querySelector('.oe-comment__meta-toggle-text'); const closed=btn.dataset.labelClosed; const opened=btn.dataset.labelOpen; function setOpen(open){btn.setAttribute('aria-expanded',open); btn.classList.toggle('is-open',open); if(text) text.textContent=open?opened:closed; btn.setAttribute('aria-label','Toggle original: '+(open?opened:closed)); if(open){content.removeAttribute('hidden'); const h=content.scrollHeight; content.style.height='0px'; requestAnimationFrame(()=>{content.style.transition='height .26s cubic-bezier(.4,0,.2,1)'; content.style.height=h+'px';}); setTimeout(()=>{content.style.height='';content.style.transition='';},300);} else {const h=content.scrollHeight; content.style.height=h+'px'; requestAnimationFrame(()=>{content.style.transition='height .22s cubic-bezier(.4,0,.2,1)'; content.style.height='0px';}); setTimeout(()=>{content.setAttribute('hidden',''); content.style.height=''; content.style.transition='';},240);} } btn.addEventListener('click',()=>{setOpen(btn.getAttribute('aria-expanded')!=='true');});})();</script>
+<script>(function(){if(document.getElementById('oe-comment-inline-dark')) return; const css=`@media (prefers-color-scheme:dark){.oe-comment__translation :is(li,p),.oe-comment__original-meta-inner :is(li,p){color:#e2e8f0;} .oe-comment__translation a{color:#93c5fd;} .oe-comment__translation a:hover{color:#bfdbfe;}}`; const st=document.createElement('style'); st.id='oe-comment-inline-dark'; st.textContent=css; document.head.appendChild(st);} )();</script>

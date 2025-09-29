@@ -1,0 +1,130 @@
+<script>(function(){
+ if(window.__OE_TIP_INIT__) return; window.__OE_TIP_INIT__=true;
+ const OPEN_CLASS='is-open';
+ const SEL='.oe-tip';
+ const VP_PAD=4;
+ let current=null; let rafId=null;
+ let hoverTimer=null;
+
+ function getGap(tip){ const g=parseInt(tip.getAttribute('data-gap')||'',10); return Number.isFinite(g)?g:4; }
+
+ function hide(tip){ if(!tip) return; tip.classList.remove(OPEN_CLASS); tip.setAttribute('aria-expanded','false'); const b=tip.querySelector('.oe-tip__bubble'); if(b){ b.setAttribute('aria-hidden','true'); b.style.top=''; b.style.left=''; }}
+ function hideAll(){ document.querySelectorAll(SEL+'.'+OPEN_CLASS).forEach(hide); current=null; }
+
+ function measure(bubble){
+	 // Allow measurement while hidden without layout jump
+	 const prevVis=bubble.style.visibility; const prevDisp=bubble.style.display;
+	 bubble.style.visibility='hidden'; bubble.style.display='block';
+	 // Use getBoundingClientRect for sub-pixel accuracy
+	 const r=bubble.getBoundingClientRect();
+	 bubble.style.visibility=prevVis; bubble.style.display=prevDisp;
+	 return {w:r.width,h:r.height};
+ }
+
+ function computeAutoPlacement(rect,size,gap,order){
+ 	const spaceTop=rect.top; const spaceBottom=window.innerHeight-rect.bottom;
+ 	const spaceRight=window.innerWidth-rect.right; const spaceLeft=rect.left;
+ 	const h=size.h,w=size.w;
+ 	// Order preference (default bottom-first). order like "bottom,top,right,left"
+ 	const list=(order||'bottom,top,right,left').split(',').map(s=>s.trim()).filter(Boolean);
+ 	for(const dir of list){
+ 		 switch(dir){
+ 			 case 'top': if(spaceTop >= h + gap) return 'top'; break;
+ 			 case 'bottom': if(spaceBottom >= h + gap) return 'bottom'; break;
+ 			 case 'right': if(spaceRight >= w + gap) return 'right'; break;
+ 			 case 'left': if(spaceLeft >= w + gap) return 'left'; break;
+ 		 }
+ 	}
+ 	// Fallback choose max free space
+ 	return [{d:'bottom',v:spaceBottom},{d:'top',v:spaceTop},{d:'right',v:spaceRight},{d:'left',v:spaceLeft}].sort((a,b)=>b.v-a.v)[0].d;
+ }
+
+ function place(tip){
+	 const bubble=tip.querySelector('.oe-tip__bubble'); if(!bubble) return;
+	 const desired=tip.dataset.pos||'auto';
+	 const autoOrder=tip.getAttribute('data-order');
+	 const alignAttr=(tip.getAttribute('data-align')||'center').toLowerCase(); // start|center|end
+	 const GAP=getGap(tip);
+	 const overlapAttr=tip.getAttribute('data-overlap');
+	 const allowOverlap=overlapAttr ? overlapAttr!=='false' : true;
+	 let arrowSize=10; try { const cs=getComputedStyle(bubble); const v=cs.getPropertyValue('--oe-tip-arrow-size'); if(v){ const n=parseFloat(v); if(!isNaN(n)) arrowSize=n; } } catch(e){}
+	 const rect=tip.getBoundingClientRect();
+	 const size=measure(bubble);
+	 let placement=desired==='auto'?computeAutoPlacement(rect,size,GAP,autoOrder):desired;
+	 bubble.dataset.placement=placement;
+	 let top=0,left=0;
+	 const overlapOffset=allowOverlap?Math.round(arrowSize/2):0;
+	 // Use rect dimensions instead of offset* to avoid inline layout issues
+	 const triggerW=rect.width, triggerH=rect.height;
+	 function horizOffset(){
+		 if(alignAttr==='start') return 0;
+		 if(alignAttr==='end') return triggerW - size.w;
+		 return (triggerW/2)-(size.w/2);
+	 }
+	 switch(placement){
+		 case 'top': top=-(size.h + GAP - overlapOffset); left=horizOffset(); break;
+		 case 'bottom': top=triggerH + GAP - overlapOffset; left=horizOffset(); break;
+		 case 'left': top=(triggerH/2)-(size.h/2); left=-(size.w + GAP - overlapOffset); break;
+		 case 'right': top=(triggerH/2)-(size.h/2); left=triggerW + GAP - overlapOffset; break;
+	 }
+	 // Clamp horizontally (may shift center; arrow will stay centered in bubble)
+	 const vpLeft=rect.left+left; const vpRight=vpLeft+size.w;
+	 if(vpLeft < VP_PAD) left += (VP_PAD - vpLeft);
+	 else if(vpRight > window.innerWidth - VP_PAD) left -= (vpRight - (window.innerWidth - VP_PAD));
+	 // Clamp vertically; if clamping would invert intended side, flip placement and recompute once
+	 const vpTop=rect.top+top; const vpBottom=vpTop+size.h;
+	 let flipped=false;
+	 if(placement==='top' && vpTop < VP_PAD){
+		 // Not enough room above; switch to bottom
+		 placement='bottom'; flipped=true;
+	 } else if(placement==='bottom' && vpBottom > window.innerHeight - VP_PAD){
+		 placement='top'; flipped=true;
+	 } else if(placement==='left' && vpLeft < VP_PAD){
+		 placement='right'; flipped=true;
+	 } else if(placement==='right' && vpRight > window.innerWidth - VP_PAD){
+		 placement='left'; flipped=true;
+	 }
+	 if(flipped){
+		 bubble.dataset.placement=placement;
+		 switch(placement){
+			 case 'top': top=-(size.h + GAP - overlapOffset); left=horizOffset(); break;
+			 case 'bottom': top=triggerH + GAP - overlapOffset; left=horizOffset(); break;
+			 case 'left': top=(triggerH/2)-(size.h/2); left=-(size.w + GAP - overlapOffset); break;
+			 case 'right': top=(triggerH/2)-(size.h/2); left=triggerW + GAP - overlapOffset; break;
+		 }
+		 // Re-run minimal clamping (no second flip to avoid loops)
+		 const nVpLeft=rect.left+left; const nVpRight=nVpLeft+size.w;
+		 if(nVpLeft < VP_PAD) left += (VP_PAD - nVpLeft); else if(nVpRight > window.innerWidth - VP_PAD) left -= (nVpRight - (window.innerWidth - VP_PAD));
+		 const nVpTop=rect.top+top; const nVpBottom=nVpTop+size.h;
+		 if(nVpTop < VP_PAD) top += (VP_PAD - nVpTop); else if(nVpBottom > window.innerHeight - VP_PAD) top -= (nVpBottom - (window.innerHeight - VP_PAD));
+	 } else {
+		 // Simple adjustment when not flipped
+		 if(vpTop < VP_PAD) top += (VP_PAD - vpTop); else if(vpBottom > window.innerHeight - VP_PAD) top -= (vpBottom - (window.innerHeight - VP_PAD));
+	 }
+	 bubble.style.top=top+'px'; bubble.style.left=left+'px';
+ }
+
+ function open(tip,focusEvent){
+	 if(tip.classList.contains(OPEN_CLASS)){ if(focusEvent) place(tip); return; }
+	 hideAll();
+	 tip.classList.add(OPEN_CLASS); tip.setAttribute('aria-expanded','true');
+	 const b=tip.querySelector('.oe-tip__bubble'); if(b){ b.setAttribute('aria-hidden','false'); }
+	 place(tip); current=tip;
+ }
+ function close(tip){ hide(tip); if(current===tip) current=null; }
+
+ // Delegated interactions
+ document.addEventListener('click',e=>{ const tip=e.target.closest(SEL); if(!tip){ hideAll(); return; } e.preventDefault(); (tip.classList.contains(OPEN_CLASS)?close:open)(tip); });
+
+ // Use pointer events to avoid duplicate mouseenter on children; add small intent delay
+ document.addEventListener('pointerenter',e=>{ const tip=e.target.closest(SEL); if(!tip) return; if(hoverTimer) clearTimeout(hoverTimer); hoverTimer=setTimeout(()=>open(tip),60); }, true);
+ document.addEventListener('pointerleave',e=>{ const tip=e.target.closest(SEL); if(!tip) return; if(hoverTimer){ clearTimeout(hoverTimer); hoverTimer=null; } // Close only if pointer really left the tip entirely
+	 requestAnimationFrame(()=>{ if(!tip.matches(':hover')) close(tip); }); }, true);
+
+ document.addEventListener('keydown',e=>{ if(e.key==='Escape') hideAll(); else if(e.key==='Enter'||e.key===' '){ const tip=document.activeElement.closest(SEL); if(tip){ e.preventDefault(); (tip.classList.contains(OPEN_CLASS)?close:open)(tip,true); } } });
+ document.addEventListener('focusin',e=>{ if(!e.target.closest(SEL)) hideAll(); });
+
+ function scheduleReposition(){ if(!current) return; if(rafId) cancelAnimationFrame(rafId); rafId=requestAnimationFrame(()=>{ if(current) place(current); }); }
+ window.addEventListener('scroll',scheduleReposition,true);
+ window.addEventListener('resize',scheduleReposition);
+})();</script>

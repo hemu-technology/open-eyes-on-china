@@ -1,0 +1,75 @@
+/* Tooltip (tip shortcode) component
+   Goals: subtle trigger styling (inherits text color), refined bubble with adaptive light/dark palette,
+   accessible contrast (WCAG AA for small text), reduced motion support, and variant accent ring. */
+ .oe-tip {position:relative;display:inline;line-height:1.1;cursor:help;color:inherit;--oe-tip-font-size:.75rem;--oe-tip-line:1.38;--oe-tip-radius:9px;--oe-tip-pad-y:.58rem;--oe-tip-pad-x:.68rem;--oe-tip-shadow:0 4px 18px -2px rgba(0,0,0,.25),0 1px 3px rgba(0,0,0,.34);--oe-tip-bg:#0f172a;--oe-tip-border:#1e293b;--oe-tip-text:#f1f5f9;--oe-tip-accent:var(--oe-tip-color,#0369a1);--oe-tip-underline:underline dotted;--oe-tip-underline-open:wavy underline;--oe-tip-arrow-size:10px;--oe-tip-backdrop-filter:saturate(160%) blur(6px);}
+ .oe-tip--nowrap .oe-tip__label{white-space:nowrap;}
+ .oe-tip__label {text-decoration:var(--oe-tip-underline);text-underline-offset:2px;transition:color .18s ease, text-decoration-color .25s ease;}
+ .oe-tip:not(.is-open):hover .oe-tip__label,.oe-tip:not(.is-open):focus-visible .oe-tip__label{color:var(--oe-tip-accent);} 
+ .oe-tip:focus-visible {outline:2px solid var(--oe-tip-accent);outline-offset:3px;border-radius:4px;}
+ .oe-tip.is-open .oe-tip__label {text-decoration:var(--oe-tip-underline-open);color:var(--oe-tip-accent);} 
+ .oe-tip__icon {margin-right:3px;opacity:.85;}
+ .oe-tip__bubble {position:absolute;z-index:1200;min-width:140px;max-width:340px;font-size:var(--oe-tip-font-size);line-height:var(--oe-tip-line);font-weight:500;background:var(--oe-tip-bg);color:var(--oe-tip-text);border:1px solid var(--oe-tip-border);padding:var(--oe-tip-pad-y) var(--oe-tip-pad-x);border-radius:var(--oe-tip-radius);box-shadow:var(--oe-tip-shadow);pointer-events:none;opacity:0;transform:translateY(2px) scale(.985);transition:opacity .18s ease,transform .26s cubic-bezier(.4,0,.2,1);backdrop-filter:var(--oe-tip-backdrop-filter);-webkit-backdrop-filter:var(--oe-tip-backdrop-filter);} 
+ .oe-tip.is-open .oe-tip__bubble {opacity:1;transform:translateY(0) scale(1);} 
+ .oe-tip__bubble:before {content:"";position:absolute;width:var(--oe-tip-arrow-size);height:var(--oe-tip-arrow-size);background:inherit;border:inherit;transform:rotate(45deg);} 
+ .oe-tip__bubble[data-placement="top"]:before {bottom:calc(-1 * var(--oe-tip-arrow-size)/2);left:calc(50% - var(--oe-tip-arrow-size)/2);} 
+ .oe-tip__bubble[data-placement="bottom"]:before {top:calc(-1 * var(--oe-tip-arrow-size)/2);left:calc(50% - var(--oe-tip-arrow-size)/2);} 
+ .oe-tip__bubble[data-placement="left"]:before {top:calc(50% - var(--oe-tip-arrow-size)/2);right:calc(-1 * var(--oe-tip-arrow-size)/2);} 
+ .oe-tip__bubble[data-placement="right"]:before {top:calc(50% - var(--oe-tip-arrow-size)/2);left:calc(-1 * var(--oe-tip-arrow-size)/2);} 
+ .oe-tip__bubble p{margin:.35em 0 .5em;font-size:inherit;line-height:inherit;}
+ .oe-tip__bubble p:first-child{margin-top:0;}
+ .oe-tip__bubble p:last-child{margin-bottom:0;}
+ .oe-tip__bubble a{color:var(--oe-tip-accent);text-decoration:underline;text-decoration-thickness:1px;}
+ .oe-tip__bubble a:hover{text-decoration:none;}
+
+/* Width presets */
+ .oe-tip-w-narrow .oe-tip__bubble {max-width:200px;}
+ .oe-tip-w-wide .oe-tip__bubble {max-width:480px;}
+
+/* Variants */
+ .oe-tip--info {--oe-tip-color:#0369a1;}
+ .oe-tip--warn {--oe-tip-color:#b87307;}
+ .oe-tip--danger {--oe-tip-color:#dc2626;}
+ .oe-tip--success {--oe-tip-color:#15803d;}
+ .oe-tip--neutral {--oe-tip-color:#64748b;}
+ .oe-tip--warn .oe-tip__bubble {--oe-tip-bg:#452a03;--oe-tip-border:#92400e;--oe-tip-text:#fcd34d;}
+ .oe-tip--danger .oe-tip__bubble {--oe-tip-bg:#450a0a;--oe-tip-border:#7f1d1d;--oe-tip-text:#fecaca;}
+ .oe-tip--success .oe-tip__bubble {--oe-tip-bg:#052e16;--oe-tip-border:#047857;--oe-tip-text:#bbf7d0;}
+ .oe-tip--neutral .oe-tip__bubble {--oe-tip-bg:#1e293b;--oe-tip-border:#334155;--oe-tip-text:#f1f5f9;}
+
+/* Light theme refinements */
+@media (prefers-color-scheme: light){
+  .oe-tip {--oe-tip-bg:#ffffff;--oe-tip-border:#cbd5e1;--oe-tip-text:#0f172a;--oe-tip-shadow:0 4px 14px -2px rgba(0,0,0,.12),0 1px 3px rgba(0,0,0,.18);--oe-tip-backdrop-filter:saturate(140%) blur(4px);} 
+  .oe-tip--warn .oe-tip__bubble {--oe-tip-bg:#fff7ed;--oe-tip-border:#f0ad55;--oe-tip-text:#92400e;}
+  .oe-tip--danger .oe-tip__bubble {--oe-tip-bg:#fef2f2;--oe-tip-border:#f19999;--oe-tip-text:#7f1d1d;}
+  .oe-tip--success .oe-tip__bubble {--oe-tip-bg:#f0fdf4;--oe-tip-border:#7edfa7;--oe-tip-text:#065f46;}
+  .oe-tip--neutral .oe-tip__bubble {--oe-tip-bg:#f1f5f9;--oe-tip-border:#cbd5e1;--oe-tip-text:#334155;}
+}
+/* Explicit dark mode (prefers & attribute) */
+@media (prefers-color-scheme: dark){
+  .oe-tip {--oe-tip-bg:rgba(15,23,42,.82);--oe-tip-border:#1e293b;--oe-tip-text:#e2e8f0;--oe-tip-shadow:0 4px 18px -2px rgba(0,0,0,.55),0 1px 3px rgba(0,0,0,.6);} 
+}
+:root[data-mode="dim"] .oe-tip, [data-theme="dark"] .oe-tip, .dark .oe-tip {--oe-tip-bg:rgba(15,23,42,.82);--oe-tip-border:#1e293b;--oe-tip-text:#e2e8f0;--oe-tip-shadow:0 4px 18px -2px rgba(0,0,0,.55),0 1px 3px rgba(0,0,0,.6);} 
+
+/* Dark mode: ensure emphasized (bold) text inside trigger keeps readable light color */
+:root[data-mode="dim"] .oe-tip__label strong,
+[data-theme="dark"] .oe-tip__label strong,
+.dark .oe-tip__label strong,
+:root[data-mode="dim"] .oe-tip__label b,
+[data-theme="dark"] .oe-tip__label b,
+.dark .oe-tip__label b {color:#f8fafc;}
+
+/* Reduce motion */
+@media (prefers-reduced-motion: reduce){
+  .oe-tip__bubble {transition:none!important;}
+}
+
+/* Fine-tune arrow overlap when a reduced gap (data-gap="4" or less) is used */
+.oe-tip[data-gap="4"] .oe-tip__bubble[data-placement="top"] {margin-top:-2px;}
+.oe-tip[data-gap="4"] .oe-tip__bubble[data-placement="bottom"] {margin-top:2px;}
+.oe-tip[data-gap="4"] .oe-tip__bubble[data-placement="left"] {margin-left:-2px;}
+.oe-tip[data-gap="4"] .oe-tip__bubble[data-placement="right"] {margin-left:2px;}
+
+/* High contrast tweak: strengthen outline when focused & open */
+.oe-tip.is-open:focus-visible {outline-width:3px;}
+
+@media print { .oe-tip__bubble {position:static;opacity:1;transform:none;box-shadow:none;background:transparent;color:inherit;border:none;padding:0 0 0 .25rem;} .oe-tip__bubble:before {display:none;} }

@@ -1,0 +1,74 @@
+{{/* Collapse shortcode
+Params:
+  title       (closed label)
+  titleOpen   (open label)
+  variant     (link|card) visual style
+  size        (sm|md|lg)
+  accent      (info|warn|danger|success|neutral) optional color bar for card variant
+  open        (true|false) default false
+  lang        (string) optional language tag
+Usage:
+  {{< collapse title="Show" titleOpen="Hide" variant="link" >}}Hidden content{{< /collapse >}}
+*/}}
+{{ $id := printf "col-%d" (now.UnixNano) }}
+{{ $title := .Get "title" | default "Show section" }}
+{{ $titleOpen := .Get "titleOpen" | default "Hide section" }}
+{{ $variant := .Get "variant" | default "link" }}
+{{ $size := .Get "size" | default "md" }}
+{{ $accent := .Get "accent" | default "" }}
+{{ $lang := .Get "lang" | default "" }}
+{{ $isOpen := eq (lower (.Get "open")) "true" }}
+<div class="oe-collapse oe-collapse--{{ $variant }} oe-collapse--size-{{ $size }} {{ if $accent }}oe-collapse-accent-{{ $accent }}{{ end }} {{ if $isOpen }}is-open{{ end }}" data-collapse {{ if $lang }}lang="{{ $lang }}"{{ end }} data-init="false">
+  <button class="oe-collapse__toggle" type="button" aria-expanded="{{ if $isOpen }}true{{ else }}false{{ end }}" aria-controls="{{ $id }}" data-label-closed="{{ $title }}" data-label-open="{{ $titleOpen }}" aria-label="Toggle section: {{ if $isOpen }}{{ $titleOpen }}{{ else }}{{ $title }}{{ end }}">
+    <span class="oe-collapse__chevron" aria-hidden="true"></span>
+    <span class="oe-collapse__title" aria-live="polite">{{ if $isOpen }}{{ $titleOpen }}{{ else }}{{ $title }}{{ end }}</span>
+  </button>
+  <div id="{{ $id }}" class="oe-collapse__content" {{ if not $isOpen }}hidden{{ end }}>
+    <div class="oe-collapse__inner">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  const root = document.currentScript && document.currentScript.previousElementSibling;
+  if(!root) return;
+  if(root.dataset.init === 'true') return;
+  root.dataset.init = 'true';
+  const btn = root.querySelector('.oe-collapse__toggle');
+  const content = root.querySelector('.oe-collapse__content');
+  const titleSpan = root.querySelector('.oe-collapse__title');
+  if(!btn || !content || !titleSpan) return;
+  const closedLabel = btn.dataset.labelClosed;
+  const openLabel = btn.dataset.labelOpen;
+  function setExpanded(expanded){
+    btn.setAttribute('aria-expanded', String(expanded));
+    btn.classList.toggle('is-open', expanded);
+    titleSpan.textContent = expanded ? openLabel : closedLabel;
+    btn.setAttribute('aria-label', 'Toggle section: ' + (expanded ? openLabel : closedLabel));
+    if(expanded){
+      content.removeAttribute('hidden');
+      const start = content.scrollHeight;
+      content.style.height = '0px';
+      requestAnimationFrame(()=>{
+        content.style.transition = 'height .28s cubic-bezier(.4,0,.2,1)';
+        content.style.height = start + 'px';
+      });
+      setTimeout(()=>{content.style.height='';content.style.transition='';},320);
+    } else {
+      const start = content.scrollHeight;
+      content.style.height = start + 'px';
+      requestAnimationFrame(()=>{
+        content.style.transition = 'height .26s cubic-bezier(.4,0,.2,1)';
+        content.style.height = '0px';
+      });
+      setTimeout(()=>{content.setAttribute('hidden','');content.style.height='';content.style.transition='';},300);
+    }
+  }
+  btn.addEventListener('click', () => {
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    setExpanded(!expanded);
+    root.classList.toggle('is-open', !expanded);
+  });
+})();
+</script>

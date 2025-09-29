@@ -29,6 +29,13 @@
 <link rel="preload" href="{{ $bundle.Permalink }}" as="script" integrity="{{ $bundle.Data.Integrity }}" crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
 {{- with $params.customCSS }}{{- range . }}<link rel="stylesheet" href="{{ relURL . }}">{{- end }}{{- end }}
+{{/* Inline extra component styles (collapse & tooltip) if present */}}
+{{ $collapse := resources.Get "css/collapse.css" }}
+{{ if $collapse }}<link rel="stylesheet" href="{{ $collapse.RelPermalink }}">{{ end }}
+{{ $tooltip := resources.Get "css/tooltip.css" }}
+{{ if $tooltip }}<link rel="stylesheet" href="{{ $tooltip.RelPermalink }}">{{ end }}
+{{ $comments := resources.Get "css/comments.css" }}
+{{ if $comments }}<link rel="stylesheet" href="{{ $comments.RelPermalink }}">{{ end }}
 {{- partial "scripts/google/tag-manager" (dict "noscript" false) }}
 <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
 <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
