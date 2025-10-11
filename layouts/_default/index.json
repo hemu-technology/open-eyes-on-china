@@ -12,6 +12,8 @@
         "id"      .RelPermalink
         "section" .Section
         "tags"    .Params.tags
+        "date"    .Date
+        "summary" .Summary
       ) -}}
       {{- $.Scratch.SetInMap "seen" $link true -}}
     {{- end -}}

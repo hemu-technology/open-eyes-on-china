@@ -1,0 +1,24 @@
+{{- $pages := .Pages -}}
+{{- range $i, $page := $pages }}
+  {
+    "title": {{ $page.Title | jsonify }},
+    "date": {{ $page.Date | jsonify }},
+    "summary": {{ $page.Summary | jsonify }},
+    "url": {{ $page.Permalink | jsonify }},
+    "categories": {{ $page.Params.categories | jsonify }},
+    "tags": {{ $page.Params.tags | jsonify }},
+    "content": {{ $page.Plain | jsonify }}
+  }{{ if lt (add $i 1) (len $pages) }},{{ end }}
+{{- end }}
+{{- $items := slice -}}
+{{- range .Pages -}}
+  {{- $items = $items | append (dict 
+    "title" .Title 
+    "date" .Date 
+    "summary" .Summary 
+    "url" .Permalink 
+    "categories" .Params.categories 
+    "tags" .Params.tags 
+    "content" .Plain ) -}}
+{{- end -}}
+{{ $items | jsonify }}
