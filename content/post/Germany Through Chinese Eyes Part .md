@@ -805,7 +805,7 @@ The {{< tip text="Encompasses episodic violence, forced removals, and population
 {{< comment author="春心木" replyTo="DLLSF">}}
 是政策的吧，不是杀一个印第安人给多少钱多少钱的吗
 {{< translation >}}
-{{English}}
+It's a policy, isn't it? Isn't it about giving a certain amount of money for killing an Indian
 {{< /translation >}}
 {{< /comment >}}
 
