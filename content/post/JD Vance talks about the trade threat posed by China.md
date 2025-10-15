@@ -1,7 +1,7 @@
 +++
 author = "hemu"
 title = "JD Vance talks about the trade threat posed by China"
-date = "2025-10-16"
+date = "2025-10-15"
 summary = """
 The U.S. is a paper tiger — no cards, just hot air, and leaking at the same time. That country bumpkin Vance learned all his bragging from Trump, thinking he’s smart and capable, but he probably doesn’t even know who his dad is. The tariff card? Already busted, and bringing it out again just makes the whole world laugh. Who’s afraid of who? Our ancestors faced U.S. imperialism when we were poor — now we’re strong, still fearless. America can keep playing bully, it’ll only speed up its own decline. People like Vance? Just props on the stage. China has the power to hit back — America better not make us an enemy, or it’s going to lose big!
 """
