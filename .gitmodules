@@ -1,3 +1,6 @@
 [submodule "themes/hugo-clarity"]
 	path = themes/hugo-clarity
 	url = https://github.com/chipzoller/hugo-clarity
+[submodule "android"]
+	path = android
+	url = https://github.com/hemu-technology/open-eyes-on-china-android.git
