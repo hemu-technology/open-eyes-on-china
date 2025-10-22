@@ -1,7 +1,7 @@
 +++
 author = "hemu"
 title = "Sanae Takaichi elected as Japan’s Prime Minister."
-date = "2025-10-21"
+date = "2025-10-22"
 summary = """
 On October 21, Liberal Democratic Party (LDP) leader Sanae Takaichi was elected Japan’s 104th Prime Minister in the first round of the House of Representatives prime ministerial vote. Takaichi secured a majority of the votes, marking a historic moment as the first woman to hold the office in Japan.    
 Her election has drawn attention both domestically and internationally, with observers noting the significance of a female leader in a political landscape long dominated by men. ...
@@ -9,7 +9,7 @@ Her election has drawn attention both domestically and internationally, with obs
 featured = true
 tags = [
     "China",
-    "Japan"
+    "Japan",
     "Sanae Takaichi"
 ]
 categories = [
