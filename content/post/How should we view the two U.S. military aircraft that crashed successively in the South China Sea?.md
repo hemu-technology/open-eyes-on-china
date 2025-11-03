@@ -10,7 +10,7 @@ featured = true
 tags = [
     "China",
     "US",
-    "Sanae Takaichi"
+    "military"
 ]
 categories = [
   "Geopolitics",
